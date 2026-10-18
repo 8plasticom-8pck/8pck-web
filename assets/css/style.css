@@ -322,6 +322,15 @@ table.t td.num{font-family:var(--mono);font-size:12.5px;font-variant-numeric:tab
   .float{display:none}
 }
 
+.docs{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.doc{border:1px solid var(--line);background:#fff;padding:22px;display:block;transition:border-color .18s,transform .18s}
+.doc:hover{border-color:var(--accent);transform:translateY(-2px)}
+.doc .k{font-family:var(--mono);font-size:9px;letter-spacing:.12em;text-transform:uppercase;color:var(--faint)}
+.doc b{display:block;font-size:15px;margin:8px 0 6px;letter-spacing:-.01em}
+.doc p{font-size:12.5px;color:var(--muted);line-height:1.55}
+.doc .go{display:inline-block;margin-top:12px;font-size:11.5px;color:var(--accent)}
+@media (max-width:900px){.docs{grid-template-columns:1fr}}
+
 /* band */
 .band{display:flex;align-items:center;justify-content:space-between;gap:28px;border:1px solid var(--line);padding:32px 34px;margin-top:40px;background:#fff}
 .band h3{font-size:19px;margin-bottom:5px}
