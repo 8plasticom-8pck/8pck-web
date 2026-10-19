@@ -21,7 +21,7 @@
 - Export markets: 40+ countries
 
 ## Certifications on file
-- ISO 9001:2015 — certificate PCC85721Q00018R0S (ProCision Shanghai)
+- ISO 9001:2015 — certificate PCC85724Q01277R1S (ProCision Shanghai), valid to 24 Oct 2027
 - RoHS — verification of compliance, 2011/65/EU + (EU) 2015/863
 - EU 10/2011 + 1935/2004 — overall migration test, Beide laboratory, report B-R201133481 (PE grades)
 - Not held: FDA, REACH SVHC and GRS certificates. PET / PETG declarations are issued per order against the resin supplier's DoC.
@@ -63,7 +63,7 @@
 - Q: Is there a tooling cost? A: No on the 3,000+ moulds we already hold. A new blow mould starts at USD 800 and takes 15–20 days; an injection mould for a cap starts at USD 3,500.
 - Q: How long does production take? A: 25–35 days after sample approval for stock colours. Custom colours and heavy decoration add 5–7 days.
 - Q: Can I get a sample before ordering? A: Yes. Samples from existing moulds are free, freight collect, and leave within 7 days.
-- Q: Which compliance documents do you hold? A: ISO 9001:2015 (certificate PCC85721Q00018R0S), a RoHS verification of compliance, and an EU 10/2011 + 1935/2004 overall migration test on PE grades. PET and PETG declarations are issued per order.
+- Q: Which compliance documents do you hold? A: ISO 9001:2015 (certificate PCC85724Q01277R1S), a RoHS verification of compliance, and an EU 10/2011 + 1935/2004 overall migration test on PE grades. PET and PETG declarations are issued per order.
 - Q: Can you match a specific colour? A: Yes, to a Pantone reference. Colour matching is quoted per colour and the MOQ applies per colour.
 - Q: What decoration can you apply? A: Silkscreen in 1–4 colours, hot stamping, spray coating (matte, gloss or soft-touch) and label application. MOQ is 1,000 pcs for silkscreen and labels, 3,000 pcs for hot stamp and spray.
 - Q: Can you copy a bottle I already have? A: Yes. Send a sample or a drawing — we check it against the 3,000+ moulds on the shelf first, because an existing mould means no tooling cost and no 20-day wait.
