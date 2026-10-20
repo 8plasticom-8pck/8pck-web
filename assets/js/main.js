@@ -53,3 +53,24 @@
     });
   });
 })();
+
+/* --- GA consent banner --- */
+(function () {
+  var el = document.getElementById('ga-consent');
+  if (!el) return;
+  var choice = null;
+  try { choice = localStorage.getItem('ga_consent'); } catch (e) {}
+  if (choice) { el.hidden = true; } else { el.hidden = false; }
+  var yes = document.getElementById('ga-yes');
+  var no = document.getElementById('ga-no');
+  if (yes) yes.addEventListener('click', function () {
+    try { localStorage.setItem('ga_consent', 'yes'); } catch (e) {}
+    if (window.gtag) { gtag('consent', 'update', { 'analytics_storage': 'granted' }); }
+    el.hidden = true;
+    window.dataLayer && window.dataLayer.push({ event: 'consent_accept' });
+  });
+  if (no) no.addEventListener('click', function () {
+    try { localStorage.setItem('ga_consent', 'no'); } catch (e) {}
+    el.hidden = true;
+  });
+})();
