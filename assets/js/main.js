@@ -74,3 +74,21 @@
     el.hidden = true;
   });
 })();
+
+/* --- key events: WhatsApp, quote, form --- */
+(function () {
+  function send(name, params) {
+    try { if (window.gtag) gtag('event', name, params || {}); } catch (e) {}
+  }
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a');
+    if (!a) return;
+    var href = a.getAttribute('href') || '';
+    if (href.indexOf('wa.me') > -1) send('whatsapp_click', { page: location.pathname });
+    else if (href.indexOf('contact.html') > -1) send('quote_click', { page: location.pathname });
+    else if (href.indexOf('/products/') > -1) send('product_click', { page: location.pathname });
+  }, true);
+  if (location.pathname.indexOf('thanks') > -1) {
+    send('generate_lead', { page: location.pathname });
+  }
+})();
