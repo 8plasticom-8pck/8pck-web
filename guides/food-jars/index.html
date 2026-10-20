@@ -11,7 +11,21 @@
 <meta property="og:description" content="A food jar is chosen by the filling line before the shelf: how wide the mouth is decides how fast you can fill, and how you close it decides whether the cu">
 <meta property="og:url" content="https://8pck.com/guides/food-jars/">
 <meta name="theme-color" content="#111111">
-<link rel="stylesheet" href="../../assets/css/style.css?v=791c5696">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V6MFF37TS5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent', 'default', {'analytics_storage': 'denied', 'ad_storage': 'denied'});
+  try {
+    if (localStorage.getItem('ga_consent') === 'yes') {
+      gtag('consent', 'update', {'analytics_storage': 'granted'});
+    }
+  } catch (e) {}
+  gtag('js', new Date());
+  gtag('config', 'G-V6MFF37TS5');
+</script>
+<link rel="stylesheet" href="../../assets/css/style.css?v=e7e0e140">
 <link rel="alternate" type="application/rss+xml" title="8PCK Trends" href="https://8pck.com/feed.xml">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Are your food jars food-contact certified?", "acceptedAnswer": {"@type": "Answer", "text": "The PET grades carry an EU 10/2011 declaration per order; we hold a migration test on PE grades and a RoHS verification. Ask for the document that matches the exact grade you buy."}}, {"@type": "Question", "name": "Can I put jam in a PET jar?", "acceptedAnswer": {"@type": "Answer", "text": "Only if it is filled cold. Hot jam above about 60 °C needs PP, or a heat-set PET we do not offer."}}, {"@type": "Question", "name": "Do you supply the lid with the jar?", "acceptedAnswer": {"@type": "Answer", "text": "Yes — screw caps, induction liners and sifter inserts, matched to the mouth."}}, {"@type": "Question", "name": "Can the jar be square instead of round?", "acceptedAnswer": {"@type": "Answer", "text": "Square footprints stack better and are available in the 500 ml size; round is standard for 250 ml."}}]}</script>
 </head>
@@ -145,6 +159,10 @@
     </div>
   </div>
 </footer>
+<div id="ga-consent" class="consent" hidden>
+  <p>We use Google Analytics to see which pages buyers actually read. No ads, no cross-site tracking.</p>
+  <div><button id="ga-yes" class="btn small">Allow Analytics</button><button id="ga-no" class="ghost small">No thanks</button></div>
+</div>
 <div class="float">
   <a class="q" href="../../contact.html" title="Get a quote">QUOTE</a>
   <a class="wa" href="https://wa.me/8613363879944" title="WhatsApp">✆</a>
