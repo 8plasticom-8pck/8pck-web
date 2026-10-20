@@ -66,6 +66,7 @@
   if (yes) yes.addEventListener('click', function () {
     try { localStorage.setItem('ga_consent', 'yes'); } catch (e) {}
     if (window.gtag) { gtag('consent', 'update', { 'analytics_storage': 'granted' }); }
+    if (typeof loadClarity === 'function') loadClarity();
     el.hidden = true;
     window.dataLayer && window.dataLayer.push({ event: 'consent_accept' });
   });
@@ -92,3 +93,15 @@
     send('generate_lead', { page: location.pathname });
   }
 })();
+
+/* --- Microsoft Clarity (加载受同意控制) --- */
+function loadClarity() {
+  if (window.__clarityLoaded) return;
+  window.__clarityLoaded = true;
+  (function (c, l, a, r, i, t, y) {
+    c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments); };
+    t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+    y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+  })(window, document, "clarity", "script", "z0s12fz7o8");
+}
+try { if (localStorage.getItem('ga_consent') === 'yes') loadClarity(); } catch (e) {}
