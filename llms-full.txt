@@ -1,0 +1,270 @@
+# 8PCK — full page index
+
+## https://8pck.com/about.html
+Title: About — one factory, one contact | 8PCK
+Description: Founded in 2011 in Haojiang District, Shantou. 7,142 m², 120 staff, 20 lines.
+Sections: Founded in 2011 in Haojiang; Joe Joo; Fifteen Years, in Five Lines; Come and See It
+
+## https://8pck.com/contact.html
+Title: Contact — get a quote in 24 hours | 8PCK
+Description: Request a quote for custom plastic bottles. Three fields, reply within 24 hours.
+Sections: Four Questions We Get Every Week
+
+## https://8pck.com/custom.html
+Title: Custom development — new moulds and copies | 8PCK
+Description: Copy an existing bottle or cut a new mould. Tooling from USD 800, 15–20 days, DFM before quotation.
+Sections: Five Stages, Fixed Durations; What a New Mould Actually Costs
+
+## https://8pck.com/factory.html
+Title: Factory — 7,142 m² in Shantou, China | 8PCK
+Description: Inside our bottle factory: 20 lines, 3,000+ moulds, in-house mould shop and QC lab in Haojiang, Shantou.
+Sections: What Is on the Floor; Six Places You Will See on a Video Call; Four Gates, Not One Final Check; What We Can Take On
+
+## https://8pck.com/faq.html
+Title: FAQ — MOQ, tooling, lead times and documents | 8PCK
+Description: Direct answers on minimum order quantity, tooling cost, lead time, samples and the compliance documents we hold.
+
+## https://8pck.com/formats/lipstick-cases/
+Title: Lipstick cases — 12.1 mm standard, 11 mm slim | 8PCK
+Description: A lipstick case is judged in the hand before it is opened. The mechanism is standard; the finish and the weight are what separate a mass line from a premiu
+Sections: The Mechanism Is Not the Differentiator; Finishes and What They Cost in MOQ; What to Send; Questions We Get on This Format
+
+## https://8pck.com/formats/soft-tubes/
+Title: Soft tubes — 30, 50, 75, 100, 150, 200, 300 ml | 8PCK
+Description: A tube is the cheapest way to put a cream, gel or paste on a shelf — and the format most often specified without deciding whether the product needs an EVOH
+Sections: When a Barrier Layer Earns Its Cost; Print Before Filling, Always; What to Send With the Brief; Questions We Get on This Format
+
+## https://8pck.com/formats/straw-fibre-bottles/
+Title: Straw-fibre bottles — 100, 200, 250, 300, 500 ml | 8PCK
+Description: Wheat-straw HDPE is not biodegradable. It is HDPE with 20–30 % agricultural fibre, which changes the colour, the surface and the story — not the recycling
+Sections: What It Is, in One Paragraph; Where the Fibre Shows; Claims That Survive an Audit; Questions We Get on This Format
+
+## https://8pck.com/formats.html
+Title: Tubes, Lipstick and Straw-Fibre Bottles — 8PCK
+Description: Extruded tubes, lipstick cases and wheat-straw HDPE bottles from the same Shantou plant. Ranges, MOQ and decoration.
+Sections: What Each Line Can Do; Ordering Across Formats
+
+## https://8pck.com/guides/airless-bottles/
+Title: Airless Bottles — specs, MOQ and documents | 8PCK
+Description: An airless bottle has no dip tube. A piston follows the product down, so the formula meets air only at the nozzle. That protects actives — and costs more t
+Sections: How an Airless Pack Actually Works; When Airless Is Worth It; Airless vs Dropper vs Standard Pump; What to Specify Before Quoting; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/body-wash-bottles/
+Title: Body Wash Bottles — specs, MOQ and documents | 8PCK
+Description: Body wash is bought in the shower, one-handed, with wet hands. That single fact decides the bottle: the closure, the grip and the label, in that order — th
+Sections: The Closure Is the Product; 500 ml Is a Habit, Not a Standard; What a Wet Bathroom Does to a Label; PET or HDPE for Body Wash; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/bottle-decoration/
+Title: Bottle Decoration: Silkscreen, Hot Stamp, Spray Coat | 8PCK
+Description: Decoration is where a commodity bottle becomes a brand — and where the minimum order quietly triples. Four processes, what each costs in MOQ and lead time,
+Sections: Silkscreen: the Workhorse; Hot Stamp and Spray Coat: the Premium Two; Labels Are Not a Downgrade; Artwork: What We Need to Quote; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/bottle-neck-finishes/
+Title: Bottle Neck Finishes — specs, MOQ and documents | 8PCK
+Description: The neck finish decides which pump, cap or sprayer fits your bottle. It is also the number buyers most often leave out of a brief — and the reason a contai
+Sections: What the Two Numbers Mean; Why the Same Neck From Two Suppliers May Not Fit; Matching a Closure to a Product; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/choose-plastic-bottle-manufacturer-china/
+Title: How to Choose a Plastic Bottle Manufacturer in China | 8PCK
+Description: Most buyers shortlist on price and a website. The factories that ship on time are separated by seven questions that take ten minutes to ask — and almost no
+Sections: 1. Is It a Factory or a Trading Company; 2. Who Owns the Mould; 3. Does the Pump Come From the Same Building; 4. Can They Verify the Certificate; 5. What Does the Sample Prove; 6. What the Quote Must Contain; 7. Red Flags Worth Walking Away From; Questions We Get on This
+
+## https://8pck.com/guides/cosmetic-jars/
+Title: Cosmetic Jars — specs, MOQ and documents | 8PCK
+Description: A “30 g jar” is named after the fill weight, not the volume — which is why two 30 g jars can look completely different on shelf. This page covers fill weig
+Sections: Single Wall vs Double Wall; Why the Cap Decides the Feel; Threads, Refills and the EU Refill Push; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/custom-bottle-moq-and-tooling/
+Title: MOQ and Tooling — specs, MOQ and documents | 8PCK
+Description: Two numbers decide whether a custom bottle project is viable: the minimum order quantity and the tooling cost. Both are smaller than most buyers expect, pr
+Sections: When You Do Not Need a Mould; When a New Mould Is Worth It; The Real Cost of a Small First Order; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/dropper-bottles/
+Title: Dropper Bottles — specs, MOQ and documents | 8PCK
+Description: A dropper bottle is a bottle, a collar and a pipette that have to seal at three points. The 18/410 neck is the standard for serums and oils — the rest is a
+Sections: Glass vs Plastic; Why the Collar Matters More Than the Bottle; Dose per Drop Is a Specification, Not a Guess; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/food-jars/
+Title: Food Jars — specs, MOQ and documents | 8PCK
+Description: A food jar is chosen by the filling line before the shelf: how wide the mouth is decides how fast you can fill, and how you close it decides whether the cu
+Sections: Wide Mouth vs Narrow Mouth; Hot Fill and Why PET Has a Ceiling; Tamper Evidence That Actually Gets Used; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/hand-soap-bottles/
+Title: Hand Soap Bottles — specs, MOQ and documents | 8PCK
+Description: Hand soap is the one bottle a household buys again without thinking. That makes it the most repeat-ordered SKU in the category — and the one where a pump t
+Sections: Lotion Pump vs Foaming Pump; 250 ml Is a Repeat Purchase, Not a Premium One; What Makes a Pump Fail; Labels in a Wet Bathroom; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/
+Title: Guides — bottle sizes, neck finishes, MOQ and tooling | 8PCK
+Description: Practical guides for buyers: pump bottles, neck finishes, MOQ and tooling costs, explained with real numbers.
+
+## https://8pck.com/guides/lotion-bottles/
+Title: Lotion Bottles — specs, MOQ and documents | 8PCK
+Description: Body lotion is judged twice: on shelf by the bottle, in the hand by the pump. At 300 ml the two are almost the same decision — the wall thickness and the p
+Sections: Dose per Stroke Is a Product Decision; Why 300 ml Feels Premium and 500 ml Feels Economical; PET or HDPE for Lotion; Decoration That Survives a Bathroom Shelf; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/pet-bottles/
+Title: PET Bottles — specs, MOQ and documents | 8PCK
+Description: PET is the default clear plastic bottle for cosmetics, personal care and food. It is also the material most often specified without a grade — which is wher
+Sections: PET vs HDPE vs PETG; What “rPET” Means on a Purchase Order; Food Contact and the Documents That Matter; When PET Is the Wrong Choice; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/plastic-pump-bottles/
+Title: Plastic Pump Bottles — specs, MOQ and documents | 8PCK
+Description: A pump bottle is three parts sold as one product — bottle, neck finish and pump. Get the neck wrong and the pump leaks; get the wall thickness wrong and th
+Sections: What the Neck Number Actually Means; Which Size Sells in Which Market; Wall Thickness and Why It Matters With a Pump; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/shampoo-bottles/
+Title: Shampoo Bottles — specs, MOQ and documents | 8PCK
+Description: Shampoo is the highest-volume cosmetic bottle in the world, and almost every complaint about it starts at the same place: the pump seats on a neck that was
+Sections: 500 ml Is the Volume, the Neck Is the Decision; PET or HDPE; What the Filling Line Needs From You; Decoration That Survives a Bathroom; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/
+Title: 8PCK — Custom plastic bottles from CXWN, Shantou
+Description: Custom PET, HDPE and PETG bottles made by CXWN in Shantou, China. MOQ 1,000 pcs, samples in 7 days, EU 10/2011 migration test and RoHS reports on file.
+Sections: Tubes, Lipstick and Straw-Fibre Bottles; Twelve Moulds, Three Application Groups; Six Steps, Six Checkpoints; Every Stage Has a Number of Days; Documents, Not Badges; What Left the Factory This Year; Three Kinds of Buyer, One Factory; What Buyers Ask Before the First Order
+
+## https://8pck.com/news/berlin-packaging-premi-consolidation/
+Title: Berlin Packaging Buys Premi | 8PCK
+Description: Another distributor acquisition in beauty packaging. For brands buying 5,000–50,000 pieces a year, the practical question is who still answers the phone.
+
+## https://8pck.com/news/california-epr-packaging-weight/
+Title: California EPR Fees Are Landing on Packaging Weight | 8PCK
+Description: Plastics News reports that plastics face high fees under California's EPR rules, with exemptions possible for recyclable formats. For a bottle buyer, the fee is a function of material and grams — both are in your control.
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
+
+## https://8pck.com/news/enzymatic-recycling-evidence/
+Title: Enzymatic Recycling of PE and PP Lacks Evidence | 8PCK
+Description: Researchers say the evidence for enzymatic recycling of polyethylene and polypropylene is thin. For a bottle buyer, the practical lesson is simpler: design for the recycling stream that exists today.
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
+
+## https://8pck.com/news/eu-bio-based-plastics-consultation/
+Title: The EU Is Consulting on Bio-Based Plastics | 8PCK
+Description: The European Commission has opened a consultation on bio-based plastic packaging. For buyers, the useful question is not “is it bio-based” but “which claim can I prove”.
+
+## https://8pck.com/news/
+Title: Packaging trends — what changes a purchase order | 8PCK
+Description: A daily note on packaging regulation, materials and supply chain news, read from a buyer's side.
+Sections: PFAS Claims Are Moving Down the Supply Chain. What Should Bottle Buyers Ask For?; Big Beauty Brands Are Buying Stock Packaging. Here Is What That Means for Smaller Ones; Berlin Packaging Buys Premi: Consolidation Is Reaching the Mid-Market; “Low MOQ” Is Now a Marketing Claim. Here Is What It Actually Costs; California EPR Fees Are Landing on Packaging Weight. What It Changes in a Bottle Spec; Enzymatic Recycling of PE and PP Lacks Evidence. What That Means for a Packaging Claim; Mono-Material Packaging Is Beauty's Next Shift. What It Changes in a Bottle Spec; The EU Is Consulting on Bio-Based Plastics. What It Means for a Bottle Claim
+
+## https://8pck.com/news/low-moq-expectations/
+Title: “Low MOQ” Is Now a Marketing Claim | 8PCK
+Description: Beauty Packaging writes that low MOQs are no longer a differentiator. The number on the website and the number on the quotation are rarely the same thing.
+
+## https://8pck.com/news/mono-material-packaging-beauty/
+Title: Mono-Material Packaging Is Beauty's Next Shift | 8PCK
+Description: Beauty Packaging reports that mono-material packs are moving from pilot to shelf. For a bottle buyer it is a short list of changes: the cap, the label, the pump — not the bottle itself.
+
+## https://8pck.com/news/pfas-claims-supply-chain/
+Title: PFAS Claims Are Moving Down the Supply Chain | 8PCK
+Description: A US water utility is suing two packaging manufacturers over alleged PFAS contamination. For buyers, the lesson is not the lawsuit — it is the paperwork you will be asked for next year.
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
+
+## https://8pck.com/news/stock-packaging-beauty-brands/
+Title: Big Beauty Brands Are Buying Stock Packaging | 8PCK
+Description: Cosmetics Business reports that major beauty names are moving to stock packs to cut lead times. For smaller brands, the same shelves are now a competitive advantage — if you know how to ask.
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
+
+## https://8pck.com/products/airless/30ml-airless-bottle/
+Title: 30 ml airless bottle — 30 ml, Airless | 8PCK
+Description: 30 ml airless bottle: PETG, Airless neck, MOQ 1,000 pcs, lead time 30–40 days. EU 10/2011 migration test on file.
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; The Same Mould, as It Comes Off the Line
+
+## https://8pck.com/products/airless/50ml-airless-bottle/
+Title: 50 ml airless bottle — 50 ml, Airless | 8PCK
+Description: 50 ml airless bottle: PETG, Airless neck, MOQ 1,000 pcs, lead time 30–40 days. EU 10/2011 migration test on file.
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; The Same Mould, as It Comes Off the Line
+
+## https://8pck.com/products/airless/
+Title: Airless — 30–50 ml | 8PCK
+Description: Airless: Airless bottles for serum, foundation and sun care. Pump and base supplied as a set.
+Sections: How an Airless Pack Works; What to Specify Before Quoting
+
+## https://8pck.com/products/bags/
+Title: Food bags — Stand-up · flat · 3-side | 8PCK
+Description: Food bags: Printed flexible packaging for dry food. Quoted per artwork, MOQ 10,000 pcs.
+Sections: When a Pouch Beats a Bottle; Material and MOQ
+
+## https://8pck.com/products/bottles/100ml-pet-round-bottle/
+Title: 100 ml PET round bottle — 100 ml, 20/410 | 8PCK
+Description: 100 ml PET round bottle: PET, 20/410 neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; The Same Mould, as It Comes Off the Line
+
+## https://8pck.com/products/bottles/200ml-flat-bottle/
+Title: 200 ml flat bottle — 200 ml, 24/410 | 8PCK
+Description: 200 ml flat bottle: HDPE, 24/410 neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; The Same Mould, as It Comes Off the Line
+
+## https://8pck.com/products/bottles/250ml-pet-pump-bottle/
+Title: 250 ml PET pump bottle — 250 ml, 24/410 | 8PCK
+Description: 250 ml PET pump bottle: PET (food grade), 24/410 neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; The Same Mould, as It Comes Off the Line
+
+## https://8pck.com/products/bottles/300ml-pet-pump-bottle/
+Title: 300 ml PET pump bottle — 300 ml, 24/410 | 8PCK
+Description: 300 ml PET pump bottle: PET (food grade), 24/410 neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; The Same Mould, as It Comes Off the Line
+
+## https://8pck.com/products/bottles/30ml-pet-dropper-bottle/
+Title: 30 ml PET dropper bottle — 30 ml, 18/410 | 8PCK
+Description: 30 ml PET dropper bottle: PET, 18/410 neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; The Same Mould, as It Comes Off the Line
+
+## https://8pck.com/products/bottles/500ml-pet-pump-bottle/
+Title: 500 ml PET pump bottle — 500 ml, 24/410 | 8PCK
+Description: 500 ml PET pump bottle: PET (food grade), 24/410 neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; The Same Mould, as It Comes Off the Line
+
+## https://8pck.com/products/bottles/50ml-travel-bottle/
+Title: 50 ml travel bottle — 50 ml, 20/410 | 8PCK
+Description: 50 ml travel bottle: PET, 20/410 neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; The Same Mould, as It Comes Off the Line
+
+## https://8pck.com/products/bottles/750ml-shampoo-bottle/
+Title: 750 ml shampoo bottle — 750 ml, 28/410 | 8PCK
+Description: 750 ml shampoo bottle: HDPE, 28/410 neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; The Same Mould, as It Comes Off the Line
+
+## https://8pck.com/products/bottles/
+Title: Bottles — PET · HDPE · PETG | 8PCK
+Description: Bottles: 50–1,000 ml, 18–38 mm necks. Eight stock moulds, ready for decoration.
+Sections: What We Mould, and in Which Material; The Neck Is the Specification That Matters; Decoration, and What It Costs in MOQ
+
+## https://8pck.com/products/closures/
+Title: Closures — Pumps · sprayers · caps | 8PCK
+Description: Closures: 24/410 lotion pumps, mist sprayers, flip-top and disc-top caps. Matched to our bottles.
+Sections: Pumps, Caps and Sprayers Are Tested on the Bottle; What to Send When Ordering Closures Only
+
+## https://8pck.com/products/
+Title: Products — bottles, jars, airless and closures | 8PCK
+Description: Twelve stock moulds for plastic bottles, jars and airless packs. MOQ 1,000 pcs, no tooling cost, 25–35 days.
+Sections: Bottles; Jars; Airless; Closures; Food Bags
+
+## https://8pck.com/products/jars/250ml-pet-food-jar/
+Title: 250 ml PET food jar — 250 ml, 63 mm | 8PCK
+Description: 250 ml PET food jar: PET (food grade), 63 mm neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; The Same Mould, as It Comes Off the Line
+
+## https://8pck.com/products/jars/500ml-pet-food-jar/
+Title: 500 ml PET food jar — 500 ml, 70 mm | 8PCK
+Description: 500 ml PET food jar: PET (food grade), 70 mm neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; The Same Mould, as It Comes Off the Line
+
+## https://8pck.com/products/jars/
+Title: Jars — 250–500 ml | 8PCK
+Description: Jars: Wide-mouth PET jars for dry food, spices and supplements. Tamper-evident options.
+Sections: Cosmetic Jars and Food Jars Are Different Products; Sealing, and Where Jars Fail; MOQ and Colour
+
+## https://8pck.com/quality.html
+Title: Quality & compliance — ISO 9001, EU 10/2011, RoHS | 8PCK
+Description: Certificates, testing and rPET declarations on file. Six checks per production run.
+Sections: The Entity Behind This Site; On File; Six Checks on Every Run; rPET and the EU Packaging Rules
+
+## https://8pck.com/resources.html
+Title: Resources — catalogue, certificates, drawings | 8PCK
+Description: Product catalogue, certificate pack, specification sheets and packing data, sent by email.
+Sections: Documents That Need a Name on Them
+
+## https://8pck.com/verify.html
+Title: Verify 8PCK — legal entity and certificates | 8PCK
+Description: How to verify 8PCK independently: legal name, Unified Social Credit Code, ISO and RoHS certificate numbers, factory address and payment terms.
+Sections: 1. Check the Legal Entity; 2. Check the Certificates; 3. Check the Factory; 4. Check the Payment Terms; 5. What We Do Not Have (Yet)
