@@ -177,12 +177,12 @@ Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; Wh
 ## https://8pck.com/products/airless/
 Title: Airless — 30–50 ml | 8PCK
 Description: Airless: Airless bottles for serum, foundation and sun care. Pump and base supplied as a set.
-Sections: How an Airless Pack Works; What to Specify Before Quoting
+Sections: How an Airless Pack Works; What to Specify Before Quoting; Airless vs Dropper vs Standard Pump; Decoration Changes the Price More Than the Bottle
 
 ## https://8pck.com/products/bags/
 Title: Food bags — Stand-up · flat · 3-side | 8PCK
 Description: Food bags: Printed flexible packaging for dry food. Quoted per artwork, MOQ 10,000 pcs.
-Sections: When a Pouch Beats a Bottle; Material and MOQ
+Sections: When a Pouch Beats a Bottle; Material and MOQ; Structures and When Each Is Used; Why the MOQ Is 10,000, Not 1,000; Filling and Sealing
 
 ## https://8pck.com/products/bottles/100ml-pet-round-bottle/
 Title: 100 ml PET round bottle — 100 ml, 20/410 | 8PCK
@@ -227,12 +227,12 @@ Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; Wh
 ## https://8pck.com/products/bottles/
 Title: Bottles — PET · HDPE · PETG | 8PCK
 Description: Bottles: 50–1,000 ml, 18–38 mm necks. Eight stock moulds, ready for decoration.
-Sections: What We Mould, and in Which Material; The Neck Is the Specification That Matters; Decoration, and What It Costs in MOQ
+Sections: What We Mould, and in Which Material; The Neck Is the Specification That Matters; Decoration, and What It Costs in MOQ; Size Chart: What Fits Which Market; How the Quote Is Built
 
 ## https://8pck.com/products/closures/
 Title: Closures — Pumps · sprayers · caps | 8PCK
 Description: Closures: 24/410 lotion pumps, mist sprayers, flip-top and disc-top caps. Matched to our bottles.
-Sections: Pumps, Caps and Sprayers Are Tested on the Bottle; What to Send When Ordering Closures Only
+Sections: Pumps, Caps and Sprayers Are Tested on the Bottle; What to Send When Ordering Closures Only; Why Closures Leak, in Order of Frequency; Matching Table by Neck; Lead Time and Packing
 
 ## https://8pck.com/products/
 Title: Products — bottles, jars, airless and closures | 8PCK
@@ -252,7 +252,7 @@ Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; Wh
 ## https://8pck.com/products/jars/
 Title: Jars — 250–500 ml | 8PCK
 Description: Jars: Wide-mouth PET jars for dry food, spices and supplements. Tamper-evident options.
-Sections: Cosmetic Jars and Food Jars Are Different Products; Sealing, and Where Jars Fail; MOQ and Colour
+Sections: Cosmetic Jars and Food Jars Are Different Products; Sealing, and Where Jars Fail; MOQ and Colour; Single Wall, Double Wall, and What the Rim Does; Sealing Methods Compared; Decoration and Packing
 
 ## https://8pck.com/quality.html
 Title: Quality & compliance — ISO 9001, EU 10/2011, RoHS | 8PCK
