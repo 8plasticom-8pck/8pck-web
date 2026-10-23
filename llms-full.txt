@@ -113,6 +113,11 @@ Title: Plastic Pump Bottles — specs, MOQ and documents | 8PCK
 Description: A pump bottle is three parts sold as one product — bottle, neck finish and pump. Get the neck wrong and the pump leaks; get the wall thickness wrong and th
 Sections: What the Neck Number Actually Means; Which Size Sells in Which Market; Wall Thickness and Why It Matters With a Pump; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
+## https://8pck.com/guides/serum-bottles/
+Title: Serum Bottles: 30 ml, Dropper or Airless | 8PCK
+Description: A serum is the most expensive thing most brands put in a bottle, and the smallest. At 30 ml the pack decision is almost entirely about how much air the for
+Sections: Dropper: the Default, and Its Cost; Airless: Protection, at a Price; Glass or Plastic; What to Send With the Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/shampoo-bottles/
 Title: Shampoo Bottles — specs, MOQ and documents | 8PCK
 Description: Shampoo is the highest-volume cosmetic bottle in the world, and almost every complaint about it starts at the same place: the pump seats on a neck that was
@@ -140,6 +145,11 @@ Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
 ## https://8pck.com/news/eu-bio-based-plastics-consultation/
 Title: The EU Is Consulting on Bio-Based Plastics | 8PCK
 Description: The European Commission has opened a consultation on bio-based plastic packaging. For buyers, the useful question is not “is it bio-based” but “which claim can I prove”.
+
+## https://8pck.com/news/eu-recycling-rate-42-percent/
+Title: The EU Recycled 42.4% of Plastic Packaging in 2024 | 8PCK
+Description: Plastics News reports the EU hit a 42.4% recycling rate for plastic packaging in 2024. For a bottle buyer, the number is less important than the gap between the headline rate and the rPET actually available.
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
 
 ## https://8pck.com/news/
 Title: Packaging trends — what changes a purchase order | 8PCK
