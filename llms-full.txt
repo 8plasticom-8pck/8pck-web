@@ -123,6 +123,11 @@ Title: Shampoo Bottles — specs, MOQ and documents | 8PCK
 Description: Shampoo is the highest-volume cosmetic bottle in the world, and almost every complaint about it starts at the same place: the pump seats on a neck that was
 Sections: 500 ml Is the Volume, the Neck Is the Decision; PET or HDPE; What the Filling Line Needs From You; Decoration That Survives a Bathroom; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
+## https://8pck.com/guides/toner-bottles/
+Title: Toner bottles — specs, MOQ and documents | 8PCK
+Description: Toner is the one skincare product sold by volume rather than by dose. That makes the bottle a shelf-width decision before it is a design decision — and 200
+Sections: Why Flat Beats Round on Shelf; Closures for a Water-Thin Liquid; PET or PETG; Decoration on a Flat Face; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/
 Title: 8PCK — Custom plastic bottles from CXWN, Shantou
 Description: Custom PET, HDPE and PETG bottles made by CXWN in Shantou, China. MOQ 1,000 pcs, samples in 7 days, EU 10/2011 migration test and RoHS reports on file.
@@ -131,6 +136,11 @@ Sections: Tubes, Lipstick and Straw-Fibre Bottles; Twelve Moulds, Three Applicat
 ## https://8pck.com/news/berlin-packaging-premi-consolidation/
 Title: Berlin Packaging Buys Premi | 8PCK
 Description: Another distributor acquisition in beauty packaging. For brands buying 5,000–50,000 pieces a year, the practical question is who still answers the phone.
+
+## https://8pck.com/news/black-plastic-bans-carbon-black/
+Title: Black Plastic Bans Are Spreading | 8PCK
+Description: Plastics News reports bans on black plastic takeout containers. The problem is not the colour — it is carbon black pigment, which sorting equipment cannot see. Black cosmetic bottles face the same issue.
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
 
 ## https://8pck.com/news/california-epr-packaging-weight/
 Title: California EPR Fees Are Landing on Packaging Weight | 8PCK
