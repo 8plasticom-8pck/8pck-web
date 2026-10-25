@@ -53,6 +53,17 @@ b,strong{font-weight:600}
   padding:15px 24px;font-size:13.5px;font-weight:600;line-height:1;letter-spacing:.005em;cursor:pointer;
   transition:background .18s,border-color .18s,color .18s,transform .18s}
 .btn:hover{background:var(--accent-dark);border-color:var(--accent-dark);transform:translateY(-1px)}
+
+/* 播放按钮：脉冲光环（纯 CSS，尊重 reduced-motion） */
+.btn-play{position:relative;overflow:visible}
+.btn-play .pico{display:inline-flex;align-items:center;justify-content:center;width:20px;height:20px;border-radius:50%;
+  background:rgba(255,255,255,.22);font-size:9px;line-height:1;padding-left:1px}
+.btn-play::after{content:"";position:absolute;inset:0;border-radius:inherit;border:2px solid var(--accent);
+  animation:pulse 2.4s ease-out infinite;pointer-events:none}
+@keyframes pulse{0%{opacity:.55;transform:scale(1)}70%{opacity:0;transform:scale(1.09)}100%{opacity:0;transform:scale(1.09)}}
+.btn-play:hover::after{animation-play-state:paused;opacity:0}
+@media (prefers-reduced-motion:reduce){.btn-play::after{animation:none}}
+
 .btn .ar{transition:transform .18s}
 .btn:hover .ar{transform:translateX(3px)}
 .btn.ghost{background:transparent;color:var(--ink);border-color:var(--ink)}
