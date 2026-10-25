@@ -5,6 +5,25 @@ Title: About — one factory, one contact | 8PCK
 Description: Founded in 2011 in Haojiang District, Shantou. 7,142 m², 120 staff, 20 lines.
 Sections: Founded in 2011 in Haojiang; Joe Joo; Fifteen Years, in Five Lines; Come and See It
 
+## https://8pck.com/answers/
+Title: Answers — MOQ, price and lead time for custom bottles | 8PCK
+Description: Direct answers to the three questions buyers ask first: minimum order quantity, cost per unit, and production lead time.
+
+## https://8pck.com/answers/minimum-order-quantity/
+Title: What is the MOQ for custom plastic bottles? | 8PCK
+Description: 1,000 pcs per colour on an existing mould. A new bottle mould costs about USD 800 and takes 15–20 days; spray coating and metallising start at 3,000 pcs; s
+Sections: The Number by Product Type; What Happens Below the MOQ; Tooling, if the Shape Is New; Why the MOQ Is per Colour; Frequently Asked; Related
+
+## https://8pck.com/answers/plastic-bottle-cost/
+Title: How much does a custom plastic bottle cost? | 8PCK
+Description: At 10,000 pcs, a 500 ml PET bottle at 28 g with a lotion pump typically lands around USD 0.15–0.35 per unit FOB Shantou. The pump can be 40–60 % of that; r
+Sections: The Four Things That Set the Price; Why the Pump Matters More Than the Bottle; What Changes the Price at the MOQ Boundary; How to Get a Number You Can Compare; Frequently Asked; Related
+
+## https://8pck.com/answers/production-lead-time/
+Title: What is the lead time for custom plastic bottles from China? | 8PCK
+Description: Samples in 7 days from a stock mould; production 25–35 days after sample approval; add 15–20 days if new tooling is needed. Sea freight adds about 30–35 da
+Sections: The Timeline, Step by Step; What Actually Delays an Order; Shipping After Production; How to Plan a Launch Date; Frequently Asked; Related
+
 ## https://8pck.com/contact.html
 Title: Contact — get a quote in 24 hours | 8PCK
 Description: Request a quote for custom plastic bottles. Three fields, reply within 24 hours.
