@@ -113,6 +113,11 @@ Title: Plastic Pump Bottles — specs, MOQ and documents | 8PCK
 Description: A pump bottle is three parts sold as one product — bottle, neck finish and pump. Get the neck wrong and the pump leaks; get the wall thickness wrong and th
 Sections: What the Neck Number Actually Means; Which Size Sells in Which Market; Wall Thickness and Why It Matters With a Pump; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
+## https://8pck.com/guides/sanitizer-bottles/
+Title: Sanitizer bottles — specs, MOQ and documents | 8PCK
+Description: Hand sanitizer is the one product where the pack has to work one-handed, in public, with sticky hands. The bottle is the easy part; the pump is where the d
+Sections: Gel Uses a Pump; Liquid Uses a Sprayer; Alcohol Content Decides the Material; Pocket Size: 50 and 100 ml; Labels and the Sticky-Hands Problem; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/serum-bottles/
 Title: Serum Bottles: 30 ml, Dropper or Airless | 8PCK
 Description: A serum is the most expensive thing most brands put in a bottle, and the smallest. At 30 ml the pack decision is almost entirely about how much air the for
@@ -140,6 +145,11 @@ Description: Another distributor acquisition in beauty packaging. For brands buy
 ## https://8pck.com/news/black-plastic-bans-carbon-black/
 Title: Black Plastic Bans Are Spreading | 8PCK
 Description: Plastics News reports bans on black plastic takeout containers. The problem is not the colour — it is carbon black pigment, which sorting equipment cannot see. Black cosmetic bottles face the same issue.
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
+
+## https://8pck.com/news/brussels-recycled-plastic-claims/
+Title: Brussels Is Asking Coca-Cola and Nestlé to Prove | 8PCK
+Description: PlusNews reports the European Commission is demanding clearer information on recycled plastic claims from major FMCG groups. The same question will reach every packaging supplier in the chain.
 Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
 
 ## https://8pck.com/news/california-epr-packaging-weight/
