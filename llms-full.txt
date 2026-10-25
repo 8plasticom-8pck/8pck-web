@@ -260,14 +260,19 @@ Description: Bottles: 50–1,000 ml, 18–38 mm necks. Eight stock moulds, ready
 Sections: What We Mould, and in Which Material; The Neck Is the Specification That Matters; Decoration, and What It Costs in MOQ; Size Chart: What Fits Which Market; How the Quote Is Built
 
 ## https://8pck.com/products/closures/
-Title: Closures — Pumps · sprayers · caps | 8PCK
-Description: Closures: 24/410 lotion pumps, mist sprayers, flip-top and disc-top caps. Matched to our bottles.
+Title: Bottle Caps & Closures — Pumps, Caps, Sprayers | 8PCK
+Description: Bottle Caps & Closures: 24/410 lotion pumps, mist sprayers, flip-top and disc-top caps. Matched to our bottles.
 Sections: Pumps, Caps and Sprayers Are Tested on the Bottle; What to Send When Ordering Closures Only; Why Closures Leak, in Order of Frequency; Matching Table by Neck; Lead Time and Packing
+
+## https://8pck.com/products/food-bottles/
+Title: Juice & Sauce Bottles — PET & HDPE | 8PCK
+Description: Food Bottles: 150–1,000 ml juice and sauce bottles in PET and HDPE, with declarations for food contact.
+Sections: Cold Fill and Hot Fill Are Different Bottles; Necks, Orifices and Closures; Why Food Bottles Cost More Than Cosmetic Bottles; Frequently Asked
 
 ## https://8pck.com/products/
 Title: Products — bottles, jars, airless and closures | 8PCK
 Description: Twelve stock moulds for plastic bottles, jars and airless packs. MOQ 1,000 pcs, no tooling cost, 25–35 days.
-Sections: Bottles; Jars; Airless; Closures; Food Bags
+Sections: Bottles; Jars; Airless; Bottle Caps & Closures; Food Bags; Spray Bottles; Squeeze Bottles; Pharma Bottles
 
 ## https://8pck.com/products/jars/250ml-pet-food-jar/
 Title: 250 ml PET food jar — 250 ml, 63 mm | 8PCK
@@ -283,6 +288,31 @@ Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; Wh
 Title: Jars — 250–500 ml | 8PCK
 Description: Jars: Wide-mouth PET jars for dry food, spices and supplements. Tamper-evident options.
 Sections: Cosmetic Jars and Food Jars Are Different Products; Sealing, and Where Jars Fail; MOQ and Colour; Single Wall, Double Wall, and What the Rim Does; Sealing Methods Compared; Decoration and Packing
+
+## https://8pck.com/products/jugs/
+Title: Plastic Jugs — 1 Gallon, Half-Gallon & 5 L | 8PCK
+Description: Jugs & Gallon Bottles: 1 gallon, half-gallon, detergent and 5 L jerry cans in HDPE, blow-moulded with a handle.
+Sections: Handles Change the Mould; What Buyers Get Wrong; Decorating a Jug; Frequently Asked
+
+## https://8pck.com/products/perfume-bottles/
+Title: Perfume Bottles — Plastic Atomizers, 2–50 ml | 8PCK
+Description: Perfume Bottles: 2–50 ml plastic atomizers for travel, testers and refill formats — crimp or screw pump.
+Sections: Plastic Atomizers, Honestly Described; Crimp or Screw; What to Send for a Quote; Frequently Asked
+
+## https://8pck.com/products/pharma-bottles/
+Title: Pill Bottles — HDPE, Prescription & Supplement | 8PCK
+Description: Pharma Bottles: 30–500 ml pill, prescription and supplement bottles, with child-resistant closures tested on the pack.
+Sections: What We Supply, and What We Do Not; Child-Resistant Closures; Colour and Light Protection; Frequently Asked
+
+## https://8pck.com/products/spray-bottles/
+Title: Spray Bottles — Trigger, Mist & Foam Sprayers | 8PCK
+Description: Spray Bottles: 100–1,000 ml in PET and HDPE, with trigger, mist and foam sprayers tested on the bottle.
+Sections: Trigger, Mist and Foam: Three Different Products; What Decides the Cost; Testing Before It Ships; Frequently Asked
+
+## https://8pck.com/products/squeeze-bottles/
+Title: Squeeze Bottles — LDPE & HDPE, 30–500 ml | 8PCK
+Description: Squeeze Bottles: 30–500 ml soft-wall and firm-wall squeeze bottles for sauces, gels and cleansers.
+Sections: Soft Wall or Firm Wall; Necks and Dispensing; MOQ and Colour; Frequently Asked
 
 ## https://8pck.com/quality.html
 Title: Quality & compliance — ISO 9001, EU 10/2011, RoHS | 8PCK
