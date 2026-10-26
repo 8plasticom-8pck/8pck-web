@@ -71,6 +71,43 @@
 - Toner bottles — https://8pck.com/guides/toner-bottles/ — covers: toner bottle, 200ml toner bottle, facial toner packaging, flat bottle cosmetic, toner bottle supplier. Toner is the one skincare product sold by volume rather than by dose. That makes the bottle a shelf-width decision before it is a 
 - Sanitizer bottles — https://8pck.com/guides/sanitizer-bottles/ — covers: sanitizer bottle, 100ml sanitizer bottle, gel bottle, hand sanitizer packaging, sanitizer bottle supplier. Hand sanitizer is the one product where the pack has to work one-handed, in public, with sticky hands. The bottle is the easy part
 
+## Categories
+- Bottles — 50–1,000 ml, 18–38 mm necks. Eight stock moulds, ready for decoration. — https://8pck.com/products/bottles/
+- Jars — Wide-mouth PET jars for dry food, spices and supplements. Tamper-evident options. — https://8pck.com/products/jars/
+- Airless — Airless bottles for serum, foundation and sun care. Pump and base supplied as a set. — https://8pck.com/products/airless/
+- Bottle Caps & Closures — 24/410 lotion pumps, mist sprayers, flip-top and disc-top caps. Matched to our bottles. — https://8pck.com/products/closures/
+- Food bags — Printed flexible packaging for dry food. Quoted per artwork, MOQ 10,000 pcs. — https://8pck.com/products/bags/
+- Spray Bottles — 100–1,000 ml in PET and HDPE, with trigger, mist and foam sprayers tested on the bottle. — https://8pck.com/products/spray-bottles/
+- Squeeze Bottles — 30–500 ml soft-wall and firm-wall squeeze bottles for sauces, gels and cleansers. — https://8pck.com/products/squeeze-bottles/
+- Pharma Bottles — 30–500 ml pill, prescription and supplement bottles, with child-resistant closures tested on the pack. — https://8pck.com/products/pharma-bottles/
+- Food Bottles — 150–1,000 ml juice and sauce bottles in PET and HDPE, with declarations for food contact. — https://8pck.com/products/food-bottles/
+- Jugs & Gallon Bottles — 1 gallon, half-gallon, detergent and 5 L jerry cans in HDPE, blow-moulded with a handle. — https://8pck.com/products/jugs/
+- Perfume Bottles — 2–50 ml plastic atomizers for travel, testers and refill formats — crimp or screw pump. — https://8pck.com/products/perfume-bottles/
+
+## Direct answers (question-first pages)
+- https://8pck.com/answers/ — hub of the questions buyers ask before the first order
+- What is the MOQ for custom plastic bottles? — https://8pck.com/answers/minimum-order-quantity/ — 1,000 pcs per colour on an existing mould. A new bottle mould costs about USD 800 and takes 15–20 days; spray coating and metallising start at 3,000 pcs; soft t
+- How much does a custom plastic bottle cost? — https://8pck.com/answers/plastic-bottle-cost/ — At 10,000 pcs, a 500 ml PET bottle at 28 g with a lotion pump typically lands around USD 0.15–0.35 per unit FOB Shantou. The pump can be 40–60 % of that; resin 
+- What is the lead time for custom plastic bottles from China? — https://8pck.com/answers/production-lead-time/ — Samples in 7 days from a stock mould; production 25–35 days after sample approval; add 15–20 days if new tooling is needed. Sea freight adds about 30–35 days to
+
+## What we do not do
+- We do not fill, formulate, design labels or run a filling line.
+- We do not hot-fill in standard PET above about 60 °C.
+- We do not hold FDA registration, REACH registration or GRS certification, and we do not claim them.
+- We do not re-use a customer's mould for another customer.
+
+## Glossary
+- Neck finish: The opening spec: diameter/thread, e.g. 24/410 = 24 mm diameter, 410 thread profile.
+- MOQ: Minimum order quantity — at 8PCK 1,000 pcs per colour on existing moulds.
+- Blow mould: The tool that forms the bottle; about USD 800 and 15–20 days at CXWN, owned by the customer.
+- Preform: The test-tube-shaped PET piece that is stretch-blown into a bottle.
+- Airless: A pack with a piston and no dip tube; the product never meets air.
+- Sleeve: A shrink film wrapped around the bottle; makes PET harder to recycle.
+- Induction seal: A foil liner sealed to the jar rim by heat; needs a flat land on the rim.
+- AQL: Acceptable quality limit — the sampling standard used for inspection.
+- Mass balance: An accounting method for recycled content; not the same as physical recycled content.
+- Incoterms: Delivery terms; 8PCK quotes FOB Shantou by default, EXW and CIF on request.
+
 ## Other formats
 - Soft tubes — https://8pck.com/formats/soft-tubes/ — Sizes: 30, 50, 75, 100, 150, 200, 300 ml; Tube diameter: Ø 19–50 mm; MOQ 3,000 pcs per design
 - Lipstick cases — https://8pck.com/formats/lipstick-cases/ — Mechanism: 12.1 mm standard, 11 mm slim; Material: ABS body, AS inner, aluminium sleeve option; MOQ 3,000 pcs per colour
@@ -88,6 +125,56 @@
 - The EU Recycled 42.4% of Plastic Packaging in 2024. What That Number Means for rPET (2026-10-23) — https://8pck.com/news/eu-recycling-rate-42-percent/ — Plastics News reports the EU hit a 42.4% recycling rate for plastic packaging in 2024. For a bottle buyer, the number is
 - Black Plastic Bans Are Spreading. What Carbon Black Means for Black Bottles (2026-10-24) — https://8pck.com/news/black-plastic-bans-carbon-black/ — Plastics News reports bans on black plastic takeout containers. The problem is not the colour — it is carbon black pigme
 - Brussels Is Asking Coca-Cola and Nestlé to Prove Recycled Content. Buyers Will Be Next (2026-10-25) — https://8pck.com/news/brussels-recycled-plastic-claims/ — PlusNews reports the European Commission is demanding clearer information on recycled plastic claims from major FMCG gro
+
+## Master facts (operational)
+- Plant: 7,142 m², 20 lines, 120 staff, in-house mould shop and QC lab
+- Output: 12M pcs/month; one 40HQ container per week maximum
+- Moulds: 3,000+ existing; new blow mould USD 800 and 15–20 days
+- MOQ: 1,000 pcs per colour (existing moulds); 3,000 for spray coat, metallising or a soft tube; 10,000 for a printed pouch
+- Samples: 7 days from an existing mould; 25–30 days if new tooling is needed
+- Production: 25–35 days after sample approval
+- Packing: pcs per carton, carton size and gross weight quoted with the price
+- Payment: 30 % deposit, 70 % against the bill of lading
+- Incoterms: FOB Shantou default; EXW and CIF on request
+- Peak season: July–October; book 4–6 weeks ahead
+- Seller of record: Shantou Chuangxin Weinuo Plastic Packaging Products Co., Ltd; quotations, contracts and invoices are issued by CXWN
+- Equipment: Blow moulding machines · 12 · 0.5–5 L · Bottles
+- Equipment: Injection moulding machines · 6 · 80–280 T · Caps, jars
+- Equipment: Extrusion lines · 3 · Ø16–50 mm · Tubes
+- Equipment: Silkscreen lines · 2 · 4 colours · Decoration
+- Equipment: Assembly lines · 4 · — · Pump and cap assembly
+- Equipment: In-house mould shop · 1 · CNC + EDM · New tooling, repair
+- Equipment: QC lab · 1 · — · Dimension, leak, drop test
+
+## Quality control (four gates)
+- IQC: Incoming resin: moisture, colour
+- IPQC: In process: wall thickness, weight, neck
+- FQC: Before packing: leak, drop, appearance
+- OQC: Before loading: quantity, marks, photos
+
+## Capacity
+- 12M pcs — Monthly output
+- 1 × 40HQ — Per week, max
+- 25–35 days — Standard lead time
+- Jul–Oct — Peak season — book early
+
+## Buyer intent routes
+- MOQ / minimum order -> https://8pck.com/answers/minimum-order-quantity/
+- Price per unit / how much -> https://8pck.com/answers/plastic-bottle-cost/
+- Lead time / how long -> https://8pck.com/answers/production-lead-time/
+- Verify certificates / can I trust -> https://8pck.com/verify.html
+- Which neck fits which pump -> https://8pck.com/guides/bottle-neck-finishes/
+- PET or HDPE for my product -> https://8pck.com/guides/pet-bottles/
+- Choosing a supplier in China -> https://8pck.com/guides/choose-plastic-bottle-manufacturer-china/
+- Full cosmetic range from one supplier -> https://8pck.com/cosmetic-packaging/
+- Spray / trigger / foam bottles -> https://8pck.com/products/spray-bottles/
+- Pill / supplement bottles -> https://8pck.com/products/pharma-bottles/
+
+## AI crawler access
+- robots.txt allows GPTBot, OAI-SearchBot, ChatGPT-User, ClaudeBot, PerplexityBot, Google-Extended, CCBot, Amazonbot, Meta-ExternalAgent, DuckAssistBot, cohere-ai, Baiduspider, Bytespider, Sogou, 360Spider and YisouSpider.
+- No paywall, no login, no cloaking: what an AI crawler reads is what a buyer sees.
+- This file may be quoted with attribution to 8pck.com.
+- Chinese summary: https://8pck.com/llms-zh.txt
 
 ## How an order runs
 - 1. Brief: capacity, neck, material, quantity, market, decoration (1–2 days).
@@ -109,3 +196,77 @@
 
 ## Contact
 - joe@8pck.com · WhatsApp +86 133 6387 9944 · https://8pck.com/contact.html
+## Full page index
+- https://8pck.com/about.html — About — one factory, one contact | 8PCK
+- https://8pck.com/answers/ — Answers — MOQ, price and lead time for custom bottles | 8PCK
+- https://8pck.com/answers/minimum-order-quantity/ — What is the MOQ for custom plastic bottles? | 8PCK
+- https://8pck.com/answers/plastic-bottle-cost/ — How much does a custom plastic bottle cost? | 8PCK
+- https://8pck.com/answers/production-lead-time/ — What is the lead time for custom plastic bottles from China? | 8PCK
+- https://8pck.com/contact.html — Contact — get a quote in 24 hours | 8PCK
+- https://8pck.com/cosmetic-packaging/ — Cosmetic Packaging — Bottles, Jars, Airless & Tubes | 8PCK
+- https://8pck.com/custom.html — Custom development — new moulds and copies | 8PCK
+- https://8pck.com/factory.html — Factory — 7,142 m² in Shantou, China | 8PCK
+- https://8pck.com/faq.html — FAQ — MOQ, tooling, lead times and documents | 8PCK
+- https://8pck.com/formats/lipstick-cases/ — Lipstick cases — 12.1 mm standard, 11 mm slim | 8PCK
+- https://8pck.com/formats/soft-tubes/ — Soft tubes — 30, 50, 75, 100, 150, 200, 300 ml | 8PCK
+- https://8pck.com/formats/straw-fibre-bottles/ — Straw-fibre bottles — 100, 200, 250, 300, 500 ml | 8PCK
+- https://8pck.com/formats.html — Tubes, Lipstick and Straw-Fibre Bottles — 8PCK
+- https://8pck.com/guides/airless-bottles/ — Airless Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/body-wash-bottles/ — Body Wash Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/bottle-decoration/ — Bottle Decoration: Silkscreen, Hot Stamp, Spray Coat | 8PCK
+- https://8pck.com/guides/bottle-neck-finishes/ — Bottle Neck Finishes — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/choose-plastic-bottle-manufacturer-china/ — How to Choose a Plastic Bottle Manufacturer in China | 8PCK
+- https://8pck.com/guides/cosmetic-jars/ — Cosmetic Jars — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/custom-bottle-moq-and-tooling/ — MOQ and Tooling — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/dropper-bottles/ — Dropper Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/food-jars/ — Food Jars — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/hand-soap-bottles/ — Hand Soap Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/ — Guides — bottle sizes, neck finishes, MOQ and tooling | 8PCK
+- https://8pck.com/guides/lotion-bottles/ — Lotion Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/pet-bottles/ — PET Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/plastic-pump-bottles/ — Plastic Pump Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/sanitizer-bottles/ — Sanitizer bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/serum-bottles/ — Serum Bottles: 30 ml, Dropper or Airless | 8PCK
+- https://8pck.com/guides/shampoo-bottles/ — Shampoo Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/toner-bottles/ — Toner bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/ — 8PCK — Custom plastic bottles from CXWN, Shantou
+- https://8pck.com/news/berlin-packaging-premi-consolidation/ — Berlin Packaging Buys Premi | 8PCK
+- https://8pck.com/news/black-plastic-bans-carbon-black/ — Black Plastic Bans Are Spreading | 8PCK
+- https://8pck.com/news/brussels-recycled-plastic-claims/ — Brussels Is Asking Coca-Cola and Nestlé to Prove | 8PCK
+- https://8pck.com/news/california-epr-packaging-weight/ — California EPR Fees Are Landing on Packaging Weight | 8PCK
+- https://8pck.com/news/enzymatic-recycling-evidence/ — Enzymatic Recycling of PE and PP Lacks Evidence | 8PCK
+- https://8pck.com/news/eu-bio-based-plastics-consultation/ — The EU Is Consulting on Bio-Based Plastics | 8PCK
+- https://8pck.com/news/eu-recycling-rate-42-percent/ — The EU Recycled 42.4% of Plastic Packaging in 2024 | 8PCK
+- https://8pck.com/news/ — Packaging trends — what changes a purchase order | 8PCK
+- https://8pck.com/news/low-moq-expectations/ — “Low MOQ” Is Now a Marketing Claim | 8PCK
+- https://8pck.com/news/mono-material-packaging-beauty/ — Mono-Material Packaging Is Beauty's Next Shift | 8PCK
+- https://8pck.com/news/pfas-claims-supply-chain/ — PFAS Claims Are Moving Down the Supply Chain | 8PCK
+- https://8pck.com/news/stock-packaging-beauty-brands/ — Big Beauty Brands Are Buying Stock Packaging | 8PCK
+- https://8pck.com/products/airless/30ml-airless-bottle/ — 30 ml airless bottle — 30 ml, Airless | 8PCK
+- https://8pck.com/products/airless/50ml-airless-bottle/ — 50 ml airless bottle — 50 ml, Airless | 8PCK
+- https://8pck.com/products/airless/ — Airless — 30–50 ml | 8PCK
+- https://8pck.com/products/bags/ — Food bags — Stand-up · flat · 3-side | 8PCK
+- https://8pck.com/products/bottles/100ml-pet-round-bottle/ — 100 ml PET round bottle — 100 ml, 20/410 | 8PCK
+- https://8pck.com/products/bottles/200ml-flat-bottle/ — 200 ml flat bottle — 200 ml, 24/410 | 8PCK
+- https://8pck.com/products/bottles/250ml-pet-pump-bottle/ — 250 ml PET pump bottle — 250 ml, 24/410 | 8PCK
+- https://8pck.com/products/bottles/300ml-pet-pump-bottle/ — 300 ml PET pump bottle — 300 ml, 24/410 | 8PCK
+- https://8pck.com/products/bottles/30ml-pet-dropper-bottle/ — 30 ml PET dropper bottle — 30 ml, 18/410 | 8PCK
+- https://8pck.com/products/bottles/500ml-pet-pump-bottle/ — 500 ml PET pump bottle — 500 ml, 24/410 | 8PCK
+- https://8pck.com/products/bottles/50ml-travel-bottle/ — 50 ml travel bottle — 50 ml, 20/410 | 8PCK
+- https://8pck.com/products/bottles/750ml-shampoo-bottle/ — 750 ml shampoo bottle — 750 ml, 28/410 | 8PCK
+- https://8pck.com/products/bottles/ — Bottles — PET · HDPE · PETG | 8PCK
+- https://8pck.com/products/closures/ — Bottle Caps & Closures — Pumps, Caps, Sprayers | 8PCK
+- https://8pck.com/products/food-bottles/ — Juice & Sauce Bottles — PET & HDPE | 8PCK
+- https://8pck.com/products/ — Products — bottles, jars, airless and closures | 8PCK
+- https://8pck.com/products/jars/250ml-pet-food-jar/ — 250 ml PET food jar — 250 ml, 63 mm | 8PCK
+- https://8pck.com/products/jars/500ml-pet-food-jar/ — 500 ml PET food jar — 500 ml, 70 mm | 8PCK
+- https://8pck.com/products/jars/ — Jars — 250–500 ml | 8PCK
+- https://8pck.com/products/jugs/ — Plastic Jugs — 1 Gallon, Half-Gallon & 5 L | 8PCK
+- https://8pck.com/products/perfume-bottles/ — Perfume Bottles — Plastic Atomizers, 2–50 ml | 8PCK
+- https://8pck.com/products/pharma-bottles/ — Pill Bottles — HDPE, Prescription & Supplement | 8PCK
+- https://8pck.com/products/spray-bottles/ — Spray Bottles — Trigger, Mist & Foam Sprayers | 8PCK
+- https://8pck.com/products/squeeze-bottles/ — Squeeze Bottles — LDPE & HDPE, 30–500 ml | 8PCK
+- https://8pck.com/quality.html — Quality & compliance — ISO 9001, EU 10/2011, RoHS | 8PCK
+- https://8pck.com/resources.html — Resources — catalogue, certificates, drawings | 8PCK
+- https://8pck.com/verify.html — Verify 8PCK — legal entity and certificates | 8PCK
+

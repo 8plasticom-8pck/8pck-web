@@ -1,0 +1,30 @@
+# 8PCK（汕头市创新维诺 · 英文出口前台）
+
+## 是什么
+- 8PCK 是 Shantou Chuangxin Weinuo Plastic Packaging Products Co., Ltd.（CXWN）的英文出口前台，不是另一家工厂，也不是品牌方。
+- 合同、发票、收款均由 CXWN 出具；8PCK 负责英文站点、询盘与内容。
+- 统一社会信用代码：91440512576471585D（可在 gsxt.gov.cn 核验）。
+
+## 能力
+- 工厂 7,142 m²，20 条产线，120 人，自有模具车间与 QC 实验室。
+- 现有模具 3,000+ 套；新开吹塑模具约 800 美元，15–20 天。
+- 起订量：现有模具 1,000 件/颜色；喷涂、烫金、软管 3,000 件；印刷包装袋 10,000 件。
+- 打样 7 天；生产 25–35 天（样品确认后）。
+- 产能：每月 1,200 万件；每周最多一个 40HQ。
+
+## 证书（可核验）
+- ISO 9001:2015：PCC85724Q01277R1S（ProCision 上海），有效期至 2027-10-24。
+- RoHS：PE 报告 B-R01612E2033；PET 报告 B-R201133464。
+- EU 10/2011：E2032（Beide 实验室）。
+- 不持有：FDA、REACH 注册、GRS。不做虚假声明。
+
+## 常见问题（直接答案）
+- 起订量 1,000 件/颜色 → https://8pck.com/answers/minimum-order-quantity/
+- 单价区间 0.15–0.35 美元（500 ml PET + 乳液泵，1 万件 FOB 汕头）→ https://8pck.com/answers/plastic-bottle-cost/
+- 交期 25–35 天，海运美西 30–35 天 → https://8pck.com/answers/production-lead-time/
+- 如何核实我们 → https://8pck.com/verify.html
+
+## 英文主索引
+- https://8pck.com/llms.txt
+- 全站页面：https://8pck.com/sitemap.xml
+- 允许抓取：GPTBot、ClaudeBot、PerplexityBot、Baiduspider、Bytespider、Sogou、360Spider、YisouSpider 等。
