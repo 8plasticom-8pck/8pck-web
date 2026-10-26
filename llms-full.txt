@@ -78,6 +78,11 @@ Title: Lipstick cases — 12.1 mm standard, 11 mm slim | 8PCK
 Description: A lipstick case is judged in the hand before it is opened. The mechanism is standard; the finish and the weight are what separate a mass line from a premiu
 Sections: The Mechanism Is Not the Differentiator; Finishes and What They Cost in MOQ; What to Send; Questions We Get on This Format
 
+## https://8pck.com/formats/lipstick-cases/round-mechanism/
+Title: Round Lipstick Case — standard, 1,000 pcs MOQ | 8PCK
+Description: Round Lipstick Case: standard, ABS body, AS inner, twist mechanism, for lipstick and lip balm. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/formats/soft-tubes/cosmetic-squeeze-50/
 Title: 50 ml Cosmetic Squeeze Tube — 1,000 pcs MOQ | 8PCK
 Description: 50 ml Cosmetic Squeeze Tube in PE with screw cap, 50 ml, for foundation, BB cream and gel. 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
@@ -107,6 +112,11 @@ Sections: Why This Size Exists; Where It Is Used; Compatibility, Packing and Tol
 Title: 50 ml White Cream Tube with Flip Cap — 1,000 pcs MOQ | 8PCK
 Description: 50 ml White Cream Tube with Flip Cap in PE with flip-top cap, 50 ml, for moisturiser, cleanser and sunscreen. 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Size Exists; Where It Is Used; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/formats/soft-tubes/white-flip-cap/
+Title: White Soft Tube with Flip Cap — 50–100 ml, 1,000 pcs MOQ | 8PCK
+Description: White Soft Tube with Flip Cap: 50–100 ml, PE, flip-top cap, for hand cream, cleanser and sunscreen. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/formats/straw-fibre-bottles/
 Title: Straw-fibre bottles — 100, 200, 250, 300, 500 ml | 8PCK
@@ -406,15 +416,35 @@ Title: 10 ml Dropper Oil Bottle — 1,000 pcs MOQ | 8PCK
 Description: 10 ml Dropper Oil Bottle in PET / glass with screw cap with dropper, 10 ml, for essential oils, serums and tinctures. 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Size Exists; Where It Is Used; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
+## https://8pck.com/products/dropper-bottles/10-ml-round/
+Title: 10 ml Round Dropper Bottle — 10 ml, 1,000 pcs MOQ | 8PCK
+Description: 10 ml Round Dropper Bottle: 10 ml, LDPE, tamper-evident cap with plug, for essential oil and tincture. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/products/dropper-bottles/100-ml/
 Title: 100 ml Translucent Dropper Oil Bottle — 1,000 pcs MOQ | 8PCK
 Description: 100 ml Translucent Dropper Oil Bottle in PET with screw cap with dropper, 100 ml, for massage oil, body oil and tincture. 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Size Exists; Where It Is Used; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
+## https://8pck.com/products/dropper-bottles/100-ml-round/
+Title: 100 ml Round Dropper Bottle — 100 ml, 1,000 pcs MOQ | 8PCK
+Description: 100 ml Round Dropper Bottle: 100 ml, LDPE, tamper-evident cap with plug, for massage oil and body oil. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/products/dropper-bottles/2-5-ml/
 Title: 2.5 ml Dropper Oil Bottle — 1,000 pcs MOQ | 8PCK
 Description: 2.5 ml Dropper Oil Bottle in PET / glass with screw cap with dropper, 2.5 ml, for essential oil samples and testers. 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Size Exists; Where It Is Used; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/2-5-ml-round/
+Title: 2.5 ml Round Dropper Bottle — 2.5 ml, 1,000 pcs MOQ | 8PCK
+Description: 2.5 ml Round Dropper Bottle: 2.5 ml, LDPE, screw cap with plug, for samples, testers and blends. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/30-ml-pen/
+Title: 30 ml Pen-Shaped Dropper Bottle — 30 ml, 1,000 pcs MOQ | 8PCK
+Description: 30 ml Pen-Shaped Dropper Bottle: 30 ml, LDPE, child-resistant tamper-evident cap, for CBD oil, essential oil and tincture. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/products/dropper-bottles/5-ml/
 Title: 5 ml Dropper Bottles — Plastic, 18/410, 1,000 pcs | 8PCK
@@ -426,6 +456,11 @@ Title: Dropper Bottles — 5–100 ml PET & Glass Pipettes | 8PCK
 Description: PET and glass dropper bottles from 5 to 100 ml, 18/410 necks, push-button or bulb droppers, 1,000 pcs MOQ, samples in 7 days.
 Sections: Which Dropper, and Why It Matters More Than the Bottle; Bottle Material: PET or Glass; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
+## https://8pck.com/products/dropper-bottles/pen-screw-cap/
+Title: Pen-Shaped Dropper Bottle with Screw Cap — 10–30 ml, 1,000 pcs MOQ | 8PCK
+Description: Pen-Shaped Dropper Bottle with Screw Cap: 10–30 ml, LDPE, screw cap, for oils, tinctures and refills. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/products/food-bottles/1-l-jam-syrup/
 Title: 1 L HDPE Long-Neck Jam and Syrup Bottle — 1,000 pcs MOQ | 8PCK
 Description: 1 L HDPE Long-Neck Jam and Syrup Bottle in HDPE with screw cap, 1 L, for jam, syrup and sauce. 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
@@ -435,6 +470,11 @@ Sections: Why This Size Exists; Where It Is Used; Compatibility, Packing and Tol
 Title: Juice & Sauce Bottles — PET & HDPE | 8PCK
 Description: Food Bottles: 150–1,000 ml juice and sauce bottles in PET and HDPE, with declarations for food contact.
 Sections: What Buyers Get Wrong; Cold Fill and Hot Fill Are Different Bottles; Necks, Orifices and Closures; Why Food Bottles Cost More Than Cosmetic Bottles; Frequently Asked; Applications for This Range; The Guides Behind These Decisions
+
+## https://8pck.com/products/food-bottles/long-neck-jam/
+Title: Long-Neck HDPE Jam Bottle — 250–500 ml, 1,000 pcs MOQ | 8PCK
+Description: Long-Neck HDPE Jam Bottle: 250–500 ml, HDPE, screw cap, for jam, marmalade and syrup. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/products/
 Title: Products — bottles, jars, airless and closures | 8PCK
@@ -446,10 +486,30 @@ Title: 250 ml PET food jar — 250 ml, 63 mm | 8PCK
 Description: 250 ml PET food jar: PET (food grade), 63 mm neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
 Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Closures, Packing and Tolerance; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec
 
+## https://8pck.com/products/jars/47-mm-pet/
+Title: PET Jar, 47 mm Neck — 30–50 ml, 1,000 pcs MOQ | 8PCK
+Description: PET Jar, 47 mm Neck: 30–50 ml, PET, screw lid, 47 mm, for balms, creams and samples. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/products/jars/500ml-pet-food-jar/
 Title: 500 ml PET food jar — 500 ml, 70 mm | 8PCK
 Description: 500 ml PET food jar: PET (food grade), 70 mm neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
 Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Closures, Packing and Tolerance; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec
+
+## https://8pck.com/products/jars/56-mm-pet/
+Title: PET Jar, 56 mm Neck — 50–100 ml, 1,000 pcs MOQ | 8PCK
+Description: PET Jar, 56 mm Neck: 50–100 ml, PET, screw lid, 56 mm, for creams, gels and scrubs. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/jars/68-mm-pet/
+Title: PET Jar, 68 mm Neck — 100–250 ml, 1,000 pcs MOQ | 8PCK
+Description: PET Jar, 68 mm Neck: 100–250 ml, PET, screw lid, 68 mm, for body cream, mask and food. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/jars/cosmetic-double-wall/
+Title: Double-Wall Cosmetic Jar — 15–100 ml, 1,000 pcs MOQ | 8PCK
+Description: Double-Wall Cosmetic Jar: 15–100 ml, PETG outer, PP inner, screw lid, for premium creams and balms. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/products/jars/
 Title: Jars — 250–500 ml | 8PCK
