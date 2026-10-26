@@ -209,6 +209,7 @@
 - https://8pck.com/custom.html — Custom development — new moulds and copies | 8PCK
 - https://8pck.com/factory.html — Factory — 7,142 m² in Shantou, China | 8PCK
 - https://8pck.com/faq.html — FAQ — MOQ, tooling, lead times and documents | 8PCK
+- https://8pck.com/formats/lip-gloss-tubes/ — Lip Gloss Tubes — 5–15 ml with Doe Foot Applicator | 8PCK
 - https://8pck.com/formats/lipstick-cases/ — Lipstick cases — 12.1 mm standard, 11 mm slim | 8PCK
 - https://8pck.com/formats/soft-tubes/ — Soft tubes — 30, 50, 75, 100, 150, 200, 300 ml | 8PCK
 - https://8pck.com/formats/straw-fibre-bottles/ — Straw-fibre bottles — 100, 200, 250, 300, 500 ml | 8PCK
@@ -233,6 +234,7 @@
 - https://8pck.com/guides/toner-bottles/ — Toner bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/travel-bottles/ — Travel bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/ — 8PCK — Custom plastic bottles from CXWN, Shantou
+- https://8pck.com/materials/polyethylene-bottles/ — Polyethylene Bottles — HDPE & LDPE, 30–1,000 ml | 8PCK
 - https://8pck.com/news/berlin-packaging-premi-consolidation/ — Berlin Packaging Buys Premi | 8PCK
 - https://8pck.com/news/black-plastic-bans-carbon-black/ — Black Plastic Bans Are Spreading | 8PCK
 - https://8pck.com/news/brussels-recycled-plastic-claims/ — Brussels Is Asking Coca-Cola and Nestlé to Prove | 8PCK
@@ -259,16 +261,24 @@
 - https://8pck.com/products/bottles/50ml-travel-bottle/ — 50 ml travel bottle — 50 ml, 20/410 | 8PCK
 - https://8pck.com/products/bottles/750ml-shampoo-bottle/ — 750 ml shampoo bottle — 750 ml, 28/410 | 8PCK
 - https://8pck.com/products/bottles/ — Bottles — PET · HDPE · PETG | 8PCK
+- https://8pck.com/products/bottles/square-pump/ — Square Plastic Pump Bottles — 250–500 ml PET | 8PCK
+- https://8pck.com/products/bottles/white-pump-bottle/ — White Plastic Bottle with Pump — HDPE, 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/closures/ — Bottle Caps & Closures — Pumps, Caps, Sprayers | 8PCK
+- https://8pck.com/products/dropper-bottles/5-ml/ — 5 ml Dropper Bottles — Plastic, 18/410, 1,000 pcs | 8PCK
+- https://8pck.com/products/dropper-bottles/ — Dropper Bottles — 5–100 ml PET & Glass Pipettes | 8PCK
 - https://8pck.com/products/food-bottles/ — Juice & Sauce Bottles — PET & HDPE | 8PCK
 - https://8pck.com/products/ — Products — bottles, jars, airless and closures | 8PCK
 - https://8pck.com/products/jars/250ml-pet-food-jar/ — 250 ml PET food jar — 250 ml, 63 mm | 8PCK
 - https://8pck.com/products/jars/500ml-pet-food-jar/ — 500 ml PET food jar — 500 ml, 70 mm | 8PCK
 - https://8pck.com/products/jars/ — Jars — 250–500 ml | 8PCK
+- https://8pck.com/products/jars/plastic/ — Plastic Jars with Lids — PET, PETG & PP, 15–500 ml | 8PCK
+- https://8pck.com/products/jars/transparent/ — Transparent Plastic Jars — PET & PETG, 15–500 ml | 8PCK
 - https://8pck.com/products/jugs/ — Plastic Jugs — 1 Gallon, Half-Gallon & 5 L | 8PCK
+- https://8pck.com/products/lip-balm-containers/ — Empty Lip Balm Containers — 5–15 ml, Twist & Slider | 8PCK
 - https://8pck.com/products/perfume-bottles/ — Perfume Bottles — Plastic Atomizers, 2–50 ml | 8PCK
 - https://8pck.com/products/pharma-bottles/ — Pill Bottles — HDPE, Prescription & Supplement | 8PCK
 - https://8pck.com/products/spray-bottles/ — Spray Bottles — Trigger, Mist & Foam Sprayers | 8PCK
+- https://8pck.com/products/squeeze-bottles/4-oz/ — 4 oz Squeeze Bottles — LDPE & HDPE, 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/squeeze-bottles/ — Squeeze Bottles — LDPE & HDPE, 30–500 ml | 8PCK
 - https://8pck.com/quality.html — Quality & compliance — ISO 9001, EU 10/2011, RoHS | 8PCK
 - https://8pck.com/resources.html — Resources — catalogue, certificates, drawings | 8PCK

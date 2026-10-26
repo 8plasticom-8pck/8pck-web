@@ -48,6 +48,11 @@ Sections: Inside the Plant, 3 Minutes; What Is on the Floor; Six Places You Will
 Title: FAQ — MOQ, tooling, lead times and documents | 8PCK
 Description: Direct answers on minimum order quantity, tooling cost, lead time, samples and the compliance documents we hold.
 
+## https://8pck.com/formats/lip-gloss-tubes/
+Title: Lip Gloss Tubes — 5–15 ml with Doe Foot Applicator | 8PCK
+Description: Lip gloss tubes from 5 to 15 ml in PETG and ABS, with doe-foot or brush applicators, 1,000 pcs MOQ, samples in 7 days.
+Sections: The Wiper Decides How Much Product Comes Out; Why PETG, Not PET; What to Send in a Brief; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/formats/lipstick-cases/
 Title: Lipstick cases — 12.1 mm standard, 11 mm slim | 8PCK
 Description: A lipstick case is judged in the hand before it is opened. The mechanism is standard; the finish and the weight are what separate a mass line from a premiu
@@ -166,6 +171,11 @@ Sections: The Three Closures That Survive a Flight; Why 50 ml Sells and 100 ml I
 Title: 8PCK — Custom plastic bottles from CXWN, Shantou
 Description: Custom PET, HDPE and PETG bottles made by CXWN in Shantou, China. MOQ 1,000 pcs, samples in 7 days, EU 10/2011 migration test and RoHS reports on file.
 Sections: Tubes, Lipstick and Straw-Fibre Bottles; Twelve Moulds, Three Application Groups; Six Steps, Six Checkpoints; Every Stage Has a Number of Days; Documents, Not Badges; What Left the Factory This Year; Three Kinds of Buyer, One Factory; What Buyers Ask Before the First Order
+
+## https://8pck.com/materials/polyethylene-bottles/
+Title: Polyethylene Bottles — HDPE & LDPE, 30–1,000 ml | 8PCK
+Description: Polyethylene bottles in HDPE and LDPE, 30–1,000 ml, for shampoo, detergent, sauces and chemicals. 1,000 pcs MOQ, samples in 7 days.
+Sections: HDPE vs LDPE; Why Polyethylene and Not PET; Recycling Note; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/news/berlin-packaging-premi-consolidation/
 Title: Berlin Packaging Buys Premi | 8PCK
@@ -297,10 +307,30 @@ Title: Bottles — PET · HDPE · PETG | 8PCK
 Description: Bottles: 50–1,000 ml, 18–38 mm necks. Eight stock moulds, ready for decoration.
 Sections: What Buyers Get Wrong; What We Mould, and in Which Material; The Neck Is the Specification That Matters; Decoration, and What It Costs in MOQ; Size Chart: What Fits Which Market; How the Quote Is Built; Applications for This Range; The Guides Behind These Decisions
 
+## https://8pck.com/products/bottles/square-pump/
+Title: Square Plastic Pump Bottles — 250–500 ml PET | 8PCK
+Description: Square PET pump bottles, 250 and 500 ml, 24/410 or 28/410 pumps, 1,000 pcs MOQ, samples in 7 days.
+Sections: Why Square Sells; Where Square Bottles Fail; What to Send in a Brief; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/bottles/white-pump-bottle/
+Title: White Plastic Bottle with Pump — HDPE, 1,000 pcs MOQ | 8PCK
+Description: White HDPE pump bottles, 250–500 ml, 24/410 or 28/410 lotion pumps, opaque and UV-friendly, 1,000 pcs per colour, 25–35 days.
+Sections: Why White, and When It Is the Wrong Choice; What a White Bottle Costs; What to Send in a Brief; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/products/closures/
 Title: Bottle Caps & Closures — Pumps, Caps, Sprayers | 8PCK
 Description: Bottle Caps & Closures: 24/410 lotion pumps, mist sprayers, flip-top and disc-top caps. Matched to our bottles.
 Sections: What Buyers Get Wrong; Pumps, Caps and Sprayers Are Tested on the Bottle; What to Send When Ordering Closures Only; Why Closures Leak, in Order of Frequency; Matching Table by Neck; Lead Time and Packing; Applications for This Range; The Guides Behind These Decisions
+
+## https://8pck.com/products/dropper-bottles/5-ml/
+Title: 5 ml Dropper Bottles — Plastic, 18/410, 1,000 pcs | 8PCK
+Description: 5 ml PET dropper bottles with 18/410 necks for serums, oils and samples. 1,000 pcs MOQ, samples in 7 days, closures fitted before packing.
+Sections: Where 5 ml Is Used; Why the Fill Tolerance Matters at 5 ml; What to Send in a Brief; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/
+Title: Dropper Bottles — 5–100 ml PET & Glass Pipettes | 8PCK
+Description: PET and glass dropper bottles from 5 to 100 ml, 18/410 necks, push-button or bulb droppers, 1,000 pcs MOQ, samples in 7 days.
+Sections: Which Dropper, and Why It Matters More Than the Bottle; Bottle Material: PET or Glass; What to Send in a Brief; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/products/food-bottles/
 Title: Juice & Sauce Bottles — PET & HDPE | 8PCK
@@ -327,10 +357,25 @@ Title: Jars — 250–500 ml | 8PCK
 Description: Jars: Wide-mouth PET jars for dry food, spices and supplements. Tamper-evident options.
 Sections: What Buyers Get Wrong; Cosmetic Jars and Food Jars Are Different Products; Sealing, and Where Jars Fail; MOQ and Colour; Single Wall, Double Wall, and What the Rim Does; Sealing Methods Compared; Decoration and Packing; Applications for This Range
 
+## https://8pck.com/products/jars/plastic/
+Title: Plastic Jars with Lids — PET, PETG & PP, 15–500 ml | 8PCK
+Description: Plastic jars with screw lids in PET, PETG and PP, 15–500 ml, EPE or induction liners, 1,000 pcs per colour, samples in 7 days.
+Sections: Choosing the Material by Fill Temperature; The Lid and the Liner Are the Seal; What Buyers Get Wrong; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/jars/transparent/
+Title: Transparent Plastic Jars — PET & PETG, 15–500 ml | 8PCK
+Description: Clear PET and PETG jars from 15 to 500 ml with screw lids, for creams, balms and food. 1,000 pcs per colour, samples in 7 days.
+Sections: PET or PETG; Where Transparent Jars Fail; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked; Related
+
 ## https://8pck.com/products/jugs/
 Title: Plastic Jugs — 1 Gallon, Half-Gallon & 5 L | 8PCK
 Description: Jugs & Gallon Bottles: 1 gallon, half-gallon, detergent and 5 L jerry cans in HDPE, blow-moulded with a handle.
 Sections: What Buyers Get Wrong; Handles Change the Mould; What Buyers Get Wrong; Decorating a Jug; Frequently Asked; Applications for This Range; The Guides Behind These Decisions
+
+## https://8pck.com/products/lip-balm-containers/
+Title: Empty Lip Balm Containers — 5–15 ml, Twist & Slider | 8PCK
+Description: Empty lip balm tubes and pots from 5 to 15 ml in PP and PETG, twist-up or slider mechanisms, 1,000 pcs MOQ, samples in 7 days.
+Sections: Stick, Pot or Slider; Where Balm Containers Fail; What to Send in a Brief; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/products/perfume-bottles/
 Title: Perfume Bottles — Plastic Atomizers, 2–50 ml | 8PCK
@@ -346,6 +391,11 @@ Sections: What Buyers Get Wrong; What We Supply, and What We Do Not; Child-Resis
 Title: Spray Bottles — Trigger, Mist & Foam Sprayers | 8PCK
 Description: Spray Bottles: 100–1,000 ml in PET and HDPE, with trigger, mist and foam sprayers tested on the bottle.
 Sections: What Buyers Get Wrong; Trigger, Mist and Foam: Three Different Products; What Decides the Cost; Testing Before It Ships; Frequently Asked; Applications for This Range; The Guides Behind These Decisions
+
+## https://8pck.com/products/squeeze-bottles/4-oz/
+Title: 4 oz Squeeze Bottles — LDPE & HDPE, 1,000 pcs MOQ | 8PCK
+Description: 4 oz (120 ml) squeeze bottles in LDPE and HDPE, 24/410 or 38 mm necks, 1,000 pcs per colour, samples in 7 days. Made by CXWN in Shantou.
+Sections: Soft-Wall or Firm-Wall, and What It Changes; How It Is Priced; What to Send in a Brief; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/products/squeeze-bottles/
 Title: Squeeze Bottles — LDPE & HDPE, 30–500 ml | 8PCK
