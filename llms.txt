@@ -215,7 +215,12 @@
 - https://8pck.com/faq.html — FAQ — MOQ, tooling, lead times and documents | 8PCK
 - https://8pck.com/formats/lip-gloss-tubes/ — Lip Gloss Tubes — 5–15 ml with Doe Foot Applicator | 8PCK
 - https://8pck.com/formats/lipstick-cases/ — Lipstick cases — 12.1 mm standard, 11 mm slim | 8PCK
+- https://8pck.com/formats/soft-tubes/cosmetic-squeeze-50/ — 50 ml Cosmetic Squeeze Tube — 1,000 pcs MOQ | 8PCK
+- https://8pck.com/formats/soft-tubes/glossy-hand-cream-50/ — 50 ml Glossy Hand Cream Tube — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/formats/soft-tubes/ — Soft tubes — 30, 50, 75, 100, 150, 200, 300 ml | 8PCK
+- https://8pck.com/formats/soft-tubes/pe-cream-tube-50/ — 50 ml PE Cream Tube — 1,000 pcs MOQ | 8PCK
+- https://8pck.com/formats/soft-tubes/squeeze-cosmetic-tubes/ — Squeeze Cosmetic Tubes, 50 / 100 / 150 ml — 1,000 pcs MOQ | 8PCK
+- https://8pck.com/formats/soft-tubes/white-cream-tube-flip-50/ — 50 ml White Cream Tube with Flip Cap — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/formats/straw-fibre-bottles/ — Straw-fibre bottles — 100, 200, 250, 300, 500 ml | 8PCK
 - https://8pck.com/formats.html — Tubes, Lipstick and Straw-Fibre Bottles — 8PCK
 - https://8pck.com/glossary/ — Plastic packaging glossary — 24 terms explained | 8PCK
@@ -266,11 +271,21 @@
 - https://8pck.com/products/bottles/50ml-travel-bottle/ — 50 ml travel bottle — 50 ml, 20/410 | 8PCK
 - https://8pck.com/products/bottles/750ml-shampoo-bottle/ — 750 ml shampoo bottle — 750 ml, 28/410 | 8PCK
 - https://8pck.com/products/bottles/ — Bottles — PET · HDPE · PETG | 8PCK
+- https://8pck.com/products/bottles/pet-hair-lotion-bottle-50/ — 50 ml PET Hair Lotion Bottle, Flip Top — 1,000 pcs MOQ | 8PCK
+- https://8pck.com/products/bottles/pet-pump-bottle-120/ — 120 ml PET Pump Bottle — 1,000 pcs MOQ | 8PCK
+- https://8pck.com/products/bottles/pet-pump-bottle-500/ — 500 ml PET Pump Bottle — 1,000 pcs MOQ | 8PCK
+- https://8pck.com/products/bottles/pet-pump-bottles-100-150/ — PET Pump Bottles, 100 / 120 / 150 ml — 1,000 pcs MOQ | 8PCK
+- https://8pck.com/products/bottles/pet-round-bottle-100-disc-top/ — 100 ml PET Round Bottle with Disc Top — 1,000 pcs MOQ | 8PCK
+- https://8pck.com/products/bottles/pet-round-bottle-500-disc-top/ — 500 ml PET Round Bottle with Disc Top — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/bottles/square-pump/ — Square Plastic Pump Bottles — 250–500 ml PET | 8PCK
 - https://8pck.com/products/bottles/white-pump-bottle/ — White Plastic Bottle with Pump — HDPE, 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/closures/ — Bottle Caps & Closures — Pumps, Caps, Sprayers | 8PCK
+- https://8pck.com/products/dropper-bottles/10-ml/ — 10 ml Dropper Oil Bottle — 1,000 pcs MOQ | 8PCK
+- https://8pck.com/products/dropper-bottles/100-ml/ — 100 ml Translucent Dropper Oil Bottle — 1,000 pcs MOQ | 8PCK
+- https://8pck.com/products/dropper-bottles/2-5-ml/ — 2.5 ml Dropper Oil Bottle — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/dropper-bottles/5-ml/ — 5 ml Dropper Bottles — Plastic, 18/410, 1,000 pcs | 8PCK
 - https://8pck.com/products/dropper-bottles/ — Dropper Bottles — 5–100 ml PET & Glass Pipettes | 8PCK
+- https://8pck.com/products/food-bottles/1-l-jam-syrup/ — 1 L HDPE Long-Neck Jam and Syrup Bottle — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/food-bottles/ — Juice & Sauce Bottles — PET & HDPE | 8PCK
 - https://8pck.com/products/ — Products — bottles, jars, airless and closures | 8PCK
 - https://8pck.com/products/jars/250ml-pet-food-jar/ — 250 ml PET food jar — 250 ml, 63 mm | 8PCK
@@ -283,7 +298,11 @@
 - https://8pck.com/products/perfume-bottles/ — Perfume Bottles — Plastic Atomizers, 2–50 ml | 8PCK
 - https://8pck.com/products/pharma-bottles/ — Pill Bottles — HDPE, Prescription & Supplement | 8PCK
 - https://8pck.com/products/spray-bottles/ — Spray Bottles — Trigger, Mist & Foam Sprayers | 8PCK
+- https://8pck.com/products/squeeze-bottles/30-ml-oil/ — 30 ml Clear Squeeze Bottle for Oil — 1,000 pcs MOQ | 8PCK
+- https://8pck.com/products/squeeze-bottles/4-ml/ — 4 ml Mini Squeeze Bottle — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/squeeze-bottles/4-oz/ — 4 oz Squeeze Bottles — LDPE & HDPE, 1,000 pcs MOQ | 8PCK
+- https://8pck.com/products/squeeze-bottles/8-ml/ — 8 ml Clear Squeeze Bottle — 1,000 pcs MOQ | 8PCK
+- https://8pck.com/products/squeeze-bottles/hair-oil-applicator-50/ — 50 ml Hair Oil Squeeze Applicator Bottle — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/squeeze-bottles/ — Squeeze Bottles — LDPE & HDPE, 30–500 ml | 8PCK
 - https://8pck.com/quality.html — Quality & compliance — ISO 9001, EU 10/2011, RoHS | 8PCK
 - https://8pck.com/resources.html — Resources — catalogue, certificates, drawings | 8PCK
