@@ -165,35 +165,37 @@ Sections: Tubes, Lipstick and Straw-Fibre Bottles; Twelve Moulds, Three Applicat
 ## https://8pck.com/news/berlin-packaging-premi-consolidation/
 Title: Berlin Packaging Buys Premi | 8PCK
 Description: Another distributor acquisition in beauty packaging. For brands buying 5,000–50,000 pieces a year, the practical question is who still answers the phone.
+Sections: What Changed; What It Changes in a Bottle Spec
 
 ## https://8pck.com/news/black-plastic-bans-carbon-black/
 Title: Black Plastic Bans Are Spreading | 8PCK
 Description: Plastics News reports bans on black plastic takeout containers. The problem is not the colour — it is carbon black pigment, which sorting equipment cannot see. Black cosmetic bottles face the same issue.
-Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier; What It Changes in a Bottle Spec
 
 ## https://8pck.com/news/brussels-recycled-plastic-claims/
 Title: Brussels Is Asking Coca-Cola and Nestlé to Prove | 8PCK
 Description: PlusNews reports the European Commission is demanding clearer information on recycled plastic claims from major FMCG groups. The same question will reach every packaging supplier in the chain.
-Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier; What It Changes in a Bottle Spec
 
 ## https://8pck.com/news/california-epr-packaging-weight/
 Title: California EPR Fees Are Landing on Packaging Weight | 8PCK
 Description: Plastics News reports that plastics face high fees under California's EPR rules, with exemptions possible for recyclable formats. For a bottle buyer, the fee is a function of material and grams — both are in your control.
-Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier; What It Changes in a Bottle Spec
 
 ## https://8pck.com/news/enzymatic-recycling-evidence/
 Title: Enzymatic Recycling of PE and PP Lacks Evidence | 8PCK
 Description: Researchers say the evidence for enzymatic recycling of polyethylene and polypropylene is thin. For a bottle buyer, the practical lesson is simpler: design for the recycling stream that exists today.
-Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier; What It Changes in a Bottle Spec
 
 ## https://8pck.com/news/eu-bio-based-plastics-consultation/
 Title: The EU Is Consulting on Bio-Based Plastics | 8PCK
 Description: The European Commission has opened a consultation on bio-based plastic packaging. For buyers, the useful question is not “is it bio-based” but “which claim can I prove”.
+Sections: What Changed; What It Changes in a Bottle Spec
 
 ## https://8pck.com/news/eu-recycling-rate-42-percent/
 Title: The EU Recycled 42.4% of Plastic Packaging in 2024 | 8PCK
 Description: Plastics News reports the EU hit a 42.4% recycling rate for plastic packaging in 2024. For a bottle buyer, the number is less important than the gap between the headline rate and the rPET actually available.
-Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier; What It Changes in a Bottle Spec
 
 ## https://8pck.com/news/
 Title: Packaging trends — what changes a purchase order | 8PCK
@@ -203,20 +205,22 @@ Sections: PFAS Claims Are Moving Down the Supply Chain. What Should Bottle Buyer
 ## https://8pck.com/news/low-moq-expectations/
 Title: “Low MOQ” Is Now a Marketing Claim | 8PCK
 Description: Beauty Packaging writes that low MOQs are no longer a differentiator. The number on the website and the number on the quotation are rarely the same thing.
+Sections: What Changed; What It Changes in a Bottle Spec
 
 ## https://8pck.com/news/mono-material-packaging-beauty/
 Title: Mono-Material Packaging Is Beauty's Next Shift | 8PCK
 Description: Beauty Packaging reports that mono-material packs are moving from pilot to shelf. For a bottle buyer it is a short list of changes: the cap, the label, the pump — not the bottle itself.
+Sections: What Changed; What It Changes in a Bottle Spec
 
 ## https://8pck.com/news/pfas-claims-supply-chain/
 Title: PFAS Claims Are Moving Down the Supply Chain | 8PCK
 Description: A US water utility is suing two packaging manufacturers over alleged PFAS contamination. For buyers, the lesson is not the lawsuit — it is the paperwork you will be asked for next year.
-Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier; What It Changes in a Bottle Spec
 
 ## https://8pck.com/news/stock-packaging-beauty-brands/
 Title: Big Beauty Brands Are Buying Stock Packaging | 8PCK
 Description: Cosmetics Business reports that major beauty names are moving to stock packs to cut lead times. For smaller brands, the same shelves are now a competitive advantage — if you know how to ask.
-Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier; What It Changes in a Bottle Spec
 
 ## https://8pck.com/products/airless/30ml-airless-bottle/
 Title: 30 ml airless bottle — 30 ml, Airless | 8PCK
