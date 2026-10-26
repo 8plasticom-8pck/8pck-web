@@ -157,6 +157,11 @@ Title: Toner bottles — specs, MOQ and documents | 8PCK
 Description: Toner is the one skincare product sold by volume rather than by dose. That makes the bottle a shelf-width decision before it is a design decision — and 200
 Sections: Why Flat Beats Round on Shelf; Closures for a Water-Thin Liquid; PET or PETG; Decoration on a Flat Face; Where Toner Bottles Fail; Why 200 ml Flat Replaced 250 ml Round; Questions We Get on This; Sizes That Fit This Guide
 
+## https://8pck.com/guides/travel-bottles/
+Title: Travel bottles — specs, MOQ and documents | 8PCK
+Description: Travel sizes are decided by a rule, not by design: 100 ml per container in hand luggage. That makes 50 ml and 100 ml the only two sizes worth moulding — an
+Sections: The Three Closures That Survive a Flight; Why 50 ml Sells and 100 ml Is the Value Pack; Where Travel Bottles Fail in Practice; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/
 Title: 8PCK — Custom plastic bottles from CXWN, Shantou
 Description: Custom PET, HDPE and PETG bottles made by CXWN in Shantou, China. MOQ 1,000 pcs, samples in 7 days, EU 10/2011 migration test and RoHS reports on file.
@@ -211,6 +216,11 @@ Sections: What Changed; What It Changes in a Bottle Spec
 Title: Mono-Material Packaging Is Beauty's Next Shift | 8PCK
 Description: Beauty Packaging reports that mono-material packs are moving from pilot to shelf. For a bottle buyer it is a short list of changes: the cap, the label, the pump — not the bottle itself.
 Sections: What Changed; What It Changes in a Bottle Spec
+
+## https://8pck.com/news/packaging-2030-materials-regulation/
+Title: Packaging 2030: The Four Changes That Will Rewrite a | 8PCK
+Description: Progressive Grocer maps what packaging looks like in 2030. For a bottle buyer the list is short: recycled content with proof, mono-material, EPR fees by weight, and fewer materials per pack.
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
 
 ## https://8pck.com/news/pfas-claims-supply-chain/
 Title: PFAS Claims Are Moving Down the Supply Chain | 8PCK

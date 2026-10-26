@@ -70,6 +70,7 @@
 - Serum bottles — https://8pck.com/guides/serum-bottles/ — covers: serum bottle, 30ml serum bottle, dropper serum bottle, airless serum bottle, serum packaging supplier. A serum is the most expensive thing most brands put in a bottle, and the smallest. At 30 ml the pack decision is almost entirely a
 - Toner bottles — https://8pck.com/guides/toner-bottles/ — covers: toner bottle, 200ml toner bottle, facial toner packaging, flat bottle cosmetic, toner bottle supplier. Toner is the one skincare product sold by volume rather than by dose. That makes the bottle a shelf-width decision before it is a 
 - Sanitizer bottles — https://8pck.com/guides/sanitizer-bottles/ — covers: sanitizer bottle, 100ml sanitizer bottle, gel bottle, hand sanitizer packaging, sanitizer bottle supplier. Hand sanitizer is the one product where the pack has to work one-handed, in public, with sticky hands. The bottle is the easy part
+- Travel bottles — https://8pck.com/guides/travel-bottles/ — covers: travel bottle, 50ml travel bottle, TSA bottles, travel size bottles, airline approved bottles. Travel sizes are decided by a rule, not by design: 100 ml per container in hand luggage. That makes 50 ml and 100 ml the only two 
 
 ## Categories
 - Bottles — 50–1,000 ml, 18–38 mm necks. Eight stock moulds, ready for decoration. — https://8pck.com/products/bottles/
@@ -125,6 +126,7 @@
 - The EU Recycled 42.4% of Plastic Packaging in 2024. What That Number Means for rPET (2026-10-23) — https://8pck.com/news/eu-recycling-rate-42-percent/ — Plastics News reports the EU hit a 42.4% recycling rate for plastic packaging in 2024. For a bottle buyer, the number is
 - Black Plastic Bans Are Spreading. What Carbon Black Means for Black Bottles (2026-10-24) — https://8pck.com/news/black-plastic-bans-carbon-black/ — Plastics News reports bans on black plastic takeout containers. The problem is not the colour — it is carbon black pigme
 - Brussels Is Asking Coca-Cola and Nestlé to Prove Recycled Content. Buyers Will Be Next (2026-10-25) — https://8pck.com/news/brussels-recycled-plastic-claims/ — PlusNews reports the European Commission is demanding clearer information on recycled plastic claims from major FMCG gro
+- Packaging 2030: The Four Changes That Will Rewrite a Bottle Spec (2026-10-26) — https://8pck.com/news/packaging-2030-materials-regulation/ — Progressive Grocer maps what packaging looks like in 2030. For a bottle buyer the list is short: recycled content with p
 
 ## Master facts (operational)
 - Plant: 7,142 m², 20 lines, 120 staff, in-house mould shop and QC lab
@@ -229,6 +231,7 @@
 - https://8pck.com/guides/serum-bottles/ — Serum Bottles: 30 ml, Dropper or Airless | 8PCK
 - https://8pck.com/guides/shampoo-bottles/ — Shampoo Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/toner-bottles/ — Toner bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/travel-bottles/ — Travel bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/ — 8PCK — Custom plastic bottles from CXWN, Shantou
 - https://8pck.com/news/berlin-packaging-premi-consolidation/ — Berlin Packaging Buys Premi | 8PCK
 - https://8pck.com/news/black-plastic-bans-carbon-black/ — Black Plastic Bans Are Spreading | 8PCK
@@ -240,6 +243,7 @@
 - https://8pck.com/news/ — Packaging trends — what changes a purchase order | 8PCK
 - https://8pck.com/news/low-moq-expectations/ — “Low MOQ” Is Now a Marketing Claim | 8PCK
 - https://8pck.com/news/mono-material-packaging-beauty/ — Mono-Material Packaging Is Beauty's Next Shift | 8PCK
+- https://8pck.com/news/packaging-2030-materials-regulation/ — Packaging 2030: The Four Changes That Will Rewrite a | 8PCK
 - https://8pck.com/news/pfas-claims-supply-chain/ — PFAS Claims Are Moving Down the Supply Chain | 8PCK
 - https://8pck.com/news/stock-packaging-beauty-brands/ — Big Beauty Brands Are Buying Stock Packaging | 8PCK
 - https://8pck.com/products/airless/30ml-airless-bottle/ — 30 ml airless bottle — 30 ml, Airless | 8PCK
