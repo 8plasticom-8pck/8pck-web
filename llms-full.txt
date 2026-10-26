@@ -12,17 +12,17 @@ Description: Direct answers to the three questions buyers ask first: minimum ord
 ## https://8pck.com/answers/minimum-order-quantity/
 Title: What is the MOQ for custom plastic bottles? | 8PCK
 Description: 1,000 pcs per colour on an existing mould. A new bottle mould costs about USD 800 and takes 15–20 days; spray coating and metallising start at 3,000 pcs; s
-Sections: The Number by Product Type; What Happens Below the MOQ; Tooling, if the Shape Is New; Why the MOQ Is per Colour; Frequently Asked; Related
+Sections: How the Number Is Calculated; The Number by Product Type; What Happens Below the MOQ; Tooling, if the Shape Is New; Why the MOQ Is per Colour; Frequently Asked; Related
 
 ## https://8pck.com/answers/plastic-bottle-cost/
 Title: How much does a custom plastic bottle cost? | 8PCK
 Description: At 10,000 pcs, a 500 ml PET bottle at 28 g with a lotion pump typically lands around USD 0.15–0.35 per unit FOB Shantou. The pump can be 40–60 % of that; r
-Sections: The Four Things That Set the Price; Why the Pump Matters More Than the Bottle; What Changes the Price at the MOQ Boundary; How to Get a Number You Can Compare; Frequently Asked; Related
+Sections: Where the Money Goes; The Four Things That Set the Price; Why the Pump Matters More Than the Bottle; What Changes the Price at the MOQ Boundary; How to Get a Number You Can Compare; Frequently Asked; Related
 
 ## https://8pck.com/answers/production-lead-time/
 Title: What is the lead time for custom plastic bottles from China? | 8PCK
 Description: Samples in 7 days from a stock mould; production 25–35 days after sample approval; add 15–20 days if new tooling is needed. Sea freight adds about 30–35 da
-Sections: The Timeline, Step by Step; What Actually Delays an Order; Shipping After Production; How to Plan a Launch Date; Frequently Asked; Related
+Sections: What Runs in Parallel; The Timeline, Step by Step; What Actually Delays an Order; Shipping After Production; How to Plan a Launch Date; Frequently Asked; Related
 
 ## https://8pck.com/contact.html
 Title: Contact — get a quote in 24 hours | 8PCK
@@ -71,52 +71,52 @@ Sections: What Each Line Can Do; Ordering Across Formats
 ## https://8pck.com/guides/airless-bottles/
 Title: Airless Bottles — specs, MOQ and documents | 8PCK
 Description: An airless bottle has no dip tube. A piston follows the product down, so the formula meets air only at the nozzle. That protects actives — and costs more t
-Sections: How an Airless Pack Actually Works; When Airless Is Worth It; Airless vs Dropper vs Standard Pump; What to Specify Before Quoting; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: How an Airless Pack Actually Works; When Airless Is Worth It; Airless vs Dropper vs Standard Pump; What to Specify Before Quoting; Where Airless Disappoints; How to Specify One; Questions We Get on This; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/body-wash-bottles/
 Title: Body Wash Bottles — specs, MOQ and documents | 8PCK
 Description: Body wash is bought in the shower, one-handed, with wet hands. That single fact decides the bottle: the closure, the grip and the label, in that order — th
-Sections: The Closure Is the Product; 500 ml Is a Habit, Not a Standard; What a Wet Bathroom Does to a Label; PET or HDPE for Body Wash; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: The Closure Is the Product; 500 ml Is a Habit, Not a Standard; What a Wet Bathroom Does to a Label; PET or HDPE for Body Wash; Where Body Wash Bottles Fail; 400 ml in Southeast Asia, 500 ml in the US; Questions We Get on This; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/bottle-decoration/
 Title: Bottle Decoration: Silkscreen, Hot Stamp, Spray Coat | 8PCK
 Description: Decoration is where a commodity bottle becomes a brand — and where the minimum order quietly triples. Four processes, what each costs in MOQ and lead time,
-Sections: Silkscreen: the Workhorse; Hot Stamp and Spray Coat: the Premium Two; Labels Are Not a Downgrade; Artwork: What We Need to Quote; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Silkscreen: the Workhorse; Hot Stamp and Spray Coat: the Premium Two; Labels Are Not a Downgrade; Artwork: What We Need to Quote; Choosing Decoration by Volume; What Decoration Does to Recycling; Questions We Get on This; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/bottle-neck-finishes/
 Title: Bottle Neck Finishes — specs, MOQ and documents | 8PCK
 Description: The neck finish decides which pump, cap or sprayer fits your bottle. It is also the number buyers most often leave out of a brief — and the reason a contai
-Sections: What the Two Numbers Mean; Why the Same Neck From Two Suppliers May Not Fit; Matching a Closure to a Product; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Two Numbers Mean; Why the Same Neck From Two Suppliers May Not Fit; Matching a Closure to a Product; Where Neck Specs Go Wrong; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/choose-plastic-bottle-manufacturer-china/
 Title: How to Choose a Plastic Bottle Manufacturer in China | 8PCK
 Description: Most buyers shortlist on price and a website. The factories that ship on time are separated by seven questions that take ten minutes to ask — and almost no
-Sections: 1. Is It a Factory or a Trading Company; 2. Who Owns the Mould; 3. Does the Pump Come From the Same Building; 4. Can They Verify the Certificate; 5. What Does the Sample Prove; 6. What the Quote Must Contain; 7. Red Flags Worth Walking Away From; Questions We Get on This
+Sections: 1. Is It a Factory or a Trading Company; 2. Who Owns the Mould; 3. Does the Pump Come From the Same Building; 4. Can They Verify the Certificate; 5. What Does the Sample Prove; 6. What the Quote Must Contain; 7. Red Flags Worth Walking Away From; The Five Checks That Actually Predict a Good Supplier
 
 ## https://8pck.com/guides/cosmetic-jars/
 Title: Cosmetic Jars — specs, MOQ and documents | 8PCK
 Description: A “30 g jar” is named after the fill weight, not the volume — which is why two 30 g jars can look completely different on shelf. This page covers fill weig
-Sections: Single Wall vs Double Wall; Why the Cap Decides the Feel; Threads, Refills and the EU Refill Push; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Single Wall vs Double Wall; Why the Cap Decides the Feel; Threads, Refills and the EU Refill Push; Where Cosmetic Jars Leak, and It Is Usually the Liner; Frosting, Spray Coat and What They Cost; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/custom-bottle-moq-and-tooling/
 Title: MOQ and Tooling — specs, MOQ and documents | 8PCK
 Description: Two numbers decide whether a custom bottle project is viable: the minimum order quantity and the tooling cost. Both are smaller than most buyers expect, pr
-Sections: When You Do Not Need a Mould; When a New Mould Is Worth It; The Real Cost of a Small First Order; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: When You Do Not Need a Mould; When a New Mould Is Worth It; The Real Cost of a Small First Order; The Three Things That Actually Drive the MOQ; Tooling: What You Own and What You Don't; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/dropper-bottles/
 Title: Dropper Bottles — specs, MOQ and documents | 8PCK
 Description: A dropper bottle is a bottle, a collar and a pipette that have to seal at three points. The 18/410 neck is the standard for serums and oils — the rest is a
-Sections: Glass vs Plastic; Why the Collar Matters More Than the Bottle; Dose per Drop Is a Specification, Not a Guess; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Glass vs Plastic; Why the Collar Matters More Than the Bottle; Dose per Drop Is a Specification, Not a Guess; Where Dropper Bottles Go Wrong; Sizing a Serum Bottle; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/food-jars/
 Title: Food Jars — specs, MOQ and documents | 8PCK
 Description: A food jar is chosen by the filling line before the shelf: how wide the mouth is decides how fast you can fill, and how you close it decides whether the cu
-Sections: Wide Mouth vs Narrow Mouth; Hot Fill and Why PET Has a Ceiling; Tamper Evidence That Actually Gets Used; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Wide Mouth vs Narrow Mouth; Hot Fill and Why PET Has a Ceiling; Tamper Evidence That Actually Gets Used; Where Food Jars Fail; What Documents a Food Buyer Should Ask For; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/hand-soap-bottles/
 Title: Hand Soap Bottles — specs, MOQ and documents | 8PCK
 Description: Hand soap is the one bottle a household buys again without thinking. That makes it the most repeat-ordered SKU in the category — and the one where a pump t
-Sections: Lotion Pump vs Foaming Pump; 250 ml Is a Repeat Purchase, Not a Premium One; What Makes a Pump Fail; Labels in a Wet Bathroom; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Lotion Pump vs Foaming Pump; 250 ml Is a Repeat Purchase, Not a Premium One; What Makes a Pump Fail; Labels in a Wet Bathroom; Where Hand Soap Bottles Fail; 250 ml vs 500 ml for Commercial Buyers; Questions We Get on This; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/
 Title: Guides — bottle sizes, neck finishes, MOQ and tooling | 8PCK
@@ -125,37 +125,37 @@ Description: Practical guides for buyers: pump bottles, neck finishes, MOQ and t
 ## https://8pck.com/guides/lotion-bottles/
 Title: Lotion Bottles — specs, MOQ and documents | 8PCK
 Description: Body lotion is judged twice: on shelf by the bottle, in the hand by the pump. At 300 ml the two are almost the same decision — the wall thickness and the p
-Sections: Dose per Stroke Is a Product Decision; Why 300 ml Feels Premium and 500 ml Feels Economical; PET or HDPE for Lotion; Decoration That Survives a Bathroom Shelf; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Dose per Stroke Is a Product Decision; Why 300 ml Feels Premium and 500 ml Feels Economical; PET or HDPE for Lotion; Decoration That Survives a Bathroom Shelf; Where Lotion Bottles Fail; Why 300 ml Reads Premium; Questions We Get on This; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/pet-bottles/
 Title: PET Bottles — specs, MOQ and documents | 8PCK
 Description: PET is the default clear plastic bottle for cosmetics, personal care and food. It is also the material most often specified without a grade — which is wher
-Sections: PET vs HDPE vs PETG; What “rPET” Means on a Purchase Order; Food Contact and the Documents That Matter; When PET Is the Wrong Choice; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: PET vs HDPE vs PETG; What “rPET” Means on a Purchase Order; Food Contact and the Documents That Matter; When PET Is the Wrong Choice; Where PET Fails, and How to See It Coming; Recycled Content: What a Supplier Should Be Able to Say; Questions We Get on This; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/plastic-pump-bottles/
 Title: Plastic Pump Bottles — specs, MOQ and documents | 8PCK
 Description: A pump bottle is three parts sold as one product — bottle, neck finish and pump. Get the neck wrong and the pump leaks; get the wall thickness wrong and th
-Sections: What the Neck Number Actually Means; Which Size Sells in Which Market; Wall Thickness and Why It Matters With a Pump; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: The Three Parts, and Which One Actually Fails; Sizes and Which Markets Buy Them; Wall Thickness, Weight and Where the Cost Sits; Testing Before the Container Ships; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/sanitizer-bottles/
 Title: Sanitizer bottles — specs, MOQ and documents | 8PCK
 Description: Hand sanitizer is the one product where the pack has to work one-handed, in public, with sticky hands. The bottle is the easy part; the pump is where the d
-Sections: Gel Uses a Pump; Liquid Uses a Sprayer; Alcohol Content Decides the Material; Pocket Size: 50 and 100 ml; Labels and the Sticky-Hands Problem; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Gel Uses a Pump; Liquid Uses a Sprayer; Alcohol Content Decides the Material; Pocket Size: 50 and 100 ml; Labels and the Sticky-Hands Problem; Where Sanitizer Bottles Fail; Gel and Liquid From One Mould; Questions We Get on This; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/serum-bottles/
 Title: Serum Bottles: 30 ml, Dropper or Airless | 8PCK
 Description: A serum is the most expensive thing most brands put in a bottle, and the smallest. At 30 ml the pack decision is almost entirely about how much air the for
-Sections: Dropper: the Default, and Its Cost; Airless: Protection, at a Price; Glass or Plastic; What to Send With the Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Dropper: the Default, and Its Cost; Airless: Protection, at a Price; Glass or Plastic; What to Send With the Brief; Where Serum Bottles Fail; Glass or Plastic, in Practice; Questions We Get on This; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/shampoo-bottles/
 Title: Shampoo Bottles — specs, MOQ and documents | 8PCK
 Description: Shampoo is the highest-volume cosmetic bottle in the world, and almost every complaint about it starts at the same place: the pump seats on a neck that was
-Sections: 500 ml Is the Volume, the Neck Is the Decision; PET or HDPE; What the Filling Line Needs From You; Decoration That Survives a Bathroom; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: 500 ml Is the Volume, the Neck Is the Decision; PET or HDPE; What the Filling Line Needs From You; Decoration That Survives a Bathroom; Where Shampoo Bottles Fail; 500 ml vs 750 ml: the Economics; Questions We Get on This; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/toner-bottles/
 Title: Toner bottles — specs, MOQ and documents | 8PCK
 Description: Toner is the one skincare product sold by volume rather than by dose. That makes the bottle a shelf-width decision before it is a design decision — and 200
-Sections: Why Flat Beats Round on Shelf; Closures for a Water-Thin Liquid; PET or PETG; Decoration on a Flat Face; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why Flat Beats Round on Shelf; Closures for a Water-Thin Liquid; PET or PETG; Decoration on a Flat Face; Where Toner Bottles Fail; Why 200 ml Flat Replaced 250 ml Round; Questions We Get on This; Sizes That Fit This Guide
 
 ## https://8pck.com/
 Title: 8PCK — Custom plastic bottles from CXWN, Shantou
@@ -231,12 +231,12 @@ Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; Wh
 ## https://8pck.com/products/airless/
 Title: Airless — 30–50 ml | 8PCK
 Description: Airless: Airless bottles for serum, foundation and sun care. Pump and base supplied as a set.
-Sections: How an Airless Pack Works; What to Specify Before Quoting; Airless vs Dropper vs Standard Pump; Decoration Changes the Price More Than the Bottle
+Sections: What Buyers Get Wrong; How an Airless Pack Works; What to Specify Before Quoting; Airless vs Dropper vs Standard Pump; Decoration Changes the Price More Than the Bottle
 
 ## https://8pck.com/products/bags/
 Title: Food bags — Stand-up · flat · 3-side | 8PCK
 Description: Food bags: Printed flexible packaging for dry food. Quoted per artwork, MOQ 10,000 pcs.
-Sections: When a Pouch Beats a Bottle; Material and MOQ; Structures and When Each Is Used; Why the MOQ Is 10,000, Not 1,000; Filling and Sealing; Inverted Pouch: the Spout at the Wrong End
+Sections: What Buyers Get Wrong; When a Pouch Beats a Bottle; Material and MOQ; Structures and When Each Is Used; Why the MOQ Is 10,000, Not 1,000; Filling and Sealing; Inverted Pouch: the Spout at the Wrong End
 
 ## https://8pck.com/products/bottles/100ml-pet-round-bottle/
 Title: 100 ml PET round bottle — 100 ml, 20/410 | 8PCK
@@ -281,17 +281,17 @@ Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; Wh
 ## https://8pck.com/products/bottles/
 Title: Bottles — PET · HDPE · PETG | 8PCK
 Description: Bottles: 50–1,000 ml, 18–38 mm necks. Eight stock moulds, ready for decoration.
-Sections: What We Mould, and in Which Material; The Neck Is the Specification That Matters; Decoration, and What It Costs in MOQ; Size Chart: What Fits Which Market; How the Quote Is Built
+Sections: What Buyers Get Wrong; What We Mould, and in Which Material; The Neck Is the Specification That Matters; Decoration, and What It Costs in MOQ; Size Chart: What Fits Which Market; How the Quote Is Built
 
 ## https://8pck.com/products/closures/
 Title: Bottle Caps & Closures — Pumps, Caps, Sprayers | 8PCK
 Description: Bottle Caps & Closures: 24/410 lotion pumps, mist sprayers, flip-top and disc-top caps. Matched to our bottles.
-Sections: Pumps, Caps and Sprayers Are Tested on the Bottle; What to Send When Ordering Closures Only; Why Closures Leak, in Order of Frequency; Matching Table by Neck; Lead Time and Packing
+Sections: What Buyers Get Wrong; Pumps, Caps and Sprayers Are Tested on the Bottle; What to Send When Ordering Closures Only; Why Closures Leak, in Order of Frequency; Matching Table by Neck; Lead Time and Packing
 
 ## https://8pck.com/products/food-bottles/
 Title: Juice & Sauce Bottles — PET & HDPE | 8PCK
 Description: Food Bottles: 150–1,000 ml juice and sauce bottles in PET and HDPE, with declarations for food contact.
-Sections: Cold Fill and Hot Fill Are Different Bottles; Necks, Orifices and Closures; Why Food Bottles Cost More Than Cosmetic Bottles; Frequently Asked
+Sections: What Buyers Get Wrong; Cold Fill and Hot Fill Are Different Bottles; Necks, Orifices and Closures; Why Food Bottles Cost More Than Cosmetic Bottles; Frequently Asked
 
 ## https://8pck.com/products/
 Title: Products — bottles, jars, airless and closures | 8PCK
@@ -311,32 +311,32 @@ Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; Wh
 ## https://8pck.com/products/jars/
 Title: Jars — 250–500 ml | 8PCK
 Description: Jars: Wide-mouth PET jars for dry food, spices and supplements. Tamper-evident options.
-Sections: Cosmetic Jars and Food Jars Are Different Products; Sealing, and Where Jars Fail; MOQ and Colour; Single Wall, Double Wall, and What the Rim Does; Sealing Methods Compared; Decoration and Packing
+Sections: What Buyers Get Wrong; Cosmetic Jars and Food Jars Are Different Products; Sealing, and Where Jars Fail; MOQ and Colour; Single Wall, Double Wall, and What the Rim Does; Sealing Methods Compared; Decoration and Packing
 
 ## https://8pck.com/products/jugs/
 Title: Plastic Jugs — 1 Gallon, Half-Gallon & 5 L | 8PCK
 Description: Jugs & Gallon Bottles: 1 gallon, half-gallon, detergent and 5 L jerry cans in HDPE, blow-moulded with a handle.
-Sections: Handles Change the Mould; What Buyers Get Wrong; Decorating a Jug; Frequently Asked
+Sections: What Buyers Get Wrong; Handles Change the Mould; What Buyers Get Wrong; Decorating a Jug; Frequently Asked
 
 ## https://8pck.com/products/perfume-bottles/
 Title: Perfume Bottles — Plastic Atomizers, 2–50 ml | 8PCK
 Description: Perfume Bottles: 2–50 ml plastic atomizers for travel, testers and refill formats — crimp or screw pump.
-Sections: Plastic Atomizers, Honestly Described; Crimp or Screw; What to Send for a Quote; Frequently Asked
+Sections: What Buyers Get Wrong; Plastic Atomizers, Honestly Described; Crimp or Screw; What to Send for a Quote; Frequently Asked
 
 ## https://8pck.com/products/pharma-bottles/
 Title: Pill Bottles — HDPE, Prescription & Supplement | 8PCK
 Description: Pharma Bottles: 30–500 ml pill, prescription and supplement bottles, with child-resistant closures tested on the pack.
-Sections: What We Supply, and What We Do Not; Child-Resistant Closures; Colour and Light Protection; Frequently Asked
+Sections: What Buyers Get Wrong; What We Supply, and What We Do Not; Child-Resistant Closures; Colour and Light Protection; Frequently Asked
 
 ## https://8pck.com/products/spray-bottles/
 Title: Spray Bottles — Trigger, Mist & Foam Sprayers | 8PCK
 Description: Spray Bottles: 100–1,000 ml in PET and HDPE, with trigger, mist and foam sprayers tested on the bottle.
-Sections: Trigger, Mist and Foam: Three Different Products; What Decides the Cost; Testing Before It Ships; Frequently Asked
+Sections: What Buyers Get Wrong; Trigger, Mist and Foam: Three Different Products; What Decides the Cost; Testing Before It Ships; Frequently Asked
 
 ## https://8pck.com/products/squeeze-bottles/
 Title: Squeeze Bottles — LDPE & HDPE, 30–500 ml | 8PCK
 Description: Squeeze Bottles: 30–500 ml soft-wall and firm-wall squeeze bottles for sauces, gels and cleansers.
-Sections: Soft Wall or Firm Wall; Necks and Dispensing; MOQ and Colour; Frequently Asked
+Sections: What Buyers Get Wrong; Soft Wall or Firm Wall; Necks and Dispensing; MOQ and Colour; Frequently Asked
 
 ## https://8pck.com/quality.html
 Title: Quality & compliance — ISO 9001, EU 10/2011, RoHS | 8PCK
