@@ -78,15 +78,35 @@ Title: Lipstick cases — 12.1 mm standard, 11 mm slim | 8PCK
 Description: A lipstick case is judged in the hand before it is opened. The mechanism is standard; the finish and the weight are what separate a mass line from a premiu
 Sections: The Mechanism Is Not the Differentiator; Finishes and What They Cost in MOQ; What to Send; Questions We Get on This Format
 
+## https://8pck.com/formats/lipstick-cases/lipstick-case-b/
+Title: Lipstick Case B — 1,000 pcs MOQ | 8PCK
+Description: Lipstick Case B: on request, plastic, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/formats/lipstick-cases/round-mechanism/
 Title: Round Lipstick Case — standard, 1,000 pcs MOQ | 8PCK
 Description: Round Lipstick Case: standard, ABS body, AS inner, twist mechanism, for lipstick and lip balm. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/formats/soft-tubes/clear-soft-tube-with-screw-cap/
+Title: Clear Soft Tube with Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: Clear Soft Tube with Screw Cap: on request, plastic, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/formats/soft-tubes/cosmetic-squeeze-50/
 Title: 50 ml Cosmetic Squeeze Tube — 1,000 pcs MOQ | 8PCK
 Description: 50 ml Cosmetic Squeeze Tube in PE with screw cap, 50 ml, for foundation, BB cream and gel. 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Size Exists; Where It Is Used; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/formats/soft-tubes/frosted-soft-tube-with-flip-top-cap/
+Title: Frosted Soft Tube with Flip-Top Cap — 1,000 pcs MOQ | 8PCK
+Description: Frosted Soft Tube with Flip-Top Cap: on request, plastic, flip-top cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/formats/soft-tubes/gloss-soft-tube-with-flip-top-cap/
+Title: Gloss Soft Tube with Flip-Top Cap — 1,000 pcs MOQ | 8PCK
+Description: Gloss Soft Tube with Flip-Top Cap: on request, plastic, flip-top cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/formats/soft-tubes/glossy-hand-cream-50/
 Title: 50 ml Glossy Hand Cream Tube — 1,000 pcs MOQ | 8PCK
@@ -108,9 +128,19 @@ Title: Printed Soft Tube with Applicator Cap — 1,000 pcs MOQ | 8PCK
 Description: Printed Soft Tube with Applicator Cap: on request, plastic, applicator cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
+## https://8pck.com/formats/soft-tubes/printed-soft-tube-with-flip-top-cap/
+Title: Printed Soft Tube with Flip-Top Cap — 1,000 pcs MOQ | 8PCK
+Description: Printed Soft Tube with Flip-Top Cap: on request, plastic, flip-top cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/formats/soft-tubes/printed-soft-tube-with-screw-cap/
 Title: Printed Soft Tube with Screw Cap — 1,000 pcs MOQ | 8PCK
-Description: Printed Soft Tube with Screw Cap: on request, plastic, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Description: Printed Soft Tube with Screw Cap: on request, plastic, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/formats/soft-tubes/soft-tube-with-screw-cap/
+Title: Soft Tube with Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: Soft Tube with Screw Cap: on request, plastic, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/formats/soft-tubes/squeeze-cosmetic-tubes/
@@ -128,6 +158,16 @@ Title: White Soft Tube with Flip Cap — 50–100 ml, 1,000 pcs MOQ | 8PCK
 Description: White Soft Tube with Flip Cap: 50–100 ml, PE, flip-top cap, for hand cream, cleanser and sunscreen. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
 Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
+## https://8pck.com/formats/soft-tubes/white-soft-tube-with-flip-top-cap/
+Title: White Soft Tube with Flip-Top Cap — 1,000 pcs MOQ | 8PCK
+Description: White Soft Tube with Flip-Top Cap: on request, plastic, flip-top cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/formats/soft-tubes/white-soft-tube-with-screw-cap/
+Title: White Soft Tube with Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: White Soft Tube with Screw Cap: on request, plastic, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/formats/straw-fibre-bottles/green-straw-fibre-bottle/
 Title: Green Straw-Fibre Bottle — 1,000 pcs MOQ | 8PCK
 Description: Green Straw-Fibre Bottle: on request, plastic, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
@@ -137,6 +177,16 @@ Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and T
 Title: Straw-fibre bottles — 100, 200, 250, 300, 500 ml | 8PCK
 Description: Wheat-straw HDPE is not biodegradable. It is HDPE with 20–30 % agricultural fibre, which changes the colour, the surface and the story — not the recycling
 Sections: What It Is, in One Paragraph; Where the Fibre Shows; Claims That Survive an Audit; Questions We Get on This Format
+
+## https://8pck.com/formats/straw-fibre-bottles/natural-straw-fibre-bottle/
+Title: Natural Straw-Fibre Bottle — 1,000 pcs MOQ | 8PCK
+Description: Natural Straw-Fibre Bottle: on request, plastic, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/formats/straw-fibre-bottles/white-straw-fibre-bottle/
+Title: White Straw-Fibre Bottle — 1,000 pcs MOQ | 8PCK
+Description: White Straw-Fibre Bottle: on request, plastic, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/formats.html
 Title: Tubes, Lipstick and Straw-Fibre Bottles — 8PCK
@@ -376,6 +426,16 @@ Title: 750 ml shampoo bottle — 750 ml, 28/410 | 8PCK
 Description: 750 ml shampoo bottle: HDPE, 28/410 neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
 Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Closures, Packing and Tolerance; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec
 
+## https://8pck.com/products/bottles/hdpe-flat-shoulder-bottle-with-applicator-cap/
+Title: HDPE Flat-Shoulder Bottle with Applicator Cap — 1,000 pcs MOQ | 8PCK
+Description: HDPE Flat-Shoulder Bottle with Applicator Cap: on request, HDPE, applicator cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/bottles/hdpe-special-shape-bottle/
+Title: HDPE Special-Shape Bottle — 1,000 pcs MOQ | 8PCK
+Description: HDPE Special-Shape Bottle: on request, HDPE, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/products/bottles/
 Title: Bottles — PET · HDPE · PETG | 8PCK
 Description: Bottles: 50–1,000 ml, 18–38 mm necks. Eight stock moulds, ready for decoration.
@@ -416,6 +476,11 @@ Title: 500 ml PET Round Bottle with Disc Top — 1,000 pcs MOQ | 8PCK
 Description: 500 ml PET Round Bottle with Disc Top in PET with disc-top cap, 500 ml, for body wash, shampoo and lotion. 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Size Exists; Where It Is Used; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
+## https://8pck.com/products/bottles/pet-round-shoulder-bottle-with-screw-cap/
+Title: PET Round-Shoulder Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: PET Round-Shoulder Bottle with Screw Cap: on request, PET, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/products/bottles/special-shape-bottle-with-screw-cap/
 Title: Special-Shape Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
 Description: Special-Shape Bottle with Screw Cap: on request, plastic, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
@@ -441,6 +506,11 @@ Title: 10 ml Dropper Oil Bottle — 1,000 pcs MOQ | 8PCK
 Description: 10 ml Dropper Oil Bottle in PET / glass with screw cap with dropper, 10 ml, for essential oils, serums and tinctures. 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Size Exists; Where It Is Used; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
+## https://8pck.com/products/dropper-bottles/10-ml-pe-dropper-bottle-with-tamper-evident-cap/
+Title: 10 ml PE Dropper Bottle with Tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
+Description: 10 ml PE Dropper Bottle with Tamper-Evident Cap: 10 ml, PE, tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/products/dropper-bottles/10-ml-pe-pen-shaped-dropper-bottle-with-child-resistant-wi/
 Title: 10 ml PE Pen-Shaped Dropper Bottle with Child-Resistant with tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
 Description: 10 ml PE Pen-Shaped Dropper Bottle with Child-Resistant with tamper-Evident Cap: 10 ml, PE, child-resistant with tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
@@ -461,6 +531,21 @@ Title: 10 ml PE Round Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
 Description: 10 ml PE Round Dropper Bottle with Screw Cap: 10 ml, PE, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
+## https://8pck.com/products/dropper-bottles/10-ml-pet-dropper-bottle-with-child-resistant-tamper-evi/
+Title: 10 ml PET Dropper Bottle with Child-Resistant Tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
+Description: 10 ml PET Dropper Bottle with Child-Resistant Tamper-Evident Cap: 10 ml, PET, tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/10-ml-pet-dropper-bottle-with-screw-cap/
+Title: 10 ml PET Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 10 ml PET Dropper Bottle with Screw Cap: 10 ml, PET, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/10-ml-pet-dropper-bottle-with-tamper-evident-cap/
+Title: 10 ml PET Dropper Bottle with Tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
+Description: 10 ml PET Dropper Bottle with Tamper-Evident Cap: 10 ml, PET, tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/products/dropper-bottles/10-ml-round/
 Title: 10 ml Round Dropper Bottle — 10 ml, 1,000 pcs MOQ | 8PCK
 Description: 10 ml Round Dropper Bottle: 10 ml, LDPE, tamper-evident cap with plug, for essential oil and tincture. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
@@ -471,6 +556,21 @@ Title: 100 ml Translucent Dropper Oil Bottle — 1,000 pcs MOQ | 8PCK
 Description: 100 ml Translucent Dropper Oil Bottle in PET with screw cap with dropper, 100 ml, for massage oil, body oil and tincture. 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Size Exists; Where It Is Used; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
+## https://8pck.com/products/dropper-bottles/100-ml-pe-dropper-bottle/
+Title: 100 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
+Description: 100 ml PE Dropper Bottle: 100 ml, PE, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/100-ml-pe-dropper-bottle-with-child-resistant-screw-cap/
+Title: 100 ml PE Dropper Bottle with Child-Resistant Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 100 ml PE Dropper Bottle with Child-Resistant Screw Cap: 100 ml, PE, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/100-ml-pe-dropper-bottle-with-screw-cap/
+Title: 100 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 100 ml PE Dropper Bottle with Screw Cap: 100 ml, PE, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/products/dropper-bottles/100-ml-pe-round-dropper-bottle-with-child-resistant-with-t/
 Title: 100 ml PE Round Dropper Bottle with Child-Resistant with tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
 Description: 100 ml PE Round Dropper Bottle with Child-Resistant with tamper-Evident Cap: 100 ml, PE, child-resistant with tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
@@ -479,6 +579,31 @@ Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and T
 ## https://8pck.com/products/dropper-bottles/100-ml-round/
 Title: 100 ml Round Dropper Bottle — 100 ml, 1,000 pcs MOQ | 8PCK
 Description: 100 ml Round Dropper Bottle: 100 ml, LDPE, tamper-evident cap with plug, for massage oil and body oil. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/120-ml-pe-dropper-bottle-with-screw-cap/
+Title: 120 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 120 ml PE Dropper Bottle with Screw Cap: 120 ml, PE, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/15-ml-pe-dropper-bottle/
+Title: 15 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
+Description: 15 ml PE Dropper Bottle: 15 ml, PE, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/15-ml-pe-dropper-bottle-with-child-resistant-screw-cap/
+Title: 15 ml PE Dropper Bottle with Child-Resistant Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 15 ml PE Dropper Bottle with Child-Resistant Screw Cap: 15 ml, PE, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/15-ml-pe-dropper-bottle-with-screw-cap/
+Title: 15 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 15 ml PE Dropper Bottle with Screw Cap: 15 ml, PE, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/15-ml-pe-dropper-bottle-with-tamper-evident-cap/
+Title: 15 ml PE Dropper Bottle with Tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
+Description: 15 ml PE Dropper Bottle with Tamper-Evident Cap: 15 ml, PE, tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/products/dropper-bottles/15-ml-pe-pen-shaped-dropper-bottle-with-screw-cap/
@@ -491,6 +616,16 @@ Title: 15 ml PETG Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
 Description: 15 ml PETG Dropper Bottle with Screw Cap: 15 ml, PETG, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
+## https://8pck.com/products/dropper-bottles/18-ml-pe-dropper-bottle/
+Title: 18 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
+Description: 18 ml PE Dropper Bottle: 18 ml, PE, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/18-ml-pe-dropper-bottle-with-screw-cap/
+Title: 18 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 18 ml PE Dropper Bottle with Screw Cap: 18 ml, PE, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/products/dropper-bottles/180-ml-pe-round-dropper-bottle-with-tamper-evident-cap/
 Title: 180 ml PE Round Dropper Bottle with Tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
 Description: 180 ml PE Round Dropper Bottle with Tamper-Evident Cap: 180 ml, PE, tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
@@ -500,6 +635,21 @@ Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and T
 Title: 2.5 ml Dropper Oil Bottle — 1,000 pcs MOQ | 8PCK
 Description: 2.5 ml Dropper Oil Bottle in PET / glass with screw cap with dropper, 2.5 ml, for essential oil samples and testers. 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Size Exists; Where It Is Used; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/2-5-ml-pe-dropper-bottle/
+Title: 2.5 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
+Description: 2.5 ml PE Dropper Bottle: 2.5 ml, PE, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/2-5-ml-pe-dropper-bottle-with-child-resistant-screw-cap/
+Title: 2.5 ml PE Dropper Bottle with Child-Resistant Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 2.5 ml PE Dropper Bottle with Child-Resistant Screw Cap: 2.5 ml, PE, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/2-5-ml-pe-dropper-bottle-with-screw-cap/
+Title: 2.5 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 2.5 ml PE Dropper Bottle with Screw Cap: 2.5 ml, PE, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/products/dropper-bottles/2-5-ml-pe-round-dropper-bottle-with-child-resistant-cap/
 Title: 2.5 ml PE Round Dropper Bottle with Child-Resistant Cap — 1,000 pcs MOQ | 8PCK
@@ -511,6 +661,11 @@ Title: 2.5 ml Round Dropper Bottle — 2.5 ml, 1,000 pcs MOQ | 8PCK
 Description: 2.5 ml Round Dropper Bottle: 2.5 ml, LDPE, screw cap with plug, for samples, testers and blends. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
 Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
+## https://8pck.com/products/dropper-bottles/20-ml-pe-dropper-bottle/
+Title: 20 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
+Description: 20 ml PE Dropper Bottle: 20 ml, PE, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/products/dropper-bottles/20-ml-pe-pen-shaped-dropper-bottle-with-screw-cap/
 Title: 20 ml PE Pen-Shaped Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
 Description: 20 ml PE Pen-Shaped Dropper Bottle with Screw Cap: 20 ml, PE, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
@@ -519,6 +674,36 @@ Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and T
 ## https://8pck.com/products/dropper-bottles/20-ml-pe-round-dropper-bottle-with-screw-cap/
 Title: 20 ml PE Round Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
 Description: 20 ml PE Round Dropper Bottle with Screw Cap: 20 ml, PE, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/25-ml-pe-dropper-bottle-with-tamper-evident-cap/
+Title: 25 ml PE Dropper Bottle with Tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
+Description: 25 ml PE Dropper Bottle with Tamper-Evident Cap: 25 ml, PE, tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/3-ml-pe-dropper-bottle/
+Title: 3 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
+Description: 3 ml PE Dropper Bottle: 3 ml, PE, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/3-ml-pe-dropper-bottle-with-screw-cap/
+Title: 3 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 3 ml PE Dropper Bottle with Screw Cap: 3 ml, PE, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/30-ml-pe-dropper-bottle/
+Title: 30 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
+Description: 30 ml PE Dropper Bottle: 30 ml, PE, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/30-ml-pe-dropper-bottle-with-child-resistant-screw-cap/
+Title: 30 ml PE Dropper Bottle with Child-Resistant Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 30 ml PE Dropper Bottle with Child-Resistant Screw Cap: 30 ml, PE, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/30-ml-pe-pen-shaped-dropper-bottle-with-child-resistant-/
+Title: 30 ml PE Pen-Shaped Dropper Bottle with Child-Resistant Tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
+Description: 30 ml PE Pen-Shaped Dropper Bottle with Child-Resistant Tamper-Evident Cap: 30 ml, PE, tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/products/dropper-bottles/30-ml-pe-pen-shaped-dropper-bottle-with-screw-cap/
@@ -541,10 +726,35 @@ Title: 30 ml Pen-Shaped Dropper Bottle — 30 ml, 1,000 pcs MOQ | 8PCK
 Description: 30 ml Pen-Shaped Dropper Bottle: 30 ml, LDPE, child-resistant tamper-evident cap, for CBD oil, essential oil and tincture. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
 Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
+## https://8pck.com/products/dropper-bottles/30-ml-pet-dropper-bottle-with-child-resistant-tamper-evi/
+Title: 30 ml PET Dropper Bottle with Child-Resistant Tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
+Description: 30 ml PET Dropper Bottle with Child-Resistant Tamper-Evident Cap: 30 ml, PET, tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/30-ml-pet-dropper-bottle-with-screw-cap/
+Title: 30 ml PET Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 30 ml PET Dropper Bottle with Screw Cap: 30 ml, PET, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/30-ml-pet-dropper-bottle-with-tamper-evident-cap/
+Title: 30 ml PET Dropper Bottle with Tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
+Description: 30 ml PET Dropper Bottle with Tamper-Evident Cap: 30 ml, PET, tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/products/dropper-bottles/5-ml/
 Title: 5 ml Dropper Bottles — Plastic, 18/410, 1,000 pcs | 8PCK
 Description: 5 ml PET dropper bottles with 18/410 necks for serums, oils and samples. 1,000 pcs MOQ, samples in 7 days, closures fitted before packing.
 Sections: Where 5 ml Is Used; Why the Fill Tolerance Matters at 5 ml; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
+
+## https://8pck.com/products/dropper-bottles/5-ml-pe-dropper-bottle-with-child-resistant-screw-cap/
+Title: 5 ml PE Dropper Bottle with Child-Resistant Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 5 ml PE Dropper Bottle with Child-Resistant Screw Cap: 5 ml, PE, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/5-ml-pe-dropper-bottle-with-screw-cap/
+Title: 5 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 5 ml PE Dropper Bottle with Screw Cap: 5 ml, PE, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/products/dropper-bottles/5-ml-pe-round-dropper-bottle-with-child-resistant-with-tam/
 Title: 5 ml PE Round Dropper Bottle with Child-Resistant with tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
@@ -554,6 +764,31 @@ Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and T
 ## https://8pck.com/products/dropper-bottles/5-ml-pe-round-dropper-bottle-with-tamper-evident-cap/
 Title: 5 ml PE Round Dropper Bottle with Tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
 Description: 5 ml PE Round Dropper Bottle with Tamper-Evident Cap: 5 ml, PE, tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/5-ml-pet-dropper-bottle-with-child-resistant-screw-cap/
+Title: 5 ml PET Dropper Bottle with Child-Resistant Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 5 ml PET Dropper Bottle with Child-Resistant Screw Cap: 5 ml, PET, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/5-ml-pet-dropper-bottle-with-child-resistant-tamper-evid/
+Title: 5 ml PET Dropper Bottle with Child-Resistant Tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
+Description: 5 ml PET Dropper Bottle with Child-Resistant Tamper-Evident Cap: 5 ml, PET, tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/5-ml-pet-dropper-bottle-with-screw-cap/
+Title: 5 ml PET Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 5 ml PET Dropper Bottle with Screw Cap: 5 ml, PET, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/5-ml-pet-dropper-bottle-with-tamper-evident-cap/
+Title: 5 ml PET Dropper Bottle with Tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
+Description: 5 ml PET Dropper Bottle with Tamper-Evident Cap: 5 ml, PET, tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/50-ml-pe-dropper-bottle/
+Title: 50 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
+Description: 50 ml PE Dropper Bottle: 50 ml, PE, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/products/dropper-bottles/50-ml-pe-pen-shaped-dropper-bottle-with-screw-cap/
@@ -566,6 +801,26 @@ Title: 50 ml PE Round Dropper Bottle with Child-Resistant with tamper-Evident Ca
 Description: 50 ml PE Round Dropper Bottle with Child-Resistant with tamper-Evident Cap: 50 ml, PE, child-resistant with tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
+## https://8pck.com/products/dropper-bottles/50-ml-pet-dropper-bottle-with-child-resistant-tamper-evi/
+Title: 50 ml PET Dropper Bottle with Child-Resistant Tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
+Description: 50 ml PET Dropper Bottle with Child-Resistant Tamper-Evident Cap: 50 ml, PET, tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/60-ml-pe-dropper-bottle/
+Title: 60 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
+Description: 60 ml PE Dropper Bottle: 60 ml, PE, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/60-ml-pe-dropper-bottle-with-screw-cap/
+Title: 60 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 60 ml PE Dropper Bottle with Screw Cap: 60 ml, PE, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/60-ml-pe-pen-shaped-dropper-bottle-with-child-resistant-/
+Title: 60 ml PE Pen-Shaped Dropper Bottle with Child-Resistant Tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
+Description: 60 ml PE Pen-Shaped Dropper Bottle with Child-Resistant Tamper-Evident Cap: 60 ml, PE, tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/products/dropper-bottles/60-ml-pe-pen-shaped-dropper-bottle-with-child-resistant-wi/
 Title: 60 ml PE Pen-Shaped Dropper Bottle with Child-Resistant with tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
 Description: 60 ml PE Pen-Shaped Dropper Bottle with Child-Resistant with tamper-Evident Cap: 60 ml, PE, child-resistant with tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
@@ -574,6 +829,16 @@ Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and T
 ## https://8pck.com/products/dropper-bottles/60-ml-pe-pen-shaped-dropper-bottle-with-tamper-evident-cap/
 Title: 60 ml PE Pen-Shaped Dropper Bottle with Tamper-Evident Cap — 1,000 pcs MOQ | 8PCK
 Description: 60 ml PE Pen-Shaped Dropper Bottle with Tamper-Evident Cap: 60 ml, PE, tamper-evident cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/8-ml-pe-dropper-bottle-with-child-resistant-screw-cap/
+Title: 8 ml PE Dropper Bottle with Child-Resistant Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 8 ml PE Dropper Bottle with Child-Resistant Screw Cap: 8 ml, PE, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/dropper-bottles/8-ml-pe-dropper-bottle-with-screw-cap/
+Title: 8 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
+Description: 8 ml PE Dropper Bottle with Screw Cap: 8 ml, PE, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/products/dropper-bottles/
@@ -641,9 +906,29 @@ Title: Double-Wall Cosmetic Jar — 15–100 ml, 1,000 pcs MOQ | 8PCK
 Description: Double-Wall Cosmetic Jar: 15–100 ml, PETG outer, PP inner, screw lid, for premium creams and balms. Real photos from the production line, 1,000 pcs per colour, samples in 7 days.
 Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
+## https://8pck.com/products/jars/cosmetic-jar-b/
+Title: Cosmetic Jar B — 1,000 pcs MOQ | 8PCK
+Description: Cosmetic Jar B: on request, plastic, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/jars/cosmetic-jar-c/
+Title: Cosmetic Jar C — 1,000 pcs MOQ | 8PCK
+Description: Cosmetic Jar C: on request, plastic, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/jars/cosmetic-jar-d/
+Title: Cosmetic Jar D — 1,000 pcs MOQ | 8PCK
+Description: Cosmetic Jar D: on request, plastic, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
 ## https://8pck.com/products/jars/cosmetic-jar-e/
 Title: Cosmetic Jar E — 1,000 pcs MOQ | 8PCK
 Description: Cosmetic Jar E: on request, plastic, screw cap. Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
+Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/products/jars/cosmetic-jar-f/
+Title: Cosmetic Jar F — 1,000 pcs MOQ | 8PCK
+Description: Cosmetic Jar F: on request, plastic, . Real production photos, 1,000 pcs per colour, samples in 7 days, made by CXWN in Shantou.
 Sections: Why This Format; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/products/jars/
