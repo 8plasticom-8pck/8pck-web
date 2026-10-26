@@ -24,6 +24,26 @@ Title: What is the lead time for custom plastic bottles from China? | 8PCK
 Description: Samples in 7 days from a stock mould; production 25–35 days after sample approval; add 15–20 days if new tooling is needed. Sea freight adds about 30–35 da
 Sections: What Runs in Parallel; The Timeline, Step by Step; What Actually Delays an Order; Shipping After Production; How to Plan a Launch Date; Frequently Asked; Related
 
+## https://8pck.com/compare/24-410-vs-28-410/
+Title: 24/410 vs 28/410 Neck Finish — What Fits What | 8PCK
+Description: 24/410 and 28/410 necks compared: diameter, pump compatibility, bottle size and dose. A table of what fits, and the mismatch that causes leaks.
+Sections: Why the Number Is Two Numbers; How to Confirm Before Ordering; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/compare/airless-vs-dropper/
+Title: Airless vs Dropper Bottles — Protection, Cost and When | 8PCK
+Description: Airless packs versus dropper bottles: oxygen exposure, dispensing accuracy, residual product and cost. A decision table for serums and actives.
+Sections: The Test That Decides It; Where Airless Disappoints; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
+
+## https://8pck.com/compare/ldpe-vs-hdpe/
+Title: LDPE vs HDPE — Soft-Wall or Firm-Wall Squeeze Bottles | 8PCK
+Description: LDPE collapses as it empties; HDPE springs back and keeps its shape. Compared on feel, barrier, cost and product type, with a decision table.
+Sections: How to Choose in Practice; Where LDPE Fails; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/compare/pet-vs-hdpe/
+Title: PET vs HDPE Bottles — Which Material, and When | 8PCK
+Description: PET vs HDPE compared on clarity, cost, chemical resistance, recyclability and hot fill. A decision table by product type, from a factory that moulds both.
+Sections: The Decision in One Line; Where Buyers Get It Wrong; Cost and Freight; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
+
 ## https://8pck.com/contact.html
 Title: Contact — get a quote in 24 hours | 8PCK
 Description: Request a quote for custom plastic bottles. Three fields, reply within 24 hours.
@@ -51,7 +71,7 @@ Description: Direct answers on minimum order quantity, tooling cost, lead time, 
 ## https://8pck.com/formats/lip-gloss-tubes/
 Title: Lip Gloss Tubes — 5–15 ml with Doe Foot Applicator | 8PCK
 Description: Lip gloss tubes from 5 to 15 ml in PETG and ABS, with doe-foot or brush applicators, 1,000 pcs MOQ, samples in 7 days.
-Sections: The Wiper Decides How Much Product Comes Out; Why PETG, Not PET; What to Send in a Brief; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+Sections: The Wiper Decides How Much Product Comes Out; Why PETG, Not PET; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
 ## https://8pck.com/formats/lipstick-cases/
 Title: Lipstick cases — 12.1 mm standard, 11 mm slim | 8PCK
@@ -72,6 +92,10 @@ Sections: What It Is, in One Paragraph; Where the Fibre Shows; Claims That Survi
 Title: Tubes, Lipstick and Straw-Fibre Bottles — 8PCK
 Description: Extruded tubes, lipstick cases and wheat-straw HDPE bottles from the same Shantou plant. Ranges, MOQ and decoration.
 Sections: What Each Line Can Do; Ordering Across Formats
+
+## https://8pck.com/glossary/
+Title: Plastic packaging glossary — 24 terms explained | 8PCK
+Description: Neck finish, MOQ, preform, airless, mass balance and 19 more packaging terms, defined in plain English.
 
 ## https://8pck.com/guides/airless-bottles/
 Title: Airless Bottles — specs, MOQ and documents | 8PCK
@@ -175,7 +199,7 @@ Sections: Tubes, Lipstick and Straw-Fibre Bottles; Twelve Moulds, Three Applicat
 ## https://8pck.com/materials/polyethylene-bottles/
 Title: Polyethylene Bottles — HDPE & LDPE, 30–1,000 ml | 8PCK
 Description: Polyethylene bottles in HDPE and LDPE, 30–1,000 ml, for shampoo, detergent, sauces and chemicals. 1,000 pcs MOQ, samples in 7 days.
-Sections: HDPE vs LDPE; Why Polyethylene and Not PET; Recycling Note; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+Sections: HDPE vs LDPE; Why Polyethylene and Not PET; Recycling Note; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
 ## https://8pck.com/news/berlin-packaging-premi-consolidation/
 Title: Berlin Packaging Buys Premi | 8PCK
@@ -245,12 +269,12 @@ Sections: What Changed; What It Means for Buyers; What to Ask a Supplier; What I
 ## https://8pck.com/products/airless/30ml-airless-bottle/
 Title: 30 ml airless bottle — 30 ml, Airless | 8PCK
 Description: 30 ml airless bottle: PETG, Airless neck, MOQ 1,000 pcs, lead time 30–40 days. EU 10/2011 migration test on file.
-Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; the Same Mould, as It Comes Off the Line
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Closures, Packing and Tolerance; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec
 
 ## https://8pck.com/products/airless/50ml-airless-bottle/
 Title: 50 ml airless bottle — 50 ml, Airless | 8PCK
 Description: 50 ml airless bottle: PETG, Airless neck, MOQ 1,000 pcs, lead time 30–40 days. EU 10/2011 migration test on file.
-Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; the Same Mould, as It Comes Off the Line
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Closures, Packing and Tolerance; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec
 
 ## https://8pck.com/products/airless/
 Title: Airless — 30–50 ml | 8PCK
@@ -265,42 +289,42 @@ Sections: What Buyers Get Wrong; When a Pouch Beats a Bottle; Material and MOQ; 
 ## https://8pck.com/products/bottles/100ml-pet-round-bottle/
 Title: 100 ml PET round bottle — 100 ml, 20/410 | 8PCK
 Description: 100 ml PET round bottle: PET, 20/410 neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
-Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; the Same Mould, as It Comes Off the Line
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Closures, Packing and Tolerance; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec
 
 ## https://8pck.com/products/bottles/200ml-flat-bottle/
 Title: 200 ml flat bottle — 200 ml, 24/410 | 8PCK
 Description: 200 ml flat bottle: HDPE, 24/410 neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
-Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; the Same Mould, as It Comes Off the Line
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Closures, Packing and Tolerance; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec
 
 ## https://8pck.com/products/bottles/250ml-pet-pump-bottle/
 Title: 250 ml PET pump bottle — 250 ml, 24/410 | 8PCK
 Description: 250 ml PET pump bottle: PET (food grade), 24/410 neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
-Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; the Same Mould, as It Comes Off the Line
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Closures, Packing and Tolerance; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec
 
 ## https://8pck.com/products/bottles/300ml-pet-pump-bottle/
 Title: 300 ml PET pump bottle — 300 ml, 24/410 | 8PCK
 Description: 300 ml PET pump bottle: PET (food grade), 24/410 neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
-Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; the Same Mould, as It Comes Off the Line
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Closures, Packing and Tolerance; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec
 
 ## https://8pck.com/products/bottles/30ml-pet-dropper-bottle/
 Title: 30 ml PET dropper bottle — 30 ml, 18/410 | 8PCK
 Description: 30 ml PET dropper bottle: PET, 18/410 neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
-Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; the Same Mould, as It Comes Off the Line
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Closures, Packing and Tolerance; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec
 
 ## https://8pck.com/products/bottles/500ml-pet-pump-bottle/
 Title: 500 ml PET pump bottle — 500 ml, 24/410 | 8PCK
 Description: 500 ml PET pump bottle: PET (food grade), 24/410 neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
-Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; the Same Mould, as It Comes Off the Line
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Closures, Packing and Tolerance; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec
 
 ## https://8pck.com/products/bottles/50ml-travel-bottle/
 Title: 50 ml travel bottle — 50 ml, 20/410 | 8PCK
 Description: 50 ml travel bottle: PET, 20/410 neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
-Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; the Same Mould, as It Comes Off the Line
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Closures, Packing and Tolerance; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec
 
 ## https://8pck.com/products/bottles/750ml-shampoo-bottle/
 Title: 750 ml shampoo bottle — 750 ml, 28/410 | 8PCK
 Description: 750 ml shampoo bottle: HDPE, 28/410 neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
-Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; the Same Mould, as It Comes Off the Line
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Closures, Packing and Tolerance; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec
 
 ## https://8pck.com/products/bottles/
 Title: Bottles — PET · HDPE · PETG | 8PCK
@@ -310,12 +334,12 @@ Sections: What Buyers Get Wrong; What We Mould, and in Which Material; The Neck 
 ## https://8pck.com/products/bottles/square-pump/
 Title: Square Plastic Pump Bottles — 250–500 ml PET | 8PCK
 Description: Square PET pump bottles, 250 and 500 ml, 24/410 or 28/410 pumps, 1,000 pcs MOQ, samples in 7 days.
-Sections: Why Square Sells; Where Square Bottles Fail; What to Send in a Brief; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+Sections: Why Square Sells; Where Square Bottles Fail; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
 ## https://8pck.com/products/bottles/white-pump-bottle/
 Title: White Plastic Bottle with Pump — HDPE, 1,000 pcs MOQ | 8PCK
 Description: White HDPE pump bottles, 250–500 ml, 24/410 or 28/410 lotion pumps, opaque and UV-friendly, 1,000 pcs per colour, 25–35 days.
-Sections: Why White, and When It Is the Wrong Choice; What a White Bottle Costs; What to Send in a Brief; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+Sections: Why White, and When It Is the Wrong Choice; What a White Bottle Costs; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
 ## https://8pck.com/products/closures/
 Title: Bottle Caps & Closures — Pumps, Caps, Sprayers | 8PCK
@@ -325,12 +349,12 @@ Sections: What Buyers Get Wrong; Pumps, Caps and Sprayers Are Tested on the Bott
 ## https://8pck.com/products/dropper-bottles/5-ml/
 Title: 5 ml Dropper Bottles — Plastic, 18/410, 1,000 pcs | 8PCK
 Description: 5 ml PET dropper bottles with 18/410 necks for serums, oils and samples. 1,000 pcs MOQ, samples in 7 days, closures fitted before packing.
-Sections: Where 5 ml Is Used; Why the Fill Tolerance Matters at 5 ml; What to Send in a Brief; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+Sections: Where 5 ml Is Used; Why the Fill Tolerance Matters at 5 ml; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
 ## https://8pck.com/products/dropper-bottles/
 Title: Dropper Bottles — 5–100 ml PET & Glass Pipettes | 8PCK
 Description: PET and glass dropper bottles from 5 to 100 ml, 18/410 necks, push-button or bulb droppers, 1,000 pcs MOQ, samples in 7 days.
-Sections: Which Dropper, and Why It Matters More Than the Bottle; Bottle Material: PET or Glass; What to Send in a Brief; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+Sections: Which Dropper, and Why It Matters More Than the Bottle; Bottle Material: PET or Glass; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
 ## https://8pck.com/products/food-bottles/
 Title: Juice & Sauce Bottles — PET & HDPE | 8PCK
@@ -345,12 +369,12 @@ Sections: Bottles; Jars; Airless; Bottle Caps & Closures; Food Bags; Spray Bottl
 ## https://8pck.com/products/jars/250ml-pet-food-jar/
 Title: 250 ml PET food jar — 250 ml, 63 mm | 8PCK
 Description: 250 ml PET food jar: PET (food grade), 63 mm neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
-Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; the Same Mould, as It Comes Off the Line
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Closures, Packing and Tolerance; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec
 
 ## https://8pck.com/products/jars/500ml-pet-food-jar/
 Title: 500 ml PET food jar — 500 ml, 70 mm | 8PCK
 Description: 500 ml PET food jar: PET (food grade), 70 mm neck, MOQ 1,000 pcs, lead time 25–35 days. EU 10/2011 migration test on file.
-Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec; the Same Mould, as It Comes Off the Line
+Sections: About This Bottle; Dimensions and Tolerance; Fitted Before Packing; What This Size Is Bought For; Closures, Packing and Tolerance; Before You Order This Size; Tolerance and Handling; The Guides Behind This Spec
 
 ## https://8pck.com/products/jars/
 Title: Jars — 250–500 ml | 8PCK
@@ -360,12 +384,12 @@ Sections: What Buyers Get Wrong; Cosmetic Jars and Food Jars Are Different Produ
 ## https://8pck.com/products/jars/plastic/
 Title: Plastic Jars with Lids — PET, PETG & PP, 15–500 ml | 8PCK
 Description: Plastic jars with screw lids in PET, PETG and PP, 15–500 ml, EPE or induction liners, 1,000 pcs per colour, samples in 7 days.
-Sections: Choosing the Material by Fill Temperature; The Lid and the Liner Are the Seal; What Buyers Get Wrong; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+Sections: Choosing the Material by Fill Temperature; The Lid and the Liner Are the Seal; What Buyers Get Wrong; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
 ## https://8pck.com/products/jars/transparent/
 Title: Transparent Plastic Jars — PET & PETG, 15–500 ml | 8PCK
 Description: Clear PET and PETG jars from 15 to 500 ml with screw lids, for creams, balms and food. 1,000 pcs per colour, samples in 7 days.
-Sections: PET or PETG; Where Transparent Jars Fail; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked; Related
+Sections: PET or PETG; Where Transparent Jars Fail; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/products/jugs/
 Title: Plastic Jugs — 1 Gallon, Half-Gallon & 5 L | 8PCK
@@ -375,7 +399,7 @@ Sections: What Buyers Get Wrong; Handles Change the Mould; What Buyers Get Wrong
 ## https://8pck.com/products/lip-balm-containers/
 Title: Empty Lip Balm Containers — 5–15 ml, Twist & Slider | 8PCK
 Description: Empty lip balm tubes and pots from 5 to 15 ml in PP and PETG, twist-up or slider mechanisms, 1,000 pcs MOQ, samples in 7 days.
-Sections: Stick, Pot or Slider; Where Balm Containers Fail; What to Send in a Brief; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+Sections: Stick, Pot or Slider; Where Balm Containers Fail; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
 ## https://8pck.com/products/perfume-bottles/
 Title: Perfume Bottles — Plastic Atomizers, 2–50 ml | 8PCK
@@ -395,7 +419,7 @@ Sections: What Buyers Get Wrong; Trigger, Mist and Foam: Three Different Product
 ## https://8pck.com/products/squeeze-bottles/4-oz/
 Title: 4 oz Squeeze Bottles — LDPE & HDPE, 1,000 pcs MOQ | 8PCK
 Description: 4 oz (120 ml) squeeze bottles in LDPE and HDPE, 24/410 or 38 mm necks, 1,000 pcs per colour, samples in 7 days. Made by CXWN in Shantou.
-Sections: Soft-Wall or Firm-Wall, and What It Changes; How It Is Priced; What to Send in a Brief; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+Sections: Soft-Wall or Firm-Wall, and What It Changes; How It Is Priced; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
 ## https://8pck.com/products/squeeze-bottles/
 Title: Squeeze Bottles — LDPE & HDPE, 30–500 ml | 8PCK
