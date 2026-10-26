@@ -65,6 +65,7 @@ b,strong{font-weight:600}
 @media (prefers-reduced-motion:reduce){.btn-play::after{animation:none}}
 
 .btn .ar{transition:transform .18s}
+.card-h{font-size:14.5px;font-weight:600;line-height:1.35;margin:0;display:block}
 .btn:hover .ar{transform:translateX(3px)}
 .btn.ghost{background:transparent;color:var(--ink);border-color:var(--ink)}
 .btn.ghost:hover{background:var(--ink);border-color:var(--ink);color:#fff}
