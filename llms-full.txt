@@ -5,6 +5,11 @@ Title: About — one factory, one contact | 8PCK
 Description: Founded in 2011 in Haojiang District, Shantou. 7,142 m², 120 staff, 20 lines.
 Sections: Founded in 2011 in Haojiang; Joe Joo; Fifteen Years, in Five Lines; Come and See It
 
+## https://8pck.com/answers/documents-for-eu-import/
+Title: What documents do I need to import plastic bottles into the EU? | 8PCK
+Description: For plastic food-contact bottles: the resin declaration of compliance, a migration test report against EU 10/2011, and a statement of compliance for the fi
+Sections: The Three Documents; What the Migration Test Actually Measures; What Is Often Missing; Where the Importer Sits; Frequently Asked; Related
+
 ## https://8pck.com/answers/
 Title: Answers — MOQ, price and lead time for custom bottles | 8PCK
 Description: Direct answers to the three questions buyers ask first: minimum order quantity, cost per unit, and production lead time.
@@ -23,6 +28,11 @@ Sections: Where the Money Goes; The Four Things That Set the Price; Why the Pump
 Title: What is the lead time for custom plastic bottles from China? | 8PCK
 Description: Samples in 7 days from a stock mould; production 25–35 days after sample approval; add 15–20 days if new tooling is needed. Sea freight adds about 30–35 da
 Sections: What Runs in Parallel; The Timeline, Step by Step; What Actually Delays an Order; Shipping After Production; How to Plan a Launch Date; Frequently Asked; Related
+
+## https://8pck.com/answers/verify-chinese-supplier/
+Title: How do I verify a Chinese packaging supplier? | 8PCK
+Description: Three checks settle it: the Unified Social Credit Code on gsxt.gov.cn, the certificate number with the issuing body, and a video call with your product in
+Sections: Check 1: the Business Licence; Check 2: the Certificate Number; Check 3: the Video Call; What Each Check Rules Out; Frequently Asked; Related
 
 ## https://8pck.com/compare/24-410-vs-28-410/
 Title: 24/410 vs 28/410 Neck Finish — What Fits What | 8PCK
@@ -43,6 +53,26 @@ Sections: How to Choose in Practice; Where LDPE Fails; Compatibility, Packing an
 Title: PET vs HDPE Bottles — Which Material, and When | 8PCK
 Description: PET vs HDPE compared on clarity, cost, chemical resistance, recyclability and hot fill. A decision table by product type, from a factory that moulds both.
 Sections: The Decision in One Line; Where Buyers Get It Wrong; Cost and Freight; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
+
+## https://8pck.com/compare/pet-vs-petg/
+Title: PET vs PETG Bottles — Clarity, Cost and Crazing | 8PCK
+Description: PET vs PETG compared: wall thickness, clarity, chemical resistance, cost and where each one fails. A decision table for cosmetic and food packs.
+Sections: The Test That Settles It; Where Each Fails; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/compare/pump-vs-flip-top/
+Title: Pump vs Flip-Top Cap — Dosing, Cost and Leaks | 8PCK
+Description: Lotion pump versus flip-top cap compared on dose, cost, one-handed use and leak risk, with a table by product type.
+Sections: When the Pump Is Wrong; When the Flip-Top Is Wrong; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/compare/round-vs-square-bottles/
+Title: Round vs Square Plastic Bottles — Shelf, Freight, Cost | 8PCK
+Description: Round versus square bottles compared on shelf space, label area, corner strength, packing density and freight.
+Sections: Where Square Fails; Where Round Loses; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/compare/single-vs-double-wall-jars/
+Title: Single-Wall vs Double-Wall Cosmetic Jars | 8PCK
+Description: Single-wall PET versus double-wall PETG jars: weight, cost, premium feel and where each one fails.
+Sections: Why Double Wall Exists; Where Single Wall Wins; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
 ## https://8pck.com/contact.html
 Title: Contact — get a quote in 24 hours | 8PCK

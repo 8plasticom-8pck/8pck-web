@@ -90,6 +90,8 @@
 - What is the MOQ for custom plastic bottles? — https://8pck.com/answers/minimum-order-quantity/ — 1,000 pcs per colour on an existing mould. A new bottle mould costs about USD 800 and takes 15–20 days; spray coating and metallising start at 3,000 pcs; soft t
 - How much does a custom plastic bottle cost? — https://8pck.com/answers/plastic-bottle-cost/ — At 10,000 pcs, a 500 ml PET bottle at 28 g with a lotion pump typically lands around USD 0.15–0.35 per unit FOB Shantou. The pump can be 40–60 % of that; resin 
 - What is the lead time for custom plastic bottles from China? — https://8pck.com/answers/production-lead-time/ — Samples in 7 days from a stock mould; production 25–35 days after sample approval; add 15–20 days if new tooling is needed. Sea freight adds about 30–35 days to
+- How do I verify a Chinese packaging supplier? — https://8pck.com/answers/verify-chinese-supplier/ — Three checks settle it: the Unified Social Credit Code on gsxt.gov.cn, the certificate number with the issuing body, and a video call with your product in hand.
+- What documents do I need to import plastic bottles into the EU? — https://8pck.com/answers/documents-for-eu-import/ — For plastic food-contact bottles: the resin declaration of compliance, a migration test report against EU 10/2011, and a statement of compliance for the finishe
 
 ## What we do not do
 - We do not fill, formulate, design labels or run a filling line.
@@ -200,14 +202,20 @@
 - joe@8pck.com · WhatsApp +86 133 6387 9944 · https://8pck.com/contact.html
 ## Full page index
 - https://8pck.com/about.html — About — one factory, one contact | 8PCK
+- https://8pck.com/answers/documents-for-eu-import/ — What documents do I need to import plastic bottles into the EU? | 8PCK
 - https://8pck.com/answers/ — Answers — MOQ, price and lead time for custom bottles | 8PCK
 - https://8pck.com/answers/minimum-order-quantity/ — What is the MOQ for custom plastic bottles? | 8PCK
 - https://8pck.com/answers/plastic-bottle-cost/ — How much does a custom plastic bottle cost? | 8PCK
 - https://8pck.com/answers/production-lead-time/ — What is the lead time for custom plastic bottles from China? | 8PCK
+- https://8pck.com/answers/verify-chinese-supplier/ — How do I verify a Chinese packaging supplier? | 8PCK
 - https://8pck.com/compare/24-410-vs-28-410/ — 24/410 vs 28/410 Neck Finish — What Fits What | 8PCK
 - https://8pck.com/compare/airless-vs-dropper/ — Airless vs Dropper Bottles — Protection, Cost and When | 8PCK
 - https://8pck.com/compare/ldpe-vs-hdpe/ — LDPE vs HDPE — Soft-Wall or Firm-Wall Squeeze Bottles | 8PCK
 - https://8pck.com/compare/pet-vs-hdpe/ — PET vs HDPE Bottles — Which Material, and When | 8PCK
+- https://8pck.com/compare/pet-vs-petg/ — PET vs PETG Bottles — Clarity, Cost and Crazing | 8PCK
+- https://8pck.com/compare/pump-vs-flip-top/ — Pump vs Flip-Top Cap — Dosing, Cost and Leaks | 8PCK
+- https://8pck.com/compare/round-vs-square-bottles/ — Round vs Square Plastic Bottles — Shelf, Freight, Cost | 8PCK
+- https://8pck.com/compare/single-vs-double-wall-jars/ — Single-Wall vs Double-Wall Cosmetic Jars | 8PCK
 - https://8pck.com/contact.html — Contact — get a quote in 24 hours | 8PCK
 - https://8pck.com/cosmetic-packaging/ — Cosmetic Packaging — Bottles, Jars, Airless & Tubes | 8PCK
 - https://8pck.com/custom.html — Custom development — new moulds and copies | 8PCK
