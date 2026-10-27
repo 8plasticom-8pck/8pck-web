@@ -71,6 +71,7 @@
 - Toner bottles — https://8pck.com/guides/toner-bottles/ — covers: toner bottle, 200ml toner bottle, facial toner packaging, flat bottle cosmetic, toner bottle supplier. Toner is the one skincare product sold by volume rather than by dose. That makes the bottle a shelf-width decision before it is a 
 - Sanitizer bottles — https://8pck.com/guides/sanitizer-bottles/ — covers: sanitizer bottle, 100ml sanitizer bottle, gel bottle, hand sanitizer packaging, sanitizer bottle supplier. Hand sanitizer is the one product where the pack has to work one-handed, in public, with sticky hands. The bottle is the easy part
 - Travel bottles — https://8pck.com/guides/travel-bottles/ — covers: travel bottle, 50ml travel bottle, TSA bottles, travel size bottles, airline approved bottles. Travel sizes are decided by a rule, not by design: 100 ml per container in hand luggage. That makes 50 ml and 100 ml the only two 
+- Hotel amenity bottles — https://8pck.com/guides/hotel-amenity-bottles/ — covers: hotel amenity bottles, 30ml hotel bottle, guest amenity packaging, hotel shampoo bottle, refillable hotel amenities. Hotel amenities are bought by the thousand, refilled by housekeeping, and judged by whether they leak in a trolley. The bottle is 
 
 ## Categories
 - Bottles — 50–1,000 ml, 18–38 mm necks. Eight stock moulds, ready for decoration. — https://8pck.com/products/bottles/
@@ -129,6 +130,7 @@
 - Black Plastic Bans Are Spreading. What Carbon Black Means for Black Bottles (2026-10-24) — https://8pck.com/news/black-plastic-bans-carbon-black/ — Plastics News reports bans on black plastic takeout containers. The problem is not the colour — it is carbon black pigme
 - Brussels Is Asking Coca-Cola and Nestlé to Prove Recycled Content. Buyers Will Be Next (2026-10-25) — https://8pck.com/news/brussels-recycled-plastic-claims/ — PlusNews reports the European Commission is demanding clearer information on recycled plastic claims from major FMCG gro
 - Packaging 2030: The Four Changes That Will Rewrite a Bottle Spec (2026-10-26) — https://8pck.com/news/packaging-2030-materials-regulation/ — Progressive Grocer maps what packaging looks like in 2030. For a bottle buyer the list is short: recycled content with p
+- Aldi and Pact Take Household Packaging to 50% Recycled Content. What It Takes (2026-10-27) — https://8pck.com/news/aldi-50-percent-recycled-content/ — Packaging Insights reports Aldi and Pact lifting recycled content to 50% in a household pack. The interesting part is no
 
 ## Master facts (operational)
 - Plant: 7,142 m², 20 lines, 120 staff, in-house mould shop and QC lab
@@ -260,6 +262,7 @@
 - https://8pck.com/guides/dropper-bottles/ — Dropper Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/food-jars/ — Food Jars — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/hand-soap-bottles/ — Hand Soap Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/hotel-amenity-bottles/ — Hotel amenity bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/ — Guides — bottle sizes, neck finishes, MOQ and tooling | 8PCK
 - https://8pck.com/guides/lotion-bottles/ — Lotion Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/pet-bottles/ — PET Bottles — specs, MOQ and documents | 8PCK
@@ -271,6 +274,7 @@
 - https://8pck.com/guides/travel-bottles/ — Travel bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/ — 8PCK — Custom plastic bottles from CXWN, Shantou
 - https://8pck.com/materials/polyethylene-bottles/ — Polyethylene Bottles — HDPE & LDPE, 30–1,000 ml | 8PCK
+- https://8pck.com/news/aldi-50-percent-recycled-content/ — Aldi and Pact Take Household Packaging to 50% Recycled
 - https://8pck.com/news/berlin-packaging-premi-consolidation/ — Berlin Packaging Buys Premi | 8PCK
 - https://8pck.com/news/black-plastic-bans-carbon-black/ — Black Plastic Bans Are Spreading | 8PCK
 - https://8pck.com/news/brussels-recycled-plastic-claims/ — Brussels Is Asking Coca-Cola and Nestlé to Prove | 8PCK

@@ -292,6 +292,11 @@ Title: Hand Soap Bottles — specs, MOQ and documents | 8PCK
 Description: Hand soap is the one bottle a household buys again without thinking. That makes it the most repeat-ordered SKU in the category — and the one where a pump t
 Sections: Lotion Pump vs Foaming Pump; 250 ml Is a Repeat Purchase, Not a Premium One; What Makes a Pump Fail; Labels in a Wet Bathroom; Where Hand Soap Bottles Fail; 250 ml vs 500 ml for Commercial Buyers; Questions We Get on This; Sizes That Fit This Guide
 
+## https://8pck.com/guides/hotel-amenity-bottles/
+Title: Hotel amenity bottles — specs, MOQ and documents | 8PCK
+Description: Hotel amenities are bought by the thousand, refilled by housekeeping, and judged by whether they leak in a trolley. The bottle is commodity; the closure an
+Sections: The Closure Decides the Complaint Rate; Refillable Versus Single Use; 30 Or 50 ml; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/
 Title: Guides — bottle sizes, neck finishes, MOQ and tooling | 8PCK
 Description: Practical guides for buyers: pump bottles, neck finishes, MOQ and tooling costs, explained with real numbers.
@@ -345,6 +350,11 @@ Sections: Tubes, Lipstick and Straw-Fibre Bottles; Twelve Moulds, Three Applicat
 Title: Polyethylene Bottles — HDPE & LDPE, 30–1,000 ml | 8PCK
 Description: Polyethylene bottles in HDPE and LDPE, 30–1,000 ml, for shampoo, detergent, sauces and chemicals. 1,000 pcs MOQ, samples in 7 days.
 Sections: HDPE vs LDPE; Why Polyethylene and Not PET; Recycling Note; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
+
+## https://8pck.com/news/aldi-50-percent-recycled-content/
+Title: Aldi and Pact Take Household Packaging to 50% Recycled
+Description: Packaging Insights reports Aldi and Pact lifting recycled content to 50% in a household pack. The interesting part is not the number — it is what had to change to hold it.
+Sections: What Changed
 
 ## https://8pck.com/news/berlin-packaging-premi-consolidation/
 Title: Berlin Packaging Buys Premi | 8PCK
