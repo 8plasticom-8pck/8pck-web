@@ -344,7 +344,7 @@ Sections: The Three Closures That Survive a Flight; Why 50 ml Sells and 100 ml I
 ## https://8pck.com/
 Title: 8PCK — Custom plastic bottles from CXWN, Shantou
 Description: Custom PET, HDPE and PETG bottles made by CXWN in Shantou, China. MOQ 1,000 pcs, samples in 7 days, EU 10/2011 migration test and RoHS reports on file.
-Sections: Tubes, Lipstick and Straw-Fibre Bottles; Twelve Moulds, Three Application Groups; Six Steps, Six Checkpoints; Every Stage Has a Number of Days; Documents, Not Badges; What Left the Factory This Year; Three Kinds of Buyer, One Factory; What Buyers Ask Before the First Order
+Sections: Tubes, Lipstick and Straw-Fibre Bottles; What We Mould, by Application; How a Custom Order Runs, Step by Step; What Each Stage Actually Takes; Certificates You Can Check Yourself; What Shipped This Year; Who We Supply; What We Wrote This Month
 
 ## https://8pck.com/materials/polyethylene-bottles/
 Title: Polyethylene Bottles — HDPE & LDPE, 30–1,000 ml | 8PCK
@@ -1090,6 +1090,10 @@ Sections: What Buyers Get Wrong; Soft Wall or Firm Wall; Necks and Dispensing; M
 Title: Quality & compliance — ISO 9001, EU 10/2011, RoHS | 8PCK
 Description: Certificates, testing and rPET declarations on file. Six checks per production run.
 Sections: The Entity Behind This Site; On File; Six Checks on Every Run; rPET and the EU Packaging Rules
+
+## https://8pck.com/reference/
+Title: Reference — specs, documents and definitions | 8PCK
+Description: Neck finish chart, RFQ checklist, stock mould specs, certificates and the glossary — everything buyers check before a first order.
 
 ## https://8pck.com/resources.html
 Title: Resources — catalogue, certificates, drawings | 8PCK
