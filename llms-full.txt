@@ -242,6 +242,11 @@ Sections: What Each Line Can Do; Ordering Across Formats
 Title: Plastic packaging glossary — 24 terms explained | 8PCK
 Description: Neck finish, MOQ, preform, airless, mass balance and 19 more packaging terms, defined in plain English.
 
+## https://8pck.com/guides/1000ml-bottles/
+Title: 1 L Bottles — specs, MOQ and documents | 8PCK
+Description: 1 L is a household size first and a cosmetic size second: detergent, fabric softener, juice and syrup. The neck widens, the wall thickens, and the closure
+Sections: Wide Mouth or Narrow; Material Follows the Product; Handling and Stacking; Where This Size Fails; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/100ml-bottles/
 Title: 100 ml Bottles — specs, MOQ and documents | 8PCK
 Description: 100 ml is the largest bottle most airline regimes allow in hand luggage, and the smallest that still reads as a product rather than a sample.
@@ -271,6 +276,11 @@ Sections: 500 ml Is a Price Point, Not a Volume; Wall Thickness and Pump Draw; W
 Title: 50 ml Bottles: The Sample Size That Decides Reorders | 8PCK
 Description: 50 ml is the smallest size most brands sell, and the one with the highest cost per ml. The bottle is cheap; the closure, the filling and the carton are not
 Sections: What Fits on a 50 ml Bottle; Why the Closure Decides the Reorder; Cost per Unit at 50 ml; Where This Size Fails; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/750ml-bottles/
+Title: 750 ml Bottles — specs, MOQ and documents | 8PCK
+Description: 750 ml is the family shampoo and pet shampoo size. It is the first size where a 28/410 pump is mandatory and the wall thickness becomes a structural questi
+Sections: 28/410 Is Not Optional; The Wall Has to Hold; Export Economics; Where This Size Fails; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/airless-bottles/
 Title: Airless Bottles — specs, MOQ and documents | 8PCK

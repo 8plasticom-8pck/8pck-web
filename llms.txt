@@ -81,6 +81,8 @@
 - 250 ml Bottles — https://8pck.com/guides/250ml-bottles/ — covers: 250ml bottle, 250 ml plastic bottle, 250ml pet bottle, 250ml pump bottle, small bottle supplier. 250 ml is the size a brand picks when it wants a lower entry price without looking small. It is also the size where a pump starts 
 - 300 ml Bottles — https://8pck.com/guides/300ml-bottles/ — covers: 300ml bottle, 300 ml plastic bottle, 300ml lotion bottle, 300ml pet bottle, body lotion bottle. 300 ml is the European retail standard for body lotion and the size where the pump's stroke matters more than the bottle's shape.
 - 500 ml Bottles — https://8pck.com/guides/500ml-bottles/ — covers: 500ml bottle, 500 ml plastic bottle, 500ml pet bottle, 500ml pump bottle, shampoo bottle 500ml. 500 ml is the retail default in the US, UK and Australia — a price point that reads as value without looking like a bulk pack.
+- 750 ml Bottles — https://8pck.com/guides/750ml-bottles/ — covers: 750ml bottle, 750ml shampoo bottle, 750 ml pet bottle, 250/410 pump bottle, family size bottle. 750 ml is the family shampoo and pet shampoo size. It is the first size where a 28/410 pump is mandatory and the wall thickness be
+- 1 L Bottles — https://8pck.com/guides/1000ml-bottles/ — covers: 1 litre bottle, 1l plastic bottle, 1000ml bottle, detergent bottle 1l, juice bottle 1 litre. 1 L is a household size first and a cosmetic size second: detergent, fabric softener, juice and syrup. The neck widens, the wall t
 
 ## Categories
 - Bottles — 50–1,000 ml, 18–38 mm necks. Eight stock moulds, ready for decoration. — https://8pck.com/products/bottles/
@@ -262,12 +264,14 @@
 - https://8pck.com/formats/straw-fibre-bottles/white-straw-fibre-bottle/ — White Straw-Fibre Bottle — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/formats.html — Tubes, Lipstick and Straw-Fibre Bottles — 8PCK
 - https://8pck.com/glossary/ — Plastic packaging glossary — 24 terms explained | 8PCK
+- https://8pck.com/guides/1000ml-bottles/ — 1 L Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/100ml-bottles/ — 100 ml Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/200ml-bottles/ — 200 ml Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/250ml-bottles/ — 250 ml Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/300ml-bottles/ — 300 ml Bottles: The Size Where Body Lotion Lives | 8PCK
 - https://8pck.com/guides/500ml-bottles/ — 500 ml Bottles: The English-Speaking Market Default | 8PCK
 - https://8pck.com/guides/50ml-bottles/ — 50 ml Bottles: The Sample Size That Decides Reorders | 8PCK
+- https://8pck.com/guides/750ml-bottles/ — 750 ml Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/airless-bottles/ — Airless Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/baby-care-bottles/ — Baby care bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/body-wash-bottles/ — Body Wash Bottles — specs, MOQ and documents | 8PCK
