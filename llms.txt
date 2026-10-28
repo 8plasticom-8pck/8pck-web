@@ -103,6 +103,11 @@
 - 4 oz Bottles — https://8pck.com/guides/4-oz-bottles/ — covers: 4 oz bottle, 4oz bottles, 4 ounce bottle, 120ml bottle, 4 oz plastic bottle. 4 oz (about 120 ml) is a retail peg size: sauces, lotions, craft oils and sample sets. The unit economics change because the closu
 - 12 oz Bottles — https://8pck.com/guides/12-oz-bottles/ — covers: 12 oz bottle, 12oz bottles, 355ml bottle, 12 ounce bottle, 12 oz plastic bottle. 12 oz (355 ml) is the can equivalent and a common sauce and drink bottle size in the US. It sits between 300 and 375 ml, which is 
 - Condiment Bottles — https://8pck.com/guides/condiment-bottles/ — covers: condiment bottle, condiment bottles, squeeze condiment bottle, ketchup bottle, sauce dispenser bottle. Ketchup, mustard, mayo and dressing all live in the same bottle with different caps. The orifice and the valve decide the user exp
+- Mini Spray Bottles — https://8pck.com/guides/mini-spray-bottles/ — covers: mini spray bottle, small spray bottle, 30ml spray bottle, travel spray bottle, mini mist bottle. Mini spray bottles are travel and sample formats under 50 ml. The bottle is cheap; filling them without a special nozzle is the re
+- Plastic Bottles with Caps — https://8pck.com/guides/plastic-bottles-with-caps/ — covers: plastic bottles with caps, bottle with cap, plastic bottle and cap, bottles with lids, bottle cap supplier. A bottle with a cap sounds like one product. In practice they are two moulds, two MOQs and sometimes two suppliers — which is why 
+- 1 oz Bottles — https://8pck.com/guides/1-oz-bottles/ — covers: 1 oz bottle, 1oz bottles, 30ml bottle, 1 ounce bottle, small sample bottle. 1 oz is 30 ml — the sample and essential-oil size. Below this, the cap and the filling cost more than the bottle, and the price st
+- Pharmaceutical Bottles — https://8pck.com/guides/pharmaceutical-bottles/ — covers: pharmaceutical bottles, pharma bottle, medicine bottle, prescription bottle, pill bottle supplier. A pharmaceutical bottle is HDPE with a child-resistant closure and a documented specification. We supply the container; the licenc
+- Apothecary Jars — https://8pck.com/guides/apothecary-jars/ — covers: apothecary jars, apothecary jars with lids, wide mouth jar, candle jar, straight sided jar. An apothecary jar is a wide-mouth, straight-sided jar: candles, balms, bath salts and dry goods. The shape is deliberate — it stac
 
 ## Categories
 - Bottles — 50–1,000 ml, 18–38 mm necks. Eight stock moulds, ready for decoration. — https://8pck.com/products/bottles/
@@ -284,6 +289,7 @@
 - https://8pck.com/formats/straw-fibre-bottles/white-straw-fibre-bottle/ — White Straw-Fibre Bottle — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/formats.html — Tubes, Lipstick and Straw-Fibre Bottles — 8PCK
 - https://8pck.com/glossary/ — Plastic packaging glossary — 24 terms explained | 8PCK
+- https://8pck.com/guides/1-oz-bottles/ — 1 oz Bottles: 30 ml, Samples and the Cost Floor | 8PCK
 - https://8pck.com/guides/1000ml-bottles/ — 1 L Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/100ml-bottles/ — 100 ml Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/12-oz-bottles/ — 12 oz Bottles: 355 ml, the Drink and Sauce Size | 8PCK
@@ -300,6 +306,7 @@
 - https://8pck.com/guides/50ml-bottles/ — 50 ml Bottles: The Sample Size That Decides Reorders | 8PCK
 - https://8pck.com/guides/750ml-bottles/ — 750 ml Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/airless-bottles/ — Airless Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/apothecary-jars/ — Apothecary Jars — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/baby-care-bottles/ — Baby care bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/black-bottles/ — Black Bottles: Premium Look, Recycling Problem | 8PCK
 - https://8pck.com/guides/body-wash-bottles/ — Body Wash Bottles — specs, MOQ and documents | 8PCK
@@ -322,10 +329,13 @@
 - https://8pck.com/guides/juice-bottles/ — Juice Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/lotion-bottles/ — Lotion Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/metallised-bottles/ — Metallised Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/mini-spray-bottles/ — Mini Spray Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/mist-spray-bottles/ — Mist Spray Bottles: The Orifice Decides the Mist | 8PCK
 - https://8pck.com/guides/perfume-bottle-wholesale/ — Perfume Bottle Wholesale — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/pet-bottles/ — PET Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/pet-care-bottles/ — Pet care bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/pharmaceutical-bottles/ — Pharmaceutical Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/plastic-bottles-with-caps/ — Plastic Bottles with Caps — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/plastic-pump-bottles/ — Plastic Pump Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/rpet-bottles/ — rPET Bottles: What the Percentage Actually Means | 8PCK
 - https://8pck.com/guides/sanitizer-bottles/ — Sanitizer bottles — specs, MOQ and documents | 8PCK

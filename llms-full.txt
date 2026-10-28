@@ -242,6 +242,11 @@ Sections: What Each Line Can Do; Ordering Across Formats
 Title: Plastic packaging glossary — 24 terms explained | 8PCK
 Description: Neck finish, MOQ, preform, airless, mass balance and 19 more packaging terms, defined in plain English.
 
+## https://8pck.com/guides/1-oz-bottles/
+Title: 1 oz Bottles: 30 ml, Samples and the Cost Floor | 8PCK
+Description: 1 oz is 30 ml — the sample and essential-oil size. Below this, the cap and the filling cost more than the bottle, and the price stops falling.
+Sections: The Cost Floor; Where 1 Oz Is Used; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/1000ml-bottles/
 Title: 1 L Bottles — specs, MOQ and documents | 8PCK
 Description: 1 L is a household size first and a cosmetic size second: detergent, fabric softener, juice and syrup. The neck widens, the wall thickens, and the closure
@@ -321,6 +326,11 @@ Sections: 28/410 Is Not Optional; The Wall Has to Hold; Export Economics; Where 
 Title: Airless Bottles — specs, MOQ and documents | 8PCK
 Description: An airless bottle has no dip tube. A piston follows the product down, so the formula meets air only at the nozzle. That protects actives — and costs more t
 Sections: How an Airless Pack Actually Works; When Airless Is Worth It; Airless vs Dropper vs Standard Pump; What to Specify Before Quoting; Where Airless Disappoints; How to Specify One; Questions We Get on This; Sizes That Fit This Guide
+
+## https://8pck.com/guides/apothecary-jars/
+Title: Apothecary Jars — specs, MOQ and documents | 8PCK
+Description: An apothecary jar is a wide-mouth, straight-sided jar: candles, balms, bath salts and dry goods. The shape is deliberate — it stacks and it scoops.
+Sections: Why the Shape Matters; Lid and Liner; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/baby-care-bottles/
 Title: Baby care bottles — specs, MOQ and documents | 8PCK
@@ -431,6 +441,11 @@ Title: Metallised Bottles — specs, MOQ and documents | 8PCK
 Description: Metallising gives a mirror finish by vacuum-depositing aluminium. It starts at 3,000 pcs, adds a week, and changes the recycling story.
 Sections: Why the Minimum Is 3,000; Recycling; Where It Goes Wrong; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
+## https://8pck.com/guides/mini-spray-bottles/
+Title: Mini Spray Bottles — specs, MOQ and documents | 8PCK
+Description: Mini spray bottles are travel and sample formats under 50 ml. The bottle is cheap; filling them without a special nozzle is the real cost.
+Sections: Filling Is the Hidden Cost; Closure Choice; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/mist-spray-bottles/
 Title: Mist Spray Bottles: The Orifice Decides the Mist | 8PCK
 Description: A mist bottle is a bottle plus a sprayer, and the sprayer's orifice decides whether the product comes out as a fine mist or a wet sputter.
@@ -450,6 +465,16 @@ Sections: PET vs HDPE vs PETG; What “rPET” Means on a Purchase Order; Food C
 Title: Pet care bottles — specs, MOQ and documents | 8PCK
 Description: Pet shampoo, conditioner and supplements are bought by people who love the animal and do not read the dosage twice. That makes the closure a dosing device
 Sections: Dosing Is the Design Problem; What the Animal Does to the Bottle; Regulatory Caution; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/pharmaceutical-bottles/
+Title: Pharmaceutical Bottles — specs, MOQ and documents | 8PCK
+Description: A pharmaceutical bottle is HDPE with a child-resistant closure and a documented specification. We supply the container; the licence holder qualifies the pr
+Sections: What We Supply and What We Do Not; Child-Resistant Closures; Batch Consistency; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/plastic-bottles-with-caps/
+Title: Plastic Bottles with Caps — specs, MOQ and documents | 8PCK
+Description: A bottle with a cap sounds like one product. In practice they are two moulds, two MOQs and sometimes two suppliers — which is why the price looks split.
+Sections: Why They Are Two Products; What 'Supplied Fitted' Means; When to Buy Separately; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/plastic-pump-bottles/
 Title: Plastic Pump Bottles — specs, MOQ and documents | 8PCK
