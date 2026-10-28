@@ -178,6 +178,19 @@ body{background:linear-gradient(180deg,#fbf9f5 0,#ffffff 520px)}
 .stats-dark div:first-child{border-left:0;padding-left:0}
 .stats-dark b{color:#fff}
 .stats-dark span{color:rgba(255,255,255,.62)}
+
+/* 指南索引：去掉重复 GUIDE 标签，卡片更紧凑 */
+.guide-list{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:28px 0 56px}
+.guide-tile{display:flex;flex-direction:column;gap:8px;padding:20px 20px 16px;background:#fff;
+  border:1px solid var(--line);border-radius:8px;transition:transform .18s ease,box-shadow .18s ease,border-color .18s}
+.guide-tile h3{font-size:17px;line-height:1.3;margin:0;letter-spacing:-.01em}
+.guide-tile p{font-size:13px;line-height:1.55;color:var(--muted);margin:0;
+  display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.guide-tile .go{font-size:12.5px;color:var(--muted);margin-top:auto}
+.guide-tile:hover{transform:translateY(-2px);box-shadow:0 8px 20px rgba(15,15,15,.06);border-color:#d9d3c8}
+.guide-tile:hover .go{color:var(--accent)}
+@media (max-width:900px){.guide-list{grid-template-columns:1fr 1fr}}
+@media (max-width:620px){.guide-list{grid-template-columns:1fr}}
 .stats{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--line);margin:44px 0 0}
 .stats div{padding:18px 0 0 22px;border-left:1px solid var(--line)}
 .stats div:first-child{border-left:0;padding-left:0}
