@@ -302,6 +302,11 @@ Title: Hotel amenity bottles — specs, MOQ and documents | 8PCK
 Description: Hotel amenities are bought by the thousand, refilled by housekeeping, and judged by whether they leak in a trolley. The bottle is commodity; the closure an
 Sections: The Closure Decides the Complaint Rate; Refillable Versus Single Use; 30 Or 50 ml; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
+## https://8pck.com/guides/household-cleaner-bottles/
+Title: Household cleaner bottles — specs, MOQ and documents | 8PCK
+Description: A cleaner bottle is a chemical container before it is a brand object. The resin, the gasket and the vent decide whether it survives the product — and the t
+Sections: Resin Follows the Chemistry; Two Failures That Come Back; Refill and Concentrate Formats; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/
 Title: Guides — bottle sizes, neck finishes, MOQ and tooling | 8PCK
 Description: Practical guides for buyers: pump bottles, neck finishes, MOQ and tooling costs, explained with real numbers.
@@ -315,6 +320,11 @@ Sections: Dose per Stroke Is a Product Decision; Why 300 ml Feels Premium and 50
 Title: PET Bottles — specs, MOQ and documents | 8PCK
 Description: PET is the default clear plastic bottle for cosmetics, personal care and food. It is also the material most often specified without a grade — which is wher
 Sections: PET vs HDPE vs PETG; What “rPET” Means on a Purchase Order; Food Contact and the Documents That Matter; When PET Is the Wrong Choice; Where PET Fails, and How to See It Coming; Recycled Content: What a Supplier Should Be Able to Say; Questions We Get on This; Sizes That Fit This Guide
+
+## https://8pck.com/guides/pet-care-bottles/
+Title: Pet care bottles — specs, MOQ and documents | 8PCK
+Description: Pet shampoo, conditioner and supplements are bought by people who love the animal and do not read the dosage twice. That makes the closure a dosing device
+Sections: Dosing Is the Design Problem; What the Animal Does to the Bottle; Regulatory Caution; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/plastic-pump-bottles/
 Title: Plastic Pump Bottles — specs, MOQ and documents | 8PCK

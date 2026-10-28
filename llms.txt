@@ -73,6 +73,8 @@
 - Travel bottles — https://8pck.com/guides/travel-bottles/ — covers: travel bottle, 50ml travel bottle, TSA bottles, travel size bottles, airline approved bottles. Travel sizes are decided by a rule, not by design: 100 ml per container in hand luggage. That makes 50 ml and 100 ml the only two 
 - Hotel amenity bottles — https://8pck.com/guides/hotel-amenity-bottles/ — covers: hotel amenity bottles, 30ml hotel bottle, guest amenity packaging, hotel shampoo bottle, refillable hotel amenities. Hotel amenities are bought by the thousand, refilled by housekeeping, and judged by whether they leak in a trolley. The bottle is 
 - Baby care bottles — https://8pck.com/guides/baby-care-bottles/ — covers: baby bottle packaging, baby lotion bottle, 200ml baby bottle, baby wash bottle, baby care packaging supplier. Baby care is the one personal-care category where the closure is a safety feature, not a convenience. Wide necks, pump locks and a
+- Pet care bottles — https://8pck.com/guides/pet-care-bottles/ — covers: pet care packaging, pet shampoo bottle, 500ml pet bottle, pet supplement bottle, dog shampoo bottle. Pet shampoo, conditioner and supplements are bought by people who love the animal and do not read the dosage twice. That makes the
+- Household cleaner bottles — https://8pck.com/guides/household-cleaner-bottles/ — covers: household cleaner bottle, trigger spray bottle, 500ml cleaner bottle, detergent bottle, cleaning product packaging. A cleaner bottle is a chemical container before it is a brand object. The resin, the gasket and the vent decide whether it survive
 
 ## Categories
 - Bottles — 50–1,000 ml, 18–38 mm necks. Eight stock moulds, ready for decoration. — https://8pck.com/products/bottles/
@@ -266,9 +268,11 @@
 - https://8pck.com/guides/food-jars/ — Food Jars — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/hand-soap-bottles/ — Hand Soap Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/hotel-amenity-bottles/ — Hotel amenity bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/household-cleaner-bottles/ — Household cleaner bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/ — Guides — bottle sizes, neck finishes, MOQ and tooling | 8PCK
 - https://8pck.com/guides/lotion-bottles/ — Lotion Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/pet-bottles/ — PET Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/pet-care-bottles/ — Pet care bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/plastic-pump-bottles/ — Plastic Pump Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/sanitizer-bottles/ — Sanitizer bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/serum-bottles/ — Serum Bottles: 30 ml, Dropper or Airless | 8PCK
