@@ -252,6 +252,11 @@ Title: 100 ml Bottles — specs, MOQ and documents | 8PCK
 Description: 100 ml is the largest bottle most airline regimes allow in hand luggage, and the smallest that still reads as a product rather than a sample.
 Sections: The 100 ml Advantage; Neck and Closure at 100 ml; What to Watch; Where This Size Fails; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
+## https://8pck.com/guides/12-oz-bottles/
+Title: 12 oz Bottles: 355 ml, the Drink and Sauce Size | 8PCK
+Description: 12 oz (355 ml) is the can equivalent and a common sauce and drink bottle size in the US. It sits between 300 and 375 ml, which is why metric markets rarely
+Sections: Where 12 Oz Comes From; Metric Mismatch; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/18-410-neck/
 Title: 18/410 Neck: The Dropper and Sample Standard | 8PCK
 Description: 18/410 is the smallest standard neck in cosmetics: droppers, sample serums and small applicators. It is also the one most often mismatched with 18/415.
@@ -291,6 +296,11 @@ Sections: The Stroke Decides the Feel; Wall Thickness at 300 ml; Where It Fails;
 Title: 375 ml Bottles — specs, MOQ and documents | 8PCK
 Description: 375 ml is the half-size of the standard 750 ml wine bottle and, in cosmetics, a size that sits between a 300 and a 500 ml without matching either price poi
 Sections: Where 375 ml Is Used; The Economy of an Odd Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/4-oz-bottles/
+Title: 4 oz Bottles: 120 ml, and the Size That Fits a Peg | 8PCK
+Description: 4 oz (about 120 ml) is a retail peg size: sauces, lotions, craft oils and sample sets. The unit economics change because the closure costs more than the bo
+Sections: Why 4 Oz Survived Metrication; Cost per Unit; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/500ml-bottles/
 Title: 500 ml Bottles: The English-Speaking Market Default | 8PCK
@@ -346,6 +356,11 @@ Sections: 1. Is It a Factory or a Trading Company; 2. Who Owns the Mould; 3. Doe
 Title: Clear Bottles: When Clarity Is the Product | 8PCK
 Description: A clear bottle sells the product itself: colour, texture, fill level. It is also the format where light and oxidation do the most damage.
 Sections: When Clear Wins; When Clear Is Wrong; The rPET Colour Shift; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/condiment-bottles/
+Title: Condiment Bottles: The Orifice Is the Product | 8PCK
+Description: Ketchup, mustard, mayo and dressing all live in the same bottle with different caps. The orifice and the valve decide the user experience, not the bottle.
+Sections: Valve Versus Orifice; Squeeze or Rigid; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/continuous-spray-bottles/
 Title: Continuous Spray Bottles — specs, MOQ and documents | 8PCK
@@ -421,6 +436,11 @@ Title: Mist Spray Bottles: The Orifice Decides the Mist | 8PCK
 Description: A mist bottle is a bottle plus a sprayer, and the sprayer's orifice decides whether the product comes out as a fine mist or a wet sputter.
 Sections: Orifice and Output; Testing With the Real Liquid; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
+## https://8pck.com/guides/perfume-bottle-wholesale/
+Title: Perfume Bottle Wholesale — specs, MOQ and documents | 8PCK
+Description: Buying perfume bottles wholesale usually means crimp-neck glass or plastic atomizers at 1,000–5,000 pcs. The decision that matters is the neck: crimp canno
+Sections: Crimp Versus Screw; Plastic Versus Glass; What Wholesale Changes; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/pet-bottles/
 Title: PET Bottles — specs, MOQ and documents | 8PCK
 Description: PET is the default clear plastic bottle for cosmetics, personal care and food. It is also the material most often specified without a grade — which is wher
@@ -460,6 +480,11 @@ Sections: 500 ml Is the Volume, the Neck Is the Decision; PET or HDPE; What the 
 Title: Soft-touch Bottles — specs, MOQ and documents | 8PCK
 Description: Soft-touch is a spray coat with a rubberised feel. It reads premium, improves grip with wet hands, and starts at 3,000 pcs.
 Sections: Where Soft-Touch Earns Its Cost; The Trade-Offs; Specifying It; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/spray-bottles-for-cleaning/
+Title: Cleaning Spray Bottles — specs, MOQ and documents | 8PCK
+Description: A cleaning spray bottle is a chemical container. The resin follows the formula, and the trigger's gasket fails before the bottle does.
+Sections: Resin Follows the Chemistry; Trigger Specification; Venting; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/toner-bottles/
 Title: Toner bottles — specs, MOQ and documents | 8PCK
