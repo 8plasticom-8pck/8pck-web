@@ -242,6 +242,21 @@ Sections: What Each Line Can Do; Ordering Across Formats
 Title: Plastic packaging glossary — 24 terms explained | 8PCK
 Description: Neck finish, MOQ, preform, airless, mass balance and 19 more packaging terms, defined in plain English.
 
+## https://8pck.com/guides/100ml-bottles/
+Title: 100 ml Bottles — specs, MOQ and documents | 8PCK
+Description: 100 ml is the largest bottle most airline regimes allow in hand luggage, and the smallest that still reads as a product rather than a sample.
+Sections: The 100 ml Advantage; Neck and Closure at 100 ml; What to Watch; Where This Size Fails; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/200ml-bottles/
+Title: 200 ml Bottles — specs, MOQ and documents | 8PCK
+Description: 200 ml in a flat profile is now the default for toner, sanitizer and hotel amenities: more label face per shelf depth, and a size that still reads premium.
+Sections: Why Flat Wins on Shelf; What Fits the 200 ml Neck; Production Notes; Where This Size Fails; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/50ml-bottles/
+Title: 50 ml Bottles: The Sample Size That Decides Reorders | 8PCK
+Description: 50 ml is the smallest size most brands sell, and the one with the highest cost per ml. The bottle is cheap; the closure, the filling and the carton are not
+Sections: What Fits on a 50 ml Bottle; Why the Closure Decides the Reorder; Cost per Unit at 50 ml; Where This Size Fails; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/airless-bottles/
 Title: Airless Bottles — specs, MOQ and documents | 8PCK
 Description: An airless bottle has no dip tube. A piston follows the product down, so the formula meets air only at the nozzle. That protects actives — and costs more t
