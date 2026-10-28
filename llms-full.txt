@@ -287,6 +287,11 @@ Title: 300 ml Bottles: The Size Where Body Lotion Lives | 8PCK
 Description: 300 ml is the European retail standard for body lotion and the size where the pump's stroke matters more than the bottle's shape.
 Sections: The Stroke Decides the Feel; Wall Thickness at 300 ml; Where It Fails; Where This Size Fails; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
+## https://8pck.com/guides/375-ml-bottles/
+Title: 375 ml Bottles — specs, MOQ and documents | 8PCK
+Description: 375 ml is the half-size of the standard 750 ml wine bottle and, in cosmetics, a size that sits between a 300 and a 500 ml without matching either price poi
+Sections: Where 375 ml Is Used; The Economy of an Odd Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/500ml-bottles/
 Title: 500 ml Bottles: The English-Speaking Market Default | 8PCK
 Description: 500 ml is the retail default in the US, UK and Australia — a price point that reads as value without looking like a bulk pack.
@@ -342,6 +347,11 @@ Title: Clear Bottles: When Clarity Is the Product | 8PCK
 Description: A clear bottle sells the product itself: colour, texture, fill level. It is also the format where light and oxidation do the most damage.
 Sections: When Clear Wins; When Clear Is Wrong; The rPET Colour Shift; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
+## https://8pck.com/guides/continuous-spray-bottles/
+Title: Continuous Spray Bottles — specs, MOQ and documents | 8PCK
+Description: A continuous spray bottle holds pressure and delivers a fine, steady mist for a full second. It is the most expensive closure in the catalogue, and the rea
+Sections: How It Works; Why It Costs So Much; Where It Pays; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/cosmetic-jars/
 Title: Cosmetic Jars — specs, MOQ and documents | 8PCK
 Description: A “30 g jar” is named after the fill weight, not the volume — which is why two 30 g jars can look completely different on shelf. This page covers fill weig
@@ -372,6 +382,11 @@ Title: Hand Soap Bottles — specs, MOQ and documents | 8PCK
 Description: Hand soap is the one bottle a household buys again without thinking. That makes it the most repeat-ordered SKU in the category — and the one where a pump t
 Sections: Lotion Pump vs Foaming Pump; 250 ml Is a Repeat Purchase, Not a Premium One; What Makes a Pump Fail; Labels in a Wet Bathroom; Where Hand Soap Bottles Fail; 250 ml vs 500 ml for Commercial Buyers; Questions We Get on This; Sizes That Fit This Guide
 
+## https://8pck.com/guides/hot-sauce-bottles/
+Title: Hot Sauce Bottles — specs, MOQ and documents | 8PCK
+Description: Hot sauce is thick, acidic and often filled warm. The bottle is a wide-neck PET or HDPE with a small-orifice cap — and the fill temperature decides the mat
+Sections: Wide Neck, Small Orifice; Fill Temperature; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/hotel-amenity-bottles/
 Title: Hotel amenity bottles — specs, MOQ and documents | 8PCK
 Description: Hotel amenities are bought by the thousand, refilled by housekeeping, and judged by whether they leak in a trolley. The bottle is commodity; the closure an
@@ -386,6 +401,11 @@ Sections: Resin Follows the Chemistry; Two Failures That Come Back; Refill and C
 Title: Guides — bottle sizes, neck finishes, MOQ and tooling | 8PCK
 Description: Practical guides for buyers: pump bottles, neck finishes, MOQ and tooling costs, explained with real numbers.
 
+## https://8pck.com/guides/juice-bottles/
+Title: Juice Bottles — specs, MOQ and documents | 8PCK
+Description: Juice is sold on colour and clarity, which means PET. It is also the category where hot fill quietly deforms standard bottles.
+Sections: Cold Fill Versus Hot Fill; Necks and Closures; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/lotion-bottles/
 Title: Lotion Bottles — specs, MOQ and documents | 8PCK
 Description: Body lotion is judged twice: on shelf by the bottle, in the hand by the pump. At 300 ml the two are almost the same decision — the wall thickness and the p
@@ -395,6 +415,11 @@ Sections: Dose per Stroke Is a Product Decision; Why 300 ml Feels Premium and 50
 Title: Metallised Bottles — specs, MOQ and documents | 8PCK
 Description: Metallising gives a mirror finish by vacuum-depositing aluminium. It starts at 3,000 pcs, adds a week, and changes the recycling story.
 Sections: Why the Minimum Is 3,000; Recycling; Where It Goes Wrong; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/mist-spray-bottles/
+Title: Mist Spray Bottles: The Orifice Decides the Mist | 8PCK
+Description: A mist bottle is a bottle plus a sprayer, and the sprayer's orifice decides whether the product comes out as a fine mist or a wet sputter.
+Sections: Orifice and Output; Testing With the Real Liquid; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/pet-bottles/
 Title: PET Bottles — specs, MOQ and documents | 8PCK
