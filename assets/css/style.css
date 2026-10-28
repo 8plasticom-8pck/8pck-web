@@ -150,11 +150,9 @@ body{background:linear-gradient(180deg,#fbf9f5 0,#ffffff 520px)}
 /* 卡片：统一画框 + 图片底 + 悬浮 */
 
 /* 统一产品图画框：同比例 + 浅底 + 内留白 */
-.cards .card .ph,.pdp .gal .ph{aspect-ratio:1/1;height:auto!important;display:grid;place-items:center;
-  padding:0;background:#f6f2ea}
+.cards .card .ph,.pdp .gal .ph{aspect-ratio:1/1;height:auto!important;background:var(--sand2)}
 .cards .card .ph picture,.pdp .gal .ph picture{display:block;width:100%;height:100%}
-.cards .card .ph img,.pdp .gal .ph img{width:100%;height:100%;object-fit:contain;display:block;
-  filter:drop-shadow(0 8px 16px rgba(15,15,15,.08))}
+.cards .card .ph img,.pdp .gal .ph img{width:100%;height:100%;object-fit:cover;display:block}
 .cards .card:hover .ph img{transform:scale(1.03)}
 .cards .card{background:var(--card);border:1px solid var(--line);border-radius:8px;overflow:hidden;
   transition:transform .22s ease,box-shadow .22s ease,border-color .22s ease}
