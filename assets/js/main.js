@@ -94,6 +94,20 @@
   }
 })();
 
+
+/* 滚动淡入 */
+(function () {
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  var sel = '.section, .cards, .band, .stats';
+  var els = [].slice.call(document.querySelectorAll(sel)).slice(0, 40);
+  els.forEach(function (el) { el.classList.add('reveal'); });
+  if (!('IntersectionObserver' in window)) { els.forEach(function (el) { el.classList.add('in'); }); return; }
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
+  }, { rootMargin: '0px 0px -8% 0px', threshold: 0.06 });
+  els.forEach(function (el) { io.observe(el); });
+})();
+
 /* --- Microsoft Clarity (加载受同意控制) --- */
 function loadClarity() {
   if (window.__clarityLoaded) return;

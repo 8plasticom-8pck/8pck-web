@@ -126,7 +126,7 @@ b,strong{font-weight:600}
 .wrap h3{margin:26px 0 8px;font-size:18px;font-weight:600;line-height:1.3;letter-spacing:-.01em}
 .wrap p{margin:0 0 14px}
 .wrap p + h3{margin-top:30px}
-.wrap .kicker{position:relative;padding-left:14px;margin-bottom:10px}
+.wrap .kicker{position:relative;padding-left:14px;margin-bottom:10px;color:var(--accent-dark);letter-spacing:.14em}
 .wrap .kicker::before{content:"";position:absolute;left:0;top:.42em;width:6px;height:6px;background:var(--accent);border-radius:50%}
 .guide-body > h2, .section h2{margin-top:44px}
 .t td, .t th{padding:13px 10px}
@@ -143,6 +143,35 @@ b,strong{font-weight:600}
 .wrap p,.wrap li,.wrap .sub{max-width:74ch}
 .guide-body p,.guide-body li{max-width:72ch}
 .t p,.t td p{max-width:none}
+
+/* --- 视觉层次：底色、卡片、微动效 --- */
+:root{--sand2:#f3efe8;--card:#ffffff}
+body{background:linear-gradient(180deg,#fbf9f5 0,#ffffff 520px)}
+/* 卡片：统一画框 + 图片底 + 悬浮 */
+.cards .card{background:var(--card);border:1px solid var(--line);border-radius:8px;overflow:hidden;
+  transition:transform .22s ease,box-shadow .22s ease,border-color .22s ease}
+.cards .card .ph{background:var(--sand2);margin:0}
+.cards .card img{transition:transform .5s ease}
+.cards .card:hover{transform:translateY(-4px);box-shadow:0 14px 30px rgba(15,15,15,.09);border-color:#d8d2c7}
+.cards .card:hover img{transform:scale(1.035)}
+.cards .card b,.cards .card .card-h{padding:0 14px}
+.cards .card .kv{padding:0 14px}
+.cards .card .more{padding:0 14px 14px}
+/* 交替底色分区 */
+.section.tint{background:linear-gradient(180deg,#f7f4ee,#fff)}
+/* 标题：红短线 */
+.hero h1::after{content:"";display:block;width:64px;height:3px;background:var(--accent);margin:22px 0 0}
+/* 滚动淡入 */
+.reveal{opacity:0;transform:translateY(16px);transition:opacity .6s ease,transform .6s ease}
+.reveal.in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none}.cards .card img{transition:none}}
+
+/* 深色数据带 */
+.stats-dark{background:#141210;border-top:0;margin:56px 0 0;padding:26px 30px;border-radius:10px}
+.stats-dark div{border-left:1px solid rgba(255,255,255,.14);padding:6px 0 6px 22px}
+.stats-dark div:first-child{border-left:0;padding-left:0}
+.stats-dark b{color:#fff}
+.stats-dark span{color:rgba(255,255,255,.62)}
 .stats{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--line);margin:44px 0 0}
 .stats div{padding:18px 0 0 22px;border-left:1px solid var(--line)}
 .stats div:first-child{border-left:0;padding-left:0}
