@@ -83,6 +83,10 @@
 - 500 ml Bottles — https://8pck.com/guides/500ml-bottles/ — covers: 500ml bottle, 500 ml plastic bottle, 500ml pet bottle, 500ml pump bottle, shampoo bottle 500ml. 500 ml is the retail default in the US, UK and Australia — a price point that reads as value without looking like a bulk pack.
 - 750 ml Bottles — https://8pck.com/guides/750ml-bottles/ — covers: 750ml bottle, 750ml shampoo bottle, 750 ml pet bottle, 250/410 pump bottle, family size bottle. 750 ml is the family shampoo and pet shampoo size. It is the first size where a 28/410 pump is mandatory and the wall thickness be
 - 1 L Bottles — https://8pck.com/guides/1000ml-bottles/ — covers: 1 litre bottle, 1l plastic bottle, 1000ml bottle, detergent bottle 1l, juice bottle 1 litre. 1 L is a household size first and a cosmetic size second: detergent, fabric softener, juice and syrup. The neck widens, the wall t
+- 18/410 Neck Bottles — https://8pck.com/guides/18-410-neck/ — covers: 18/410 bottle, 18/410 neck, dropper bottle neck, 18mm bottle neck, sample bottle 18/410. 18/410 is the smallest standard neck in cosmetics: droppers, sample serums and small applicators. It is also the one most often mi
+- 20/410 Neck Bottles — https://8pck.com/guides/20-410-neck/ — covers: 20/410 bottle, 20/410 neck, 20mm bottle neck, travel bottle neck, fine mist bottle neck. 20/410 sits between the dropper neck and the standard pump neck: fine mist sprayers, travel flip-tops and 50–100 ml bottles.
+- 24/410 Neck Bottles — https://8pck.com/guides/24-410-neck/ — covers: 24/410 bottle, 24/410 neck, 24mm bottle neck, lotion pump neck, 24/410 pump bottle. 24/410 is the most common cosmetic neck in the world: lotion pumps, disc-tops, flip-tops and 250–500 ml bottles. Getting this one 
+- 28/410 Neck Bottles — https://8pck.com/guides/28-410-neck/ — covers: 28/410 bottle, 28/410 neck, 28mm bottle neck, shampoo bottle neck 28/410, 750ml pump neck. 28/410 is the neck for larger bottles and heavier pumps. It is also where wall thickness stops being a detail and starts being the
 
 ## Categories
 - Bottles — 50–1,000 ml, 18–38 mm necks. Eight stock moulds, ready for decoration. — https://8pck.com/products/bottles/
@@ -266,8 +270,12 @@
 - https://8pck.com/glossary/ — Plastic packaging glossary — 24 terms explained | 8PCK
 - https://8pck.com/guides/1000ml-bottles/ — 1 L Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/100ml-bottles/ — 100 ml Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/18-410-neck/ — 18/410 Neck: The Dropper and Sample Standard | 8PCK
+- https://8pck.com/guides/20-410-neck/ — 20/410 Neck: The Travel and Mist Size | 8PCK
 - https://8pck.com/guides/200ml-bottles/ — 200 ml Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/24-410-neck/ — 24/410 Neck: The Default That Fits Most Pumps | 8PCK
 - https://8pck.com/guides/250ml-bottles/ — 250 ml Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/28-410-neck/ — 28/410 Neck: For 500–750 ml and Heavier Pumps | 8PCK
 - https://8pck.com/guides/300ml-bottles/ — 300 ml Bottles: The Size Where Body Lotion Lives | 8PCK
 - https://8pck.com/guides/500ml-bottles/ — 500 ml Bottles: The English-Speaking Market Default | 8PCK
 - https://8pck.com/guides/50ml-bottles/ — 50 ml Bottles: The Sample Size That Decides Reorders | 8PCK
