@@ -312,6 +312,11 @@ Title: Baby care bottles — specs, MOQ and documents | 8PCK
 Description: Baby care is the one personal-care category where the closure is a safety feature, not a convenience. Wide necks, pump locks and a soft-touch surface all c
 Sections: The Lock Is the Feature; Wide Neck and Soft Touch; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
+## https://8pck.com/guides/black-bottles/
+Title: Black Bottles: Premium Look, Recycling Problem | 8PCK
+Description: Black is the most requested premium colour in cosmetics and the worst colour for recycling: carbon black is invisible to near-infrared sorting.
+Sections: Why Black Is a Problem; What to Do if the Brand Wants Black; Matte or Gloss; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/body-wash-bottles/
 Title: Body Wash Bottles — specs, MOQ and documents | 8PCK
 Description: Body wash is bought in the shower, one-handed, with wet hands. That single fact decides the bottle: the closure, the grip and the label, in that order — th
@@ -332,6 +337,11 @@ Title: How to Choose a Plastic Bottle Manufacturer in China | 8PCK
 Description: Most buyers shortlist on price and a website. The factories that ship on time are separated by seven questions that take ten minutes to ask — and almost no
 Sections: 1. Is It a Factory or a Trading Company; 2. Who Owns the Mould; 3. Does the Pump Come From the Same Building; 4. Can They Verify the Certificate; 5. What Does the Sample Prove; 6. What the Quote Must Contain; 7. Red Flags Worth Walking Away From; The Five Checks That Actually Predict a Good Supplier
 
+## https://8pck.com/guides/clear-bottles/
+Title: Clear Bottles: When Clarity Is the Product | 8PCK
+Description: A clear bottle sells the product itself: colour, texture, fill level. It is also the format where light and oxidation do the most damage.
+Sections: When Clear Wins; When Clear Is Wrong; The rPET Colour Shift; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/cosmetic-jars/
 Title: Cosmetic Jars — specs, MOQ and documents | 8PCK
 Description: A “30 g jar” is named after the fill weight, not the volume — which is why two 30 g jars can look completely different on shelf. This page covers fill weig
@@ -351,6 +361,11 @@ Sections: Glass vs Plastic; Why the Collar Matters More Than the Bottle; Dose pe
 Title: Food Jars — specs, MOQ and documents | 8PCK
 Description: A food jar is chosen by the filling line before the shelf: how wide the mouth is decides how fast you can fill, and how you close it decides whether the cu
 Sections: Wide Mouth vs Narrow Mouth; Hot Fill and Why PET Has a Ceiling; Tamper Evidence That Actually Gets Used; Where Food Jars Fail; What Documents a Food Buyer Should Ask For; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/frosted-bottles/
+Title: Frosted Bottles: The Cheapest Premium Finish | 8PCK
+Description: Frosting is a surface treatment, not a colour: it starts at 1,000 pcs, adds no changeover, and makes a stock bottle read as glass.
+Sections: Why Frosting Is Cheap to Start; What Frosting Changes; Where It Goes Wrong; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/hand-soap-bottles/
 Title: Hand Soap Bottles — specs, MOQ and documents | 8PCK
@@ -376,6 +391,11 @@ Title: Lotion Bottles — specs, MOQ and documents | 8PCK
 Description: Body lotion is judged twice: on shelf by the bottle, in the hand by the pump. At 300 ml the two are almost the same decision — the wall thickness and the p
 Sections: Dose per Stroke Is a Product Decision; Why 300 ml Feels Premium and 500 ml Feels Economical; PET or HDPE for Lotion; Decoration That Survives a Bathroom Shelf; Where Lotion Bottles Fail; Why 300 ml Reads Premium; Questions We Get on This; Sizes That Fit This Guide
 
+## https://8pck.com/guides/metallised-bottles/
+Title: Metallised Bottles — specs, MOQ and documents | 8PCK
+Description: Metallising gives a mirror finish by vacuum-depositing aluminium. It starts at 3,000 pcs, adds a week, and changes the recycling story.
+Sections: Why the Minimum Is 3,000; Recycling; Where It Goes Wrong; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/pet-bottles/
 Title: PET Bottles — specs, MOQ and documents | 8PCK
 Description: PET is the default clear plastic bottle for cosmetics, personal care and food. It is also the material most often specified without a grade — which is wher
@@ -391,6 +411,11 @@ Title: Plastic Pump Bottles — specs, MOQ and documents | 8PCK
 Description: A pump bottle is three parts sold as one product — bottle, neck finish and pump. Get the neck wrong and the pump leaks; get the wall thickness wrong and th
 Sections: The Three Parts, and Which One Actually Fails; Sizes and Which Markets Buy Them; Wall Thickness, Weight and Where the Cost Sits; Testing Before the Container Ships; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
+## https://8pck.com/guides/rpet-bottles/
+Title: rPET Bottles: What the Percentage Actually Means | 8PCK
+Description: rPET is recycled PET. The number on the label is a claim that needs a grade, a batch declaration and a colour expectation — not just a percentage.
+Sections: The Three Documents; What Changes Visually; What to Ask; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/sanitizer-bottles/
 Title: Sanitizer bottles — specs, MOQ and documents | 8PCK
 Description: Hand sanitizer is the one product where the pack has to work one-handed, in public, with sticky hands. The bottle is the easy part; the pump is where the d
@@ -405,6 +430,11 @@ Sections: Dropper: the Default, and Its Cost; Airless: Protection, at a Price; G
 Title: Shampoo Bottles — specs, MOQ and documents | 8PCK
 Description: Shampoo is the highest-volume cosmetic bottle in the world, and almost every complaint about it starts at the same place: the pump seats on a neck that was
 Sections: 500 ml Is the Volume, the Neck Is the Decision; PET or HDPE; What the Filling Line Needs From You; Decoration That Survives a Bathroom; Where Shampoo Bottles Fail; 500 ml vs 750 ml: the Economics; Questions We Get on This; Sizes That Fit This Guide
+
+## https://8pck.com/guides/soft-touch-bottles/
+Title: Soft-touch Bottles — specs, MOQ and documents | 8PCK
+Description: Soft-touch is a spray coat with a rubberised feel. It reads premium, improves grip with wet hands, and starts at 3,000 pcs.
+Sections: Where Soft-Touch Earns Its Cost; The Trade-Offs; Specifying It; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/toner-bottles/
 Title: Toner bottles — specs, MOQ and documents | 8PCK
