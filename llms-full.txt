@@ -247,6 +247,11 @@ Title: Airless Bottles — specs, MOQ and documents | 8PCK
 Description: An airless bottle has no dip tube. A piston follows the product down, so the formula meets air only at the nozzle. That protects actives — and costs more t
 Sections: How an Airless Pack Actually Works; When Airless Is Worth It; Airless vs Dropper vs Standard Pump; What to Specify Before Quoting; Where Airless Disappoints; How to Specify One; Questions We Get on This; Sizes That Fit This Guide
 
+## https://8pck.com/guides/baby-care-bottles/
+Title: Baby care bottles — specs, MOQ and documents | 8PCK
+Description: Baby care is the one personal-care category where the closure is a safety feature, not a convenience. Wide necks, pump locks and a soft-touch surface all c
+Sections: The Lock Is the Feature; Wide Neck and Soft Touch; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/body-wash-bottles/
 Title: Body Wash Bottles — specs, MOQ and documents | 8PCK
 Description: Body wash is bought in the shower, one-handed, with wet hands. That single fact decides the bottle: the closure, the grip and the label, in that order — th
@@ -415,6 +420,11 @@ Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
 Title: PFAS Claims Are Moving Down the Supply Chain | 8PCK
 Description: A US water utility is suing two packaging manufacturers over alleged PFAS contamination. For buyers, the lesson is not the lawsuit — it is the paperwork you will be asked for next year.
 Sections: What Changed; What It Means for Buyers; What to Ask a Supplier; What It Changes in a Bottle Spec
+
+## https://8pck.com/news/ppwr-bio-based-targets/
+Title: The EU Is Weighing Bio-Based Targets Under PPWR | 8PCK
+Description: Packaging Insights reports the Commission weighing bio-based plastic targets as part of the PPWR review. For a bottle buyer, the question is which claim the pack will have to prove.
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
 
 ## https://8pck.com/news/stock-packaging-beauty-brands/
 Title: Big Beauty Brands Are Buying Stock Packaging | 8PCK

@@ -72,6 +72,7 @@
 - Sanitizer bottles — https://8pck.com/guides/sanitizer-bottles/ — covers: sanitizer bottle, 100ml sanitizer bottle, gel bottle, hand sanitizer packaging, sanitizer bottle supplier. Hand sanitizer is the one product where the pack has to work one-handed, in public, with sticky hands. The bottle is the easy part
 - Travel bottles — https://8pck.com/guides/travel-bottles/ — covers: travel bottle, 50ml travel bottle, TSA bottles, travel size bottles, airline approved bottles. Travel sizes are decided by a rule, not by design: 100 ml per container in hand luggage. That makes 50 ml and 100 ml the only two 
 - Hotel amenity bottles — https://8pck.com/guides/hotel-amenity-bottles/ — covers: hotel amenity bottles, 30ml hotel bottle, guest amenity packaging, hotel shampoo bottle, refillable hotel amenities. Hotel amenities are bought by the thousand, refilled by housekeeping, and judged by whether they leak in a trolley. The bottle is 
+- Baby care bottles — https://8pck.com/guides/baby-care-bottles/ — covers: baby bottle packaging, baby lotion bottle, 200ml baby bottle, baby wash bottle, baby care packaging supplier. Baby care is the one personal-care category where the closure is a safety feature, not a convenience. Wide necks, pump locks and a
 
 ## Categories
 - Bottles — 50–1,000 ml, 18–38 mm necks. Eight stock moulds, ready for decoration. — https://8pck.com/products/bottles/
@@ -131,6 +132,7 @@
 - Brussels Is Asking Coca-Cola and Nestlé to Prove Recycled Content. Buyers Will Be Next (2026-10-25) — https://8pck.com/news/brussels-recycled-plastic-claims/ — PlusNews reports the European Commission is demanding clearer information on recycled plastic claims from major FMCG gro
 - Packaging 2030: The Four Changes That Will Rewrite a Bottle Spec (2026-10-26) — https://8pck.com/news/packaging-2030-materials-regulation/ — Progressive Grocer maps what packaging looks like in 2030. For a bottle buyer the list is short: recycled content with p
 - Aldi and Pact Take Household Packaging to 50% Recycled Content. What It Takes (2026-10-27) — https://8pck.com/news/aldi-50-percent-recycled-content/ — Packaging Insights reports Aldi and Pact lifting recycled content to 50% in a household pack. The interesting part is no
+- The EU Is Weighing Bio-Based Targets Under PPWR. What It Changes for a Bottle Spec (2026-10-28) — https://8pck.com/news/ppwr-bio-based-targets/ — Packaging Insights reports the Commission weighing bio-based plastic targets as part of the PPWR review. For a bottle bu
 
 ## Master facts (operational)
 - Plant: 7,142 m², 20 lines, 120 staff, in-house mould shop and QC lab
@@ -253,6 +255,7 @@
 - https://8pck.com/formats.html — Tubes, Lipstick and Straw-Fibre Bottles — 8PCK
 - https://8pck.com/glossary/ — Plastic packaging glossary — 24 terms explained | 8PCK
 - https://8pck.com/guides/airless-bottles/ — Airless Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/baby-care-bottles/ — Baby care bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/body-wash-bottles/ — Body Wash Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/bottle-decoration/ — Bottle Decoration: Silkscreen, Hot Stamp, Spray Coat | 8PCK
 - https://8pck.com/guides/bottle-neck-finishes/ — Bottle Neck Finishes — specs, MOQ and documents | 8PCK
@@ -287,6 +290,7 @@
 - https://8pck.com/news/mono-material-packaging-beauty/ — Mono-Material Packaging Is Beauty's Next Shift | 8PCK
 - https://8pck.com/news/packaging-2030-materials-regulation/ — Packaging 2030: The Four Changes That Will Rewrite a | 8PCK
 - https://8pck.com/news/pfas-claims-supply-chain/ — PFAS Claims Are Moving Down the Supply Chain | 8PCK
+- https://8pck.com/news/ppwr-bio-based-targets/ — The EU Is Weighing Bio-Based Targets Under PPWR | 8PCK
 - https://8pck.com/news/stock-packaging-beauty-brands/ — Big Beauty Brands Are Buying Stock Packaging | 8PCK
 - https://8pck.com/products/airless/30ml-airless-bottle/ — 30 ml airless bottle — 30 ml, Airless | 8PCK
 - https://8pck.com/products/airless/50ml-airless-bottle/ — 50 ml airless bottle — 50 ml, Airless | 8PCK
