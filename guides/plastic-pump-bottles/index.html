@@ -84,6 +84,50 @@
       <p style="font-size:11px;color:var(--muted);margin:12px 0 0;line-height:1.5">Written quotation, lead time and a sample plan in one reply.</p>
     </aside>
   </div>
+  
+<section class="section">
+  <div class="wrap">
+    <div style="border:1px solid var(--line);border-radius:10px;padding:22px;background:#fff">
+      <div class="kicker">30-second check</div>
+      <h2 style="font-size:22px;margin:8px 0 6px">Does Your Bottle Pass?</h2>
+      <p class="sub" style="margin:0 0 16px">Two numbers, one answer. Full checker takes six.</p>
+      <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
+        <label class="field" style="margin:0"><span>Capacity (ml)</span>
+          <input id="mcCap" type="number" value="500" min="5"></label>
+        <label class="field" style="margin:0"><span>Wall (mm)</span>
+          <input id="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
+        <label class="field" style="margin:0"><span>Closure</span>
+          <select id="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
+          <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
+        <a class="btn" id="mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
+      </div>
+      <p id="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
+    </div>
+  </div>
+</section>
+<script>
+(function(){
+  function need(cap,clo){
+    var base = (clo==='pump') ? (cap>600?0.65:0.55) : 0.45;
+    if(clo==='spray'&&cap>300) base=0.55;
+    return base;
+  }
+  function run(){
+    var cap=parseFloat(document.getElementById('mcCap').value)||0;
+    var wall=parseFloat(document.getElementById('mcWall').value)||0;
+    var clo=document.getElementById('mcClo').value;
+    var min=need(cap,clo);
+    var out=document.getElementById('mcOut');
+    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
+    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
+    document.getElementById('mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
+  }
+  ['mcCap','mcWall','mcClo'].forEach(function(id){var e=document.getElementById(id);e.addEventListener('input',run);e.addEventListener('change',run);});
+  run();
+})();
+</script>
+<style>@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
+
   <section class="section" style="margin-top:20px">
     <div class="shead"><div><div class="kicker">Related products</div><h2 style="font-size:24px">Sizes That Fit This Guide</h2></div></div>
     <div class="cards"><a class="card" href="../../products/bottles/500ml-pet-pump-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-500-pump.webp" type="image/webp"><img src="../../assets/img/bottle-500-pump.jpg" alt="500 ml PET pump bottle" loading="lazy" decoding="async"></picture></div><b>500 ml PET Pump Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/300ml-pet-pump-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-300-pump.webp" type="image/webp"><img src="../../assets/img/bottle-300-pump.jpg" alt="300 ml PET pump bottle" loading="lazy" decoding="async"></picture></div><b>300 ml PET Pump Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/250ml-pet-pump-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-250-pump.webp" type="image/webp"><img src="../../assets/img/bottle-250-pump.jpg" alt="250 ml PET pump bottle" loading="lazy" decoding="async"></picture></div><b>250 ml PET Pump Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/750ml-shampoo-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-750-shampoo.webp" type="image/webp"><img src="../../assets/img/bottle-750-shampoo.jpg" alt="750 ml shampoo bottle" loading="lazy" decoding="async"></picture></div><b>750 ml Shampoo Bottle</b><span class="more">View →</span></a></div>

@@ -163,8 +163,30 @@ label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
     <div class="result" id="result">
       <div class="sub">Estimated bottle weight</div>
       <div class="big" id="g">—</div>
-      <ul id="rows"></ul></div>
+      <ul id="rows"></ul>
+      <div style="margin-top:18px"><button class="btn" id="reportBtn" style="width:100%;justify-content:center">Download the Report (PDF) →</button></div>
+    </div>
   </div>
+
+  <section class="section" style="padding-top:26px">
+    <form action="https://formspree.io/f/xvkzlyvd" method="POST" style="border:1px solid var(--line);border-radius:10px;padding:20px;background:#fff">
+      <input type="hidden" name="_subject" value="Tool report request — 8pck.com">
+      <input type="hidden" name="_next" value="https://8pck.com/thanks.html">
+      <input type="hidden" name="product" value="tool-report:bottle-weight">
+      <input type="hidden" name="tool" value="Plastic Bottle Weight Calculator: Grams, Resin and Cost per 10,000">
+      <input type="hidden" name="spec_summary" class="js-summary" value="">
+      <input type="text" name="_gotcha" style="display:none" tabindex="-1">
+      <b style="display:block;font-size:15px;margin-bottom:4px">Email me this report</b>
+      <p class="sub" style="font-size:12.5px;margin:0 0 14px">We send the same numbers as a one-page PDF, with a price in 24 hours. No catalogue.</p>
+      <div class="row2" style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px">
+        <label class="field" style="margin:0"><span>Name *</span><input type="text" name="name" required></label>
+        <label class="field" style="margin:0"><span>Email *</span><input type="email" name="email" required></label>
+        <label class="field" style="margin:0"><span>Company</span><input type="text" name="company"></label>
+        <button class="btn" type="submit" style="height:44px">Send Report →</button>
+      </div>
+      <p class="sub" style="font-size:11.5px;margin:10px 0 0;color:var(--faint)">One reply from the person who quotes. Reply "stop" and we won't follow up.</p>
+    </form>
+  </section>
 
   <section class="section" style="padding-top:30px">
     <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:22px;border-radius:8px;background:#fff">
@@ -212,6 +234,48 @@ label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
   ['cap','dia','hgt','wall','mat'].forEach(function(id){var e=document.getElementById(id);e.addEventListener('input',run);e.addEventListener('change',run);});
   run();
 })();</script>
+
+<script>
+(function(){
+  var q=new URLSearchParams(location.search), any=false;
+  q.forEach(function(v,k){
+    var el=document.getElementById(k);
+    if(el && el.tagName!=='BUTTON'){ el.value=v; any=true;
+      el.dispatchEvent(new Event('input')); el.dispatchEvent(new Event('change')); }
+  });
+  if(any){window.__prefilled=true;}
+  var form=document.querySelector('form .js-summary');
+  if(form){
+    var fill=function(){
+      var rows=[];
+      document.querySelectorAll('#result li').forEach(function(li){
+        var b=li.querySelector('b'), sp=li.querySelector('span');
+        if(b&&sp){rows.push(b.textContent.trim()+': '+sp.textContent.trim());}
+      });
+      var v=document.getElementById('verdict')||document.getElementById('size')||document.getElementById('pcs')||document.getElementById('cc')||document.getElementById('g')||document.getElementById('moq')||document.getElementById('cpp');
+      form.value=(v?v.textContent.trim():'')+' | '+rows.join(' · ');
+    };
+    document.addEventListener('change',fill); document.addEventListener('input',fill); fill();
+  }
+  var rep=document.getElementById('reportBtn');
+  if(rep){rep.addEventListener('click',function(){
+    var rows=[];
+    document.querySelectorAll('#result li').forEach(function(li){
+      var b=li.querySelector('b'), sp=li.querySelector('span');
+      if(b&&sp){rows.push([b.textContent.trim(), sp.textContent.trim()]);}
+    });
+    var verdictEl=document.getElementById('verdict')||document.getElementById('size')||document.getElementById('pcs')||document.getElementById('cc')||document.getElementById('g')||document.getElementById('moq')||document.getElementById('cpp');
+    var params=new URLSearchParams({
+      tool: (document.querySelector('h1')||{textContent:'Specification report'}).textContent.trim(),
+      verdict: verdictEl?verdictEl.textContent.trim():'—',
+      rows: encodeURIComponent(JSON.stringify(rows)),
+      print: '1'
+    });
+    window.open('../../tools/report/?'+params.toString(),'_blank');
+  });}
+})();
+</script>
+
 
 <div class="jn-modal" id="jnModal" role="dialog" aria-modal="true" aria-labelledby="jnTitle">
   <div class="jn-card">

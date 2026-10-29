@@ -365,7 +365,7 @@ Sections: Wide Mouth or Narrow; Material Follows the Product; Handling and Stack
 ## https://8pck.com/guides/100ml-bottles/
 Title: 100 ml Bottles — specs, MOQ and documents | 8PCK
 Description: 100 ml is the largest bottle most airline regimes allow in hand luggage, and the smallest that still reads as a product rather than a sample.
-Sections: The 100 ml Advantage; Neck and Closure at 100 ml; What to Watch; Where This Size Fails; What to Send in a Brief; 100 ml in PET, HDPE and Clear: Which One You Are Actually Buying; Questions We Get on This; Sizes That Fit This Guide
+Sections: The 100 ml Advantage; Neck and Closure at 100 ml; What to Watch; Where This Size Fails; What to Send in a Brief; 100 ml in PET, HDPE and Clear: Which One You Are Actually Buying; Questions We Get on This; Does Your Bottle Pass?
 
 ## https://8pck.com/guides/12-oz-bottles/
 Title: 12 oz Bottles: 355 ml, the Drink and Sauce Size | 8PCK
@@ -445,7 +445,7 @@ Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Bri
 ## https://8pck.com/guides/250ml-bottles/
 Title: 250 ml Bottles — specs, MOQ and documents | 8PCK
 Description: 250 ml is the size a brand picks when it wants a lower entry price without looking small. It is also the size where a pump starts to look disproportionate.
-Sections: Pump or Disc-Top at 250 ml; Why 250 ml Wins in Germany and the Nordics; Where It Fails; Where This Size Fails; What to Send in a Brief; 250 ml in PET, HDPE and Clear: Which One You Are Actually Buying; Questions We Get on This; Sizes That Fit This Guide
+Sections: Pump or Disc-Top at 250 ml; Why 250 ml Wins in Germany and the Nordics; Where It Fails; Where This Size Fails; What to Send in a Brief; 250 ml in PET, HDPE and Clear: Which One You Are Actually Buying; Questions We Get on This; Does Your Bottle Pass?
 
 ## https://8pck.com/guides/28-410-neck/
 Title: 28/410 Neck: For 500–750 ml and Heavier Pumps | 8PCK
@@ -520,7 +520,7 @@ Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Bri
 ## https://8pck.com/guides/500ml-bottles/
 Title: 500 ml Bottles: The English-Speaking Market Default | 8PCK
 Description: 500 ml is the retail default in the US, UK and Australia — a price point that reads as value without looking like a bulk pack.
-Sections: 500 ml Is a Price Point, Not a Volume; Wall Thickness and Pump Draw; What Changes for Export; Where This Size Fails; What to Send in a Brief; 500 ml in PET, HDPE and Clear: Which One You Are Actually Buying; Questions We Get on This; Sizes That Fit This Guide
+Sections: 500 ml Is a Price Point, Not a Volume; Wall Thickness and Pump Draw; What Changes for Export; Where This Size Fails; What to Send in a Brief; 500 ml in PET, HDPE and Clear: Which One You Are Actually Buying; Questions We Get on This; Does Your Bottle Pass?
 
 ## https://8pck.com/guides/50ml-bottles/
 Title: 50 ml Bottles: The Sample Size That Decides Reorders | 8PCK
@@ -550,12 +550,12 @@ Sections: Wide Neck, Thick Product; Weight and Shipping; Where It Fails; What to
 ## https://8pck.com/guides/airless-bottles/
 Title: Airless Bottles — specs, MOQ and documents | 8PCK
 Description: An airless bottle has no dip tube. A piston follows the product down, so the formula meets air only at the nozzle. That protects actives — and costs more t
-Sections: How an Airless Pack Actually Works; When Airless Is Worth It; Airless vs Dropper vs Standard Pump; What to Specify Before Quoting; Where Airless Disappoints; How to Specify One; Questions We Get on This; Sizes That Fit This Guide
+Sections: How an Airless Pack Actually Works; When Airless Is Worth It; Airless vs Dropper vs Standard Pump; What to Specify Before Quoting; Where Airless Disappoints; How to Specify One; Questions We Get on This; Does Your Bottle Pass?
 
 ## https://8pck.com/guides/apothecary-jars/
 Title: Apothecary Jars — specs, MOQ and documents | 8PCK
 Description: An apothecary jar is a wide-mouth, straight-sided jar: candles, balms, bath salts and dry goods. The shape is deliberate — it stacks and it scoops.
-Sections: Why the Shape Matters; Lid and Liner; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why the Shape Matters; Lid and Liner; Where It Fails; Questions We Get on This; Does Your Bottle Pass?; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/baby-care-bottles/
 Title: Baby care bottles — specs, MOQ and documents | 8PCK
@@ -585,7 +585,7 @@ Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in
 ## https://8pck.com/guides/body-wash-bottles/
 Title: Body Wash Bottles — specs, MOQ and documents | 8PCK
 Description: Body wash is bought in the shower, one-handed, with wet hands. That single fact decides the bottle: the closure, the grip and the label, in that order — th
-Sections: The Closure Is the Product; 500 ml Is a Habit, Not a Standard; What a Wet Bathroom Does to a Label; PET or HDPE for Body Wash; Where Body Wash Bottles Fail; 400 ml in Southeast Asia, 500 ml in the US; Questions We Get on This; Sizes That Fit This Guide
+Sections: The Closure Is the Product; 500 ml Is a Habit, Not a Standard; What a Wet Bathroom Does to a Label; PET or HDPE for Body Wash; Where Body Wash Bottles Fail; 400 ml in Southeast Asia, 500 ml in the US; Questions We Get on This; Does Your Bottle Pass?
 
 ## https://8pck.com/guides/bottle-decoration/
 Title: Bottle Decoration: Silkscreen, Hot Stamp, Spray Coat | 8PCK
@@ -670,7 +670,7 @@ Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures 
 ## https://8pck.com/guides/dropper-bottles/
 Title: Dropper Bottles — specs, MOQ and documents | 8PCK
 Description: A dropper bottle is a bottle, a collar and a pipette that have to seal at three points. The 18/410 neck is the standard for serums and oils — the rest is a
-Sections: Glass vs Plastic; Why the Collar Matters More Than the Bottle; Dose per Drop Is a Specification, Not a Guess; Where Dropper Bottles Go Wrong; Sizing a Serum Bottle; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Glass vs Plastic; Why the Collar Matters More Than the Bottle; Dose per Drop Is a Specification, Not a Guess; Where Dropper Bottles Go Wrong; Sizing a Serum Bottle; Questions We Get on This; Does Your Bottle Pass?; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/fabric-softener-bottles/
 Title: Fabric Softener Bottles — specs, MOQ and documents | 8PCK
@@ -700,7 +700,7 @@ Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures 
 ## https://8pck.com/guides/food-jars/
 Title: Food Jars — specs, MOQ and documents | 8PCK
 Description: A food jar is chosen by the filling line before the shelf: how wide the mouth is decides how fast you can fill, and how you close it decides whether the cu
-Sections: Wide Mouth vs Narrow Mouth; Hot Fill and Why PET Has a Ceiling; Tamper Evidence That Actually Gets Used; Where Food Jars Fail; What Documents a Food Buyer Should Ask For; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Wide Mouth vs Narrow Mouth; Hot Fill and Why PET Has a Ceiling; Tamper Evidence That Actually Gets Used; Where Food Jars Fail; What Documents a Food Buyer Should Ask For; Questions We Get on This; Does Your Bottle Pass?; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/frosted-bottles/
 Title: Frosted Bottles: The Cheapest Premium Finish | 8PCK
@@ -720,7 +720,7 @@ Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in
 ## https://8pck.com/guides/hand-soap-bottles/
 Title: Hand Soap Bottles — specs, MOQ and documents | 8PCK
 Description: Hand soap is the one bottle a household buys again without thinking. That makes it the most repeat-ordered SKU in the category — and the one where a pump t
-Sections: Lotion Pump vs Foaming Pump; 250 ml Is a Repeat Purchase, Not a Premium One; What Makes a Pump Fail; Labels in a Wet Bathroom; Where Hand Soap Bottles Fail; 250 ml vs 500 ml for Commercial Buyers; Questions We Get on This; Sizes That Fit This Guide
+Sections: Lotion Pump vs Foaming Pump; 250 ml Is a Repeat Purchase, Not a Premium One; What Makes a Pump Fail; Labels in a Wet Bathroom; Where Hand Soap Bottles Fail; 250 ml vs 500 ml for Commercial Buyers; Questions We Get on This; Does Your Bottle Pass?
 
 ## https://8pck.com/guides/hot-sauce-bottles/
 Title: Hot Sauce Bottles — specs, MOQ and documents | 8PCK
@@ -730,12 +730,12 @@ Sections: Wide Neck, Small Orifice; Fill Temperature; Where It Fails; Questions 
 ## https://8pck.com/guides/hotel-amenity-bottles/
 Title: Hotel amenity bottles — specs, MOQ and documents | 8PCK
 Description: Hotel amenities are bought by the thousand, refilled by housekeeping, and judged by whether they leak in a trolley. The bottle is commodity; the closure an
-Sections: The Closure Decides the Complaint Rate; Refillable Versus Single Use; 30 Or 50 ml; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: The Closure Decides the Complaint Rate; Refillable Versus Single Use; 30 Or 50 ml; Questions We Get on This; Does Your Bottle Pass?; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/household-cleaner-bottles/
 Title: Household cleaner bottles — specs, MOQ and documents | 8PCK
 Description: A cleaner bottle is a chemical container before it is a brand object. The resin, the gasket and the vent decide whether it survives the product — and the t
-Sections: Resin Follows the Chemistry; Two Failures That Come Back; Refill and Concentrate Formats; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Resin Follows the Chemistry; Two Failures That Come Back; Refill and Concentrate Formats; Questions We Get on This; Does Your Bottle Pass?; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/
 Title: Guides — bottle sizes, neck finishes, MOQ and tooling | 8PCK
@@ -754,7 +754,7 @@ Sections: Cold Fill Versus Hot Fill; Necks and Closures; Where It Fails; Questio
 ## https://8pck.com/guides/lotion-bottles/
 Title: Lotion Bottles — specs, MOQ and documents | 8PCK
 Description: Body lotion is judged twice: on shelf by the bottle, in the hand by the pump. At 300 ml the two are almost the same decision — the wall thickness and the p
-Sections: Dose per Stroke Is a Product Decision; Why 300 ml Feels Premium and 500 ml Feels Economical; PET or HDPE for Lotion; Decoration That Survives a Bathroom Shelf; Where Lotion Bottles Fail; Why 300 ml Reads Premium; Questions We Get on This; Sizes That Fit This Guide
+Sections: Dose per Stroke Is a Product Decision; Why 300 ml Feels Premium and 500 ml Feels Economical; PET or HDPE for Lotion; Decoration That Survives a Bathroom Shelf; Where Lotion Bottles Fail; Why 300 ml Reads Premium; Questions We Get on This; Does Your Bottle Pass?
 
 ## https://8pck.com/guides/lotion-pumps/
 Title: Lotion Pumps: What Fits, and What Fails | 8PCK
@@ -819,12 +819,12 @@ Sections: Crimp Versus Screw; Plastic Versus Glass; What Wholesale Changes; Ques
 ## https://8pck.com/guides/pet-bottles/
 Title: PET Bottles — specs, MOQ and documents | 8PCK
 Description: PET is the default clear plastic bottle for cosmetics, personal care and food. It is also the material most often specified without a grade — which is wher
-Sections: PET vs HDPE vs PETG; What “rPET” Means on a Purchase Order; Food Contact and the Documents That Matter; When PET Is the Wrong Choice; Where PET Fails, and How to See It Coming; Recycled Content: What a Supplier Should Be Able to Say; Questions We Get on This; Sizes That Fit This Guide
+Sections: PET vs HDPE vs PETG; What “rPET” Means on a Purchase Order; Food Contact and the Documents That Matter; When PET Is the Wrong Choice; Where PET Fails, and How to See It Coming; Recycled Content: What a Supplier Should Be Able to Say; Questions We Get on This; Does Your Bottle Pass?
 
 ## https://8pck.com/guides/pet-care-bottles/
 Title: Pet care bottles — specs, MOQ and documents | 8PCK
 Description: Pet shampoo, conditioner and supplements are bought by people who love the animal and do not read the dosage twice. That makes the closure a dosing device
-Sections: Dosing Is the Design Problem; What the Animal Does to the Bottle; Regulatory Caution; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Dosing Is the Design Problem; What the Animal Does to the Bottle; Regulatory Caution; Questions We Get on This; Does Your Bottle Pass?; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/pharmaceutical-bottles/
 Title: Pharmaceutical Bottles — specs, MOQ and documents | 8PCK
@@ -839,7 +839,7 @@ Sections: Why They Are Two Products; What 'Supplied Fitted' Means; When to Buy S
 ## https://8pck.com/guides/plastic-pump-bottles/
 Title: Plastic Pump Bottles — specs, MOQ and documents | 8PCK
 Description: A pump bottle is three parts sold as one product — bottle, neck finish and pump. Get the neck wrong and the pump leaks; get the wall thickness wrong and th
-Sections: The Three Parts, and Which One Actually Fails; Sizes and Which Markets Buy Them; Wall Thickness, Weight and Where the Cost Sits; Testing Before the Container Ships; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: The Three Parts, and Which One Actually Fails; Sizes and Which Markets Buy Them; Wall Thickness, Weight and Where the Cost Sits; Testing Before the Container Ships; What to Send in a Brief; Questions We Get on This; Does Your Bottle Pass?; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/pump-with-lock/
 Title: Pumps with a Lock: What Fits, and What Fails | 8PCK
@@ -854,7 +854,7 @@ Sections: The Three Documents; What Changes Visually; What to Ask; How to Specif
 ## https://8pck.com/guides/sanitizer-bottles/
 Title: Sanitizer bottles — specs, MOQ and documents | 8PCK
 Description: Hand sanitizer is the one product where the pack has to work one-handed, in public, with sticky hands. The bottle is the easy part; the pump is where the d
-Sections: Gel Uses a Pump; Liquid Uses a Sprayer; Alcohol Content Decides the Material; Pocket Size: 50 and 100 ml; Labels and the Sticky-Hands Problem; Where Sanitizer Bottles Fail; Gel and Liquid From One Mould; Questions We Get on This; Sizes That Fit This Guide
+Sections: Gel Uses a Pump; Liquid Uses a Sprayer; Alcohol Content Decides the Material; Pocket Size: 50 and 100 ml; Labels and the Sticky-Hands Problem; Where Sanitizer Bottles Fail; Gel and Liquid From One Mould; Questions We Get on This; Does Your Bottle Pass?
 
 ## https://8pck.com/guides/screw-caps/
 Title: Screw Caps: What Fits, and What Fails | 8PCK
@@ -869,12 +869,12 @@ Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in
 ## https://8pck.com/guides/serum-bottles/
 Title: Serum Bottles: 30 ml, Dropper or Airless | 8PCK
 Description: A serum is the most expensive thing most brands put in a bottle, and the smallest. At 30 ml the pack decision is almost entirely about how much air the for
-Sections: Dropper: the Default, and Its Cost; Airless: Protection, at a Price; Glass or Plastic; What to Send With the Brief; Where Serum Bottles Fail; Glass or Plastic, in Practice; Questions We Get on This; Sizes That Fit This Guide
+Sections: Dropper: the Default, and Its Cost; Airless: Protection, at a Price; Glass or Plastic; What to Send With the Brief; Where Serum Bottles Fail; Glass or Plastic, in Practice; Questions We Get on This; Does Your Bottle Pass?
 
 ## https://8pck.com/guides/shampoo-bottles/
 Title: Shampoo Bottles — specs, MOQ and documents | 8PCK
 Description: Shampoo is the highest-volume cosmetic bottle in the world, and almost every complaint about it starts at the same place: the pump seats on a neck that was
-Sections: 500 ml Is the Volume, the Neck Is the Decision; PET or HDPE; What the Filling Line Needs From You; Decoration That Survives a Bathroom; Where Shampoo Bottles Fail; 500 ml vs 750 ml: the Economics; Questions We Get on This; Sizes That Fit This Guide
+Sections: 500 ml Is the Volume, the Neck Is the Decision; PET or HDPE; What the Filling Line Needs From You; Decoration That Survives a Bathroom; Where Shampoo Bottles Fail; 500 ml vs 750 ml: the Economics; Questions We Get on This; Does Your Bottle Pass?
 
 ## https://8pck.com/guides/soft-touch-bottles/
 Title: Soft-touch Bottles — specs, MOQ and documents | 8PCK
@@ -899,12 +899,12 @@ Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in
 ## https://8pck.com/guides/toner-bottles/
 Title: Toner bottles — specs, MOQ and documents | 8PCK
 Description: Toner is the one skincare product sold by volume rather than by dose. That makes the bottle a shelf-width decision before it is a design decision — and 200
-Sections: Why Flat Beats Round on Shelf; Closures for a Water-Thin Liquid; PET or PETG; Decoration on a Flat Face; Where Toner Bottles Fail; Why 200 ml Flat Replaced 250 ml Round; Questions We Get on This; Sizes That Fit This Guide
+Sections: Why Flat Beats Round on Shelf; Closures for a Water-Thin Liquid; PET or PETG; Decoration on a Flat Face; Where Toner Bottles Fail; Why 200 ml Flat Replaced 250 ml Round; Questions We Get on This; Does Your Bottle Pass?
 
 ## https://8pck.com/guides/travel-bottles/
 Title: Travel bottles — specs, MOQ and documents | 8PCK
 Description: Travel sizes are decided by a rule, not by design: 100 ml per container in hand luggage. That makes 50 ml and 100 ml the only two sizes worth moulding — an
-Sections: The Three Closures That Survive a Flight; Why 50 ml Sells and 100 ml Is the Value Pack; Where Travel Bottles Fail in Practice; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: The Three Closures That Survive a Flight; Why 50 ml Sells and 100 ml Is the Value Pack; Where Travel Bottles Fail in Practice; What to Send in a Brief; Questions We Get on This; Does Your Bottle Pass?; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/treatment-pumps/
 Title: Treatment Pumps: What Fits, and What Fails | 8PCK
@@ -1868,6 +1868,10 @@ Description: Free tools for buyers: check a bottle specification (neck, capacity
 Title: MOQ and Tooling Calculator | 8PCK
 Description: Pick a shape and a decoration; the calculator returns the real minimum order, whether tooling is needed, and the timeline.
 Sections: Want a Person to Check It?; Three Floors, Not One; Why Decoration Raises the Floor; Questions About This Tool
+
+## https://8pck.com/tools/report/
+Title: Specification report — 8PCK
+Description: A one-page specification report generated from the calculator, with the checks, the verdict and who to contact.
 
 ## https://8pck.com/tools/spec-checker/
 Title: Bottle Spec Checker — neck, capacity and wall | 8PCK
