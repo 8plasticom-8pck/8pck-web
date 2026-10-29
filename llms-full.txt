@@ -250,22 +250,42 @@ Sections: The Cost Floor; Where 1 Oz Is Used; Where It Fails; Questions We Get o
 ## https://8pck.com/guides/1000ml-bottles/
 Title: 1 L Bottles — specs, MOQ and documents | 8PCK
 Description: 1 L is a household size first and a cosmetic size second: detergent, fabric softener, juice and syrup. The neck widens, the wall thickens, and the closure
-Sections: Wide Mouth or Narrow; Material Follows the Product; Handling and Stacking; Where This Size Fails; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Wide Mouth or Narrow; Material Follows the Product; Handling and Stacking; Where This Size Fails; What to Send in a Brief; 1 L in PET, HDPE and Clear: Which One You Are Actually Buying; Questions We Get on This; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/100ml-bottles/
 Title: 100 ml Bottles — specs, MOQ and documents | 8PCK
 Description: 100 ml is the largest bottle most airline regimes allow in hand luggage, and the smallest that still reads as a product rather than a sample.
-Sections: The 100 ml Advantage; Neck and Closure at 100 ml; What to Watch; Where This Size Fails; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: The 100 ml Advantage; Neck and Closure at 100 ml; What to Watch; Where This Size Fails; What to Send in a Brief; 100 ml in PET, HDPE and Clear: Which One You Are Actually Buying; Questions We Get on This; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/12-oz-bottles/
 Title: 12 oz Bottles: 355 ml, the Drink and Sauce Size | 8PCK
 Description: 12 oz (355 ml) is the can equivalent and a common sauce and drink bottle size in the US. It sits between 300 and 375 ml, which is why metric markets rarely
 Sections: Where 12 Oz Comes From; Metric Mismatch; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
+## https://8pck.com/guides/120ml-bottles/
+Title: 120 ml Bottles: 4 oz, and the Shampoo Travel Size | 8PCK
+Description: 120 ml is four ounces — the largest size most travel sets allow and the default hotel shampoo bottle.
+Sections: The Hotel and Travel Default; Closure at 120 ml; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/15ml-bottles/
+Title: 15 ml Bottles: Sample, Serum and Travel | 8PCK
+Description: 15 ml is the sample and travel size: serum, oil, hand sanitizer and hotel amenities. The closure decides whether it survives a bag.
+Sections: What Fits 15 ml; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/16-oz-jars/
+Title: 16 oz Jars (480 ml): Bulk Cream, Scrub and Gel | 8PCK
+Description: 16 oz is about 480 ml — the bulk size for scrub, gel, hair mask and candle. It is the jar where the wall and the base decide whether it survives shipping.
+Sections: Wide Mouth and Base; Material Choice; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/18-410-neck/
 Title: 18/410 Neck: The Dropper and Sample Standard | 8PCK
 Description: 18/410 is the smallest standard neck in cosmetics: droppers, sample serums and small applicators. It is also the one most often mismatched with 18/415.
 Sections: What Fits An 18/410; 18/410 Vs 18/415; Where It Fails; How to Confirm the Neck Before Ordering; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
+## https://8pck.com/guides/2-oz-jars/
+Title: 2 oz Jars (60 ml): The Sample and Balm Size | 8PCK
+Description: 2 oz is about 60 ml — the balm, salve and sample size. It is the jar where the lid liner matters more than the body.
+Sections: Lid and Liner Decide the Seal; Wall and Rim; Where It Is Used; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/20-410-neck/
 Title: 20/410 Neck: The Travel and Mist Size | 8PCK
@@ -275,7 +295,7 @@ Sections: What Fits A 20/410; Why Not 24/410 at This Size; Where It Fails; How t
 ## https://8pck.com/guides/200ml-bottles/
 Title: 200 ml Bottles — specs, MOQ and documents | 8PCK
 Description: 200 ml in a flat profile is now the default for toner, sanitizer and hotel amenities: more label face per shelf depth, and a size that still reads premium.
-Sections: Why Flat Wins on Shelf; What Fits the 200 ml Neck; Production Notes; Where This Size Fails; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why Flat Wins on Shelf; What Fits the 200 ml Neck; Production Notes; Where This Size Fails; What to Send in a Brief; 200 ml in PET, HDPE and Clear: Which One You Are Actually Buying; Questions We Get on This; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/24-410-neck/
 Title: 24/410 Neck: The Default That Fits Most Pumps | 8PCK
@@ -285,7 +305,7 @@ Sections: The Closure Range Is the Reason; Wall Thickness At 24/410; Where It Fa
 ## https://8pck.com/guides/250ml-bottles/
 Title: 250 ml Bottles — specs, MOQ and documents | 8PCK
 Description: 250 ml is the size a brand picks when it wants a lower entry price without looking small. It is also the size where a pump starts to look disproportionate.
-Sections: Pump or Disc-Top at 250 ml; Why 250 ml Wins in Germany and the Nordics; Where It Fails; Where This Size Fails; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Pump or Disc-Top at 250 ml; Why 250 ml Wins in Germany and the Nordics; Where It Fails; Where This Size Fails; What to Send in a Brief; 250 ml in PET, HDPE and Clear: Which One You Are Actually Buying; Questions We Get on This; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/28-410-neck/
 Title: 28/410 Neck: For 500–750 ml and Heavier Pumps | 8PCK
@@ -295,7 +315,7 @@ Sections: When 28/410 Is the Right Choice; The Wall Requirement; Where It Fails;
 ## https://8pck.com/guides/300ml-bottles/
 Title: 300 ml Bottles: The Size Where Body Lotion Lives | 8PCK
 Description: 300 ml is the European retail standard for body lotion and the size where the pump's stroke matters more than the bottle's shape.
-Sections: The Stroke Decides the Feel; Wall Thickness at 300 ml; Where It Fails; Where This Size Fails; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: The Stroke Decides the Feel; Wall Thickness at 300 ml; Where It Fails; Where This Size Fails; What to Send in a Brief; 300 ml in PET, HDPE and Clear: Which One You Are Actually Buying; Questions We Get on This; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/375-ml-bottles/
 Title: 375 ml Bottles — specs, MOQ and documents | 8PCK
@@ -307,20 +327,35 @@ Title: 4 oz Bottles: 120 ml, and the Size That Fits a Peg | 8PCK
 Description: 4 oz (about 120 ml) is a retail peg size: sauces, lotions, craft oils and sample sets. The unit economics change because the closure costs more than the bo
 Sections: Why 4 Oz Survived Metrication; Cost per Unit; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
+## https://8pck.com/guides/4-oz-jars/
+Title: 4 oz Jars (120 ml): The Cream and Candle Size | 8PCK
+Description: 4 oz is about 120 ml, the most common cosmetic cream jar and the standard small candle. Straight sides, wide mouth, and a liner that has to survive oil.
+Sections: Why 120 ml Is the Cream Default; Candle Fills; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+
 ## https://8pck.com/guides/500ml-bottles/
 Title: 500 ml Bottles: The English-Speaking Market Default | 8PCK
 Description: 500 ml is the retail default in the US, UK and Australia — a price point that reads as value without looking like a bulk pack.
-Sections: 500 ml Is a Price Point, Not a Volume; Wall Thickness and Pump Draw; What Changes for Export; Where This Size Fails; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: 500 ml Is a Price Point, Not a Volume; Wall Thickness and Pump Draw; What Changes for Export; Where This Size Fails; What to Send in a Brief; 500 ml in PET, HDPE and Clear: Which One You Are Actually Buying; Questions We Get on This; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/50ml-bottles/
 Title: 50 ml Bottles: The Sample Size That Decides Reorders | 8PCK
 Description: 50 ml is the smallest size most brands sell, and the one with the highest cost per ml. The bottle is cheap; the closure, the filling and the carton are not
-Sections: What Fits on a 50 ml Bottle; Why the Closure Decides the Reorder; Cost per Unit at 50 ml; Where This Size Fails; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits on a 50 ml Bottle; Why the Closure Decides the Reorder; Cost per Unit at 50 ml; Where This Size Fails; What to Send in a Brief; 50 ml in PET, HDPE and Clear: Which One You Are Actually Buying; Questions We Get on This; Sizes That Fit This Guide
+
+## https://8pck.com/guides/60ml-bottles/
+Title: 60 ml Bottles: The Size Between Sample and Product | 8PCK
+Description: 60 ml is two ounces: travel shampoo, hand sanitizer, serum refill and mouthwash. It is the size where a flip-top stops feeling like a sample.
+Sections: Flip-Top or Disc-Top; PET or HDPE; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/750ml-bottles/
 Title: 750 ml Bottles — specs, MOQ and documents | 8PCK
 Description: 750 ml is the family shampoo and pet shampoo size. It is the first size where a 28/410 pump is mandatory and the wall thickness becomes a structural questi
-Sections: 28/410 Is Not Optional; The Wall Has to Hold; Export Economics; Where This Size Fails; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: 28/410 Is Not Optional; The Wall Has to Hold; Export Economics; Where This Size Fails; What to Send in a Brief; 750 ml in PET, HDPE and Clear: Which One You Are Actually Buying; Questions We Get on This; Sizes That Fit This Guide
+
+## https://8pck.com/guides/8-oz-jars/
+Title: 8 oz Jars (240 ml): Body Cream, Scrub and Candle | 8PCK
+Description: 8 oz is about 240 ml: body cream, scrub, hair mask and the mid-size candle. It is the size where the jar starts to need a wider neck for filling.
+Sections: Wide Neck, Thick Product; Weight and Shipping; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
 ## https://8pck.com/guides/airless-bottles/
 Title: Airless Bottles — specs, MOQ and documents | 8PCK

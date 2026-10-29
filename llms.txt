@@ -108,6 +108,13 @@
 - 1 oz Bottles — https://8pck.com/guides/1-oz-bottles/ — covers: 1 oz bottle, 1oz bottles, 30ml bottle, 1 ounce bottle, small sample bottle. 1 oz is 30 ml — the sample and essential-oil size. Below this, the cap and the filling cost more than the bottle, and the price st
 - Pharmaceutical Bottles — https://8pck.com/guides/pharmaceutical-bottles/ — covers: pharmaceutical bottles, pharma bottle, medicine bottle, prescription bottle, pill bottle supplier. A pharmaceutical bottle is HDPE with a child-resistant closure and a documented specification. We supply the container; the licenc
 - Apothecary Jars — https://8pck.com/guides/apothecary-jars/ — covers: apothecary jars, apothecary jars with lids, wide mouth jar, candle jar, straight sided jar. An apothecary jar is a wide-mouth, straight-sided jar: candles, balms, bath salts and dry goods. The shape is deliberate — it stac
+- 2 oz Jars — https://8pck.com/guides/2-oz-jars/ — covers: 2 oz jars, 2 oz jars with lids, 60ml jar, 2 oz cosmetic jar, small jar with lid. 2 oz is about 60 ml — the balm, salve and sample size. It is the jar where the lid liner matters more than the body.
+- 4 oz Jars — https://8pck.com/guides/4-oz-jars/ — covers: 4 oz jars, 4 oz jars with lids, 120ml jar, 4 oz cosmetic jars, cream jar 4 oz. 4 oz is about 120 ml, the most common cosmetic cream jar and the standard small candle. Straight sides, wide mouth, and a liner th
+- 8 oz Jars — https://8pck.com/guides/8-oz-jars/ — covers: 8 oz jars, 8 oz jars with lids, 240ml jar, 8 oz cosmetic jar, body cream jar. 8 oz is about 240 ml: body cream, scrub, hair mask and the mid-size candle. It is the size where the jar starts to need a wider ne
+- 16 oz Jars — https://8pck.com/guides/16-oz-jars/ — covers: 16 oz jars, 16 oz jars with lids, 480ml jar, 16 oz plastic jar, bulk cream jar. 16 oz is about 480 ml — the bulk size for scrub, gel, hair mask and candle. It is the jar where the wall and the base decide wheth
+- 15 ml Bottles — https://8pck.com/guides/15ml-bottles/ — covers: 15 ml bottles, 15ml bottle, 15 ml plastic bottle, sample bottle 15ml, travel bottle 15ml. 15 ml is the sample and travel size: serum, oil, hand sanitizer and hotel amenities. The closure decides whether it survives a bag
+- 60 ml Bottles — https://8pck.com/guides/60ml-bottles/ — covers: 60 ml bottles, 60ml bottle, 60 ml plastic bottle, 2 oz bottle, travel size 60ml. 60 ml is two ounces: travel shampoo, hand sanitizer, serum refill and mouthwash. It is the size where a flip-top stops feeling lik
+- 120 ml Bottles — https://8pck.com/guides/120ml-bottles/ — covers: 120 ml bottles, 120ml bottle, 4 oz bottle plastic, 120 ml shampoo bottle, hotel amenity bottle. 120 ml is four ounces — the largest size most travel sets allow and the default hotel shampoo bottle.
 
 ## Categories
 - Bottles — 50–1,000 ml, 18–38 mm necks. Eight stock moulds, ready for decoration. — https://8pck.com/products/bottles/
@@ -297,7 +304,11 @@
 - https://8pck.com/guides/1000ml-bottles/ — 1 L Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/100ml-bottles/ — 100 ml Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/12-oz-bottles/ — 12 oz Bottles: 355 ml, the Drink and Sauce Size | 8PCK
+- https://8pck.com/guides/120ml-bottles/ — 120 ml Bottles: 4 oz, and the Shampoo Travel Size | 8PCK
+- https://8pck.com/guides/15ml-bottles/ — 15 ml Bottles: Sample, Serum and Travel | 8PCK
+- https://8pck.com/guides/16-oz-jars/ — 16 oz Jars (480 ml): Bulk Cream, Scrub and Gel | 8PCK
 - https://8pck.com/guides/18-410-neck/ — 18/410 Neck: The Dropper and Sample Standard | 8PCK
+- https://8pck.com/guides/2-oz-jars/ — 2 oz Jars (60 ml): The Sample and Balm Size | 8PCK
 - https://8pck.com/guides/20-410-neck/ — 20/410 Neck: The Travel and Mist Size | 8PCK
 - https://8pck.com/guides/200ml-bottles/ — 200 ml Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/24-410-neck/ — 24/410 Neck: The Default That Fits Most Pumps | 8PCK
@@ -306,9 +317,12 @@
 - https://8pck.com/guides/300ml-bottles/ — 300 ml Bottles: The Size Where Body Lotion Lives | 8PCK
 - https://8pck.com/guides/375-ml-bottles/ — 375 ml Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/4-oz-bottles/ — 4 oz Bottles: 120 ml, and the Size That Fits a Peg | 8PCK
+- https://8pck.com/guides/4-oz-jars/ — 4 oz Jars (120 ml): The Cream and Candle Size | 8PCK
 - https://8pck.com/guides/500ml-bottles/ — 500 ml Bottles: The English-Speaking Market Default | 8PCK
 - https://8pck.com/guides/50ml-bottles/ — 50 ml Bottles: The Sample Size That Decides Reorders | 8PCK
+- https://8pck.com/guides/60ml-bottles/ — 60 ml Bottles: The Size Between Sample and Product | 8PCK
 - https://8pck.com/guides/750ml-bottles/ — 750 ml Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/8-oz-jars/ — 8 oz Jars (240 ml): Body Cream, Scrub and Candle | 8PCK
 - https://8pck.com/guides/airless-bottles/ — Airless Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/apothecary-jars/ — Apothecary Jars — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/baby-care-bottles/ — Baby care bottles — specs, MOQ and documents | 8PCK
