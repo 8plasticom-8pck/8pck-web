@@ -314,6 +314,9 @@
 - https://8pck.com/tools/dose-run-rate/ — bottle size from dose per use, uses per day and days of supply, plus annual volume.
 - https://8pck.com/tools/dilution/ — cleaning concentrate dilution: concentrate per bottle, water, cost per bottle.
 - https://8pck.com/tools/moq-tooling/ — real minimum order for a stock shape, a new mould, and each decoration floor.
+- https://8pck.com/tools/container-loading/ — how many bottles fit in a 20GP or 40HQ, and whether volume or weight is the limit.
+- https://8pck.com/tools/carton-pallet/ — cartons per layer and per pallet, and pallets per container.
+- https://8pck.com/tools/bottle-weight/ — bottle weight in grams from capacity, diameter, wall and resin density.
 Tools are designed and maintained by Joe Joo (author page: https://8pck.com/about.html#joe).
 
 ## Full page index
@@ -684,6 +687,9 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/quality.html — Quality & compliance — ISO 9001, EU 10/2011, RoHS | 8PCK
 - https://8pck.com/reference/ — Reference — specs, documents and definitions | 8PCK
 - https://8pck.com/resources.html — Resources — catalogue, certificates, drawings | 8PCK
+- https://8pck.com/tools/bottle-weight/ — Plastic Bottle Weight Calculator (grams) | 8PCK
+- https://8pck.com/tools/carton-pallet/ — Cartons per Pallet Calculator | 8PCK
+- https://8pck.com/tools/container-loading/ — Container Loading Calculator — bottles per 20GP/40HQ | 8PCK
 - https://8pck.com/tools/dilution/ — Cleaning Concentrate Dilution Calculator | 8PCK
 - https://8pck.com/tools/dose-run-rate/ — Bottle Size by Dose — run-rate calculator | 8PCK
 - https://8pck.com/tools/fill-weight/ — Jar Fill Weight Calculator — grams to jar size | 8PCK

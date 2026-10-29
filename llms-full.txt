@@ -1830,6 +1830,21 @@ Title: Resources — catalogue, certificates, drawings | 8PCK
 Description: Product catalogue, certificate pack, specification sheets and packing data, sent by email.
 Sections: Documents That Need a Name on Them
 
+## https://8pck.com/tools/bottle-weight/
+Title: Plastic Bottle Weight Calculator (grams) | 8PCK
+Description: Enter capacity, diameter, height, wall and material; the calculator estimates bottle weight in grams and the resin needed for 10,000 pieces.
+Sections: Want a Person to Check It?; Why the Weight Matters More Than the Wall; What This Estimate Cannot See; Questions About This Tool
+
+## https://8pck.com/tools/carton-pallet/
+Title: Cartons per Pallet Calculator | 8PCK
+Description: Enter the carton size and pallet type; the calculator returns cartons per layer, layers, cartons per pallet and how many pallets a container takes.
+Sections: Want a Person to Check It?; Two Orientations, One Winner; The Height Budget; Questions About This Tool
+
+## https://8pck.com/tools/container-loading/
+Title: Container Loading Calculator — bottles per 20GP/40HQ | 8PCK
+Description: Enter the carton size, weight and pieces per carton; the calculator returns cartons and bottles per container, and whether volume or weight is the limit.
+Sections: Want a Person to Check It?; Volume Is Rarely the Limit for Plastic Bottles; Why 90 % Utilisation; Questions About This Tool
+
 ## https://8pck.com/tools/dilution/
 Title: Cleaning Concentrate Dilution Calculator | 8PCK
 Description: Enter the dilution ratio and the bottle size; the calculator returns concentrate per bottle, water, cost per bottle and bottles per litre.
