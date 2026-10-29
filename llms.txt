@@ -240,6 +240,9 @@
 
 ## Contact
 - joe@8pck.com · WhatsApp +86 133 6387 9944 · https://8pck.com/contact.html
+## Free tools
+- https://8pck.com/tools/spec-checker/ — check neck/closure fit, capacity per neck and wall thickness before quoting. Free, no signup; a written report is sent on request.
+
 ## Full page index
 - https://8pck.com/about.html — About — one factory, one contact | 8PCK
 - https://8pck.com/answers/documents-for-eu-import/ — What documents do I need to import plastic bottles into the EU?
@@ -500,5 +503,7 @@
 - https://8pck.com/quality.html — Quality & compliance — ISO 9001, EU 10/2011, RoHS | 8PCK
 - https://8pck.com/reference/ — Reference — specs, documents and definitions | 8PCK
 - https://8pck.com/resources.html — Resources — catalogue, certificates, drawings | 8PCK
+- https://8pck.com/tools/ — Free packaging tools — spec checker | 8PCK
+- https://8pck.com/tools/spec-checker/ — Bottle Spec Checker — neck, capacity and wall | 8PCK
 - https://8pck.com/verify.html — Verify 8PCK — legal entity and certificates | 8PCK
 

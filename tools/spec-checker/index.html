@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<title>Bottle Spec Checker — neck, capacity and wall | 8PCK</title>
+<meta name="description" content="Free checker: does your neck fit the closure, is the wall thick enough for a pump, and what MOQ applies. Written report in 24 hours.">
+<link rel="canonical" href="https://8pck.com/tools/spec-checker/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Bottle Spec Checker — neck, capacity and wall | 8PCK">
+<meta property="og:description" content="Free checker: does your neck fit the closure, is the wall thick enough for a pump, and what MOQ applies. Written report in 24 hours.">
+<meta property="og:url" content="https://8pck.com/tools/spec-checker/">
+<meta name="theme-color" content="#111111">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-911LRC5D6P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent', 'default', {'analytics_storage': 'denied', 'ad_storage': 'denied'});
+  try {
+    if (localStorage.getItem('ga_consent') === 'yes') {
+      gtag('consent', 'update', {'analytics_storage': 'granted'});
+    }
+  } catch (e) {}
+  gtag('js', new Date());
+  gtag('config', 'G-911LRC5D6P');
+</script>
+<link rel="stylesheet" href="../../assets/css/style.css?v=bcf8f26f">
+<link rel="alternate" type="application/rss+xml" title="8PCK Trends" href="https://8pck.com/feed.xml">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://8pck.com/#org", "name": "Shantou Chuangxin Weinuo Plastic Packaging Products Co., Ltd.", "alternateName": ["8PCK", "CXWN", "汕头市创新维诺塑料包装制品有限公司"], "url": "https://8pck.com", "email": "joe@8pck.com", "telephone": "+86 133 6387 9944", "foundingDate": "2011", "identifier": {"@type": "PropertyValue", "name": "Unified Social Credit Code", "value": "91440512576471585D"}, "description": "8PCK is the export desk of Shantou Chuangxin Weinuo Plastic Packaging Products Co., Ltd. (CXWN). Quotations, contracts and invoices are issued by CXWN; payment goes to CXWN.", "address": {"@type": "PostalAddress", "streetAddress": "B03-05 Plot, Tatou, Brownstone Street, Haojiang District, Shantou, Guangdong, China", "addressLocality": "Shantou", "addressRegion": "Guangdong", "addressCountry": "CN"}}, {"@type": "WebSite", "@id": "https://8pck.com/#website", "url": "https://8pck.com", "name": "8PCK", "publisher": {"@id": "https://8pck.com/#org"}}, {"@type": "Person", "@id": "https://8pck.com/#joe", "name": "Joe Joo", "jobTitle": "Founder, 8PCK", "url": "https://8pck.com/about.html", "worksFor": {"@id": "https://8pck.com/#org"}, "knowsAbout": ["plastic packaging", "bottle manufacturing", "mould making", "PET and HDPE bottles", "packaging inspection"]}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://8pck.com/"}, {"@type": "ListItem", "position": 2, "name": "Tools", "item": "https://8pck.com/tools/"}, {"@type": "ListItem", "position": 3, "name": "Spec Checker", "item": "https://8pck.com/tools/spec-checker/"}]}</script>
+
+</head>
+<body>
+
+<div class="topbar">
+  <div class="wrap">
+    <span class="lbl">Shantou · China</span>
+    <span>+86 133 6387 9944</span>
+    <span class="end">
+      <span class="lbl">ISO 9001 · EU 10/2011 · RoHS</span>
+      <a href="mailto:joe@8pck.com">joe@8pck.com</a>
+    </span>
+  </div>
+</div>
+<header class="site-header">
+  <div class="wrap hd">
+    <a href="../../index.html" class="logo">8PCK</a>
+    <nav class="nav"><a href="../../answers/" class="">Answers</a><a href="../../products/" class="">Products</a><a href="../../custom.html" class="">Custom</a><a href="../../factory.html" class="">Factory</a><a href="../../quality.html" class="">Quality</a><a href="../../about.html" class="">About</a><a href="../../resources.html" class="">Resources</a><a href="../../tools/" class="on">Tools</a><a href="../../guides/" class="">Guides</a><a href="../../news/" class="">Trends</a></nav>
+    <div class="right">
+      <span class="lang">EN</span>
+      <a href="../../contact.html" class="btn small">Request a Quote</a>
+      <button class="burger" aria-label="Menu">Menu</button>
+    </div>
+  </div>
+</header>
+<main>
+
+<style>
+.tool{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:start;margin:28px 0 10px}
+@media (max-width:900px){.tool{grid-template-columns:1fr;gap:24px}}
+.tool .panel{border:1px solid var(--line);border-radius:10px;background:#fff;padding:22px}
+.tool label{display:block;margin-bottom:14px}
+.tool label span{display:block;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--faint);margin-bottom:6px}
+.tool select,.tool input{width:100%;padding:11px 12px;border:1px solid var(--line);border-radius:6px;font:inherit;background:#fff}
+.tool button{width:100%;padding:13px;border:0;border-radius:8px;background:var(--accent);color:#fff;font:inherit;font-weight:600;cursor:pointer}
+.tool button:hover{filter:brightness(.94)}
+.result{border:1px solid var(--line);border-radius:10px;background:#141210;color:#fff;padding:22px;min-height:260px}
+.result h3{color:#fff;font-size:15px;letter-spacing:.02em;margin:0 0 14px}
+/* 报告样式（界面里像一份文档） */
+.result .big{font-size:44px;font-weight:600;letter-spacing:-.03em;line-height:1}
+.result .sub{color:rgba(255,255,255,.62);font-size:12px;letter-spacing:.06em;text-transform:uppercase}
+.result ul{list-style:none;padding:0;margin:16px 0 0}
+.result li{padding:9px 0;border-top:1px solid rgba(255,255,255,.12);font-size:13.5px;display:flex;gap:10px}
+.result li b{min-width:92px;color:rgba(255,255,255,.55);font-weight:500;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;padding-top:2px}
+.ok{color:#7ddc9b}.warn{color:#ffb648}.bad{color:#ff7a6b}
+.report{border:1px solid var(--line);border-radius:10px;padding:24px;background:#fff;margin-top:26px}
+.report h2{margin-top:0}
+</style>
+<div class="wrap">
+  <div class="crumb"><a href="../../index.html">Home</a> / <a href="../../tools/">Tools</a> / Spec checker</div>
+  <section style="padding:40px 0 0">
+    <div class="kicker">Free tool · no signup to use</div>
+    <h1 style="font-size:clamp(28px,3.6vw,44px);max-width:22ch">Bottle Spec Checker: Neck, Capacity and Wall in One Pass</h1>
+    <p class="lede" style="margin-top:12px">Most first orders fail on one of three things: the neck does not fit the closure, the capacity does not suit the
+    neck, or the wall is too thin for a pump. Put your numbers in and see what a packaging engineer would say.</p>
+  </section>
+
+  <div class="tool">
+    <div class="panel">
+      <label><span>Capacity (ml)</span><input id="cap" type="number" value="500" min="5" max="5000" step="5"></label>
+      <label><span>Neck finish</span><select id="neck"><option value="24/410">24/410</option><option value="28/410">28/410</option><option value="20/410">20/410</option><option value="18/410">18/410</option><option value="38 mm">38 mm</option><option value="63 mm">63 mm</option><option value="70 mm">70 mm</option></select></label>
+      <label><span>Material</span><select id="mat"><option value="PET">PET</option><option value="HDPE">HDPE</option><option value="PETG">PETG</option></select></label>
+      <label><span>Closure</span><select id="clo"><option value="lotion pump">Lotion Pump</option><option value="heavy lotion pump">Heavy Lotion Pump</option><option value="disc-top">Disc-Top</option><option value="flip-top">Flip-Top</option><option value="fine mist sprayer">Fine Mist Sprayer</option><option value="dropper">Dropper</option><option value="screw cap">Screw Cap</option></select></label>
+      <label><span>Wall thickness (mm)</span><input id="wall" type="number" value="0.55" min="0.2" max="2" step="0.05"></label>
+      <label><span>Quantity (pcs)</span><input id="qty" type="number" value="5000" min="1000" step="500"></label>
+      <p class="sub" style="font-size:11.5px;margin:4px 0 0;color:var(--faint)">Nothing is sent until you ask for the report.</p>
+    </div>
+
+    <div class="result" id="result">
+      <div class="sub">Verdict</div>
+      <div class="big" id="verdict">—</div>
+      <ul id="rows"></ul>
+      <div style="margin-top:16px">
+        <div class="sub">Indicative unit price · FOB Shantou</div>
+        <div style="font-size:18px;margin-top:4px" id="band">—</div>
+      </div>
+    </div>
+  </div>
+
+  <section class="section" style="padding-top:34px">
+    <div class="report">
+      <h2 style="font-size:22px">Get the Written Report</h2>
+      <p class="sub" style="margin:6px 0 16px">We send the same result as a one-page spec report (with the drawing checks we would do) and a price in 24 hours. No catalogue.</p>
+      <form action="https://formspree.io/f/xvkzlyvd" method="POST">
+        <input type="hidden" name="_subject" value="Spec checker report — 8pck.com">
+        <input type="hidden" name="_next" value="https://8pck.com/thanks.html">
+        <input type="hidden" name="product" value="spec-checker">
+        <input type="hidden" name="spec_summary" id="spec_summary" value="">
+        <input type="hidden" name="spec_verdict" id="spec_verdict" value="">
+        <input type="hidden" name="spec_detail" id="spec_detail" value="">
+        <input type="hidden" name="spec_band" id="spec_band" value="">
+        <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
+        <div class="row2">
+          <label class="field"><span>Name *</span><input type="text" name="name" required autocomplete="name"></label>
+          <label class="field"><span>Email *</span><input type="email" name="email" required autocomplete="email"></label>
+        </div>
+        <label class="field"><span>Anything else we should know? (optional)</span>
+          <textarea name="message" rows="3" placeholder="e.g. will carry a 2 ml pump, white, silkscreen logo"></textarea></label>
+        <div class="btnrow"><button class="btn" type="submit">Email Me the Report →</button></div>
+        <p class="sub" style="font-size:12px;margin:10px 0 0;color:var(--faint)">One reply from the person who quotes. If you would rather not hear again, reply "stop".</p>
+      </form>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shead"><div><div class="kicker">How to read it</div><h2>What the Checker Tests</h2></div></div>
+    <div class="cards q3">
+      <a class="card" href="../../guides/"bottle-neck-finishes/"><h3 class="card-h">Neck and Closure Fit</h3><span class="kv">410 vs 415, and why a cap that threads on still leaks.</span><span class="more">Read →</span></a>
+      <a class="card" href="../../guides/"pet-bottles/"><h3 class="card-h">Material Behaviour</h3><span class="kv">PET clarity, HDPE chemical resistance, PETG weight.</span><span class="more">Read →</span></a>
+      <a class="card" href="../../guides/"custom-bottle-moq-and-tooling/"><h3 class="card-h">MOQ and Tooling</h3><span class="kv">When 1,000 pcs works, and when a mould is needed.</span><span class="more">Read →</span></a>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shead"><div><div class="kicker">Questions</div><h2>About This Tool</h2></div></div>
+    <details class="faq"><summary>What does this checker actually test?</summary><p class="sub" style="margin:8px 0 0">Three things that cause most first-order failures: whether the neck fits the closure, whether the capacity suits that neck, and whether the wall is thick enough for a pump stroke.</p></details><details class="faq"><summary>Why does wall thickness matter?</summary><p class="sub" style="margin:8px 0 0">A 500 ml bottle at 0.45 mm flexes under a pump stroke and the pump starts drawing air. 0.55 mm is the practical floor; 0.65 mm where the pump is large or the bottle is 750 ml.</p></details><details class="faq"><summary>Can you tell me the exact price?</summary><p class="sub" style="margin:8px 0 0">No. The band is indicative for a first conversation; real price depends on weight, decoration and packing, and comes in a written quote within 24 hours.</p></details><details class="faq"><summary>Is this the same as a 3D drawing check?</summary><p class="sub" style="margin:8px 0 0">No. This checks the specification logic; the drawing check (necks, threads, tolerances) happens on the actual file before tooling.</p></details>
+  </section>
+</div>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Bottle Spec Checker", "applicationCategory": "BusinessApplication", "operatingSystem": "Any", "url": "https://8pck.com/tools/spec-checker/", "description": "Check a plastic bottle specification: neck and closure fit, capacity per neck, wall thickness for a pump stroke, MOQ and lead time.", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "publisher": {"@type": "Organization", "name": "8PCK", "url": "https://8pck.com"}}</script>
+<script>
+(function () {
+  var NECK = {
+    '18/410': {clo:['dropper','screw cap'], max:40, note:'Dropper and small-cap standard.'},
+    '20/410': {clo:['fine mist sprayer','flip-top','disc-top'], max:120, note:'Travel and mist size.'},
+    '24/410': {clo:['lotion pump','disc-top','flip-top','fine mist'], max:600, note:'The default cosmetic neck.'},
+    '28/410': {clo:['heavy lotion pump','flip-top'], max:800, note:'For 500–750 ml and heavier pumps.'},
+    '38 mm': {clo:['screw cap','measuring cap','sauce cap'], max:1200, note:'Wide mouth, faster filling.'},
+    '63 mm': {clo:['screw lid'], max:600, note:'Wide-mouth jar.'},
+    '70 mm': {clo:['screw lid'], max:800, note:'Wide-mouth jar.'}
+  };
+  function wallRule(cap, mat, clo) {
+    var base = 0.45;
+    if (clo === 'lotion pump' || clo === 'heavy lotion pump') base = cap > 600 ? 0.65 : 0.55;
+    if (mat === 'HDPE') base = Math.max(base, 0.5);
+    if (mat === 'PETG') base = Math.max(base, 0.55);
+    return base;
+  }
+  function priceBand(cap, mat, qty, clo) {
+    var p = 0.04 + cap * 0.00012;
+    if (mat === 'PETG') p *= 1.35;
+    if (mat === 'HDPE') p *= 0.92;
+    if (clo && clo.indexOf('pump') >= 0) p += 0.06;
+    if (clo === 'fine mist sprayer') p += 0.05;
+    if (clo === 'dropper') p += 0.04;
+    if (qty < 3000) p *= 1.18; else if (qty > 20000) p *= 0.86;
+    return [p * 0.85, p * 1.25];
+  }
+  function run() {
+    var cap = parseFloat(document.getElementById('cap').value) || 0;
+    var neck = document.getElementById('neck').value;
+    var mat = document.getElementById('mat').value;
+    var clo = document.getElementById('clo').value;
+    var wall = parseFloat(document.getElementById('wall').value) || 0;
+    var qty = parseInt(document.getElementById('qty').value, 10) || 1000;
+    var n = NECK[neck]; if (!n) return;
+    var msgs = [], cls = 'ok', verdict = 'Specification looks sound';
+    if (cap > n.max) { msgs.push(['bad', 'Capacity vs neck', cap + ' ml is above the usual range for ' + neck + ' (up to ' + n.max + ' ml). The pack will look top-heavy and the shoulder has to carry more.']); cls = 'bad'; verdict = 'Neck and capacity do not match'; }
+    if (n.clo.indexOf(clo) < 0 && clo !== 'screw cap') { msgs.push(['warn', 'Closure fit', clo + ' in ' + neck + ' is unusual. Standard in this neck: ' + n.clo.join(', ') + '.']); if (cls === 'ok') { cls = 'warn'; verdict = 'Closure needs checking'; } }
+    var min = wallRule(cap, mat, clo);
+    if (wall && wall < min) { msgs.push(['bad', 'Wall thickness', 'At ' + wall + ' mm the bottle flexes under load; ' + min + ' mm is the practical floor for ' + mat + ' with a ' + clo + '.']); cls = 'bad'; verdict = 'Wall too thin for this use'; }
+    else if (wall) { msgs.push(['ok', 'Wall thickness', wall + ' mm is above the ' + min + ' mm floor for this combination.']); }
+    msgs.push(['ok', 'Mould', 'This is a standard format — 3,000+ moulds in stock, no tooling cost at 1,000 pcs per colour.']);
+    msgs.push(['ok', 'Lead time', 'Samples in 7 days, production 25–35 days after approval.']);
+    var band = priceBand(cap, mat, qty, clo);
+    var rows = msgs.map(function (m) { return '<li class="' + m[0] + '"><b>' + m[1] + '</b><span>' + m[2] + '</span></li>'; }).join('');
+    document.getElementById('verdict').textContent = verdict;
+    document.getElementById('verdict').className = 'big ' + cls;
+    document.getElementById('rows').innerHTML = rows;
+    document.getElementById('band').textContent = 'USD ' + band[0].toFixed(2) + '–' + band[1].toFixed(2) + ' / pc at ' + qty.toLocaleString() + ' pcs';
+    var summary = [cap + ' ml', mat, neck, clo, qty + ' pcs', verdict].join(' · ');
+    document.getElementById('spec_summary').value = summary;
+    document.getElementById('spec_verdict').value = verdict;
+    document.getElementById('spec_detail').value = msgs.map(function (m) { return m[1] + ': ' + m[2]; }).join(' | ');
+    document.getElementById('spec_band').value = 'USD ' + band[0].toFixed(2) + '–' + band[1].toFixed(2);
+  }
+  ['cap','neck','mat','clo','wall','qty'].forEach(function (id) {
+    var el = document.getElementById(id); if (el) el.addEventListener('change', run), el.addEventListener('input', run);
+  });
+  run();
+})();
+</script>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="fgrid">
+      <div>
+        <div class="flogo">8PCK</div>
+        <p>Shantou Chuangxin Weinuo Plastic Packaging Products Co., Ltd.</p>
+        <p style="color:#b9b9b9">汕头市创新维诺塑料包装制品有限公司</p>
+        <p>B03-05 Plot, Tatou, Brownstone Street, Haojiang District, Shantou, Guangdong, China</p>
+        <p style="margin-top:8px;color:#8a8a8a">8PCK is the export desk of Shantou Chuangxin Weinuo Plastic Packaging Products Co., Ltd. (CXWN). Quotations, contracts and invoices are issued by CXWN; payment goes to CXWN.</p>
+        <p style="margin-top:8px;font-size:13px"><a href="../../reference/" style="color:#8a8a8a;border-bottom:1px solid #ddd">Reference</a>
+        · <a href="../../glossary/" style="color:#8a8a8a;border-bottom:1px solid #ddd">Glossary</a>
+        · <a href="../../answers/" style="color:#8a8a8a;border-bottom:1px solid #ddd">Answers</a></p>
+        <p style="margin-top:12px"><a href="mailto:joe@8pck.com">joe@8pck.com</a></p>
+        <p><a href="https://wa.me/8613363879944">WhatsApp +86 133 6387 9944</a></p>
+        <p style="margin-top:12px;color:#8a8a8a">Mon–Sat, 08:30–18:00 GMT+8</p>
+      </div>
+      <div><b>Products</b><p><a href="../../products/bottles/">Bottles</a></p><p><a href="../../products/jars/">Jars</a></p><p><a href="../../products/airless/">Airless</a></p><p><a href="../../products/closures/">Bottle Caps & Closures</a></p><p><a href="../../products/bags/">Food bags</a></p><p><a href="../../products/spray-bottles/">Spray Bottles</a></p><p><a href="../../products/squeeze-bottles/">Squeeze Bottles</a></p><p><a href="../../products/pharma-bottles/">Pharma Bottles</a></p><p style="margin-top:10px"><a href="../../products/" style="color:#fff;border-bottom:1px solid #444">All 11 categories →</a></p></div>
+      <div><b>Guides</b><p><a href="../../guides/plastic-pump-bottles/">Plastic Pump Bottles</a></p><p><a href="../../guides/bottle-neck-finishes/">Bottle Neck Finishes</a></p><p><a href="../../guides/custom-bottle-moq-and-tooling/">MOQ and Tooling</a></p><p><a href="../../guides/choose-plastic-bottle-manufacturer-china/">Choosing a Manufacturer</a></p><p><a href="../../guides/shampoo-bottles/">Shampoo Bottles</a></p><p><a href="../../guides/bottle-decoration/">Bottle Decoration</a></p><p style="margin-top:10px"><a href="../../guides/" style="color:#fff;border-bottom:1px solid #444">All 55 guides →</a></p></div>
+      <div><b>Company</b>
+        <p><a href="../../factory.html">Factory</a></p>
+        <p><a href="../../quality.html">Quality</a></p>
+        <p><a href="../../custom.html">Custom</a></p>
+        <p><a href="../../about.html">About</a></p>
+        <p><a href="../../verify.html">Verify us</a></p>
+        <p><a href="../../resources.html">Resources</a></p>
+        <p><a href="../../news/">Trends</a></p>
+        <p><a href="../../contact.html">Contact</a></p>
+        <p><a href="../../faq.html">FAQ</a></p>
+      </div>
+    </div>
+
+    <div class="fall">
+      <b>All products — 12 stock moulds</b>
+      <div class="allgrid"><a href="../../products/bottles/500ml-pet-pump-bottle/">500 ml PET pump bottle</a><a href="../../products/bottles/250ml-pet-pump-bottle/">250 ml PET pump bottle</a><a href="../../products/bottles/300ml-pet-pump-bottle/">300 ml PET pump bottle</a><a href="../../products/bottles/750ml-shampoo-bottle/">750 ml shampoo bottle</a><a href="../../products/bottles/100ml-pet-round-bottle/">100 ml PET round bottle</a><a href="../../products/bottles/200ml-flat-bottle/">200 ml flat bottle</a><a href="../../products/bottles/50ml-travel-bottle/">50 ml travel bottle</a><a href="../../products/bottles/30ml-pet-dropper-bottle/">30 ml PET dropper bottle</a><a href="../../products/jars/250ml-pet-food-jar/">250 ml PET food jar</a><a href="../../products/jars/500ml-pet-food-jar/">500 ml PET food jar</a><a href="../../products/airless/30ml-airless-bottle/">30 ml airless bottle</a><a href="../../products/airless/50ml-airless-bottle/">50 ml airless bottle</a></div>
+    </div>
+
+    <div class="fbot">
+      <span>© 2026 8PCK. All rights reserved.</span>
+      <span>Shantou · Guangdong · China</span>
+    </div>
+  </div>
+</footer>
+<div id="ga-consent" class="consent" hidden>
+  <p>We use Google Analytics to see which pages buyers actually read. No ads, no cross-site tracking.</p>
+  <div><button id="ga-yes" class="btn small">Allow Analytics</button><button id="ga-no" class="ghost small">No thanks</button></div>
+</div>
+<div class="float">
+  <a class="q" href="../../contact.html" title="Get a quote">QUOTE</a>
+  <a class="wa" href="https://wa.me/8613363879944" title="WhatsApp">✆</a>
+</div>
+<div class="mbar">
+  <a href="https://wa.me/8613363879944">WhatsApp</a>
+  <a class="dark" href="../../contact.html">Get a Quote →</a>
+</div>
+<script src="../../assets/js/main.js?v=90308c6b" defer></script>
+</body>
+</html>

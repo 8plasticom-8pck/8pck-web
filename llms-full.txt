@@ -1290,6 +1290,15 @@ Title: Resources — catalogue, certificates, drawings | 8PCK
 Description: Product catalogue, certificate pack, specification sheets and packing data, sent by email.
 Sections: Documents That Need a Name on Them
 
+## https://8pck.com/tools/
+Title: Free packaging tools — spec checker | 8PCK
+Description: Free tools for buyers: check a bottle specification (neck, capacity, wall) before you request a quote.
+
+## https://8pck.com/tools/spec-checker/
+Title: Bottle Spec Checker — neck, capacity and wall | 8PCK
+Description: Free checker: does your neck fit the closure, is the wall thick enough for a pump, and what MOQ applies. Written report in 24 hours.
+Sections: Get the Written Report; What the Checker Tests; About This Tool
+
 ## https://8pck.com/verify.html
 Title: Verify 8PCK — legal entity and certificates | 8PCK
 Description: How to verify 8PCK independently: legal name, Unified Social Credit Code, ISO and RoHS certificate numbers, factory address and payment terms.
