@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<title>Jar Fill Weight Calculator — grams to jar size | 8PCK</title>
+<meta name="description" content="Enter the fill weight in grams and the product density; the calculator returns the smallest stock jar that holds it with headspace.">
+<link rel="canonical" href="https://8pck.com/tools/fill-weight/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Jar Fill Weight Calculator — grams to jar size | 8PCK">
+<meta property="og:description" content="Enter the fill weight in grams and the product density; the calculator returns the smallest stock jar that holds it with headspace.">
+<meta property="og:url" content="https://8pck.com/tools/fill-weight/">
+<meta name="theme-color" content="#111111">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-911LRC5D6P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent', 'default', {'analytics_storage': 'denied', 'ad_storage': 'denied'});
+  try {
+    if (localStorage.getItem('ga_consent') === 'yes') {
+      gtag('consent', 'update', {'analytics_storage': 'granted'});
+    }
+  } catch (e) {}
+  gtag('js', new Date());
+  gtag('config', 'G-911LRC5D6P');
+</script>
+<link rel="stylesheet" href="../../assets/css/style.css?v=135177d5">
+<link rel="alternate" type="application/rss+xml" title="8PCK Trends" href="https://8pck.com/feed.xml">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://8pck.com/#org", "name": "Shantou Chuangxin Weinuo Plastic Packaging Products Co., Ltd.", "alternateName": ["8PCK", "CXWN", "汕头市创新维诺塑料包装制品有限公司"], "url": "https://8pck.com", "email": "joe@8pck.com", "telephone": "+86 133 6387 9944", "foundingDate": "2011", "identifier": {"@type": "PropertyValue", "name": "Unified Social Credit Code", "value": "91440512576471585D"}, "description": "8PCK is the export desk of Shantou Chuangxin Weinuo Plastic Packaging Products Co., Ltd. (CXWN). Quotations, contracts and invoices are issued by CXWN; payment goes to CXWN.", "address": {"@type": "PostalAddress", "streetAddress": "B03-05 Plot, Tatou, Brownstone Street, Haojiang District, Shantou, Guangdong, China", "addressLocality": "Shantou", "addressRegion": "Guangdong", "addressCountry": "CN"}}, {"@type": "WebSite", "@id": "https://8pck.com/#website", "url": "https://8pck.com", "name": "8PCK", "publisher": {"@id": "https://8pck.com/#org"}}, {"@type": "Person", "@id": "https://8pck.com/#joe", "name": "Joe Joo", "jobTitle": "Founder, 8PCK", "url": "https://8pck.com/about.html", "worksFor": {"@id": "https://8pck.com/#org"}, "knowsAbout": ["plastic packaging", "bottle manufacturing", "mould making", "PET and HDPE bottles", "packaging inspection"]}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://8pck.com/"}, {"@type": "ListItem", "position": 2, "name": "Tools", "item": "https://8pck.com/tools/"}, {"@type": "ListItem", "position": 3, "name": "Fill Weight", "item": "https://8pck.com/tools/fill-weight/"}]}</script>
+
+</head>
+<body>
+
+<div class="topbar">
+  <div class="wrap">
+    <span class="lbl">Shantou · China</span>
+    <span>+86 133 6387 9944</span>
+    <span class="end">
+      <span class="lbl">ISO 9001 · EU 10/2011 · RoHS</span>
+      <a href="mailto:joe@8pck.com">joe@8pck.com</a>
+    </span>
+  </div>
+</div>
+<header class="site-header">
+  <div class="wrap hd">
+    <a href="../../index.html" class="logo">8PCK</a>
+    <nav class="nav"><a href="../../answers/" class="">Answers</a><a href="../../products/" class="">Products</a><a href="../../custom.html" class="">Custom</a><a href="../../factory.html" class="">Factory</a><a href="../../quality.html" class="">Quality</a><a href="../../about.html" class="">About</a><a href="../../resources.html" class="">Resources</a><a href="../../tools/" class="on">Tools</a><a href="../../guides/" class="">Guides</a><a href="../../news/" class="">Trends</a></nav>
+    <div class="right">
+      <span class="lang">EN</span>
+      <a href="../../contact.html" class="btn small">Request a Quote</a>
+      <button class="burger" aria-label="Menu">Menu</button>
+    </div>
+  </div>
+</header>
+<main>
+
+<style>
+.tool{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:start;margin:28px 0 10px}
+@media (max-width:900px){.tool{grid-template-columns:1fr;gap:24px}}
+.tool .panel{border:1px solid var(--line);border-radius:10px;background:#fff;padding:22px}
+.tool label{display:block;margin-bottom:14px}
+.tool label span{display:block;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--faint);margin-bottom:6px}
+.tool select,.tool input{width:100%;padding:11px 12px;border:1px solid var(--line);border-radius:6px;font:inherit;background:#fff}
+.tool button{width:100%;padding:13px;border:0;border-radius:8px;background:var(--accent);color:#fff;font:inherit;font-weight:600;cursor:pointer}
+.tool button:hover{filter:brightness(.94)}
+.result{border:1px solid var(--line);border-radius:10px;background:#141210;color:#fff;padding:22px;min-height:260px}
+.result h3{color:#fff;font-size:15px;letter-spacing:.02em;margin:0 0 14px}
+/* 报告样式（界面里像一份文档） */
+.result .big{font-size:44px;font-weight:600;letter-spacing:-.03em;line-height:1}
+.result .sub{color:rgba(255,255,255,.62);font-size:12px;letter-spacing:.06em;text-transform:uppercase}
+.result ul{list-style:none;padding:0;margin:16px 0 0}
+.result li{padding:9px 0;border-top:1px solid rgba(255,255,255,.12);font-size:13.5px;display:flex;gap:10px}
+.result li b{min-width:92px;color:rgba(255,255,255,.55);font-weight:500;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;padding-top:2px}
+.ok{color:#7ddc9b}.warn{color:#ffb648}.bad{color:#ff7a6b}
+.report{border:1px solid var(--line);border-radius:10px;padding:24px;background:#fff;margin-top:26px}
+.report h2{margin-top:0}
+</style>
+<div class="wrap">
+  <div class="crumb"><a href="../../index.html">Home</a> / <a href="../">Tools</a> / Jar Fill Weight Calculator</div>
+  <section style="padding:40px 0 0">
+    <div class="kicker">Free tool · no signup to use</div>
+    <h1 style="font-size:clamp(28px,3.6vw,44px);max-width:24ch">Jar Fill Weight Calculator: Grams, Density and Headspace</h1>
+    <p class="lede" style="margin-top:12px">Enter the fill weight in grams and the product density; the calculator returns the smallest stock jar that holds it with headspace.</p>
+    <p class="sub" style="font-size:12.5px;margin-top:12px;color:var(--faint)">Designed by <a href="../../about.html#joe" style="border-bottom:1px solid #111">Joe Joo</a> · 8PCK, Shantou</p>
+  </section>
+
+  <p class="sub" style="font-size:12.5px;margin-top:12px;color:var(--faint)">Designed by <a href="../../about.html#joe" style="border-bottom:1px solid #111">Joe Joo</a> · 8PCK, Shantou</p>
+
+  <div class="tool">
+    <div class="panel">
+      <label><span>Fill weight (g)</span><input id="grams" type="number" value="250" min="5"></label>
+      <label><span>Product density (g/ml)</span>
+        <select id="dens">
+          <option value="1">1.00 — water, gel, toner</option>
+          <option value="0.95">0.95 — lotion, cream</option>
+          <option value="0.9">0.90 — oil, serum</option>
+          <option value="0.86">0.86 — candle wax</option>
+          <option value="1.3">1.30 — salt scrub</option>
+        </select></label>
+      <label><span>Headspace</span>
+        <select id="head">
+          <option value="0.05">5 % — cream, balm</option>
+          <option value="0.08" selected>8 % — standard</option>
+          <option value="0.12">12 % — hot fill / wax</option>
+        </select></label></div>
+    <div class="result" id="result">
+      <div class="sub">Jar you need</div>
+      <div class="big" id="size">—</div>
+      <ul id="rows"></ul>
+      <div style="margin-top:16px"><div class="sub">Next standard size up</div>
+        <div style="font-size:18px;margin-top:4px" id="next">—</div></div></div>
+  </div>
+
+  <section class="section" style="padding-top:30px">
+    <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:22px;border-radius:8px;background:#fff">
+      <h2 style="font-size:20px;margin:0 0 8px">Want a Person to Check It?</h2>
+      <p class="sub" style="margin:0 0 14px">Send the numbers and we reply with a written quotation, lead time and a sample plan — usually within a few hours, Mon–Sat.</p>
+      <div class="btnrow">
+        <a class="btn" href="../../contact.html?product=fill-weight">Get a Quote in 24H →</a>
+        <a class="btn ghost" href="https://wa.me/8613363879944">WhatsApp +86 133 6387 9944</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Why Headspace Matters More Than the Label Weight</h2><p>A jar labelled 240 ml holds 240 ml of product plus the air the filler leaves. With wax at 12 % headspace a 250 g pour needs a 300 ml jar, not a 240 ml one — which is why fill weight is not the same as capacity.</p><h2>How to Read the Result</h2><p>The number is the smallest stock size that holds the pour with headspace. If it falls between two sizes, take the larger one: an under-filled jar looks short on shelf and over-filled wax spills in transit.</p>
+    <h2>Questions About This Tool</h2>
+    <details class="faq"><summary>Is this a filling specification?</summary><p class="sub" style="margin:8px 0 0">No — it is a sizing check. The filler's own headspace requirement wins.</p></details><details class="faq"><summary>What density should I use?</summary><p class="sub" style="margin:8px 0 0">Approximate: water 1.00, lotion 0.95, oil 0.90, candle wax 0.86, salt scrub 1.30.</p></details><details class="faq"><summary>Can you make a custom size?</summary><p class="sub" style="margin:8px 0 0">Yes, a new mould is about USD 800 and 15–20 days.</p></details>
+  </section>
+</div>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Jar Fill Weight Calculator", "applicationCategory": "BusinessApplication", "operatingSystem": "Any", "url": "https://8pck.com/tools/fill-weight/", "description": "Enter the fill weight in grams and the product density; the calculator returns the smallest stock jar that holds it with headspace.", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "author": {"@type": "Person", "name": "Joe Joo", "url": "https://8pck.com/about.html#joe", "worksFor": {"@type": "Organization", "name": "8PCK"}}, "publisher": {"@type": "Organization", "name": "8PCK", "url": "https://8pck.com"}}</script>
+<script>
+(function(){
+  var STOCK=[30,50,60,100,120,150,200,240,250,300,375,480,500,750,1000];
+  function run(){
+    var g=parseFloat(document.getElementById('grams').value)||0;
+    var d=parseFloat(document.getElementById('dens').value)||1;
+    var h=parseFloat(document.getElementById('head').value)||0.08;
+    var ml=g/d;
+    var need=ml/(1-h);
+    var pick=STOCK.find(function(s){return s>=need;})||Math.ceil(need/100)*100;
+    document.getElementById('size').textContent=pick+' ml';
+    document.getElementById('next').textContent=(STOCK.find(function(s){return s>pick;})||'custom')+(typeof (STOCK.find(function(s){return s>pick;}))==='number'?' ml':'');
+    var rows=[
+      ['Product volume', ml.toFixed(0)+' ml at density '+d],
+      ['With headspace', need.toFixed(0)+' ml needed ('+Math.round(h*100)+'%)'],
+      ['Fill weight check', g+' g fits a '+pick+' ml jar at '+(g/pick).toFixed(2)+' g/ml'],
+      ['Carton maths', 'ask for the packed carton weight before you fix the pallet pattern']
+    ];
+    document.getElementById('rows').innerHTML=rows.map(function(r){
+      return '<li><b>'+r[0]+'</b><span>'+r[1]+'</span></li>';}).join('');
+  }
+  ['grams','dens','head'].forEach(function(id){var e=document.getElementById(id);e.addEventListener('input',run);e.addEventListener('change',run);});
+  run();
+})();</script>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="fgrid">
+      <div>
+        <div class="flogo">8PCK</div>
+        <p>Shantou Chuangxin Weinuo Plastic Packaging Products Co., Ltd.</p>
+        <p style="color:#b9b9b9">汕头市创新维诺塑料包装制品有限公司</p>
+        <p>B03-05 Plot, Tatou, Brownstone Street, Haojiang District, Shantou, Guangdong, China</p>
+        <p style="margin-top:8px;color:#8a8a8a">8PCK is the export desk of Shantou Chuangxin Weinuo Plastic Packaging Products Co., Ltd. (CXWN). Quotations, contracts and invoices are issued by CXWN; payment goes to CXWN.</p>
+        <p style="margin-top:8px;font-size:13px"><a href="../../reference/" style="color:#8a8a8a;border-bottom:1px solid #ddd">Reference</a>
+        · <a href="../../glossary/" style="color:#8a8a8a;border-bottom:1px solid #ddd">Glossary</a>
+        · <a href="../../answers/" style="color:#8a8a8a;border-bottom:1px solid #ddd">Answers</a></p>
+        <p style="margin-top:12px"><a href="mailto:joe@8pck.com">joe@8pck.com</a></p>
+        <p><a href="https://wa.me/8613363879944">WhatsApp +86 133 6387 9944</a></p>
+        <p style="margin-top:12px;color:#8a8a8a">Mon–Sat, 08:30–18:00 GMT+8</p>
+      </div>
+      <div><b>Products</b><p><a href="../../products/bottles/">Bottles</a></p><p><a href="../../products/jars/">Jars</a></p><p><a href="../../products/airless/">Airless</a></p><p><a href="../../products/closures/">Bottle Caps & Closures</a></p><p><a href="../../products/bags/">Food bags</a></p><p><a href="../../products/spray-bottles/">Spray Bottles</a></p><p><a href="../../products/squeeze-bottles/">Squeeze Bottles</a></p><p><a href="../../products/pharma-bottles/">Pharma Bottles</a></p><p style="margin-top:10px"><a href="../../products/" style="color:#fff;border-bottom:1px solid #444">All 11 categories →</a></p></div>
+      <div><b>Guides</b><p><a href="../../guides/plastic-pump-bottles/">Plastic Pump Bottles</a></p><p><a href="../../guides/bottle-neck-finishes/">Bottle Neck Finishes</a></p><p><a href="../../guides/custom-bottle-moq-and-tooling/">MOQ and Tooling</a></p><p><a href="../../guides/choose-plastic-bottle-manufacturer-china/">Choosing a Manufacturer</a></p><p><a href="../../guides/shampoo-bottles/">Shampoo Bottles</a></p><p><a href="../../guides/bottle-decoration/">Bottle Decoration</a></p><p style="margin-top:10px"><a href="../../guides/" style="color:#fff;border-bottom:1px solid #444">All 117 guides →</a></p></div>
+      <div><b>Company</b>
+        <p><a href="../../factory.html">Factory</a></p>
+        <p><a href="../../quality.html">Quality</a></p>
+        <p><a href="../../custom.html">Custom</a></p>
+        <p><a href="../../about.html">About</a></p>
+        <p><a href="../../verify.html">Verify us</a></p>
+        <p><a href="../../resources.html">Resources</a></p>
+        <p><a href="../../news/">Trends</a></p>
+        <p><a href="../../contact.html">Contact</a></p>
+        <p><a href="../../faq.html">FAQ</a></p>
+      </div>
+      <div><b>Free tools</b>
+        <p><a href="../../tools/spec-checker/">Bottle spec checker</a></p>
+        <p><a href="../../tools/fill-weight/">Jar fill weight</a></p>
+        <p><a href="../../tools/dose-run-rate/">Bottle size by dose</a></p>
+        <p><a href="../../tools/dilution/">Concentrate dilution</a></p>
+        <p><a href="../../tools/moq-tooling/">MOQ &amp; tooling</a></p>
+        <p style="margin-top:10px"><a href="../../tools/" style="color:#fff;border-bottom:1px solid #444">All tools →</a></p>
+      </div>
+    </div>
+
+    <div class="fall">
+      <b>All products — 12 stock moulds</b>
+      <div class="allgrid"><a href="../../products/bottles/500ml-pet-pump-bottle/">500 ml PET pump bottle</a><a href="../../products/bottles/250ml-pet-pump-bottle/">250 ml PET pump bottle</a><a href="../../products/bottles/300ml-pet-pump-bottle/">300 ml PET pump bottle</a><a href="../../products/bottles/750ml-shampoo-bottle/">750 ml shampoo bottle</a><a href="../../products/bottles/100ml-pet-round-bottle/">100 ml PET round bottle</a><a href="../../products/bottles/200ml-flat-bottle/">200 ml flat bottle</a><a href="../../products/bottles/50ml-travel-bottle/">50 ml travel bottle</a><a href="../../products/bottles/30ml-pet-dropper-bottle/">30 ml PET dropper bottle</a><a href="../../products/jars/250ml-pet-food-jar/">250 ml PET food jar</a><a href="../../products/jars/500ml-pet-food-jar/">500 ml PET food jar</a><a href="../../products/airless/30ml-airless-bottle/">30 ml airless bottle</a><a href="../../products/airless/50ml-airless-bottle/">50 ml airless bottle</a></div>
+    </div>
+
+    <div class="fbot">
+      <span>© 2026 8PCK. All rights reserved.</span>
+      <span>Shantou · Guangdong · China</span>
+    </div>
+  </div>
+</footer>
+<div id="ga-consent" class="consent" hidden>
+  <p>We use Google Analytics to see which pages buyers actually read. No ads, no cross-site tracking.</p>
+  <div><button id="ga-yes" class="btn small">Allow Analytics</button><button id="ga-no" class="ghost small">No thanks</button></div>
+</div>
+<div class="float">
+  <a class="q" href="../../contact.html" title="Get a quote">QUOTE</a>
+  <a class="wa" href="https://wa.me/8613363879944" title="WhatsApp">✆</a>
+</div>
+<div class="mbar">
+  <a href="https://wa.me/8613363879944">WhatsApp</a>
+  <a class="dark" href="../../contact.html">Get a Quote →</a>
+</div>
+<script src="../../assets/js/main.js?v=90308c6b" defer></script>
+</body>
+</html>

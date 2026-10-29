@@ -1830,14 +1830,34 @@ Title: Resources — catalogue, certificates, drawings | 8PCK
 Description: Product catalogue, certificate pack, specification sheets and packing data, sent by email.
 Sections: Documents That Need a Name on Them
 
+## https://8pck.com/tools/dilution/
+Title: Cleaning Concentrate Dilution Calculator | 8PCK
+Description: Enter the dilution ratio and the bottle size; the calculator returns concentrate per bottle, water, cost per bottle and bottles per litre.
+Sections: Want a Person to Check It?; Why Refill Concentrate Changes the Pack; The Bottle Still Has to Survive the Chemistry; Questions About This Tool
+
+## https://8pck.com/tools/dose-run-rate/
+Title: Bottle Size by Dose — run-rate calculator | 8PCK
+Description: Enter the dose per use, uses per day and days the pack should last; the calculator returns the bottle size and the annual volume.
+Sections: Want a Person to Check It?; Dose Decides the Bottle, Not the Brief; Why Annual Volume Matters; Questions About This Tool
+
+## https://8pck.com/tools/fill-weight/
+Title: Jar Fill Weight Calculator — grams to jar size | 8PCK
+Description: Enter the fill weight in grams and the product density; the calculator returns the smallest stock jar that holds it with headspace.
+Sections: Want a Person to Check It?; Why Headspace Matters More Than the Label Weight; How to Read the Result; Questions About This Tool
+
 ## https://8pck.com/tools/
 Title: Free packaging tools — spec checker | 8PCK
 Description: Free tools for buyers: check a bottle specification (neck, capacity, wall) before you request a quote.
 
+## https://8pck.com/tools/moq-tooling/
+Title: MOQ and Tooling Calculator | 8PCK
+Description: Pick a shape and a decoration; the calculator returns the real minimum order, whether tooling is needed, and the timeline.
+Sections: Want a Person to Check It?; Three Floors, Not One; Why Decoration Raises the Floor; Questions About This Tool
+
 ## https://8pck.com/tools/spec-checker/
 Title: Bottle Spec Checker — neck, capacity and wall | 8PCK
 Description: Free checker: does your neck fit the closure, is the wall thick enough for a pump, and what MOQ applies. Written report in 24 hours.
-Sections: Get the Written Report; What the Checker Tests; About This Tool
+Sections: Rather Talk to the Person Who Quotes?; Get the Written Report; What the Checker Tests; About This Tool
 
 ## https://8pck.com/verify.html
 Title: Verify 8PCK — legal entity and certificates | 8PCK
