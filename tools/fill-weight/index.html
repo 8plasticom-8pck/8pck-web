@@ -77,6 +77,20 @@
 .ok{color:#7ddc9b}.warn{color:#ffb648}.bad{color:#ff7a6b}
 .report{border:1px solid var(--line);border-radius:10px;padding:24px;background:#fff;margin-top:26px}
 .report h2{margin-top:0}
+
+.tool-hero{position:relative;margin:26px 0 6px;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:#f4f8fc}
+.tool-hero-cap{margin:0;padding:10px 14px;font-size:12px;color:#4a6b85;border-top:1px solid #dce8f3;background:#fff}
+.tool-hero svg{display:block}
+label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
+/* 闲置弹窗 */
+.jn-modal{position:fixed;inset:0;z-index:200;display:none;align-items:center;justify-content:center;background:rgba(10,10,10,.55);backdrop-filter:blur(3px)}
+.jn-modal.on{display:flex}
+.jn-card{width:min(520px,92vw);background:#fff;border-radius:14px;padding:26px;position:relative;box-shadow:0 24px 60px rgba(0,0,0,.28)}
+.jn-card img{width:64px;height:64px;border-radius:50%;object-fit:cover;float:left;margin:0 16px 8px 0}
+.jn-card h3{margin:0 0 4px;font-size:20px;letter-spacing:-.01em}
+.jn-card p{margin:0 0 14px;font-size:14px;line-height:1.55;color:#444}
+.jn-card .btnrow{display:flex;gap:10px;flex-wrap:wrap;clear:both;margin-top:6px}
+.jn-x{position:absolute;top:10px;right:12px;border:0;background:none;font-size:22px;line-height:1;color:#999;cursor:pointer}
 </style>
 <div class="wrap">
   <div class="crumb"><a href="../../index.html">Home</a> / <a href="../">Tools</a> / Jar Fill Weight Calculator</div>
@@ -87,12 +101,56 @@
     <p class="sub" style="font-size:12.5px;margin-top:12px;color:var(--faint)">Designed by <a href="../../about.html#joe" style="border-bottom:1px solid #111">Joe Joo</a> · 8PCK, Shantou</p>
   </section>
 
-  <p class="sub" style="font-size:12.5px;margin-top:12px;color:var(--faint)">Designed by <a href="../../about.html#joe" style="border-bottom:1px solid #111">Joe Joo</a> · 8PCK, Shantou</p>
+  
+<div class="tool-hero" aria-hidden="true">
+  <svg viewBox="0 0 640 220" width="100%" height="220" role="img">
+    <defs>
+      <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+        <path d="M16 0H0V16" fill="none" stroke="#cfe3f3" stroke-width="0.7"/>
+      </pattern>
+      <pattern id="grid5" width="80" height="80" patternUnits="userSpaceOnUse">
+        <rect width="80" height="80" fill="url(#grid)"/>
+        <path d="M80 0H0V80" fill="none" stroke="#9dc3e0" stroke-width="1"/>
+      </pattern>
+    </defs>
+    <rect width="640" height="220" fill="#f4f8fc"/>
+    <rect width="640" height="220" fill="url(#grid5)" opacity="0.85"/>
+    <!-- 图纸：瓶子正视图 -->
+    <g stroke="#2f5d86" stroke-width="1.5" fill="none" opacity="0.95">
+      <path d="M96 180h56M124 180V96M108 96h32M124 96V60M112 60h24"/>
+      <path d="M100 180c0-26 6-38 16-44V96m8 40c10 6 16 18 16 44" stroke-width="2"/>
+      <path d="M96 180h56" stroke-dasharray="4 3"/>
+      <path d="M104 150h-12M104 120h-12M104 90h-12" stroke-width="1"/>
+    </g>
+    <text x="150" y="150" font-family="ui-monospace,monospace" font-size="9" fill="#2f5d86">H 180 mm</text>
+    <text x="150" y="170" font-family="ui-monospace,monospace" font-size="9" fill="#2f5d86">Ø 65 mm</text>
+    <!-- 计算器 -->
+    <g transform="translate(400,52)">
+      <rect x="0" y="0" width="150" height="120" rx="10" fill="#141210"/>
+      <rect x="10" y="10" width="130" height="34" rx="5" fill="#0b0a09"/>
+      <text x="20" y="33" font-family="ui-monospace,monospace" font-size="17" fill="#7ddc9b">0.55</text>
+      <g fill="#3a3a3a">
+        <rect x="10" y="54" width="26" height="16" rx="3"/><rect x="44" y="54" width="26" height="16" rx="3"/>
+        <rect x="78" y="54" width="26" height="16" rx="3"/><rect x="112" y="54" width="28" height="16" rx="3" fill="#c8102e"/>
+        <rect x="10" y="78" width="26" height="16" rx="3"/><rect x="44" y="78" width="26" height="16" rx="3"/>
+        <rect x="78" y="78" width="26" height="16" rx="3"/><rect x="112" y="78" width="28" height="34" rx="3" fill="#c8102e"/>
+        <rect x="10" y="102" width="26" height="10" rx="3"/><rect x="44" y="102" width="26" height="10" rx="3"/>
+        <rect x="78" y="102" width="26" height="10" rx="3"/>
+      </g>
+    </g>
+    <!-- 刻度线 -->
+    <g stroke="#2f5d86" stroke-width="1" opacity="0.5">
+      <path d="M320 200h-80M320 196v8M300 196v5M280 196v5M260 196v5M240 196v8"/>
+    </g>
+  </svg>
+  <p class="tool-hero-cap">Shopping from a drawing to a container — the tools below answer the numbers.</p>
+</div>
+
 
   <div class="tool">
     <div class="panel">
-      <label><span>Fill weight (g)</span><input id="grams" type="number" value="250" min="5"></label>
-      <label><span>Product density (g/ml)</span>
+      <label><span><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M6 8h12l-1.2 11.2a2 2 0 0 1-2 1.8H9.2a2 2 0 0 1-2-1.8L6 8Z"/><path d="M9 8V5.5A2.5 2.5 0 0 1 11.5 3h1A2.5 2.5 0 0 1 15 5.5V8"/></svg> Fill weight (g)</span><input id="grams" type="number" value="250" min="5"></label>
+      <label><span><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 6a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"/><path d="M5 21h14l-2.2-11H7.2L5 21Z"/></svg> Product density (g/ml)</span>
         <select id="dens">
           <option value="1">1.00 — water, gel, toner</option>
           <option value="0.95">0.95 — lotion, cream</option>
@@ -156,6 +214,36 @@
   ['grams','dens','head'].forEach(function(id){var e=document.getElementById(id);e.addEventListener('input',run);e.addEventListener('change',run);});
   run();
 })();</script>
+
+<div class="jn-modal" id="jnModal" role="dialog" aria-modal="true" aria-labelledby="jnTitle">
+  <div class="jn-card">
+    <button class="jn-x" id="jnClose" aria-label="Close">×</button>
+    <img src="../../assets/img/joe-160.jpg" alt="Joe Joo, 8PCK">
+    <h3 id="jnTitle">Didn't Solve It?</h3>
+    <p>I'm Joe — the person who answers the quotes. Tell me what you are trying to pack and I'll tell you what fits,
+       what it costs and how long it takes. No forms if you'd rather just message.</p>
+    <div class="btnrow">
+      <a class="btn" href="https://wa.me/8613363879944">WhatsApp +86 133 6387 9944</a>
+      <a class="btn ghost" href="mailto:joe@8pck.com">Email Joe</a>
+      <a class="btn ghost" href="../../contact.html?product=fill-weight">Get a Quote in 24H →</a>
+    </div>
+  </div>
+</div>
+<script>
+(function(){
+  var modal=document.getElementById('jnModal');
+  if(!modal) return;
+  if(sessionStorage.getItem('jnSeen')) return;
+  var t=setTimeout(function(){modal.classList.add('on');},35000);
+  function close(){modal.classList.remove('on');sessionStorage.setItem('jnSeen','1');clearTimeout(t);}
+  document.getElementById('jnClose').addEventListener('click',close);
+  modal.addEventListener('click',function(e){if(e.target===modal)close();});
+  ['click','keydown','scroll','touchstart'].forEach(function(ev){
+    window.addEventListener(ev,function(){clearTimeout(t);t=setTimeout(function(){modal.classList.add('on');},60000);},{passive:true});
+  });
+})();
+</script>
+
 
 </main>
 
