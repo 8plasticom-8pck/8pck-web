@@ -72,6 +72,9 @@
 .rp .joe img{width:64px;height:64px;border-radius:50%;object-fit:cover}
 .rp .joe b{display:block;font-size:14px;margin-bottom:2px}
 .rp .joe p{margin:0;font-size:12.5px;line-height:1.6;color:#444}
+.rp-purpose{font-size:13px;line-height:1.7;color:#333;margin:14px 0 0;max-width:66ch}
+.rp-h2{font-size:14px;letter-spacing:.06em;text-transform:uppercase;color:#777;margin:24px 0 8px;font-weight:500}
+.rp-list{margin:0;padding-left:18px;font-size:13px;line-height:1.8;color:#333}
 .rp-foot{margin-top:26px;border-top:1px solid #e5e5e5;padding-top:12px;font-size:10.5px;color:#777;line-height:1.6}
 .rp-actions{max-width:820px;margin:0 auto;padding:0 28px 40px;display:flex;gap:10px}
 @media print{.rp-actions,.site-header,.site-footer,.mbar,.jc,.quote-fab{display:none!important}.rp{max-width:none;padding:0}}
@@ -89,8 +92,11 @@
     </div>
   </div>
 
-  <h1 id="rpTool">Specification Report</h1>
+  <h1 id="rpTool">Specification Sheet</h1>
   <div class="sub" id="rpFor">Prepared by 8PCK · CXWN factory, Shantou</div>
+  <p class="rp-purpose">This sheet is the document we quote from. Send it to your buyer, your filler or your own
+  supplier: it states the capacity, the closure interface, the wall floor and the minimum order, so the next
+  conversation is about price rather than about which bottle you meant.</p>
 
   <div class="verdict" id="rpVerdict">—</div>
   <p class="sub" id="rpNote" style="text-transform:none;letter-spacing:0;font-size:12px;color:#555"></p>
@@ -99,6 +105,14 @@
     <thead><tr><th>Check</th><th>Result</th></tr></thead>
     <tbody id="rpRows"></tbody>
   </table>
+
+  <h2 class="rp-h2">What We Need to Quote</h2>
+  <ul class="rp-list">
+    <li>Capacity and closure (or a photo of the pack you are matching)</li>
+    <li>Quantity for the first run, and the annual volume if you know it</li>
+    <li>Decoration: silkscreen, label, spray coat or none</li>
+    <li>Destination port, and whether the order ships filled or empty</li>
+  </ul>
 
   <div class="joe">
     <img src="../../assets/img/joe-160.jpg" alt="Joe Joo">
@@ -119,7 +133,7 @@
 </div>
 <div class="rp-actions">
   <button class="btn" onclick="window.print()">Save as PDF →</button>
-  <a class="btn ghost" href="../../contact.html">Talk to Joe →</a>
+  <a class="btn ghost" href="../../contact.html">Send It to Joe →</a>
 </div>
 <script>
 (function(){

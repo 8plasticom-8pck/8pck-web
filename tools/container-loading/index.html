@@ -91,6 +91,22 @@ label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
 .jn-card p{margin:0 0 14px;font-size:14px;line-height:1.55;color:#444}
 .jn-card .btnrow{display:flex;gap:10px;flex-wrap:wrap;clear:both;margin-top:6px}
 .jn-x{position:absolute;top:10px;right:12px;border:0;background:none;font-size:22px;line-height:1;color:#999;cursor:pointer}
+
+.tool-figure{position:relative;margin:22px 0 0;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:#f7f4ee}
+.tool-figure svg{display:block;max-height:170px}
+.tool-figure-cap{margin:0;padding:8px 14px;font-size:11.5px;color:#6b6b6b;border-top:1px solid #e8e2d8;background:#fff}
+.tool-problem{margin:18px 0 0;padding:14px 16px;border-left:3px solid var(--accent);background:#fff;border:1px solid var(--line);border-radius:8px}
+.tool-problem b{display:block;font-size:15px;margin-bottom:4px}
+.tool-problem p{margin:0;font-size:13.5px;line-height:1.6;color:#444}
+.howto{display:grid;grid-template-columns:1.15fr .85fr;gap:34px;align-items:start;margin-top:8px}
+@media (max-width:900px){.howto{grid-template-columns:1fr;gap:18px}}
+.howto h2{margin-top:0}
+.howto .std{font-size:12.5px;color:#555;line-height:1.7}
+.howto ol{margin:10px 0 0;padding-left:18px;font-size:14px;line-height:1.7;color:#333}
+.howto ol li{margin-bottom:6px}
+.diagram{position:relative;border:1px solid var(--line);border-radius:10px;background:#f7f4ee;overflow:hidden}
+.diagram svg{display:block;width:100%;height:auto}
+.diagram figcaption{font-size:11.5px;color:#6b6b6b;padding:8px 12px;border-top:1px solid #e8e2d8;background:#fff}
 </style>
 <div class="wrap">
   <div class="crumb"><a href="../../index.html">Home</a> / <a href="../">Tools</a> / Container Loading Calculator</div>
@@ -99,51 +115,47 @@ label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
     <h1 style="font-size:clamp(28px,3.6vw,44px);max-width:24ch">Container Loading Calculator: How Many Bottles Fit in a 20GP or 40HQ</h1>
     <p class="lede" style="margin-top:12px">Enter the carton size, weight and pieces per carton; the calculator returns cartons and bottles per container, and whether volume or weight is the limit.</p>
     <p class="sub" style="font-size:12.5px;margin-top:12px;color:var(--faint)">Designed by <a href="../../about.html#joe" style="border-bottom:1px solid #111">Joe Joo</a> · 8PCK, Shantou</p>
+    
+<div class="tool-problem">
+  <b>You have a carton. You need to know how many fit a container.</b>
+  <p>A 40HQ holds 76 m³, but a carton of empty bottles is mostly air — payload or pallet footprint runs out before volume does.</p>
+</div>
+
   </section>
 
   
-<div class="tool-hero" aria-hidden="true">
-  <svg viewBox="0 0 640 220" width="100%" height="220" role="img">
-    <defs>
-      <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
-        <path d="M16 0H0V16" fill="none" stroke="#cfe3f3" stroke-width="0.7"/>
-      </pattern>
-      <pattern id="grid5" width="80" height="80" patternUnits="userSpaceOnUse">
-        <rect width="80" height="80" fill="url(#grid)"/>
-        <path d="M80 0H0V80" fill="none" stroke="#9dc3e0" stroke-width="1"/>
-      </pattern>
-    </defs>
-    <rect width="640" height="220" fill="#f4f8fc"/>
-    <rect width="640" height="220" fill="url(#grid5)" opacity="0.85"/>
-    <!-- 图纸：瓶子正视图 -->
-    <g stroke="#2f5d86" stroke-width="1.5" fill="none" opacity="0.95">
-      <path d="M96 180h56M124 180V96M108 96h32M124 96V60M112 60h24"/>
-      <path d="M100 180c0-26 6-38 16-44V96m8 40c10 6 16 18 16 44" stroke-width="2"/>
-      <path d="M96 180h56" stroke-dasharray="4 3"/>
-      <path d="M104 150h-12M104 120h-12M104 90h-12" stroke-width="1"/>
+<div class="tool-figure" aria-hidden="true">
+  <svg viewBox="0 0 760 150" preserveAspectRatio="xMidYMid meet" role="img">
+    <rect width="760" height="150" fill="#f7f4ee"/>
+    <!-- 左：瓶子尺寸图 -->
+    <g stroke="#2f5d86" stroke-width="1.3" fill="none">
+      <path d="M118 122h44M140 122V84M128 84h24M140 84V62M132 62h16"/>
+      <path d="M124 122c0-16 4-24 12-28V84m8 14c8 4 12 12 12 28" stroke-width="1.7"/>
+      <path d="M104 62v60M99 62h10M99 122h10" stroke-width="0.9"/>
+      <path d="M118 136h44M118 132v8M162 132v8" stroke-width="0.9"/>
     </g>
-    <text x="150" y="150" font-family="ui-monospace,monospace" font-size="9" fill="#2f5d86">H 180 mm</text>
-    <text x="150" y="170" font-family="ui-monospace,monospace" font-size="9" fill="#2f5d86">Ø 65 mm</text>
-    <!-- 计算器 -->
-    <g transform="translate(400,52)">
-      <rect x="0" y="0" width="150" height="120" rx="10" fill="#141210"/>
-      <rect x="10" y="10" width="130" height="34" rx="5" fill="#0b0a09"/>
-      <text x="20" y="33" font-family="ui-monospace,monospace" font-size="17" fill="#7ddc9b">0.55</text>
-      <g fill="#3a3a3a">
-        <rect x="10" y="54" width="26" height="16" rx="3"/><rect x="44" y="54" width="26" height="16" rx="3"/>
-        <rect x="78" y="54" width="26" height="16" rx="3"/><rect x="112" y="54" width="28" height="16" rx="3" fill="#c8102e"/>
-        <rect x="10" y="78" width="26" height="16" rx="3"/><rect x="44" y="78" width="26" height="16" rx="3"/>
-        <rect x="78" y="78" width="26" height="16" rx="3"/><rect x="112" y="78" width="28" height="34" rx="3" fill="#c8102e"/>
-        <rect x="10" y="102" width="26" height="10" rx="3"/><rect x="44" y="102" width="26" height="10" rx="3"/>
-        <rect x="78" y="102" width="26" height="10" rx="3"/>
-      </g>
+    <text x="86" y="96" font-family="ui-monospace,monospace" font-size="9" fill="#2f5d86">H</text>
+    <text x="128" y="147" font-family="ui-monospace,monospace" font-size="9" fill="#2f5d86">O 65</text>
+    <text x="166" y="96" font-family="ui-monospace,monospace" font-size="9" fill="#2f5d86">t</text>
+    <text x="92" y="40" font-family="ui-monospace,monospace" font-size="9" fill="#8a8a8a">DRAWING</text>
+    <path d="M188 96h56" stroke="#c8102e" stroke-width="1.5" stroke-dasharray="5 4"/>
+    <path d="M244 96l-7-4v8z" fill="#c8102e"/>
+    <!-- 中：公式 -->
+    <g stroke="#2f5d86" stroke-width="1.3" fill="none">
+      <rect x="258" y="66" width="96" height="60" rx="6"/>
+      <path d="M272 80h68M272 92h68M272 104h38"/>
+      <path d="M272 112h18" stroke="#c8102e"/>
     </g>
-    <!-- 刻度线 -->
-    <g stroke="#2f5d86" stroke-width="1" opacity="0.5">
-      <path d="M320 200h-80M320 196v8M300 196v5M280 196v5M260 196v5M240 196v8"/>
+    <text x="258" y="40" font-family="ui-monospace,monospace" font-size="9" fill="#8a8a8a">FORMULA</text>
+    <path d="M366 96h56" stroke="#c8102e" stroke-width="1.5" stroke-dasharray="5 4"/>
+    <path d="M422 96l-7-4v8z" fill="#c8102e"/>
+    <!-- 右：结论 -->
+    <g stroke="#1a7f45" stroke-width="2" fill="none">
+      <path d="M438 96l12 16 24-30"/>
     </g>
+    <text x="432" y="40" font-family="ui-monospace,monospace" font-size="9" fill="#8a8a8a">VERDICT</text>
   </svg>
-  <p class="tool-hero-cap">Shopping from a drawing to a container — the tools below answer the numbers.</p>
+  <p class="tool-figure-cap">Dimensions in, specification out — the checker reads the drawing, not the catalogue.</p>
 </div>
 
 
@@ -201,6 +213,40 @@ label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
       </div>
     </div>
   </section>
+
+  
+<section class="section" style="padding-top:34px">
+  <div class="howto">
+    <div>
+      <div class="kicker">How it is calculated</div>
+      <h2>The Formula, the Assumptions, and Where It Stops</h2>
+      <ol><li>Carton volume = L × W × H ÷ 1,000,000 (m³).</li><li>By volume = floor(container m³ × 0.90 ÷ carton m³).</li><li>By weight = floor(payload kg ÷ carton gross kg).</li><li>The answer is the smaller of the two — and the tool tells you which limit applied.</li></ol>
+      <p class="std" style="margin-top:14px"><b>Assumptions.</b> Internal volumes: 20GP 33 m³, 40GP 67 m³, 40HQ 76 m³. Payload 26–28 t, subject to road limits.</p>
+      <p class="std"><b>Standards we work to.</b> ISO 9001:2015 (quality system, cert PCC85724Q01277R1S) ·
+        EU 10/2011 (plastic food-contact, migration report E2032) · RoHS (PE B-R01612E2033, PET B-R201133464) ·
+        ISO 4180 (packaging for transport). The calculator is a planning tool: the approved drawing and the
+        migration report decide the final specification.</p>
+      <p class="std"><b>Where it does not apply.</b> 90 % utilisation suits hand-stacked cartons. A palletised load fits less — run the cartons-per-pallet tool first.</p>
+    </div>
+    <figure class="diagram">
+      <svg viewBox="0 0 380 300" role="img" aria-label="Dimension diagram">
+        <rect width="380" height="260" fill="#f7f4ee"/>
+        <g stroke="#2f5d86" stroke-width="1.3" fill="none">
+          <path d="M150 210h60M180 210V120M164 120h32M180 120V84M170 84h20"/>
+          <path d="M156 210c0-26 6-38 18-44V120m12 46c12 6 18 18 18 44" stroke-width="1.8"/>
+          <path d="M132 84v126M126 84h12M126 210h12"/>
+          <path d="M150 232h60M150 228v8M210 228v8"/>
+          <path d="M240 120v90M236 120h8M236 210h8"/>
+        </g>
+        <text x="104" y="150" font-family="ui-monospace,monospace" font-size="10" fill="#2f5d86">H</text>
+        <text x="170" y="245" font-family="ui-monospace,monospace" font-size="10" fill="#2f5d86">O</text>
+        <text x="248" y="168" font-family="ui-monospace,monospace" font-size="10" fill="#2f5d86">t</text>
+        <text x="120" y="276" font-family="ui-monospace,monospace" font-size="9" fill="#6b6b6b">H = height · O = diameter · t = wall</text>
+      </svg>
+      <figcaption>The three numbers the formula uses: height, diameter and wall.</figcaption>
+    </figure>
+  </div>
+</section>
 
   <section class="section">
     <h2>Volume Is Rarely the Limit for Plastic Bottles</h2><p>A 40HQ holds 76 m³, but a carton of empty bottles is mostly air. What usually runs out first is the payload or the pallet footprint, which is why the result tells you which limit applied.</p><h2>Why 90 % Utilisation</h2><p>Cartons do not tile a container perfectly: door frames, corrugation and pallet overhang all waste space. 90 % is the practical figure for hand-stacked cartons; palletised loads are lower.</p>
