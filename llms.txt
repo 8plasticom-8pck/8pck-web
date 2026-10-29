@@ -135,6 +135,21 @@
 - Glass Cleaner Bottles — https://8pck.com/guides/glass-cleaner-bottles/ — covers: glass cleaner bottles, glass cleaner bottle, glass cleaner and ammonia-based spray packaging, 500 pet bottle, trigger bottle. Glass Cleaner packs in 500–750 ml, usually with a 28/410 neck and a trigger. The specification question is not the bottle — it is 
 - Oven Cleaner Bottles — https://8pck.com/guides/oven-cleaner-bottles/ — covers: oven cleaner bottles, oven cleaner bottle, oven cleaner and heavy degreaser packaging, 400 hdpe bottle, trigger or foam cap bottle. Oven Cleaner packs in 400–500 ml, usually with a 28/410 neck and a trigger or foam cap. The specification question is not the bott
 - Drain Cleaner Bottles — https://8pck.com/guides/drain-cleaner-bottles/ — covers: drain cleaner bottles, drain cleaner bottle, drain cleaner and caustic unblocker packaging, 500 ml hdpe bottle, child-resistant cap bottle. Drain Cleaner packs in 500 ml–1 L, usually with a 38 mm neck and a child-resistant cap. The specification question is not the bott
+- Disc-Top Caps — https://8pck.com/guides/disc-top-caps/ — covers: disc-top caps, disc-top cap, disc-top supplier, 20/410 disc-top, disc-top caps wholesale. Disc-Top Caps in 20/410, used for thin liquids and gels. The specification question is the hinge that snaps after a few hundred us
+- Flip-Top Caps — https://8pck.com/guides/flip-top-caps/ — covers: flip-top caps, flip-top cap, flip-top supplier, 20/410 flip-top, flip-top caps wholesale. Flip-Top Caps in 20/410, used for shampoo, lotion and travel sizes. The specification question is a spigot that is too shallow and
+- Lotion Pumps — https://8pck.com/guides/lotion-pumps/ — covers: lotion pumps, lotion pump cap, lotion pump supplier, 24/410 lotion pump, lotion pumps wholesale. Lotion Pumps in 24/410, used for hand soap, lotion and body wash. The specification question is a pump whose gasket swells with th
+- Fine Mist Sprayers — https://8pck.com/guides/fine-mist-sprayers/ — covers: fine mist sprayers, fine mist sprayer cap, fine mist sprayer supplier, 18/410 fine mist sprayer, fine mist sprayers wholesale. Fine Mist Sprayers in 18/410, used for toner, setting spray and sanitizer. The specification question is an orifice set for water 
+- Trigger Sprayers — https://8pck.com/guides/trigger-sprayers/ — covers: trigger sprayers, trigger cap, trigger supplier, 28/410 trigger, trigger sprayers wholesale. Trigger Sprayers in 28/410, used for household cleaner and garden. The specification question is a piston seal that swells in solv
+- Dropper Assemblies — https://8pck.com/guides/dropper-assemblies/ — covers: dropper assemblies, dropper cap, dropper supplier, 18/410 dropper, dropper assemblies wholesale. Dropper Assemblies in 18/410, used for serum, oil and essential oil. The specification question is a pipette that is too short to 
+- Child-Resistant Caps — https://8pck.com/guides/child-resistant-caps/ — covers: child-resistant caps, child-resistant cap cap, child-resistant cap supplier, 38-400 child-resistant cap, child-resistant caps wholesale. Child-Resistant Caps in 38-400, used for pharma, bleach and nicotine. The specification question is a CR cap that is either too ea
+- Measuring Caps — https://8pck.com/guides/measuring-caps/ — covers: measuring caps, measuring cap cap, measuring cap supplier, 38 mm measuring cap, measuring caps wholesale. Measuring Caps in 38 mm, used for mouthwash, detergent and softener. The specification question is moulded lines that do not match
+- Screw Caps — https://8pck.com/guides/screw-caps/ — covers: screw caps, screw cap cap, screw cap supplier, 24/410 screw cap, screw caps wholesale. Screw Caps in 24/410, used for general closure, refill and industrial. The specification question is a cap that backs off in trans
+- Valve Caps — https://8pck.com/guides/valve-caps/ — covers: valve caps, valve cap cap, valve cap supplier, 38 mm valve cap, valve caps wholesale. Valve Caps in 38 mm, used for condiments, sauces and gels. The specification question is a silicone valve that clogs with a thick 
+- Induction Seals — https://8pck.com/guides/induction-seals/ — covers: induction seals, induction seal cap, induction seal supplier, any induction seal, induction seals wholesale. Induction Seals in any, used for creams, pharma and food. The specification question is a seal that does not bond because the rim 
+- Pumps with a Lock — https://8pck.com/guides/pump-with-lock/ — covers: pumps with a lock, lock pump cap, lock pump supplier, 24/410 lock pump, pumps with a lock wholesale. Pumps with a Lock in 24/410, used for baby wash, travel and e-commerce. The specification question is a lock that releases in a ba
+- Foam Pumps — https://8pck.com/guides/foam-pumps/ — covers: foam pumps, foam pump cap, foam pump supplier, 40 mm foam pump, foam pumps wholesale. Foam Pumps in 40 mm, used for hand soap and cleanser. The specification question is a foam head that will not foam a thick gel.
+- Perfume Sprayers — https://8pck.com/guides/sprayers-for-perfume/ — covers: perfume sprayers, crimp pump cap, crimp pump supplier, crimp crimp pump, perfume sprayers wholesale. Perfume Sprayers in crimp, used for fragrance. The specification question is a crimp that leaks because the bottle neck is out of 
+- Treatment Pumps — https://8pck.com/guides/treatment-pumps/ — covers: treatment pumps, treatment pump cap, treatment pump supplier, 18/410 treatment pump, treatment pumps wholesale. Treatment Pumps in 18/410, used for serum and eye cream. The specification question is a pump that doses 0.5 ml when the label say
 
 ## Categories
 - Bottles — 50–1,000 ml, 18–38 mm necks. Eight stock moulds, ready for decoration. — https://8pck.com/products/bottles/
@@ -354,6 +369,7 @@
 - https://8pck.com/guides/bottle-decoration/ — Bottle Decoration: Silkscreen, Hot Stamp, Spray Coat | 8PCK
 - https://8pck.com/guides/bottle-neck-finishes/ — Bottle Neck Finishes — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/car-shampoo-bottles/ — Car Shampoo Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/child-resistant-caps/ — Child-Resistant Caps: What Fits, and What Fails | 8PCK
 - https://8pck.com/guides/choose-plastic-bottle-manufacturer-china/ — How to Choose a Plastic Bottle Manufacturer in China | 8PCK
 - https://8pck.com/guides/clear-bottles/ — Clear Bottles: When Clarity Is the Product | 8PCK
 - https://8pck.com/guides/condiment-bottles/ — Condiment Bottles: The Orifice Is the Product | 8PCK
@@ -362,11 +378,16 @@
 - https://8pck.com/guides/cosmetic-jars/ — Cosmetic Jars — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/custom-bottle-moq-and-tooling/ — MOQ and Tooling — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/cuticle-oil-bottles/ — Cuticle Oil Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/disc-top-caps/ — Disc-Top Caps: What Fits, and What Fails | 8PCK
 - https://8pck.com/guides/dish-soap-bottles/ — Dish Soap Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/drain-cleaner-bottles/ — Drain Cleaner Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/dropper-assemblies/ — Dropper Assemblies: What Fits, and What Fails | 8PCK
 - https://8pck.com/guides/dropper-bottles/ — Dropper Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/fabric-softener-bottles/ — Fabric Softener Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/fine-mist-sprayers/ — Fine Mist Sprayers: What Fits, and What Fails | 8PCK
+- https://8pck.com/guides/flip-top-caps/ — Flip-Top Caps: What Fits, and What Fails | 8PCK
 - https://8pck.com/guides/floor-cleaner-bottles/ — Floor Cleaner Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/foam-pumps/ — Foam Pumps: What Fits, and What Fails | 8PCK
 - https://8pck.com/guides/food-jars/ — Food Jars — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/frosted-bottles/ — Frosted Bottles: The Cheapest Premium Finish | 8PCK
 - https://8pck.com/guides/glass-cleaner-bottles/ — Glass Cleaner Bottles — specs, MOQ and documents | 8PCK
@@ -376,10 +397,13 @@
 - https://8pck.com/guides/hotel-amenity-bottles/ — Hotel amenity bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/household-cleaner-bottles/ — Household cleaner bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/ — Guides — bottle sizes, neck finishes, MOQ and tooling | 8PCK
+- https://8pck.com/guides/induction-seals/ — Induction Seals: What Fits, and What Fails | 8PCK
 - https://8pck.com/guides/juice-bottles/ — Juice Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/lotion-bottles/ — Lotion Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/lotion-pumps/ — Lotion Pumps: What Fits, and What Fails | 8PCK
 - https://8pck.com/guides/makeup-remover-bottles/ — Make-up Remover Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/massage-oil-bottles/ — Massage Oil Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/measuring-caps/ — Measuring Caps: What Fits, and What Fails | 8PCK
 - https://8pck.com/guides/metallised-bottles/ — Metallised Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/micellar-water-bottles/ — Micellar Water Bottles: Micellar water is 98 % water | 8PCK
 - https://8pck.com/guides/mini-spray-bottles/ — Mini Spray Bottles — specs, MOQ and documents | 8PCK
@@ -393,16 +417,22 @@
 - https://8pck.com/guides/pharmaceutical-bottles/ — Pharmaceutical Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/plastic-bottles-with-caps/ — Plastic Bottles with Caps — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/plastic-pump-bottles/ — Plastic Pump Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/pump-with-lock/ — Pumps with a Lock: What Fits, and What Fails | 8PCK
 - https://8pck.com/guides/rpet-bottles/ — rPET Bottles: What the Percentage Actually Means | 8PCK
 - https://8pck.com/guides/sanitizer-bottles/ — Sanitizer bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/screw-caps/ — Screw Caps: What Fits, and What Fails | 8PCK
 - https://8pck.com/guides/self-tanner-bottles/ — Self-Tanner Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/serum-bottles/ — Serum Bottles: 30 ml, Dropper or Airless | 8PCK
 - https://8pck.com/guides/shampoo-bottles/ — Shampoo Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/soft-touch-bottles/ — Soft-touch Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/spray-bottles-for-cleaning/ — Cleaning Spray Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/sprayers-for-perfume/ — Perfume Sprayers: What Fits, and What Fails | 8PCK
 - https://8pck.com/guides/sunscreen-bottles/ — Sunscreen Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/toner-bottles/ — Toner bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/travel-bottles/ — Travel bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/treatment-pumps/ — Treatment Pumps: What Fits, and What Fails | 8PCK
+- https://8pck.com/guides/trigger-sprayers/ — Trigger Sprayers: What Fits, and What Fails | 8PCK
+- https://8pck.com/guides/valve-caps/ — Valve Caps: What Fits, and What Fails | 8PCK
 - https://8pck.com/ — 8PCK — Custom plastic bottles from CXWN, Shantou
 - https://8pck.com/materials/polyethylene-bottles/ — Polyethylene Bottles — HDPE & LDPE, 30–1,000 ml | 8PCK
 - https://8pck.com/news/aldi-50-percent-recycled-content/ — Aldi and Pact Take Household Packaging to 50% Recycled
