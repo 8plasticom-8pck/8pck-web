@@ -536,6 +536,11 @@ Title: Aldi and Pact Take Household Packaging to 50% Recycled
 Description: Packaging Insights reports Aldi and Pact lifting recycled content to 50% in a household pack. The interesting part is not the number — it is what had to
 Sections: What Changed
 
+## https://8pck.com/news/alpla-us-bottle-plant/
+Title: Alpla Is Building a Bottle Plant in the US | 8PCK
+Description: Recycling Today reports Alpla adding US bottle capacity. For a buyer importing from Asia, the question is which part of the order the local plant makes
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
+
 ## https://8pck.com/news/berlin-packaging-premi-consolidation/
 Title: Berlin Packaging Buys Premi | 8PCK
 Description: Another distributor acquisition in beauty packaging. For brands buying 5,000–50,000 pieces a year, the practical question is who still answers the phone.
