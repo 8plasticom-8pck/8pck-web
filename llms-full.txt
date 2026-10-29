@@ -34,20 +34,60 @@ Title: How do I verify a Chinese packaging supplier? | 8PCK
 Description: Three checks settle it: the Unified Social Credit Code on gsxt.gov.cn, the certificate number with the issuing body, and a video call with your product in
 Sections: Check 1: the Business Licence; Check 2: the Certificate Number; Check 3: the Video Call; What Each Check Rules Out; Frequently Asked; Related
 
+## https://8pck.com/compare/20-410-vs-24-410/
+Title: 20/410 vs 24/410: The Travel Neck and the Default Neck | 8PCK
+Description: 20/410 keeps a 50–100 ml bottle proportionate; 24/410 opens the full pump range. Choosing the wrong one limits the closure catalogue.
+Sections: The Proportionality Rule; Catalogue Consequences; The Short Answer; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
+
 ## https://8pck.com/compare/24-410-vs-28-410/
 Title: 24/410 vs 28/410 Neck Finish — What Fits What | 8PCK
 Description: 24/410 and 28/410 necks compared: diameter, pump compatibility, bottle size and dose. A table of what fits, and the mismatch that causes leaks.
 Sections: Why the Number Is Two Numbers; How to Confirm Before Ordering; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/compare/28-410-vs-38mm/
+Title: 28/410 vs 38 mm: Pump Neck or Wide Mouth | 8PCK
+Description: 28/410 is the heavy-pump neck for 500–750 ml; 38 mm is the wide mouth for filling speed and thick product. Neither is a like-for-like swap.
+Sections: What the Wide Mouth Buys; Where 28/410 Wins; The Short Answer; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
 ## https://8pck.com/compare/airless-vs-dropper/
 Title: Airless vs Dropper Bottles — Protection, Cost and When | 8PCK
 Description: Airless packs versus dropper bottles: oxygen exposure, dispensing accuracy, residual product and cost. A decision table for serums and actives.
 Sections: The Test That Decides It; Where Airless Disappoints; What to Send in a Brief; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
+## https://8pck.com/compare/dropper-vs-pump/
+Title: Dropper vs Pump: Dose, Viscosity and Who Is Holding the Bottle
+Description: A dropper doses in drops and suits oil; a pump doses in millilitres and suits lotion. Getting this wrong is the most common serum-bottle mistake.
+Sections: Why Viscosity Decides; Air and Oxidation; The Short Answer; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
+
+## https://8pck.com/compare/flip-top-vs-disc-top/
+Title: Flip-top vs Disc-top: One Hand, or Two? | 8PCK
+Description: Both are cheap controlled-flow closures; the difference is the hinge, the spigot and whether the product can be opened with one hand.
+Sections: The Spigot Is the Specification; Where Disc-Tops Fail; The Short Answer; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
+
+## https://8pck.com/compare/frosted-vs-clear/
+Title: Frosted vs Clear: What the Finish Does to the Product | 8PCK
+Description: Frosting scatters light and hides scuffs; clarity shows colour and fill level. The choice is about what the customer should see.
+Sections: The Label Interaction; Batch Consistency; The Short Answer; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
+
+## https://8pck.com/compare/glass-vs-plastic/
+Title: Glass vs Plastic Bottles: Weight, Feel and the Freight Bill | 8PCK
+Description: Glass reads premium and is chemically inert; plastic is a third of the weight and survives a parcel. The decision is usually freight, not aesthetics.
+Sections: The Freight Maths; Where Glass Still Wins; The Short Answer; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
+
+## https://8pck.com/compare/jar-vs-bottle/
+Title: Jar vs Bottle: Which Container the Product Actually Needs | 8PCK
+Description: A jar is for product that is scooped; a bottle is for product that is poured or pumped. The distinction is the physics of the formula, not the brand.
+Sections: The Rule That Settles It; Where Jars Fail; The Short Answer; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
+
 ## https://8pck.com/compare/ldpe-vs-hdpe/
 Title: LDPE vs HDPE — Soft-Wall or Firm-Wall Squeeze Bottles | 8PCK
 Description: LDPE collapses as it empties; HDPE springs back and keeps its shape. Compared on feel, barrier, cost and product type, with a decision table.
 Sections: How to Choose in Practice; Where LDPE Fails; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/compare/ldpe-vs-pet-squeeze/
+Title: LDPE vs PET Squeeze Bottles: Which One Actually Squeezes | 8PCK
+Description: LDPE collapses as it empties and dispenses to the last drop; PET springs back and looks better on a shelf. The choice is dispensing behaviour.
+Sections: The Dispensing Difference; Where PET Is Right; The Short Answer; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
 ## https://8pck.com/compare/pet-vs-hdpe/
 Title: PET vs HDPE Bottles — Which Material, and When | 8PCK
@@ -59,20 +99,40 @@ Title: PET vs PETG Bottles — Clarity, Cost and Crazing | 8PCK
 Description: PET vs PETG compared: wall thickness, clarity, chemical resistance, cost and where each one fails. A decision table for cosmetic and food packs.
 Sections: The Test That Settles It; Where Each Fails; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
+## https://8pck.com/compare/pet-vs-rpet/
+Title: PET vs rPET: What the Recycled Content Actually Changes | 8PCK
+Description: Virgin PET is water-clear and cheap; rPET carries a recycled claim and a colour shift. The choice is usually a claim decision, not a performance one.
+Sections: The Three Documents Behind a Recycled Claim; Where rPET Shows; The Short Answer; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
+
 ## https://8pck.com/compare/pump-vs-flip-top/
 Title: Pump vs Flip-Top Cap — Dosing, Cost and Leaks | 8PCK
 Description: Lotion pump versus flip-top cap compared on dose, cost, one-handed use and leak risk, with a table by product type.
 Sections: When the Pump Is Wrong; When the Flip-Top Is Wrong; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/compare/pump-vs-sprayer/
+Title: Pump vs Sprayer: Stream, Mist and the Product Behind It | 8PCK
+Description: A pump delivers a stream or a dollop; a sprayer delivers a mist. On the same bottle they are two different products.
+Sections: Why a Sprayer Cannot Handle a Lotion; Where Pumps Fail; The Short Answer; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
 ## https://8pck.com/compare/round-vs-square-bottles/
 Title: Round vs Square Plastic Bottles — Shelf, Freight, Cost | 8PCK
 Description: Round versus square bottles compared on shelf space, label area, corner strength, packing density and freight.
 Sections: Where Square Fails; Where Round Loses; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
 
+## https://8pck.com/compare/silkscreen-vs-label/
+Title: Silkscreen vs Label: Durability, MOQ and the Wet Bathroom | 8PCK
+Description: Silkscreen is printed into the surface and survives water; a label is flexible and cheap at low volume but lifts at the edge.
+Sections: Where Labels Fail; Where Silkscreen Costs; The Short Answer; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
+
 ## https://8pck.com/compare/single-vs-double-wall-jars/
 Title: Single-Wall vs Double-Wall Cosmetic Jars | 8PCK
 Description: Single-wall PET versus double-wall PETG jars: weight, cost, premium feel and where each one fails.
 Sections: Why Double Wall Exists; Where Single Wall Wins; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do; Frequently Asked
+
+## https://8pck.com/compare/spray-coat-vs-metallising/
+Title: Spray Coat vs Metallising: Two Finishes, Two Budgets | 8PCK
+Description: A spray coat changes the surface; metallising changes the material's appearance. Both add cost and both change what you can claim about recycling.
+Sections: What Each Is For; The Claim Cost; The Short Answer; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
 ## https://8pck.com/contact.html
 Title: Contact — get a quote in 24 hours | 8PCK
