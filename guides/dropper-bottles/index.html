@@ -72,6 +72,55 @@
     <div class="guide-body">
       <p>Serums, oils and tinctures are dosed by the drop, which makes the dropper the product experience rather than a closure. A pipette that drips two drops when the label says one is a complaint waiting to happen.</p><p>We supply 18/410 bottles in PET with glass or plastic droppers, and test the assembly as a unit.</p>
       <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:14px 16px;margin:22px 0 0;background:#fff"><b style="font-size:13.5px">Check it before you quote</b><p class="sub" style="margin:4px 0 0;font-size:13px">The free <a href="../../tools/spec-checker/" style="border-bottom:1px solid #111">Bottle Spec Checker</a> tests whether your neck fits the closure and whether the wall survives a pump stroke.</p></div>
+      
+<details class="mc" style="border:1px solid var(--line);border-radius:10px;background:#fff;margin:22px 0">
+  <summary style="cursor:pointer;padding:14px 18px;font-weight:600;font-size:15px;list-style:none">
+    30-second check: does your bottle pass?
+    <span style="float:right;color:var(--accent);font-weight:500">Open ▾</span></summary>
+  <div style="padding:0 18px 18px">
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
+      <label class="field" style="margin:0"><span>Capacity (ml)</span>
+        <input class="mcCap" type="number" value="500" min="5"></label>
+      <label class="field" style="margin:0"><span>Wall (mm)</span>
+        <input class="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
+      <label class="field" style="margin:0"><span>Closure</span>
+        <select class="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
+        <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
+      <a class="btn mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
+    </div>
+    <p class="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
+  </div>
+</details>
+<script>(function(){
+  var warn=false;
+  function need(cap,clo){ var b=(clo==='pump')?(cap>600?0.65:0.55):0.45; if(clo==='spray'&&cap>300)b=0.55; return b; }
+  function run(){
+    var cap=parseFloat(document.querySelector('.mcCap').value)||0;
+    var wall=parseFloat(document.querySelector('.mcWall').value)||0;
+    var clo=document.querySelector('.mcClo').value;
+    var min=need(cap,clo), out=document.querySelector('.mcOut');
+    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
+    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
+    document.querySelector('.mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
+    if(window.gtag && !warn){ warn=true; gtag('event','calc_calc',{tool:'mini_spec'}); }
+  }
+  ['Cap','Wall','Clo'].forEach(function(k){
+    var e=document.querySelector('.mc'+k); e.addEventListener('input',run); e.addEventListener('change',run);
+  });
+  var d=document.querySelector('details.mc');
+  if(d){
+    d.addEventListener('toggle',function(){
+      if(d.open && window.gtag) gtag('event','calc_open',{page:location.pathname});
+      run();
+    });
+    d.querySelector('.mcLink').addEventListener('click',function(){ if(window.gtag) gtag('event','calc_full_click',{page:location.pathname}); });
+  }
+  run();
+})();</script>
+<style>details.mc summary::-webkit-details-marker{display:none}
+details.mc[open] summary{border-bottom:1px solid var(--line)}
+@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
+
       <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Dropper Bottles: 18/410, Glass vs Plastic, and Dose per Drop", "description": "A dropper bottle is a bottle, a collar and a pipette that have to seal at three points. The 18/410 neck is the standard for serums and oils — the rest is a choice between glass weight and plastic economics.", "author": {"@id": "https://8pck.com/#joe"}, "publisher": {"@id": "https://8pck.com/#org"}, "datePublished": "2026-10-26", "dateModified": "2026-10-26", "mainEntityOfPage": "https://8pck.com/guides/dropper-bottles/", "image": "https://8pck.com/assets/img/factory-blow2.jpg", "about": {"@type": "Thing", "name": "Dropper Bottles"}}</script>
       <h2>Glass vs Plastic</h2><p>Glass reads premium and is inert — the right choice for essential oils and anything with a solvent. It is also heavier, breaks, and costs more to ship.</p><p>PET reads clean and modern, weighs a third as much, and is the pragmatic choice for e-liquid, travel sizes and sample kits. The dropper itself can still be glass in a PET bottle.</p><h2>Why the Collar Matters More Than the Bottle</h2><p>The collar holds the pipette and seals against the neck. If it is loose, the product leaks into the cap; if it is over-tight, the pipette cracks. This is the part we test on every batch rather than sampling.</p><h2>Dose per Drop Is a Specification, Not a Guess</h2><p>Drop size depends on the bore of the pipette and the viscosity of the liquid. Water-like serums give about 0.05 ml per drop; oils give less. If your label says “3 drops”, test with the actual fill before printing the carton.</p><h2>Where Dropper Bottles Go Wrong</h2><p>Four failures, all visible on a filled sample within a week.</p><h3>The Pipette Does Not Reach the Base</h3><p>A tube 5 mm short leaves the last 3 ml unusable. It is a length decision made at assembly, not a mould decision, and it is the most common complaint.</p><h3>Bulb Perishes</h3><p>Rubber bulbs harden and crack after a few hundred uses, especially with essential oils. A push-button dropper costs 20-30 % more and removes the problem.</p><h3>Glass Pipette in a Plastic Bottle</h3><p>The compromise most brands use: glass for the premium feel, PET for the freight. Check the collar fit — an 18/410 collar on a 18/415 neck leaks.</p><h3>Label Over the Neck</h3><p>A label that wraps the shoulder interferes with the collar. Keep the label 8 mm below the neck.</p><h2>Sizing a Serum Bottle</h2><p>15 ml for trial, 30 ml for the standard serum, 50 ml for body serum and hair oil. The 30 ml is the volume that fits a four-to-six-week routine, which is why it dominates.</p>
       <h2>Questions We Get on This</h2>
@@ -84,50 +133,6 @@
       <p style="font-size:11px;color:var(--muted);margin:12px 0 0;line-height:1.5">Written quotation, lead time and a sample plan in one reply.</p>
     </aside>
   </div>
-  
-<section class="section">
-  <div class="wrap">
-    <div style="border:1px solid var(--line);border-radius:10px;padding:22px;background:#fff">
-      <div class="kicker">30-second check</div>
-      <h2 style="font-size:22px;margin:8px 0 6px">Does Your Bottle Pass?</h2>
-      <p class="sub" style="margin:0 0 16px">Two numbers, one answer. Full checker takes six.</p>
-      <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
-        <label class="field" style="margin:0"><span>Capacity (ml)</span>
-          <input id="mcCap" type="number" value="500" min="5"></label>
-        <label class="field" style="margin:0"><span>Wall (mm)</span>
-          <input id="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
-        <label class="field" style="margin:0"><span>Closure</span>
-          <select id="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
-          <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
-        <a class="btn" id="mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
-      </div>
-      <p id="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
-    </div>
-  </div>
-</section>
-<script>
-(function(){
-  function need(cap,clo){
-    var base = (clo==='pump') ? (cap>600?0.65:0.55) : 0.45;
-    if(clo==='spray'&&cap>300) base=0.55;
-    return base;
-  }
-  function run(){
-    var cap=parseFloat(document.getElementById('mcCap').value)||0;
-    var wall=parseFloat(document.getElementById('mcWall').value)||0;
-    var clo=document.getElementById('mcClo').value;
-    var min=need(cap,clo);
-    var out=document.getElementById('mcOut');
-    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
-    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
-    document.getElementById('mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
-  }
-  ['mcCap','mcWall','mcClo'].forEach(function(id){var e=document.getElementById(id);e.addEventListener('input',run);e.addEventListener('change',run);});
-  run();
-})();
-</script>
-<style>@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
-
   <section class="section" style="margin-top:20px">
     <div class="shead"><div><div class="kicker">Related products</div><h2 style="font-size:24px">Sizes That Fit This Guide</h2></div></div>
     <div class="cards"><a class="card" href="../../products/bottles/30ml-pet-dropper-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-30-dropper.webp" type="image/webp"><img src="../../assets/img/bottle-30-dropper.jpg" alt="30 ml PET dropper bottle" loading="lazy" decoding="async"></picture></div><b>30 ml PET Dropper Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/100ml-pet-round-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-100-round.webp" type="image/webp"><img src="../../assets/img/bottle-100-round.jpg" alt="100 ml PET round bottle" loading="lazy" decoding="async"></picture></div><b>100 ml PET Round Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/50ml-travel-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-50-travel.webp" type="image/webp"><img src="../../assets/img/bottle-50-travel.jpg" alt="50 ml travel bottle" loading="lazy" decoding="async"></picture></div><b>50 ml Travel Bottle</b><span class="more">View →</span></a></div>

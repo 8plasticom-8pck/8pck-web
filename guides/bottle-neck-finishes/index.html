@@ -72,6 +72,55 @@
     <div class="guide-body">
       <p>Every bottle we mould is defined by its neck before anything else. The neck is the only part of the container that has to interface with a component made somewhere else, to a tolerance measured in tenths of a millimetre.</p><p>Below is how the four finishes we hold in stock are used, and how to choose between them.</p>
       <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:14px 16px;margin:22px 0 0;background:#fff"><b style="font-size:13.5px">Check it before you quote</b><p class="sub" style="margin:4px 0 0;font-size:13px">The free <a href="../../tools/spec-checker/" style="border-bottom:1px solid #111">Bottle Spec Checker</a> tests whether your neck fits the closure and whether the wall survives a pump stroke.</p></div>
+      
+<details class="mc" style="border:1px solid var(--line);border-radius:10px;background:#fff;margin:22px 0">
+  <summary style="cursor:pointer;padding:14px 18px;font-weight:600;font-size:15px;list-style:none">
+    30-second check: does your bottle pass?
+    <span style="float:right;color:var(--accent);font-weight:500">Open ▾</span></summary>
+  <div style="padding:0 18px 18px">
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
+      <label class="field" style="margin:0"><span>Capacity (ml)</span>
+        <input class="mcCap" type="number" value="500" min="5"></label>
+      <label class="field" style="margin:0"><span>Wall (mm)</span>
+        <input class="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
+      <label class="field" style="margin:0"><span>Closure</span>
+        <select class="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
+        <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
+      <a class="btn mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
+    </div>
+    <p class="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
+  </div>
+</details>
+<script>(function(){
+  var warn=false;
+  function need(cap,clo){ var b=(clo==='pump')?(cap>600?0.65:0.55):0.45; if(clo==='spray'&&cap>300)b=0.55; return b; }
+  function run(){
+    var cap=parseFloat(document.querySelector('.mcCap').value)||0;
+    var wall=parseFloat(document.querySelector('.mcWall').value)||0;
+    var clo=document.querySelector('.mcClo').value;
+    var min=need(cap,clo), out=document.querySelector('.mcOut');
+    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
+    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
+    document.querySelector('.mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
+    if(window.gtag && !warn){ warn=true; gtag('event','calc_calc',{tool:'mini_spec'}); }
+  }
+  ['Cap','Wall','Clo'].forEach(function(k){
+    var e=document.querySelector('.mc'+k); e.addEventListener('input',run); e.addEventListener('change',run);
+  });
+  var d=document.querySelector('details.mc');
+  if(d){
+    d.addEventListener('toggle',function(){
+      if(d.open && window.gtag) gtag('event','calc_open',{page:location.pathname});
+      run();
+    });
+    d.querySelector('.mcLink').addEventListener('click',function(){ if(window.gtag) gtag('event','calc_full_click',{page:location.pathname}); });
+  }
+  run();
+})();</script>
+<style>details.mc summary::-webkit-details-marker{display:none}
+details.mc[open] summary{border-bottom:1px solid var(--line)}
+@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
+
       <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Bottle Neck Finishes: 18/410, 20/410, 24/410 and 28/410 Explained", "description": "The neck finish decides which pump, cap or sprayer fits your bottle. It is also the number buyers most often leave out of a brief — and the reason a container of pumps arrives that nobody can use.", "author": {"@id": "https://8pck.com/#joe"}, "publisher": {"@id": "https://8pck.com/#org"}, "datePublished": "2026-10-26", "dateModified": "2026-10-26", "mainEntityOfPage": "https://8pck.com/guides/bottle-neck-finishes/", "image": "https://8pck.com/assets/img/factory-blow2.jpg", "about": {"@type": "Thing", "name": "Bottle Neck Finishes"}}</script>
       <h2>What the Two Numbers Mean</h2><p>Take 24/410. The 24 is the nominal outside diameter of the neck in millimetres. The 410 is the thread standard: a single-start thread with a defined pitch and depth. Two bottles can both be “24 mm” and still take different closures if the thread differs — which is why the second number is the one to quote.</p><h2>Why the Same Neck From Two Suppliers May Not Fit</h2><p>Thread dimensions have a tolerance band, and moulds wear. A pump that clicks onto one 24/410 bottle may feel tight on another. This is normal and is why we test pumps on our own bottles rather than trusting the drawing alone.</p><p>If you are buying bottles and pumps from different suppliers, ask both for the neck drawing and compare the thread callout, not just the diameter.</p><h2>Matching a Closure to a Product</h2><p>Viscous products — lotions, creams, gels — need a pump with a dip tube that reaches the bottom corner. Thin products suit a disc-top or flip-top. Oils and serums usually take a dropper at 18/410. Mist sprayers at 20/410 and 24/410 are for fragrances and toners.</p><h2>Where Neck Specs Go Wrong</h2><p>The failures are consistent, and all of them are visible on a sample within a week.</p><h3>Mixing 410 and 415 Threads</h3><p>Both are 24 mm, both accept a 24 mm pump, and only one seals. A 24/415 bottle with a 24/410 pump threads on by hand and leaks on a filling line at 2 bar. Ask the closure supplier for the thread code, not just the diameter.</p><h3>Measuring the Neck on a Photo</h3><p>Neck finish cannot be read from a product photo — the thread height is 2.5 mm on a 410 and 5 mm on a 415. Send a bottle, or a caliper reading of T, E and H dimensions.</p><h3>Assuming a Neck Is Standard Because the Bottle Is</h3><p>A 500 ml bottle shape is often available with two different necks from the same mould family. Confirm the neck on the drawing, not on the model name.</p><h2>What to Send in a Brief</h2><p>The complete neck code (e.g. 24/410), the closure you intend to use, and one sample if you have it. With those three we confirm fit before quoting, instead of after the first container.</p><p>If you are choosing the neck as well, 24/410 covers most pumps; 28/410 for 500-750 ml; 18/410 and 20/410 for droppers and mist sprayers.</p>
       <h2>Questions We Get on This</h2>
@@ -84,7 +133,6 @@
       <p style="font-size:11px;color:var(--muted);margin:12px 0 0;line-height:1.5">Written quotation, lead time and a sample plan in one reply.</p>
     </aside>
   </div>
-  
   <section class="section" style="margin-top:20px">
     <div class="shead"><div><div class="kicker">Related products</div><h2 style="font-size:24px">Sizes That Fit This Guide</h2></div></div>
     <div class="cards"><a class="card" href="../../products/bottles/30ml-pet-dropper-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-30-dropper.webp" type="image/webp"><img src="../../assets/img/bottle-30-dropper.jpg" alt="30 ml PET dropper bottle" loading="lazy" decoding="async"></picture></div><b>30 ml PET Dropper Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/100ml-pet-round-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-100-round.webp" type="image/webp"><img src="../../assets/img/bottle-100-round.jpg" alt="100 ml PET round bottle" loading="lazy" decoding="async"></picture></div><b>100 ml PET Round Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/50ml-travel-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-50-travel.webp" type="image/webp"><img src="../../assets/img/bottle-50-travel.jpg" alt="50 ml travel bottle" loading="lazy" decoding="async"></picture></div><b>50 ml Travel Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/750ml-shampoo-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-750-shampoo.webp" type="image/webp"><img src="../../assets/img/bottle-750-shampoo.jpg" alt="750 ml shampoo bottle" loading="lazy" decoding="async"></picture></div><b>750 ml Shampoo Bottle</b><span class="more">View →</span></a></div>

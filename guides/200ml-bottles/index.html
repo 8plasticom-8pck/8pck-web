@@ -72,6 +72,55 @@
     <div class="guide-body">
       <p>200 ml is a commercial compromise: big enough to be a real product, small enough to fit a narrow shelf or a hotel tray.</p><p>The flat format is what made it win — it gives a larger label face and uses shelf depth rather than width.</p>
       <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:14px 16px;margin:22px 0 0;background:#fff"><b style="font-size:13.5px">Check it before you quote</b><p class="sub" style="margin:4px 0 0;font-size:13px">The free <a href="../../tools/spec-checker/" style="border-bottom:1px solid #111">Bottle Spec Checker</a> tests whether your neck fits the closure and whether the wall survives a pump stroke.</p></div>
+      
+<details class="mc" style="border:1px solid var(--line);border-radius:10px;background:#fff;margin:22px 0">
+  <summary style="cursor:pointer;padding:14px 18px;font-weight:600;font-size:15px;list-style:none">
+    30-second check: does your bottle pass?
+    <span style="float:right;color:var(--accent);font-weight:500">Open ▾</span></summary>
+  <div style="padding:0 18px 18px">
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
+      <label class="field" style="margin:0"><span>Capacity (ml)</span>
+        <input class="mcCap" type="number" value="500" min="5"></label>
+      <label class="field" style="margin:0"><span>Wall (mm)</span>
+        <input class="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
+      <label class="field" style="margin:0"><span>Closure</span>
+        <select class="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
+        <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
+      <a class="btn mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
+    </div>
+    <p class="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
+  </div>
+</details>
+<script>(function(){
+  var warn=false;
+  function need(cap,clo){ var b=(clo==='pump')?(cap>600?0.65:0.55):0.45; if(clo==='spray'&&cap>300)b=0.55; return b; }
+  function run(){
+    var cap=parseFloat(document.querySelector('.mcCap').value)||0;
+    var wall=parseFloat(document.querySelector('.mcWall').value)||0;
+    var clo=document.querySelector('.mcClo').value;
+    var min=need(cap,clo), out=document.querySelector('.mcOut');
+    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
+    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
+    document.querySelector('.mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
+    if(window.gtag && !warn){ warn=true; gtag('event','calc_calc',{tool:'mini_spec'}); }
+  }
+  ['Cap','Wall','Clo'].forEach(function(k){
+    var e=document.querySelector('.mc'+k); e.addEventListener('input',run); e.addEventListener('change',run);
+  });
+  var d=document.querySelector('details.mc');
+  if(d){
+    d.addEventListener('toggle',function(){
+      if(d.open && window.gtag) gtag('event','calc_open',{page:location.pathname});
+      run();
+    });
+    d.querySelector('.mcLink').addEventListener('click',function(){ if(window.gtag) gtag('event','calc_full_click',{page:location.pathname}); });
+  }
+  run();
+})();</script>
+<style>details.mc summary::-webkit-details-marker{display:none}
+details.mc[open] summary{border-bottom:1px solid var(--line)}
+@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
+
       <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "200 ml Bottles: The Flat Format That Replaced 250 ml Round", "description": "200 ml in a flat profile is now the default for toner, sanitizer and hotel amenities: more label face per shelf depth, and a size that still reads premium.", "author": {"@id": "https://8pck.com/#joe"}, "publisher": {"@id": "https://8pck.com/#org"}, "datePublished": "2026-10-26", "dateModified": "2026-10-26", "mainEntityOfPage": "https://8pck.com/guides/200ml-bottles/", "image": "https://8pck.com/assets/img/factory-blow2.jpg", "about": {"@type": "Thing", "name": "200 ml Bottles"}}</script>
       <h2>Why Flat Wins on Shelf</h2><p>A round 200 ml wastes depth and gives a narrow label. A flat 200 ml presents a wide face, which is why toner, sanitizer and amenity packs moved to it.</p><h3>Label Face</h3><p>A flat panel prints more brand per ml, and applies straighter at the co-packer.</p><h3>Shelf Depth</h3><p>Flat packs sit two-deep where round ones sit one-and-a-half.</p><h2>What Fits the 200 ml Neck</h2><p>20/410 suits a flip or disc top for a water-thin product; 24/410 suits a pump or a mist sprayer.</p><p>At 200 ml the pump looks proportionate, which is why 200 ml is a common hand-sanitizer pump size.</p><h2>Production Notes</h2><p>Corners on a flat bottle are the thinnest part; specify a radius of at least 3 mm and 0.5 mm wall.</p><p>If the product is alcohol-based, test a filled sample for four weeks — PET can craze at the shoulder.</p><h2>Where This Size Fails</h2><p>A 200 ml pack is bought for toner, sanitizer and hotel amenities, and almost every complaint traces to corners that crack in transit. The bottle is rarely the problem; the interface is.</p><h3>The Wall Thickness Floor</h3><p>Below 0.45 mm a bottle survives a handbag and not a checked case; 0.5 mm is the practical floor for anything that travels.</p><h3>The Closure Thread</h3><p>A 410 closure on a 415 neck threads on and weeps. Confirm the thread code, not the diameter.</p><h3>The Label Edge</h3><p>Humidity and abrasion lift a paper label within days. Synthetic label or silkscreen.</p><h2>What to Send in a Brief</h2><p>Capacity (200 ml), neck, closure type, quantity and whether the pack travels. Those five answers are enough to quote with packing data, and they decide the wall and the liner before a sample is made.</p><h2>200 ml in PET, HDPE and Clear: Which One You Are Actually Buying</h2><p>The 200 ml size is moulded in more than one resin, and the resin decides what the pack can carry. Clear PET for a product that has to be seen; HDPE where the formula is opaque or attacks PET; PETG when the wall has to look thick like glass.</p><p>150 ml and 250 ml are the neighbours — the neck is usually shared, which is why one closure range covers the whole family. If you are switching between 200 ml and 150 ml, keep the neck the same and only the body changes.</p><h3>Clear PET</h3><p>The default for shampoo, water and anything sold on colour; light, recyclable, food-grade.</p><h3>HDPE</h3><p>Opaque, cheap, and resistant to surfactants — the choice for detergent and chemicals.</p><h3>PETG</h3><p>Thicker wall, closer to glass; costs 20–30 % more per unit.</p>
       <h2>Questions We Get on This</h2>
@@ -84,7 +133,6 @@
       <p style="font-size:11px;color:var(--muted);margin:12px 0 0;line-height:1.5">Written quotation, lead time and a sample plan in one reply.</p>
     </aside>
   </div>
-  
   <section class="section" style="margin-top:20px">
     <div class="shead"><div><div class="kicker">Related products</div><h2 style="font-size:24px">Sizes That Fit This Guide</h2></div></div>
     <div class="cards"><a class="card" href="../../products/bottles/200ml-flat-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-200-flat.webp" type="image/webp"><img src="../../assets/img/bottle-200-flat.jpg" alt="200 ml flat bottle" loading="lazy" decoding="async"></picture></div><b>200 ml Flat Bottle</b><span class="more">View →</span></a><a class="card" href="../../guides/250ml-bottles/"><h3 class="card-h">250 ml Bottles</h3><span class="more">Read →</span></a><a class="card" href="../../guides/100ml-bottles/"><h3 class="card-h">100 ml Bottles</h3><span class="more">Read →</span></a><a class="card" href="/products/spray-bottles/"><h3 class="card-h">Spray Bottles</h3><span class="more">View →</span></a></div>

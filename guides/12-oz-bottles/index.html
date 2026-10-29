@@ -72,6 +72,55 @@
     <div class="guide-body">
       <p>12 oz is the US can size, and bottles adopt it for drink and sauce lines that share a filling run with cans.</p>
       <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:14px 16px;margin:22px 0 0;background:#fff"><b style="font-size:13.5px">Check it before you quote</b><p class="sub" style="margin:4px 0 0;font-size:13px">The free <a href="../../tools/spec-checker/" style="border-bottom:1px solid #111">Bottle Spec Checker</a> tests whether your neck fits the closure and whether the wall survives a pump stroke.</p></div>
+      
+<details class="mc" style="border:1px solid var(--line);border-radius:10px;background:#fff;margin:22px 0">
+  <summary style="cursor:pointer;padding:14px 18px;font-weight:600;font-size:15px;list-style:none">
+    30-second check: does your bottle pass?
+    <span style="float:right;color:var(--accent);font-weight:500">Open ▾</span></summary>
+  <div style="padding:0 18px 18px">
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
+      <label class="field" style="margin:0"><span>Capacity (ml)</span>
+        <input class="mcCap" type="number" value="500" min="5"></label>
+      <label class="field" style="margin:0"><span>Wall (mm)</span>
+        <input class="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
+      <label class="field" style="margin:0"><span>Closure</span>
+        <select class="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
+        <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
+      <a class="btn mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
+    </div>
+    <p class="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
+  </div>
+</details>
+<script>(function(){
+  var warn=false;
+  function need(cap,clo){ var b=(clo==='pump')?(cap>600?0.65:0.55):0.45; if(clo==='spray'&&cap>300)b=0.55; return b; }
+  function run(){
+    var cap=parseFloat(document.querySelector('.mcCap').value)||0;
+    var wall=parseFloat(document.querySelector('.mcWall').value)||0;
+    var clo=document.querySelector('.mcClo').value;
+    var min=need(cap,clo), out=document.querySelector('.mcOut');
+    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
+    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
+    document.querySelector('.mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
+    if(window.gtag && !warn){ warn=true; gtag('event','calc_calc',{tool:'mini_spec'}); }
+  }
+  ['Cap','Wall','Clo'].forEach(function(k){
+    var e=document.querySelector('.mc'+k); e.addEventListener('input',run); e.addEventListener('change',run);
+  });
+  var d=document.querySelector('details.mc');
+  if(d){
+    d.addEventListener('toggle',function(){
+      if(d.open && window.gtag) gtag('event','calc_open',{page:location.pathname});
+      run();
+    });
+    d.querySelector('.mcLink').addEventListener('click',function(){ if(window.gtag) gtag('event','calc_full_click',{page:location.pathname}); });
+  }
+  run();
+})();</script>
+<style>details.mc summary::-webkit-details-marker{display:none}
+details.mc[open] summary{border-bottom:1px solid var(--line)}
+@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
+
       <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "12 oz Bottles: 355 ml, the Drink and Sauce Size", "description": "12 oz (355 ml) is the can equivalent and a common sauce and drink bottle size in the US. It sits between 300 and 375 ml, which is why metric markets rarely use it.", "author": {"@id": "https://8pck.com/#joe"}, "publisher": {"@id": "https://8pck.com/#org"}, "datePublished": "2026-10-26", "dateModified": "2026-10-26", "mainEntityOfPage": "https://8pck.com/guides/12-oz-bottles/", "image": "https://8pck.com/assets/img/factory-blow2.jpg", "about": {"@type": "Thing", "name": "12 oz Bottles"}}</script>
       <h2>Where 12 Oz Comes From</h2><p>It is the standard US can volume, so a bottle that matches it can share a case, a shelf plan and a price point.</p><h3>Drinks</h3><p>355 ml PET with a 28/410 or 38 mm neck.</p><h3>Sauce</h3><p>Same volume with a wide neck and sauce cap.</p><h2>Metric Mismatch</h2><p>In Europe the equivalent is 330 or 500 ml; a 355 ml bottle looks odd on a European shelf.</p>
       <h2>Questions We Get on This</h2>
@@ -84,7 +133,6 @@
       <p style="font-size:11px;color:var(--muted);margin:12px 0 0;line-height:1.5">Written quotation, lead time and a sample plan in one reply.</p>
     </aside>
   </div>
-  
   <section class="section" style="margin-top:20px">
     <div class="shead"><div><div class="kicker">Related products</div><h2 style="font-size:24px">Sizes That Fit This Guide</h2></div></div>
     <div class="cards"><a class="card" href="../../guides/juice-bottles/"><h3 class="card-h">Juice Bottles</h3><span class="more">Read →</span></a><a class="card" href="../../guides/hot-sauce-bottles/"><h3 class="card-h">Hot Sauce Bottles</h3><span class="more">Read →</span></a><a class="card" href="../../guides/375-ml-bottles/"><h3 class="card-h">375 ml Bottles</h3><span class="more">Read →</span></a><a class="card" href="/products/bottles/"><h3 class="card-h">Bottles</h3><span class="more">View →</span></a></div>

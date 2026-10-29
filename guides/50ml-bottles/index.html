@@ -72,6 +72,55 @@
     <div class="guide-body">
       <p>A 50 ml bottle is a sample, a travel size or a single-serve. It is also where unit economics get awkward: the bottle costs cents, but the cap, the label and the filling cost as much as a 250 ml line.</p><p>This page covers what fits a 50 ml, what it costs, and why the closure usually decides the reorder.</p>
       <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:14px 16px;margin:22px 0 0;background:#fff"><b style="font-size:13.5px">Check it before you quote</b><p class="sub" style="margin:4px 0 0;font-size:13px">The free <a href="../../tools/spec-checker/" style="border-bottom:1px solid #111">Bottle Spec Checker</a> tests whether your neck fits the closure and whether the wall survives a pump stroke.</p></div>
+      
+<details class="mc" style="border:1px solid var(--line);border-radius:10px;background:#fff;margin:22px 0">
+  <summary style="cursor:pointer;padding:14px 18px;font-weight:600;font-size:15px;list-style:none">
+    30-second check: does your bottle pass?
+    <span style="float:right;color:var(--accent);font-weight:500">Open ▾</span></summary>
+  <div style="padding:0 18px 18px">
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
+      <label class="field" style="margin:0"><span>Capacity (ml)</span>
+        <input class="mcCap" type="number" value="500" min="5"></label>
+      <label class="field" style="margin:0"><span>Wall (mm)</span>
+        <input class="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
+      <label class="field" style="margin:0"><span>Closure</span>
+        <select class="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
+        <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
+      <a class="btn mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
+    </div>
+    <p class="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
+  </div>
+</details>
+<script>(function(){
+  var warn=false;
+  function need(cap,clo){ var b=(clo==='pump')?(cap>600?0.65:0.55):0.45; if(clo==='spray'&&cap>300)b=0.55; return b; }
+  function run(){
+    var cap=parseFloat(document.querySelector('.mcCap').value)||0;
+    var wall=parseFloat(document.querySelector('.mcWall').value)||0;
+    var clo=document.querySelector('.mcClo').value;
+    var min=need(cap,clo), out=document.querySelector('.mcOut');
+    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
+    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
+    document.querySelector('.mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
+    if(window.gtag && !warn){ warn=true; gtag('event','calc_calc',{tool:'mini_spec'}); }
+  }
+  ['Cap','Wall','Clo'].forEach(function(k){
+    var e=document.querySelector('.mc'+k); e.addEventListener('input',run); e.addEventListener('change',run);
+  });
+  var d=document.querySelector('details.mc');
+  if(d){
+    d.addEventListener('toggle',function(){
+      if(d.open && window.gtag) gtag('event','calc_open',{page:location.pathname});
+      run();
+    });
+    d.querySelector('.mcLink').addEventListener('click',function(){ if(window.gtag) gtag('event','calc_full_click',{page:location.pathname}); });
+  }
+  run();
+})();</script>
+<style>details.mc summary::-webkit-details-marker{display:none}
+details.mc[open] summary{border-bottom:1px solid var(--line)}
+@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
+
       <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "50 ml Bottles: The Sample Size That Decides Reorders", "description": "50 ml is the smallest size most brands sell, and the one with the highest cost per ml. The bottle is cheap; the closure, the filling and the carton are not.", "author": {"@id": "https://8pck.com/#joe"}, "publisher": {"@id": "https://8pck.com/#org"}, "datePublished": "2026-10-26", "dateModified": "2026-10-26", "mainEntityOfPage": "https://8pck.com/guides/50ml-bottles/", "image": "https://8pck.com/assets/img/factory-blow2.jpg", "about": {"@type": "Thing", "name": "50 ml Bottles"}}</script>
       <h2>What Fits on a 50 ml Bottle</h2><p>A 50 ml body can take several closures, and the neck decides which. 18/410 covers droppers and small sprayers; 20/410 covers fine mist and flip-tops; 24/410 is unusual at this size and makes the bottle look top-heavy.</p><h3>18/410</h3><p>Droppers, small sprayers, sample serums.</p><h3>20/410</h3><p>Flip-top, disc-top, fine mist; the travel/sample standard.</p><h3>24/410</h3><p>Possible but visually heavy; used where a standard pump is required.</p><h2>Why the Closure Decides the Reorder</h2><p>A sample bottle that leaks in a bag is not reordered. The two failures are a flip-top with a shallow spigot and a dropper collar that does not match the thread height.</p><p>For a 50 ml travel pack, a disc-top with a silicone valve is usually the safest choice; for a serum sample, a push-button dropper.</p><h2>Cost per Unit at 50 ml</h2><p>Resin is a small share at this size — often under a third of the unit price. The closure, the label and the packing labour dominate.</p><p>That is why the price difference between two 50 ml quotes is almost never the bottle: it is the cap, the decoration and the carton.</p><h2>Where This Size Fails</h2><p>A 50 ml pack is bought for samples, travel and serums, and almost every complaint traces to a closure that leaks in a bag. The bottle is rarely the problem; the interface is.</p><h3>The Wall Thickness Floor</h3><p>Below 0.45 mm a bottle survives a handbag and not a checked case; 0.5 mm is the practical floor for anything that travels.</p><h3>The Closure Thread</h3><p>A 410 closure on a 415 neck threads on and weeps. Confirm the thread code, not the diameter.</p><h3>The Label Edge</h3><p>Humidity and abrasion lift a paper label within days. Synthetic label or silkscreen.</p><h2>What to Send in a Brief</h2><p>Capacity (50 ml), neck, closure type, quantity and whether the pack travels. Those five answers are enough to quote with packing data, and they decide the wall and the liner before a sample is made.</p><h2>50 ml in PET, HDPE and Clear: Which One You Are Actually Buying</h2><p>The 50 ml size is moulded in more than one resin, and the resin decides what the pack can carry. Clear PET for a product that has to be seen; HDPE where the formula is opaque or attacks PET; PETG when the wall has to look thick like glass.</p><p>10 ml and 15 ml are the same family — the neck is usually shared, which is why one closure range covers the whole family. If you are switching between 50 ml and 15 ml, keep the neck the same and only the body changes.</p><h3>Clear PET</h3><p>The default for shampoo, water and anything sold on colour; light, recyclable, food-grade.</p><h3>HDPE</h3><p>Opaque, cheap, and resistant to surfactants — the choice for detergent and chemicals.</p><h3>PETG</h3><p>Thicker wall, closer to glass; costs 20–30 % more per unit.</p>
       <h2>Questions We Get on This</h2>
@@ -84,7 +133,6 @@
       <p style="font-size:11px;color:var(--muted);margin:12px 0 0;line-height:1.5">Written quotation, lead time and a sample plan in one reply.</p>
     </aside>
   </div>
-  
   <section class="section" style="margin-top:20px">
     <div class="shead"><div><div class="kicker">Related products</div><h2 style="font-size:24px">Sizes That Fit This Guide</h2></div></div>
     <div class="cards"><a class="card" href="../../products/bottles/50ml-travel-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-50-travel.webp" type="image/webp"><img src="../../assets/img/bottle-50-travel.jpg" alt="50 ml travel bottle" loading="lazy" decoding="async"></picture></div><b>50 ml Travel Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/100ml-pet-round-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-100-round.webp" type="image/webp"><img src="../../assets/img/bottle-100-round.jpg" alt="100 ml PET round bottle" loading="lazy" decoding="async"></picture></div><b>100 ml PET Round Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/30ml-pet-dropper-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-30-dropper.webp" type="image/webp"><img src="../../assets/img/bottle-30-dropper.jpg" alt="30 ml PET dropper bottle" loading="lazy" decoding="async"></picture></div><b>30 ml PET Dropper Bottle</b><span class="more">View →</span></a><a class="card" href="../../guides/100ml-bottles/"><h3 class="card-h">100 ml Bottles</h3><span class="more">Read →</span></a></div>

@@ -72,6 +72,55 @@
     <div class="guide-body">
       <p>There are thousands of companies in China that will quote a plastic bottle. A minority of them own the mould, blow the bottle, make the pump and print it in the same building. The difference shows up in your third order, not the first.</p><p>This checklist is what we would ask if we were buying — including the questions that are uncomfortable for a supplier.</p>
       <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:14px 16px;margin:22px 0 0;background:#fff"><b style="font-size:13.5px">Check it before you quote</b><p class="sub" style="margin:4px 0 0;font-size:13px">The free <a href="../../tools/spec-checker/" style="border-bottom:1px solid #111">Bottle Spec Checker</a> tests whether your neck fits the closure and whether the wall survives a pump stroke.</p></div>
+      
+<details class="mc" style="border:1px solid var(--line);border-radius:10px;background:#fff;margin:22px 0">
+  <summary style="cursor:pointer;padding:14px 18px;font-weight:600;font-size:15px;list-style:none">
+    30-second check: does your bottle pass?
+    <span style="float:right;color:var(--accent);font-weight:500">Open ▾</span></summary>
+  <div style="padding:0 18px 18px">
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
+      <label class="field" style="margin:0"><span>Capacity (ml)</span>
+        <input class="mcCap" type="number" value="500" min="5"></label>
+      <label class="field" style="margin:0"><span>Wall (mm)</span>
+        <input class="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
+      <label class="field" style="margin:0"><span>Closure</span>
+        <select class="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
+        <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
+      <a class="btn mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
+    </div>
+    <p class="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
+  </div>
+</details>
+<script>(function(){
+  var warn=false;
+  function need(cap,clo){ var b=(clo==='pump')?(cap>600?0.65:0.55):0.45; if(clo==='spray'&&cap>300)b=0.55; return b; }
+  function run(){
+    var cap=parseFloat(document.querySelector('.mcCap').value)||0;
+    var wall=parseFloat(document.querySelector('.mcWall').value)||0;
+    var clo=document.querySelector('.mcClo').value;
+    var min=need(cap,clo), out=document.querySelector('.mcOut');
+    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
+    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
+    document.querySelector('.mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
+    if(window.gtag && !warn){ warn=true; gtag('event','calc_calc',{tool:'mini_spec'}); }
+  }
+  ['Cap','Wall','Clo'].forEach(function(k){
+    var e=document.querySelector('.mc'+k); e.addEventListener('input',run); e.addEventListener('change',run);
+  });
+  var d=document.querySelector('details.mc');
+  if(d){
+    d.addEventListener('toggle',function(){
+      if(d.open && window.gtag) gtag('event','calc_open',{page:location.pathname});
+      run();
+    });
+    d.querySelector('.mcLink').addEventListener('click',function(){ if(window.gtag) gtag('event','calc_full_click',{page:location.pathname}); });
+  }
+  run();
+})();</script>
+<style>details.mc summary::-webkit-details-marker{display:none}
+details.mc[open] summary{border-bottom:1px solid var(--line)}
+@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
+
       <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "How to Choose a Plastic Bottle Manufacturer in China — 2026 Checklist", "description": "Most buyers shortlist on price and a website. The factories that ship on time are separated by seven questions that take ten minutes to ask — and almost nobody asks them before sending a deposit.", "author": {"@id": "https://8pck.com/#joe"}, "publisher": {"@id": "https://8pck.com/#org"}, "datePublished": "2026-10-26", "dateModified": "2026-10-26", "mainEntityOfPage": "https://8pck.com/guides/choose-plastic-bottle-manufacturer-china/", "image": "https://8pck.com/assets/img/factory-blow2.jpg", "about": {"@type": "Thing", "name": "Choosing a Manufacturer"}}</script>
       <h2>1. Is It a Factory or a Trading Company</h2><p>Both are legitimate, but they fail differently. A trading company adds a margin and loses control of the schedule; a factory that claims to be a factory usually cannot show you the mould shop.</p><p>Ask for the business licence and the factory address, then check that the scope of business includes plastic products manufacturing. A licence registered to an office address with a trading scope is not a factory.</p><h2>2. Who Owns the Mould</h2><p>This is the single most important question in custom packaging. If the factory owns the mould, you are renting capacity; if you own it, you can move the tool. A new blow mould costs from USD 800 — small enough that ownership should be negotiated in writing, not assumed.</p><p>Ask: who holds the tool, where is it stored, and what happens to it if we stop ordering?</p><h2>3. Does the Pump Come From the Same Building</h2><p>Bottle, neck and pump are three parts with three tolerances. When the pump comes from a different supplier, the leak is discovered by your customer. A factory that moulds both tests the assembly as one unit.</p><p>If they do not make pumps, ask which pump brand they fit and whether they will test your pump on their bottle.</p><h2>4. Can They Verify the Certificate</h2><p>Anyone can put an ISO logo on a page. A real supplier gives you the certificate number, the issuing body and the scope — enough for you to check it independently. Ours is ISO 9001:2015, certificate PCC85721Q00018R0S, issued by ProCision Shanghai.</p><p>Be equally suspicious of a full set of badges (FDA, REACH, GRS, BRC) on a site that cannot produce a single scan.</p><h2>5. What Does the Sample Prove</h2><p>A sample pulled from a showroom shelf proves nothing about production. Ask for a sample from the actual production mould, with the batch record, and weigh it: a bottle that is 2 g under spec is a bottle that will collapse under a pump stroke.</p><h2>6. What the Quote Must Contain</h2><p>A unit price alone is not a quote. You need the packing configuration (carton quantity, pallet, container load), the lead time from deposit, the incoterm, and what is excluded — decoration, mould, sampling, testing.</p><p>If the packing data is missing, you cannot calculate freight, and the cheapest quote often becomes the most expensive order.</p><h2>7. Red Flags Worth Walking Away From</h2><p>A price 30% below everyone else with no explanation. A supplier who will not put the mould ownership in writing. A sample that arrives without a batch record. A certificate that cannot be verified. And a supplier who answers every technical question with “no problem” — because the answer to a wall thickness question is a number, not a promise.</p><h2>The Five Checks That Actually Predict a Good Supplier</h2><p>Price is the last thing to compare, not the first. These five separate factories that will still be there in three years.</p><h3>Certificate Numbers You Can Look Up</h3><p>An ISO 9001 certificate has a number and a certification body. Ask for both, then check the body's site. A certificate with no number is a picture.</p><h3>Their Own Mould Room</h3><p>A factory with an in-house mould room can fix a dimension in days. One that outsources tooling adds two weeks to every change.</p><h3>Who Answers the Technical Question</h3><p>If the salesperson cannot say what wall thickness their 500 ml mould runs, the technical answer lives somewhere you cannot reach.</p><h3>Sample From the Production Mould</h3><p>A showroom sample is not a production sample. Ask for a sample from the tool that will run your order.</p><h3>Payment Terms That Match the Risk</h3><p>30/70 against a bill of lading is normal. 100 % up front on a first order is a red flag, and so is a supplier who insists on it.</p><h2>How to Run a First Order Without Flying There</h2><p>Ask for a video call walking the line with your bottle in hand, a photo of the mould number, and the packing list before the container is sealed. Three requests that cost the factory an hour and remove most of the risk.</p>
       <h2>Questions We Get on This</h2>
@@ -84,7 +133,6 @@
       <p style="font-size:11px;color:var(--muted);margin:12px 0 0;line-height:1.5">Written quotation, lead time and a sample plan in one reply.</p>
     </aside>
   </div>
-  
   <section class="section" style="margin-top:20px">
     <div class="shead"><div><div class="kicker">Related products</div><h2 style="font-size:24px">Sizes That Fit This Guide</h2></div></div>
     <div class="cards"><a class="card" href="../../products/bottles/500ml-pet-pump-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-500-pump.webp" type="image/webp"><img src="../../assets/img/bottle-500-pump.jpg" alt="500 ml PET pump bottle" loading="lazy" decoding="async"></picture></div><b>500 ml PET Pump Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/airless/30ml-airless-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/airless-30.webp" type="image/webp"><img src="../../assets/img/airless-30.jpg" alt="30 ml airless bottle" loading="lazy" decoding="async"></picture></div><b>30 ml Airless Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/jars/250ml-pet-food-jar/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/jar-250.webp" type="image/webp"><img src="../../assets/img/jar-250.jpg" alt="250 ml PET food jar" loading="lazy" decoding="async"></picture></div><b>250 ml PET Food Jar</b><span class="more">View →</span></a><a class="card" href="../../products/jars/500ml-pet-food-jar/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/jar-500.webp" type="image/webp"><img src="../../assets/img/jar-500.jpg" alt="500 ml PET food jar" loading="lazy" decoding="async"></picture></div><b>500 ml PET Food Jar</b><span class="more">View →</span></a></div>

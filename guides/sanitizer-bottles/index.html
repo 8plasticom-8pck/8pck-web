@@ -72,6 +72,55 @@
     <div class="guide-body">
       <p>Sanitizer sells in 50, 100, 250 and 500 ml. The 100 ml is the pocket and bag size; 250–500 ml is the counter-top and refill size. The bottle mould is usually shared with other products; the pump is not.</p><p>This page covers what changes between gel and liquid, why alcohol content decides the material, and what to test before a container ships.</p>
       <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:14px 16px;margin:22px 0 0;background:#fff"><b style="font-size:13.5px">Check it before you quote</b><p class="sub" style="margin:4px 0 0;font-size:13px">The free <a href="../../tools/spec-checker/" style="border-bottom:1px solid #111">Bottle Spec Checker</a> tests whether your neck fits the closure and whether the wall survives a pump stroke.</p></div>
+      
+<details class="mc" style="border:1px solid var(--line);border-radius:10px;background:#fff;margin:22px 0">
+  <summary style="cursor:pointer;padding:14px 18px;font-weight:600;font-size:15px;list-style:none">
+    30-second check: does your bottle pass?
+    <span style="float:right;color:var(--accent);font-weight:500">Open ▾</span></summary>
+  <div style="padding:0 18px 18px">
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
+      <label class="field" style="margin:0"><span>Capacity (ml)</span>
+        <input class="mcCap" type="number" value="500" min="5"></label>
+      <label class="field" style="margin:0"><span>Wall (mm)</span>
+        <input class="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
+      <label class="field" style="margin:0"><span>Closure</span>
+        <select class="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
+        <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
+      <a class="btn mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
+    </div>
+    <p class="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
+  </div>
+</details>
+<script>(function(){
+  var warn=false;
+  function need(cap,clo){ var b=(clo==='pump')?(cap>600?0.65:0.55):0.45; if(clo==='spray'&&cap>300)b=0.55; return b; }
+  function run(){
+    var cap=parseFloat(document.querySelector('.mcCap').value)||0;
+    var wall=parseFloat(document.querySelector('.mcWall').value)||0;
+    var clo=document.querySelector('.mcClo').value;
+    var min=need(cap,clo), out=document.querySelector('.mcOut');
+    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
+    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
+    document.querySelector('.mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
+    if(window.gtag && !warn){ warn=true; gtag('event','calc_calc',{tool:'mini_spec'}); }
+  }
+  ['Cap','Wall','Clo'].forEach(function(k){
+    var e=document.querySelector('.mc'+k); e.addEventListener('input',run); e.addEventListener('change',run);
+  });
+  var d=document.querySelector('details.mc');
+  if(d){
+    d.addEventListener('toggle',function(){
+      if(d.open && window.gtag) gtag('event','calc_open',{page:location.pathname});
+      run();
+    });
+    d.querySelector('.mcLink').addEventListener('click',function(){ if(window.gtag) gtag('event','calc_full_click',{page:location.pathname}); });
+  }
+  run();
+})();</script>
+<style>details.mc summary::-webkit-details-marker{display:none}
+details.mc[open] summary{border-bottom:1px solid var(--line)}
+@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
+
       <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Sanitizer Bottles: Gel and Liquid Change the Pump, Not the Bottle", "description": "Hand sanitizer is the one product where the pack has to work one-handed, in public, with sticky hands. The bottle is the easy part; the pump is where the design is won or lost.", "author": {"@id": "https://8pck.com/#joe"}, "publisher": {"@id": "https://8pck.com/#org"}, "datePublished": "2026-10-26", "dateModified": "2026-10-26", "mainEntityOfPage": "https://8pck.com/guides/sanitizer-bottles/", "image": "https://8pck.com/assets/img/factory-blow2.jpg", "about": {"@type": "Thing", "name": "Sanitizer bottles"}}</script>
       <h2>Gel Uses a Pump; Liquid Uses a Sprayer</h2><p>A gel sanitizer needs a pump with a wide dip tube and a larger valve, because the product does not flow on its own. A liquid sanitizer in the same bottle uses a mist sprayer with a fine orifice.</p><p>The neck stays 20/410 or 24/410 either way — so a brand can launch gel and liquid from one mould, with two closures.</p><h2>Alcohol Content Decides the Material</h2><p>High-alcohol formulas (60–80 %) are the standard for sanitizer, and they are hard on some plastics over time. HDPE is the safe default; PET is fine for many formulas but should be checked for crazing at the shoulder after a few months.</p><p>The practical test is a filled sample left on a shelf for four weeks, not a compatibility table.</p><h2>Pocket Size: 50 and 100 ml</h2><p>A 100 ml bottle has to survive a bag: a flip-top that opens in a handbag is the most common complaint. A screw cap with a flip spout, or a pump with a locking collar, solves it.</p><p>For 50 ml travel sizes, the closure is usually the most expensive component relative to the bottle.</p><h2>Labels and the Sticky-Hands Problem</h2><p>Sanitizer bottles get handled with wet hands. Paper labels lift at the edges within weeks; a synthetic label with a waterproof adhesive, or silkscreen, survives. Silkscreen also avoids the label edge that collects residue.</p><p>If the bottle is clear PET and the gel is clear, the label is the only brand surface — worth spending the extra 0.01 per unit on a better adhesive.</p><h2>Where Sanitizer Bottles Fail</h2><p>Sanitizer is handled with wet hands, in public, one-handed. Three failures.</p><h3>Flip-Top Opens in a Bag</h3><p>A 100 ml pocket bottle with a plain flip-top leaks in a handbag. A flip spout with a locking collar, or a screw cap, solves it.</p><h3>Alcohol and PET</h3><p>High-alcohol gel can craze PET at the shoulder over months. HDPE is the safe default; PET needs a four-week soak test.</p><h3>Pump Clogs With Gel</h3><p>A gel needs a pump with a wider dip tube and a larger valve. A liquid pump will stall on gel.</p><h2>Gel and Liquid From One Mould</h2><p>The neck is identical (20/410 or 24/410); only the closure changes. A brand can launch gel and liquid without a second mould, which is why sanitizer ranges often share one bottle.</p>
       <h2>Questions We Get on This</h2>
@@ -84,50 +133,6 @@
       <p style="font-size:11px;color:var(--muted);margin:12px 0 0;line-height:1.5">Written quotation, lead time and a sample plan in one reply.</p>
     </aside>
   </div>
-  
-<section class="section">
-  <div class="wrap">
-    <div style="border:1px solid var(--line);border-radius:10px;padding:22px;background:#fff">
-      <div class="kicker">30-second check</div>
-      <h2 style="font-size:22px;margin:8px 0 6px">Does Your Bottle Pass?</h2>
-      <p class="sub" style="margin:0 0 16px">Two numbers, one answer. Full checker takes six.</p>
-      <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
-        <label class="field" style="margin:0"><span>Capacity (ml)</span>
-          <input id="mcCap" type="number" value="500" min="5"></label>
-        <label class="field" style="margin:0"><span>Wall (mm)</span>
-          <input id="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
-        <label class="field" style="margin:0"><span>Closure</span>
-          <select id="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
-          <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
-        <a class="btn" id="mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
-      </div>
-      <p id="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
-    </div>
-  </div>
-</section>
-<script>
-(function(){
-  function need(cap,clo){
-    var base = (clo==='pump') ? (cap>600?0.65:0.55) : 0.45;
-    if(clo==='spray'&&cap>300) base=0.55;
-    return base;
-  }
-  function run(){
-    var cap=parseFloat(document.getElementById('mcCap').value)||0;
-    var wall=parseFloat(document.getElementById('mcWall').value)||0;
-    var clo=document.getElementById('mcClo').value;
-    var min=need(cap,clo);
-    var out=document.getElementById('mcOut');
-    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
-    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
-    document.getElementById('mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
-  }
-  ['mcCap','mcWall','mcClo'].forEach(function(id){var e=document.getElementById(id);e.addEventListener('input',run);e.addEventListener('change',run);});
-  run();
-})();
-</script>
-<style>@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
-
   <section class="section" style="margin-top:20px">
     <div class="shead"><div><div class="kicker">Related products</div><h2 style="font-size:24px">Sizes That Fit This Guide</h2></div></div>
     <div class="cards"><a class="card" href="../../products/bottles/100ml-pet-round-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-100-round.webp" type="image/webp"><img src="../../assets/img/bottle-100-round.jpg" alt="100 ml PET round bottle" loading="lazy" decoding="async"></picture></div><b>100 ml PET Round Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/50ml-travel-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-50-travel.webp" type="image/webp"><img src="../../assets/img/bottle-50-travel.jpg" alt="50 ml travel bottle" loading="lazy" decoding="async"></picture></div><b>50 ml Travel Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/250ml-pet-pump-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-250-pump.webp" type="image/webp"><img src="../../assets/img/bottle-250-pump.jpg" alt="250 ml PET pump bottle" loading="lazy" decoding="async"></picture></div><b>250 ml PET Pump Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/300ml-pet-pump-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-300-pump.webp" type="image/webp"><img src="../../assets/img/bottle-300-pump.jpg" alt="300 ml PET pump bottle" loading="lazy" decoding="async"></picture></div><b>300 ml PET Pump Bottle</b><span class="more">View →</span></a></div>

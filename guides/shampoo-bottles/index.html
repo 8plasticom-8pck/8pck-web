@@ -72,6 +72,55 @@
     <div class="guide-body">
       <p>Shampoo and conditioner are sold in 250, 300, 500 and 750 ml, almost always in HDPE or clear PET, and almost always with a pump or a flip-top. The bottle itself is simple. The failure point is the interface.</p><p>We blow the bottle and mould the closure in the same building, so the pump is tested on the bottle rather than on a drawing.</p>
       <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:14px 16px;margin:22px 0 0;background:#fff"><b style="font-size:13.5px">Check it before you quote</b><p class="sub" style="margin:4px 0 0;font-size:13px">The free <a href="../../tools/spec-checker/" style="border-bottom:1px solid #111">Bottle Spec Checker</a> tests whether your neck fits the closure and whether the wall survives a pump stroke.</p></div>
+      
+<details class="mc" style="border:1px solid var(--line);border-radius:10px;background:#fff;margin:22px 0">
+  <summary style="cursor:pointer;padding:14px 18px;font-weight:600;font-size:15px;list-style:none">
+    30-second check: does your bottle pass?
+    <span style="float:right;color:var(--accent);font-weight:500">Open ▾</span></summary>
+  <div style="padding:0 18px 18px">
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
+      <label class="field" style="margin:0"><span>Capacity (ml)</span>
+        <input class="mcCap" type="number" value="500" min="5"></label>
+      <label class="field" style="margin:0"><span>Wall (mm)</span>
+        <input class="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
+      <label class="field" style="margin:0"><span>Closure</span>
+        <select class="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
+        <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
+      <a class="btn mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
+    </div>
+    <p class="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
+  </div>
+</details>
+<script>(function(){
+  var warn=false;
+  function need(cap,clo){ var b=(clo==='pump')?(cap>600?0.65:0.55):0.45; if(clo==='spray'&&cap>300)b=0.55; return b; }
+  function run(){
+    var cap=parseFloat(document.querySelector('.mcCap').value)||0;
+    var wall=parseFloat(document.querySelector('.mcWall').value)||0;
+    var clo=document.querySelector('.mcClo').value;
+    var min=need(cap,clo), out=document.querySelector('.mcOut');
+    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
+    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
+    document.querySelector('.mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
+    if(window.gtag && !warn){ warn=true; gtag('event','calc_calc',{tool:'mini_spec'}); }
+  }
+  ['Cap','Wall','Clo'].forEach(function(k){
+    var e=document.querySelector('.mc'+k); e.addEventListener('input',run); e.addEventListener('change',run);
+  });
+  var d=document.querySelector('details.mc');
+  if(d){
+    d.addEventListener('toggle',function(){
+      if(d.open && window.gtag) gtag('event','calc_open',{page:location.pathname});
+      run();
+    });
+    d.querySelector('.mcLink').addEventListener('click',function(){ if(window.gtag) gtag('event','calc_full_click',{page:location.pathname}); });
+  }
+  run();
+})();</script>
+<style>details.mc summary::-webkit-details-marker{display:none}
+details.mc[open] summary{border-bottom:1px solid var(--line)}
+@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
+
       <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Shampoo Bottles: 500 ml, 750 ml and Why the Pump Decides the Bottle", "description": "Shampoo is the highest-volume cosmetic bottle in the world, and almost every complaint about it starts at the same place: the pump seats on a neck that was specified for a cap.", "author": {"@id": "https://8pck.com/#joe"}, "publisher": {"@id": "https://8pck.com/#org"}, "datePublished": "2026-10-26", "dateModified": "2026-10-26", "mainEntityOfPage": "https://8pck.com/guides/shampoo-bottles/", "image": "https://8pck.com/assets/img/factory-blow2.jpg", "about": {"@type": "Thing", "name": "Shampoo Bottles"}}</script>
       <h2>500 ml Is the Volume, the Neck Is the Decision</h2><p>A 500 ml shampoo bottle in the US is usually 24/410 with a disc-top or a lotion pump; the 750 ml family size is usually 28/410 with a heavier pump. The two are not interchangeable, and the neck number is what you should write in the brief — not “500 ml bottle”.</p><p>If you already buy pumps, send us the pump. We will check it against the bottle before quoting, which is faster than discovering the mismatch at the filling line.</p><h2>PET or HDPE</h2><p>Clear PET shows the product and reads premium — the right choice for a shampoo that has to look like a shampoo. HDPE is opaque, cheaper per gram, and hides the fill level, which is why most value and professional lines use it.</p><p>Wall thickness follows the pump: a 28/410 pump on a 750 ml bottle puts more load on the shoulder than a flip-top on a 250 ml, so the wall goes up before the weight does.</p><h2>What the Filling Line Needs From You</h2><p>Three numbers settle a shampoo bottle: fill volume, pump dose and whether the product is a gel or a liquid. A thick gel needs a wider dip tube and a different pump valve; a thin liquid will drip from a pump sized for gel.</p><p>Then the label: a full-wrap label on a curved 750 ml is harder to apply straight than a two-panel label, and that shows up as reject rate at your co-packer.</p><h2>Decoration That Survives a Bathroom</h2><p>Silkscreen is the default: it does not peel, and 1–4 colours cover most shampoo designs. Labels are cheaper for multi-colour artwork and allow short runs; hot stamp and spray coat are for premium lines at 3,000 pcs.</p><p>Avoid full-body sleeves if the bottle needs to be recyclable — the sleeve has to be removed, and most recycling lines cannot do it.</p><h2>Where Shampoo Bottles Fail</h2><p>Shampoo is the highest-volume cosmetic bottle and the most complaint-prone. Three causes.</p><h3>The Pump Draws Air at the End</h3><p>A dip tube cut to the base curve rather than pressed on it leaves 30-50 ml unusable. Customers read that as 'short fill'.</p><h3>The Bottle Flexes Under a Full Stroke</h3><p>Below 0.55 mm at the shoulder, a 500 ml PET deforms slightly with each stroke and the pump sucks air. The sign is a spongy last third.</p><h3>The Label Fails in the Shower</h3><p>Paper labels wrinkle within weeks. Synthetic label with waterproof adhesive, or silkscreen, is the only durable option in a wet bathroom.</p><h2>500 ml vs 750 ml: the Economics</h2><p>A 750 ml needs a 28/410 pump and at least 0.65 mm at the shoulder. The bottle costs more in resin, and the pump costs more than a 24/410 — but freight per litre drops, which is why family sizes exist.</p><p>For export, check the packed carton weight: a 750 ml case is heavier and can push the pallet over a weight limit that a 500 ml case does not.</p>
       <h2>Questions We Get on This</h2>
@@ -84,50 +133,6 @@
       <p style="font-size:11px;color:var(--muted);margin:12px 0 0;line-height:1.5">Written quotation, lead time and a sample plan in one reply.</p>
     </aside>
   </div>
-  
-<section class="section">
-  <div class="wrap">
-    <div style="border:1px solid var(--line);border-radius:10px;padding:22px;background:#fff">
-      <div class="kicker">30-second check</div>
-      <h2 style="font-size:22px;margin:8px 0 6px">Does Your Bottle Pass?</h2>
-      <p class="sub" style="margin:0 0 16px">Two numbers, one answer. Full checker takes six.</p>
-      <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
-        <label class="field" style="margin:0"><span>Capacity (ml)</span>
-          <input id="mcCap" type="number" value="500" min="5"></label>
-        <label class="field" style="margin:0"><span>Wall (mm)</span>
-          <input id="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
-        <label class="field" style="margin:0"><span>Closure</span>
-          <select id="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
-          <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
-        <a class="btn" id="mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
-      </div>
-      <p id="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
-    </div>
-  </div>
-</section>
-<script>
-(function(){
-  function need(cap,clo){
-    var base = (clo==='pump') ? (cap>600?0.65:0.55) : 0.45;
-    if(clo==='spray'&&cap>300) base=0.55;
-    return base;
-  }
-  function run(){
-    var cap=parseFloat(document.getElementById('mcCap').value)||0;
-    var wall=parseFloat(document.getElementById('mcWall').value)||0;
-    var clo=document.getElementById('mcClo').value;
-    var min=need(cap,clo);
-    var out=document.getElementById('mcOut');
-    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
-    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
-    document.getElementById('mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
-  }
-  ['mcCap','mcWall','mcClo'].forEach(function(id){var e=document.getElementById(id);e.addEventListener('input',run);e.addEventListener('change',run);});
-  run();
-})();
-</script>
-<style>@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
-
   <section class="section" style="margin-top:20px">
     <div class="shead"><div><div class="kicker">Related products</div><h2 style="font-size:24px">Sizes That Fit This Guide</h2></div></div>
     <div class="cards"><a class="card" href="../../products/bottles/750ml-shampoo-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-750-shampoo.webp" type="image/webp"><img src="../../assets/img/bottle-750-shampoo.jpg" alt="750 ml shampoo bottle" loading="lazy" decoding="async"></picture></div><b>750 ml Shampoo Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/500ml-pet-pump-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-500-pump.webp" type="image/webp"><img src="../../assets/img/bottle-500-pump.jpg" alt="500 ml PET pump bottle" loading="lazy" decoding="async"></picture></div><b>500 ml PET Pump Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/300ml-pet-pump-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-300-pump.webp" type="image/webp"><img src="../../assets/img/bottle-300-pump.jpg" alt="300 ml PET pump bottle" loading="lazy" decoding="async"></picture></div><b>300 ml PET Pump Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/250ml-pet-pump-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-250-pump.webp" type="image/webp"><img src="../../assets/img/bottle-250-pump.jpg" alt="250 ml PET pump bottle" loading="lazy" decoding="async"></picture></div><b>250 ml PET Pump Bottle</b><span class="more">View →</span></a></div>

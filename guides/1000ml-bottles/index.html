@@ -72,6 +72,55 @@
     <div class="guide-body">
       <p>At 1 L the pack stops being a cosmetic bottle and becomes a container: pouring, refilling and stacking matter more than shelf presence.</p>
       <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:14px 16px;margin:22px 0 0;background:#fff"><b style="font-size:13.5px">Check it before you quote</b><p class="sub" style="margin:4px 0 0;font-size:13px">The free <a href="../../tools/spec-checker/" style="border-bottom:1px solid #111">Bottle Spec Checker</a> tests whether your neck fits the closure and whether the wall survives a pump stroke.</p></div>
+      
+<details class="mc" style="border:1px solid var(--line);border-radius:10px;background:#fff;margin:22px 0">
+  <summary style="cursor:pointer;padding:14px 18px;font-weight:600;font-size:15px;list-style:none">
+    30-second check: does your bottle pass?
+    <span style="float:right;color:var(--accent);font-weight:500">Open ▾</span></summary>
+  <div style="padding:0 18px 18px">
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
+      <label class="field" style="margin:0"><span>Capacity (ml)</span>
+        <input class="mcCap" type="number" value="500" min="5"></label>
+      <label class="field" style="margin:0"><span>Wall (mm)</span>
+        <input class="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
+      <label class="field" style="margin:0"><span>Closure</span>
+        <select class="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
+        <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
+      <a class="btn mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
+    </div>
+    <p class="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
+  </div>
+</details>
+<script>(function(){
+  var warn=false;
+  function need(cap,clo){ var b=(clo==='pump')?(cap>600?0.65:0.55):0.45; if(clo==='spray'&&cap>300)b=0.55; return b; }
+  function run(){
+    var cap=parseFloat(document.querySelector('.mcCap').value)||0;
+    var wall=parseFloat(document.querySelector('.mcWall').value)||0;
+    var clo=document.querySelector('.mcClo').value;
+    var min=need(cap,clo), out=document.querySelector('.mcOut');
+    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
+    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
+    document.querySelector('.mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
+    if(window.gtag && !warn){ warn=true; gtag('event','calc_calc',{tool:'mini_spec'}); }
+  }
+  ['Cap','Wall','Clo'].forEach(function(k){
+    var e=document.querySelector('.mc'+k); e.addEventListener('input',run); e.addEventListener('change',run);
+  });
+  var d=document.querySelector('details.mc');
+  if(d){
+    d.addEventListener('toggle',function(){
+      if(d.open && window.gtag) gtag('event','calc_open',{page:location.pathname});
+      run();
+    });
+    d.querySelector('.mcLink').addEventListener('click',function(){ if(window.gtag) gtag('event','calc_full_click',{page:location.pathname}); });
+  }
+  run();
+})();</script>
+<style>details.mc summary::-webkit-details-marker{display:none}
+details.mc[open] summary{border-bottom:1px solid var(--line)}
+@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
+
       <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "1 L Bottles: Detergent, Juice and the Wide-Mouth Problem", "description": "1 L is a household size first and a cosmetic size second: detergent, fabric softener, juice and syrup. The neck widens, the wall thickens, and the closure becomes a pouring device.", "author": {"@id": "https://8pck.com/#joe"}, "publisher": {"@id": "https://8pck.com/#org"}, "datePublished": "2026-10-26", "dateModified": "2026-10-26", "mainEntityOfPage": "https://8pck.com/guides/1000ml-bottles/", "image": "https://8pck.com/assets/img/factory-blow2.jpg", "about": {"@type": "Thing", "name": "1 L Bottles"}}</script>
       <h2>Wide Mouth or Narrow</h2><p>A 38 mm neck fills faster and pours a thick product; a 28/410 keeps the standard pump and trigger ecosystem. Detergent usually goes 38 mm, juice 28/410 or 38 mm depending on the line.</p><h3>38 mm</h3><p>Faster filling, easier pouring for thick liquids.</p><h3>28/410</h3><p>Fits standard triggers and pumps; keeps the closure catalogue small.</p><h2>Material Follows the Product</h2><p>HDPE for detergent and chemicals; PET for juice and clear liquids, with the caveat that hot fill distorts standard PET.</p><h2>Handling and Stacking</h2><p>A full 1 L weighs over a kilogram. The base needs a flat, reinforced design or cases sag in a pallet stack — a common cause of returns.</p><h2>Where This Size Fails</h2><p>At 1 L the pack is a container before it is a brand object. Failures come from the shoulder, the base and the closure — in that order.</p><h3>Shoulder Flex</h3><p>A full bottle puts load on the shoulder; below 0.65 mm a pump stroke deforms it and draws air.</p><h3>Base Sag</h3><p>A flat, reinforced base is needed or cases sag in a pallet stack over weeks.</p><h3>Closure Mismatch</h3><p>38 mm and 38-400 are not the same specification; confirm the thread on the drawing.</p><h2>What to Send in a Brief</h2><p>Capacity (1 L), product type, neck, closure, and whether the pack ships as a retail unit or a refill. Those answers decide resin, wall and base.</p><h2>1 L in PET, HDPE and Clear: Which One You Are Actually Buying</h2><p>The 1 L size is moulded in more than one resin, and the resin decides what the pack can carry. Clear PET for a product that has to be seen; HDPE where the formula is opaque or attacks PET; PETG when the wall has to look thick like glass.</p><p>750 ml is the step down — the neck is usually shared, which is why one closure range covers the whole family. If you are switching between 1 L and 750 ml, keep the neck the same and only the body changes.</p><h3>Clear PET</h3><p>The default for shampoo, water and anything sold on colour; light, recyclable, food-grade.</p><h3>HDPE</h3><p>Opaque, cheap, and resistant to surfactants — the choice for detergent and chemicals.</p><h3>PETG</h3><p>Thicker wall, closer to glass; costs 20–30 % more per unit.</p>
       <h2>Questions We Get on This</h2>
@@ -84,7 +133,6 @@
       <p style="font-size:11px;color:var(--muted);margin:12px 0 0;line-height:1.5">Written quotation, lead time and a sample plan in one reply.</p>
     </aside>
   </div>
-  
   <section class="section" style="margin-top:20px">
     <div class="shead"><div><div class="kicker">Related products</div><h2 style="font-size:24px">Sizes That Fit This Guide</h2></div></div>
     <div class="cards"><a class="card" href="/products/jugs/"><h3 class="card-h">Jugs</h3><span class="more">View →</span></a><a class="card" href="../../guides/500ml-bottles/"><h3 class="card-h">500 ml Bottles</h3><span class="more">Read →</span></a><a class="card" href="../../guides/750ml-bottles/"><h3 class="card-h">750 ml Bottles</h3><span class="more">Read →</span></a><a class="card" href="../../guides/100ml-bottles/"><h3 class="card-h">100 ml Bottles</h3><span class="more">Read →</span></a></div>

@@ -72,6 +72,55 @@
     <div class="guide-body">
       <p>24/410 is 24 mm with a 410 thread. It covers the widest closure range of any neck, which is why a 250 or 500 ml bottle with a 24/410 is the safest first mould to own.</p>
       <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:14px 16px;margin:22px 0 0;background:#fff"><b style="font-size:13.5px">Check it before you quote</b><p class="sub" style="margin:4px 0 0;font-size:13px">The free <a href="../../tools/spec-checker/" style="border-bottom:1px solid #111">Bottle Spec Checker</a> tests whether your neck fits the closure and whether the wall survives a pump stroke.</p></div>
+      
+<details class="mc" style="border:1px solid var(--line);border-radius:10px;background:#fff;margin:22px 0">
+  <summary style="cursor:pointer;padding:14px 18px;font-weight:600;font-size:15px;list-style:none">
+    30-second check: does your bottle pass?
+    <span style="float:right;color:var(--accent);font-weight:500">Open ▾</span></summary>
+  <div style="padding:0 18px 18px">
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
+      <label class="field" style="margin:0"><span>Capacity (ml)</span>
+        <input class="mcCap" type="number" value="500" min="5"></label>
+      <label class="field" style="margin:0"><span>Wall (mm)</span>
+        <input class="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
+      <label class="field" style="margin:0"><span>Closure</span>
+        <select class="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
+        <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
+      <a class="btn mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
+    </div>
+    <p class="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
+  </div>
+</details>
+<script>(function(){
+  var warn=false;
+  function need(cap,clo){ var b=(clo==='pump')?(cap>600?0.65:0.55):0.45; if(clo==='spray'&&cap>300)b=0.55; return b; }
+  function run(){
+    var cap=parseFloat(document.querySelector('.mcCap').value)||0;
+    var wall=parseFloat(document.querySelector('.mcWall').value)||0;
+    var clo=document.querySelector('.mcClo').value;
+    var min=need(cap,clo), out=document.querySelector('.mcOut');
+    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
+    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
+    document.querySelector('.mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
+    if(window.gtag && !warn){ warn=true; gtag('event','calc_calc',{tool:'mini_spec'}); }
+  }
+  ['Cap','Wall','Clo'].forEach(function(k){
+    var e=document.querySelector('.mc'+k); e.addEventListener('input',run); e.addEventListener('change',run);
+  });
+  var d=document.querySelector('details.mc');
+  if(d){
+    d.addEventListener('toggle',function(){
+      if(d.open && window.gtag) gtag('event','calc_open',{page:location.pathname});
+      run();
+    });
+    d.querySelector('.mcLink').addEventListener('click',function(){ if(window.gtag) gtag('event','calc_full_click',{page:location.pathname}); });
+  }
+  run();
+})();</script>
+<style>details.mc summary::-webkit-details-marker{display:none}
+details.mc[open] summary{border-bottom:1px solid var(--line)}
+@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
+
       <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "24/410 Neck: The Default That Fits Most Pumps", "description": "24/410 is the most common cosmetic neck in the world: lotion pumps, disc-tops, flip-tops and 250–500 ml bottles. Getting this one right settles most of a range.", "author": {"@id": "https://8pck.com/#joe"}, "publisher": {"@id": "https://8pck.com/#org"}, "datePublished": "2026-10-26", "dateModified": "2026-10-26", "mainEntityOfPage": "https://8pck.com/guides/24-410-neck/", "image": "https://8pck.com/assets/img/factory-blow2.jpg", "about": {"@type": "Thing", "name": "24/410 Neck Bottles"}}</script>
       <h2>The Closure Range Is the Reason</h2><p>Lotion pumps, disc-tops, flip-tops, mist sprayers and many droppers exist in 24/410. One bottle can ship as a pump product and a flip-top product.</p><h3>Lotion Pump</h3><p>1.2–2.0 ml per stroke; the default for hand soap, lotion and shampoo.</p><h3>Disc-Top</h3><p>Cheapest controlled-flow closure; sanitizer and gel.</p><h2>Wall Thickness At 24/410</h2><p>0.55 mm at the shoulder is the floor for a pump stroke. Under that the bottle flexes and the pump draws air.</p><h2>Where It Fails</h2><p>Mixing 410 and 415 threads is the single most common cause of leaks in a 24 mm system.</p><h2>How to Confirm the Neck Before Ordering</h2><p>The 24/410 code is a diameter plus a thread profile, and both have to match for pumps and caps on 250–500 ml.</p><h3>Measure T, E and H</h3><p>T is thread height, E is the gap between threads, H is the height to the sealing surface.</p><h3>Send the Closure</h3><p>A pump that fits a drawing can leak on a bottle. Test the pair, not the part.</p><h3>Check the Drawing, Not the Photo</h3><p>Two bottles can look identical and differ by 5 mm of thread.</p><h2>What to Send in a Brief</h2><p>Neck (24/410), bottle capacity, closure model and quantity. With those four we confirm fit before quoting.</p>
       <h2>Questions We Get on This</h2>
@@ -84,7 +133,6 @@
       <p style="font-size:11px;color:var(--muted);margin:12px 0 0;line-height:1.5">Written quotation, lead time and a sample plan in one reply.</p>
     </aside>
   </div>
-  
   <section class="section" style="margin-top:20px">
     <div class="shead"><div><div class="kicker">Related products</div><h2 style="font-size:24px">Sizes That Fit This Guide</h2></div></div>
     <div class="cards"><a class="card" href="../../products/bottles/500ml-pet-pump-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-500-pump.webp" type="image/webp"><img src="../../assets/img/bottle-500-pump.jpg" alt="500 ml PET pump bottle" loading="lazy" decoding="async"></picture></div><b>500 ml PET Pump Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/250ml-pet-pump-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-250-pump.webp" type="image/webp"><img src="../../assets/img/bottle-250-pump.jpg" alt="250 ml PET pump bottle" loading="lazy" decoding="async"></picture></div><b>250 ml PET Pump Bottle</b><span class="more">View →</span></a><a class="card" href="../../guides/28-410-neck/"><h3 class="card-h">28/410 Neck Bottles</h3><span class="more">Read →</span></a><a class="card" href="../../guides/plastic-pump-bottles/"><h3 class="card-h">Plastic Pump Bottles</h3><span class="more">Read →</span></a></div>

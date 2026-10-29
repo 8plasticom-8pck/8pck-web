@@ -72,6 +72,55 @@
     <div class="guide-body">
       <p>Cosmetic jars are sold by fill weight: 30 g, 50 g, 100 g. The number tells you how much product goes in, not how big the jar is. A 30 g jar in single-wall PET and a 30 g jar in double-wall PETG hold the same amount and read as two different price points.</p><p>That gap — same fill, different perceived value — is the whole game in skincare packaging.</p>
       <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:14px 16px;margin:22px 0 0;background:#fff"><b style="font-size:13.5px">Check it before you quote</b><p class="sub" style="margin:4px 0 0;font-size:13px">The free <a href="../../tools/spec-checker/" style="border-bottom:1px solid #111">Bottle Spec Checker</a> tests whether your neck fits the closure and whether the wall survives a pump stroke.</p></div>
+      
+<details class="mc" style="border:1px solid var(--line);border-radius:10px;background:#fff;margin:22px 0">
+  <summary style="cursor:pointer;padding:14px 18px;font-weight:600;font-size:15px;list-style:none">
+    30-second check: does your bottle pass?
+    <span style="float:right;color:var(--accent);font-weight:500">Open ▾</span></summary>
+  <div style="padding:0 18px 18px">
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
+      <label class="field" style="margin:0"><span>Capacity (ml)</span>
+        <input class="mcCap" type="number" value="500" min="5"></label>
+      <label class="field" style="margin:0"><span>Wall (mm)</span>
+        <input class="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
+      <label class="field" style="margin:0"><span>Closure</span>
+        <select class="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
+        <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
+      <a class="btn mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
+    </div>
+    <p class="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
+  </div>
+</details>
+<script>(function(){
+  var warn=false;
+  function need(cap,clo){ var b=(clo==='pump')?(cap>600?0.65:0.55):0.45; if(clo==='spray'&&cap>300)b=0.55; return b; }
+  function run(){
+    var cap=parseFloat(document.querySelector('.mcCap').value)||0;
+    var wall=parseFloat(document.querySelector('.mcWall').value)||0;
+    var clo=document.querySelector('.mcClo').value;
+    var min=need(cap,clo), out=document.querySelector('.mcOut');
+    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
+    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
+    document.querySelector('.mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
+    if(window.gtag && !warn){ warn=true; gtag('event','calc_calc',{tool:'mini_spec'}); }
+  }
+  ['Cap','Wall','Clo'].forEach(function(k){
+    var e=document.querySelector('.mc'+k); e.addEventListener('input',run); e.addEventListener('change',run);
+  });
+  var d=document.querySelector('details.mc');
+  if(d){
+    d.addEventListener('toggle',function(){
+      if(d.open && window.gtag) gtag('event','calc_open',{page:location.pathname});
+      run();
+    });
+    d.querySelector('.mcLink').addEventListener('click',function(){ if(window.gtag) gtag('event','calc_full_click',{page:location.pathname}); });
+  }
+  run();
+})();</script>
+<style>details.mc summary::-webkit-details-marker{display:none}
+details.mc[open] summary{border-bottom:1px solid var(--line)}
+@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
+
       <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Cosmetic Jars: What 30 g Actually Means, and Why Wall Thickness Sells", "description": "A “30 g jar” is named after the fill weight, not the volume — which is why two 30 g jars can look completely different on shelf. This page covers fill weight, single versus double wall, and how the cap decides the feel.", "author": {"@id": "https://8pck.com/#joe"}, "publisher": {"@id": "https://8pck.com/#org"}, "datePublished": "2026-10-26", "dateModified": "2026-10-26", "mainEntityOfPage": "https://8pck.com/guides/cosmetic-jars/", "image": "https://8pck.com/assets/img/factory-blow2.jpg", "about": {"@type": "Thing", "name": "Cosmetic Jars"}}</script>
       <h2>Single Wall vs Double Wall</h2><p>A single-wall jar is one moulded piece: lighter, cheaper, and the standard for volume skincare. A double-wall jar has an outer shell and a separate inner cup, so the product never touches the decorated surface and the wall can be thick without using more resin than necessary.</p><p>Double wall is what makes a jar feel expensive. It is also what makes it heavier to ship, and the two parts have to be assembled — both of which show up in the unit price.</p><h2>Why the Cap Decides the Feel</h2><p>Buyers judge a jar by the lid: the sound it makes and the weight in the hand. A thin PP cap on a thick-wall jar feels wrong immediately. For premium lines the cap is often the heavier part — ABS or thick PP, sometimes with a metal-look insert.</p><p>If you are sampling, judge the jar with its cap on. Half the perceived quality is in the closure.</p><h2>Threads, Refills and the EU Refill Push</h2><p>A screw jar can be refilled only if the refill cup is designed for it; most double-wall jars are not. If refillability is part of the claim, say so at the brief stage — it changes both the mould and the packaging configuration.</p><h2>Where Cosmetic Jars Leak, and It Is Usually the Liner</h2><p>A cream jar that leaks in transit is rarely a mould problem. Three causes cover most of it.</p><h3>Liner Incompatible With the Formula</h3><p>Oil-based creams swell EPE liners; silicone liners cost more and resist. If the formula has a high oil phase, specify the liner with the jar.</p><h3>Over-Torque at the Filling Line</h3><p>A torque above the jar's spec distorts the liner and opens a gap on one side. Specify a torque range with the capping machine, not a 'tight' instruction.</p><h3>Thread Depth on a Double-Wall Jar</h3><p>Double-wall jars have an inner cup; the thread is on the outer shell. A liner that fits a single-wall jar may not sit flat on a double-wall rim.</p><h2>Frosting, Spray Coat and What They Cost</h2><p>Frosting is a surface treatment from 1,000 pcs and reads as soft-touch glass. Spray coat and metallising start at 3,000 and add 5-8 days. For a 30 g cream at launch volume, frosting plus label is usually the cheapest premium look.</p>
       <h2>Questions We Get on This</h2>
@@ -84,7 +133,6 @@
       <p style="font-size:11px;color:var(--muted);margin:12px 0 0;line-height:1.5">Written quotation, lead time and a sample plan in one reply.</p>
     </aside>
   </div>
-  
   <section class="section" style="margin-top:20px">
     <div class="shead"><div><div class="kicker">Related products</div><h2 style="font-size:24px">Sizes That Fit This Guide</h2></div></div>
     <div class="cards"><a class="card" href="../../products/jars/250ml-pet-food-jar/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/jar-250.webp" type="image/webp"><img src="../../assets/img/jar-250.jpg" alt="250 ml PET food jar" loading="lazy" decoding="async"></picture></div><b>250 ml PET Food Jar</b><span class="more">View →</span></a><a class="card" href="../../products/jars/500ml-pet-food-jar/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/jar-500.webp" type="image/webp"><img src="../../assets/img/jar-500.jpg" alt="500 ml PET food jar" loading="lazy" decoding="async"></picture></div><b>500 ml PET Food Jar</b><span class="more">View →</span></a><a class="card" href="../../products/airless/30ml-airless-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/airless-30.webp" type="image/webp"><img src="../../assets/img/airless-30.jpg" alt="30 ml airless bottle" loading="lazy" decoding="async"></picture></div><b>30 ml Airless Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/airless/50ml-airless-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/airless-50.webp" type="image/webp"><img src="../../assets/img/airless-50.jpg" alt="50 ml airless bottle" loading="lazy" decoding="async"></picture></div><b>50 ml Airless Bottle</b><span class="more">View →</span></a></div>

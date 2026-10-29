@@ -72,6 +72,55 @@
     <div class="guide-body">
       <p>2 oz is a scoop size: balm, salve, lip scrub, sample cream. The jar is small enough that the closure is most of the cost — and most of the failures.</p><p>This page covers what fits a 2 oz, which liner to pick, and where thin walls crack.</p>
       <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:14px 16px;margin:22px 0 0;background:#fff"><b style="font-size:13.5px">Check it before you quote</b><p class="sub" style="margin:4px 0 0;font-size:13px">The free <a href="../../tools/spec-checker/" style="border-bottom:1px solid #111">Bottle Spec Checker</a> tests whether your neck fits the closure and whether the wall survives a pump stroke.</p></div>
+      
+<details class="mc" style="border:1px solid var(--line);border-radius:10px;background:#fff;margin:22px 0">
+  <summary style="cursor:pointer;padding:14px 18px;font-weight:600;font-size:15px;list-style:none">
+    30-second check: does your bottle pass?
+    <span style="float:right;color:var(--accent);font-weight:500">Open ▾</span></summary>
+  <div style="padding:0 18px 18px">
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
+      <label class="field" style="margin:0"><span>Capacity (ml)</span>
+        <input class="mcCap" type="number" value="500" min="5"></label>
+      <label class="field" style="margin:0"><span>Wall (mm)</span>
+        <input class="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
+      <label class="field" style="margin:0"><span>Closure</span>
+        <select class="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
+        <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
+      <a class="btn mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
+    </div>
+    <p class="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
+  </div>
+</details>
+<script>(function(){
+  var warn=false;
+  function need(cap,clo){ var b=(clo==='pump')?(cap>600?0.65:0.55):0.45; if(clo==='spray'&&cap>300)b=0.55; return b; }
+  function run(){
+    var cap=parseFloat(document.querySelector('.mcCap').value)||0;
+    var wall=parseFloat(document.querySelector('.mcWall').value)||0;
+    var clo=document.querySelector('.mcClo').value;
+    var min=need(cap,clo), out=document.querySelector('.mcOut');
+    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
+    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
+    document.querySelector('.mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
+    if(window.gtag && !warn){ warn=true; gtag('event','calc_calc',{tool:'mini_spec'}); }
+  }
+  ['Cap','Wall','Clo'].forEach(function(k){
+    var e=document.querySelector('.mc'+k); e.addEventListener('input',run); e.addEventListener('change',run);
+  });
+  var d=document.querySelector('details.mc');
+  if(d){
+    d.addEventListener('toggle',function(){
+      if(d.open && window.gtag) gtag('event','calc_open',{page:location.pathname});
+      run();
+    });
+    d.querySelector('.mcLink').addEventListener('click',function(){ if(window.gtag) gtag('event','calc_full_click',{page:location.pathname}); });
+  }
+  run();
+})();</script>
+<style>details.mc summary::-webkit-details-marker{display:none}
+details.mc[open] summary{border-bottom:1px solid var(--line)}
+@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
+
       <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "2 oz Jars (60 ml): The Sample and Balm Size", "description": "2 oz is about 60 ml — the balm, salve and sample size. It is the jar where the lid liner matters more than the body.", "author": {"@id": "https://8pck.com/#joe"}, "publisher": {"@id": "https://8pck.com/#org"}, "datePublished": "2026-10-26", "dateModified": "2026-10-26", "mainEntityOfPage": "https://8pck.com/guides/2-oz-jars/", "image": "https://8pck.com/assets/img/factory-blow2.jpg", "about": {"@type": "Thing", "name": "2 oz Jars"}}</script>
       <h2>Lid and Liner Decide the Seal</h2><p>A 2 oz jar holds an oil-based balm, and oil creeps. An EPE liner swells; a PE foam or induction seal holds. On a 60 ml jar the liner is a larger share of the unit price than the body.</p><h3>EPE Liner</h3><p>Cheap, fine for water-based creams; swells with oils.</p><h3>PE Foam</h3><p>Better with balms and salves.</p><h3>Induction Seal</h3><p>Tamper evidence; needs a flat rim land.</p><h2>Wall and Rim</h2><p>At 60 ml a thin rim cracks when the lid is over-torqued; 1.2 mm at the rim is the practical floor for PP.</p><h2>Where It Is Used</h2><p>Lip balm, salve, ointment, sample cream, pigment and glitter.</p><h2>What to Send in a Brief</h2><p>For a 2 oz (60 ml) pack used for balm and samples, five answers settle it: capacity, neck, closure, quantity and whether the pack travels. Those decide the wall, the liner and the carton before a sample is made.</p><h3>The Three Numbers That Matter</h3><p>Capacity, neck and wall. Everything else — colour, decoration, carton — follows them.</p><h3>What We Check Before Quoting</h3><p>That the closure exists in that neck, that the wall survives the fill, and that the carton protects the shoulder.</p><h3>What We Do Not Do</h3><p>Filling, formulation and label design. We supply the container and the closure, tested together.</p><h2>Common Mistakes at This Size</h2><p>Two failures dominate returns at this size: a closure that leaks in transit, and a wall thin enough to crack the first time it is dropped.</p><p>Both are decided at the specification stage, not at the mould.</p>
       <h2>Questions We Get on This</h2>
@@ -84,7 +133,6 @@
       <p style="font-size:11px;color:var(--muted);margin:12px 0 0;line-height:1.5">Written quotation, lead time and a sample plan in one reply.</p>
     </aside>
   </div>
-  
   <section class="section" style="margin-top:20px">
     <div class="shead"><div><div class="kicker">Related products</div><h2 style="font-size:24px">Sizes That Fit This Guide</h2></div></div>
     <div class="cards"><a class="card" href="/products/jars/"><h3 class="card-h">Jars</h3><span class="more">View →</span></a><a class="card" href="../../guides/4-oz-jars/"><h3 class="card-h">4 Oz Jars</h3><span class="more">Read →</span></a><a class="card" href="../../guides/8-oz-jars/"><h3 class="card-h">8 Oz Jars</h3><span class="more">Read →</span></a><a class="card" href="/products/jars/transparent/"><h3 class="card-h">Transparent</h3><span class="more">View →</span></a></div>

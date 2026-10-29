@@ -72,6 +72,55 @@
     <div class="guide-body">
       <p>The bottle is the same; the decoration is the difference between a 40-cent pack and a 90-cent pack at retail. It is also the step where buyers discover that four-colour print has a different minimum from one-colour.</p><p>Here is what each process actually requires, in numbers.</p>
       <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:14px 16px;margin:22px 0 0;background:#fff"><b style="font-size:13.5px">Check it before you quote</b><p class="sub" style="margin:4px 0 0;font-size:13px">The free <a href="../../tools/spec-checker/" style="border-bottom:1px solid #111">Bottle Spec Checker</a> tests whether your neck fits the closure and whether the wall survives a pump stroke.</p></div>
+      
+<details class="mc" style="border:1px solid var(--line);border-radius:10px;background:#fff;margin:22px 0">
+  <summary style="cursor:pointer;padding:14px 18px;font-weight:600;font-size:15px;list-style:none">
+    30-second check: does your bottle pass?
+    <span style="float:right;color:var(--accent);font-weight:500">Open ▾</span></summary>
+  <div style="padding:0 18px 18px">
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
+      <label class="field" style="margin:0"><span>Capacity (ml)</span>
+        <input class="mcCap" type="number" value="500" min="5"></label>
+      <label class="field" style="margin:0"><span>Wall (mm)</span>
+        <input class="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
+      <label class="field" style="margin:0"><span>Closure</span>
+        <select class="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
+        <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
+      <a class="btn mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
+    </div>
+    <p class="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
+  </div>
+</details>
+<script>(function(){
+  var warn=false;
+  function need(cap,clo){ var b=(clo==='pump')?(cap>600?0.65:0.55):0.45; if(clo==='spray'&&cap>300)b=0.55; return b; }
+  function run(){
+    var cap=parseFloat(document.querySelector('.mcCap').value)||0;
+    var wall=parseFloat(document.querySelector('.mcWall').value)||0;
+    var clo=document.querySelector('.mcClo').value;
+    var min=need(cap,clo), out=document.querySelector('.mcOut');
+    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
+    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
+    document.querySelector('.mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
+    if(window.gtag && !warn){ warn=true; gtag('event','calc_calc',{tool:'mini_spec'}); }
+  }
+  ['Cap','Wall','Clo'].forEach(function(k){
+    var e=document.querySelector('.mc'+k); e.addEventListener('input',run); e.addEventListener('change',run);
+  });
+  var d=document.querySelector('details.mc');
+  if(d){
+    d.addEventListener('toggle',function(){
+      if(d.open && window.gtag) gtag('event','calc_open',{page:location.pathname});
+      run();
+    });
+    d.querySelector('.mcLink').addEventListener('click',function(){ if(window.gtag) gtag('event','calc_full_click',{page:location.pathname}); });
+  }
+  run();
+})();</script>
+<style>details.mc summary::-webkit-details-marker{display:none}
+details.mc[open] summary{border-bottom:1px solid var(--line)}
+@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
+
       <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Bottle Decoration: Silkscreen, Hot Stamp, Spray Coat — and What Each Does to MOQ", "description": "Decoration is where a commodity bottle becomes a brand — and where the minimum order quietly triples. Four processes, what each costs in MOQ and lead time, and how to choose between them.", "author": {"@id": "https://8pck.com/#joe"}, "publisher": {"@id": "https://8pck.com/#org"}, "datePublished": "2026-10-26", "dateModified": "2026-10-26", "mainEntityOfPage": "https://8pck.com/guides/bottle-decoration/", "image": "https://8pck.com/assets/img/factory-blow2.jpg", "about": {"@type": "Thing", "name": "Bottle Decoration"}}</script>
       <h2>Silkscreen: the Workhorse</h2><p>One to four colours, applied directly to the bottle. It is the cheapest way to put a logo on a pack and the most forgiving on small runs — 1,000 pcs, five extra days.</p><p>Limitation: it prints on curved surfaces in straight lines. Complex gradients and photographs are not silkscreen work; those go to labels or sleeves.</p><h2>Hot Stamp and Spray Coat: the Premium Two</h2><p>Hot stamping presses foil into the surface for a metallic logo. Spray coating covers the whole bottle in matte, gloss or soft-touch. Both need 3,000 pcs because both are set-up-heavy: plates, masking, oven time.</p><p>Soft-touch is the finish that most often sells a premium line, and the one that shows fingerprints. Say so to your customer before they approve it.</p><h2>Labels Are Not a Downgrade</h2><p>A pressure-sensitive label on a clear bottle can carry full-colour artwork and variable data that silkscreen cannot, at 1,000 pcs and three extra days. For short runs and market tests, it is usually the right first move — then switch to print once the design stops changing.</p><h2>Artwork: What We Need to Quote</h2><p>Vector artwork (AI or PDF) with the print area marked, the Pantone references, and the bottle drawing. Without the print area, every supplier quotes a different price for a different amount of ink.</p><h2>Choosing Decoration by Volume</h2><p>Decoration is where a stock bottle becomes a brand, and where MOQ jumps. The decision is volume first.</p><h3>Under 1,000 pcs</h3><p>Digital label or a stock-colour bottle with a printed label. Silkscreen plates are not economic; spray coat is not available.</p><h3>1,000–3,000 pcs</h3><p>Silkscreen in one to four colours. This is the sweet spot: a plate is a one-off, and four colours still print in one pass.</p><h3>Above 3,000 pcs</h3><p>Spray coat, hot stamp, metallising. Each adds 5-10 days and a set-up cost, and each reads as premium on shelf.</p><h2>What Decoration Does to Recycling</h2><p>A full-body sleeve makes a PET bottle unrecyclable in practice; a paper label with wash-off adhesive keeps it in the stream. If the brand makes a recyclability claim, the decoration is part of the claim.</p>
       <h2>Questions We Get on This</h2>
@@ -84,7 +133,6 @@
       <p style="font-size:11px;color:var(--muted);margin:12px 0 0;line-height:1.5">Written quotation, lead time and a sample plan in one reply.</p>
     </aside>
   </div>
-  
   <section class="section" style="margin-top:20px">
     <div class="shead"><div><div class="kicker">Related products</div><h2 style="font-size:24px">Sizes That Fit This Guide</h2></div></div>
     <div class="cards"><a class="card" href="../../products/bottles/500ml-pet-pump-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-500-pump.webp" type="image/webp"><img src="../../assets/img/bottle-500-pump.jpg" alt="500 ml PET pump bottle" loading="lazy" decoding="async"></picture></div><b>500 ml PET Pump Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/airless/30ml-airless-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/airless-30.webp" type="image/webp"><img src="../../assets/img/airless-30.jpg" alt="30 ml airless bottle" loading="lazy" decoding="async"></picture></div><b>30 ml Airless Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/jars/250ml-pet-food-jar/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/jar-250.webp" type="image/webp"><img src="../../assets/img/jar-250.jpg" alt="250 ml PET food jar" loading="lazy" decoding="async"></picture></div><b>250 ml PET Food Jar</b><span class="more">View →</span></a></div>

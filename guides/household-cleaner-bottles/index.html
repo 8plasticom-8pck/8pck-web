@@ -72,6 +72,55 @@
     <div class="guide-body">
       <p>Household cleaners ship in 500–1,000 ml HDPE with a trigger sprayer, or in 750 ml–2 L with a cap for refill. The product is often alkaline or solvent-based, which rules out some resins and most cheap gaskets.</p><p>This page covers the resin choice, the trigger, and the two failures that come back most often.</p>
       <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:14px 16px;margin:22px 0 0;background:#fff"><b style="font-size:13.5px">Check it before you quote</b><p class="sub" style="margin:4px 0 0;font-size:13px">The free <a href="../../tools/spec-checker/" style="border-bottom:1px solid #111">Bottle Spec Checker</a> tests whether your neck fits the closure and whether the wall survives a pump stroke.</p></div>
+      
+<details class="mc" style="border:1px solid var(--line);border-radius:10px;background:#fff;margin:22px 0">
+  <summary style="cursor:pointer;padding:14px 18px;font-weight:600;font-size:15px;list-style:none">
+    30-second check: does your bottle pass?
+    <span style="float:right;color:var(--accent);font-weight:500">Open ▾</span></summary>
+  <div style="padding:0 18px 18px">
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
+      <label class="field" style="margin:0"><span>Capacity (ml)</span>
+        <input class="mcCap" type="number" value="500" min="5"></label>
+      <label class="field" style="margin:0"><span>Wall (mm)</span>
+        <input class="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
+      <label class="field" style="margin:0"><span>Closure</span>
+        <select class="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
+        <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
+      <a class="btn mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
+    </div>
+    <p class="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
+  </div>
+</details>
+<script>(function(){
+  var warn=false;
+  function need(cap,clo){ var b=(clo==='pump')?(cap>600?0.65:0.55):0.45; if(clo==='spray'&&cap>300)b=0.55; return b; }
+  function run(){
+    var cap=parseFloat(document.querySelector('.mcCap').value)||0;
+    var wall=parseFloat(document.querySelector('.mcWall').value)||0;
+    var clo=document.querySelector('.mcClo').value;
+    var min=need(cap,clo), out=document.querySelector('.mcOut');
+    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
+    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
+    document.querySelector('.mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
+    if(window.gtag && !warn){ warn=true; gtag('event','calc_calc',{tool:'mini_spec'}); }
+  }
+  ['Cap','Wall','Clo'].forEach(function(k){
+    var e=document.querySelector('.mc'+k); e.addEventListener('input',run); e.addEventListener('change',run);
+  });
+  var d=document.querySelector('details.mc');
+  if(d){
+    d.addEventListener('toggle',function(){
+      if(d.open && window.gtag) gtag('event','calc_open',{page:location.pathname});
+      run();
+    });
+    d.querySelector('.mcLink').addEventListener('click',function(){ if(window.gtag) gtag('event','calc_full_click',{page:location.pathname}); });
+  }
+  run();
+})();</script>
+<style>details.mc summary::-webkit-details-marker{display:none}
+details.mc[open] summary{border-bottom:1px solid var(--line)}
+@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
+
       <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Household Cleaner Bottles: Trigger Sprayers, Vents and the Chemistry Inside", "description": "A cleaner bottle is a chemical container before it is a brand object. The resin, the gasket and the vent decide whether it survives the product — and the trigger decides whether it survives the customer.", "author": {"@id": "https://8pck.com/#joe"}, "publisher": {"@id": "https://8pck.com/#org"}, "datePublished": "2026-10-26", "dateModified": "2026-10-26", "mainEntityOfPage": "https://8pck.com/guides/household-cleaner-bottles/", "image": "https://8pck.com/assets/img/factory-blow2.jpg", "about": {"@type": "Thing", "name": "Household cleaner bottles"}}</script>
       <h2>Resin Follows the Chemistry</h2><p>Alkaline cleaners, bleach and solvents attack PET and many gaskets. HDPE handles most household chemistry; the gasket inside the trigger is the part that fails first.</p><p>For a fragrance-heavy or solvent product, the trigger's internal seal material has to be specified — not assumed.</p><h3>HDPE</h3><p>The default for alkaline and general cleaners, 500–1,000 ml.</p><h3>PET</h3><p>Only for mild, near-neutral formulas; clarity is the reason to choose it.</p><h2>Two Failures That Come Back</h2><p>The trigger leaks at the nozzle after a few hundred strokes: usually a worn piston seal or a formula that swells it. Test the trigger with the real liquid, not water.</p><p>The bottle sucks in as it empties: a non-vented cap on a tight bottle. A vented cap or a small air hole costs nothing at mould stage.</p><h2>Refill and Concentrate Formats</h2><p>Concentrates are moving into 250–500 ml bottles with a measuring cap, and refills into 1–2 L with a wide neck. The pack changes with the format, not the brand.</p>
       <h2>Questions We Get on This</h2>
@@ -84,50 +133,6 @@
       <p style="font-size:11px;color:var(--muted);margin:12px 0 0;line-height:1.5">Written quotation, lead time and a sample plan in one reply.</p>
     </aside>
   </div>
-  
-<section class="section">
-  <div class="wrap">
-    <div style="border:1px solid var(--line);border-radius:10px;padding:22px;background:#fff">
-      <div class="kicker">30-second check</div>
-      <h2 style="font-size:22px;margin:8px 0 6px">Does Your Bottle Pass?</h2>
-      <p class="sub" style="margin:0 0 16px">Two numbers, one answer. Full checker takes six.</p>
-      <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
-        <label class="field" style="margin:0"><span>Capacity (ml)</span>
-          <input id="mcCap" type="number" value="500" min="5"></label>
-        <label class="field" style="margin:0"><span>Wall (mm)</span>
-          <input id="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
-        <label class="field" style="margin:0"><span>Closure</span>
-          <select id="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
-          <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
-        <a class="btn" id="mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
-      </div>
-      <p id="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
-    </div>
-  </div>
-</section>
-<script>
-(function(){
-  function need(cap,clo){
-    var base = (clo==='pump') ? (cap>600?0.65:0.55) : 0.45;
-    if(clo==='spray'&&cap>300) base=0.55;
-    return base;
-  }
-  function run(){
-    var cap=parseFloat(document.getElementById('mcCap').value)||0;
-    var wall=parseFloat(document.getElementById('mcWall').value)||0;
-    var clo=document.getElementById('mcClo').value;
-    var min=need(cap,clo);
-    var out=document.getElementById('mcOut');
-    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
-    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
-    document.getElementById('mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
-  }
-  ['mcCap','mcWall','mcClo'].forEach(function(id){var e=document.getElementById(id);e.addEventListener('input',run);e.addEventListener('change',run);});
-  run();
-})();
-</script>
-<style>@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
-
   <section class="section" style="margin-top:20px">
     <div class="shead"><div><div class="kicker">Related products</div><h2 style="font-size:24px">Sizes That Fit This Guide</h2></div></div>
     <div class="cards"><a class="card" href="/products/spray-bottles/"><h3 class="card-h">Spray Bottles</h3><span class="more">View →</span></a><a class="card" href="../../products/spray-bottles/"><h3 class="card-h">Spray Bottles</h3><span class="more">View →</span></a><a class="card" href="/compare/pet-vs-hdpe/"><h3 class="card-h">Pet vs Hdpe</h3><span class="more">View →</span></a><a class="card" href="../../products/bottles/500ml-pet-pump-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-500-pump.webp" type="image/webp"><img src="../../assets/img/bottle-500-pump.jpg" alt="500 ml PET pump bottle" loading="lazy" decoding="async"></picture></div><b>500 ml PET Pump Bottle</b><span class="more">View →</span></a></div>

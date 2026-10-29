@@ -72,6 +72,55 @@
     <div class="guide-body">
       <p>Every airline regime converges on the same limit: containers of 100 ml or less, in a clear one-litre bag. So a travel range is 30, 50 and 100 ml — anything larger is not a travel bottle, it is a small bottle.</p><p>The bottle is easy. The closure decides whether the product arrives at the destination.</p>
       <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:14px 16px;margin:22px 0 0;background:#fff"><b style="font-size:13.5px">Check it before you quote</b><p class="sub" style="margin:4px 0 0;font-size:13px">The free <a href="../../tools/spec-checker/" style="border-bottom:1px solid #111">Bottle Spec Checker</a> tests whether your neck fits the closure and whether the wall survives a pump stroke.</p></div>
+      
+<details class="mc" style="border:1px solid var(--line);border-radius:10px;background:#fff;margin:22px 0">
+  <summary style="cursor:pointer;padding:14px 18px;font-weight:600;font-size:15px;list-style:none">
+    30-second check: does your bottle pass?
+    <span style="float:right;color:var(--accent);font-weight:500">Open ▾</span></summary>
+  <div style="padding:0 18px 18px">
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
+      <label class="field" style="margin:0"><span>Capacity (ml)</span>
+        <input class="mcCap" type="number" value="500" min="5"></label>
+      <label class="field" style="margin:0"><span>Wall (mm)</span>
+        <input class="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
+      <label class="field" style="margin:0"><span>Closure</span>
+        <select class="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
+        <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
+      <a class="btn mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
+    </div>
+    <p class="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
+  </div>
+</details>
+<script>(function(){
+  var warn=false;
+  function need(cap,clo){ var b=(clo==='pump')?(cap>600?0.65:0.55):0.45; if(clo==='spray'&&cap>300)b=0.55; return b; }
+  function run(){
+    var cap=parseFloat(document.querySelector('.mcCap').value)||0;
+    var wall=parseFloat(document.querySelector('.mcWall').value)||0;
+    var clo=document.querySelector('.mcClo').value;
+    var min=need(cap,clo), out=document.querySelector('.mcOut');
+    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
+    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
+    document.querySelector('.mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
+    if(window.gtag && !warn){ warn=true; gtag('event','calc_calc',{tool:'mini_spec'}); }
+  }
+  ['Cap','Wall','Clo'].forEach(function(k){
+    var e=document.querySelector('.mc'+k); e.addEventListener('input',run); e.addEventListener('change',run);
+  });
+  var d=document.querySelector('details.mc');
+  if(d){
+    d.addEventListener('toggle',function(){
+      if(d.open && window.gtag) gtag('event','calc_open',{page:location.pathname});
+      run();
+    });
+    d.querySelector('.mcLink').addEventListener('click',function(){ if(window.gtag) gtag('event','calc_full_click',{page:location.pathname}); });
+  }
+  run();
+})();</script>
+<style>details.mc summary::-webkit-details-marker{display:none}
+details.mc[open] summary{border-bottom:1px solid var(--line)}
+@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
+
       <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Travel Bottles: 50 ml Is the Airline Number, and the Closure Is the Leak", "description": "Travel sizes are decided by a rule, not by design: 100 ml per container in hand luggage. That makes 50 ml and 100 ml the only two sizes worth moulding — and the closure the only thing that matters.", "author": {"@id": "https://8pck.com/#joe"}, "publisher": {"@id": "https://8pck.com/#org"}, "datePublished": "2026-10-26", "dateModified": "2026-10-26", "mainEntityOfPage": "https://8pck.com/guides/travel-bottles/", "image": "https://8pck.com/assets/img/factory-blow2.jpg", "about": {"@type": "Thing", "name": "Travel bottles"}}</script>
       <h2>The Three Closures That Survive a Flight</h2><p>Cabin pressure changes during a flight, and a bottle that sealed on the ground can weep in the air. Three closures handle it: a screw cap with a gasket, a flip-top with a tight spigot, and a disc-top with a silicone valve.</p><p>A plain flip-top with no gasket is the one that leaks into the washbag. It is also the cheapest, which is why travel sets leak.</p><h3>Screw Cap With Gasket</h3><p>The most reliable and the least convenient. Used for oils and thin liquids.</p><h3>Flip-Top With a Spigot</h3><p>A spigot that seats into the orifice holds pressure better than a flat flip lid. Check the spigot depth on the sample, not the drawing.</p><h3>Disc-Top With a Valve</h3><p>A silicone valve stops flow until squeezed, which is what a shampoo or lotion needs in a bag.</p><h2>Why 50 ml Sells and 100 ml Is the Value Pack</h2><p>50 ml is the unit people buy for a weekend; 100 ml is the maximum allowed and reads as better value. A travel set usually pairs both: 50 ml for the carry-on, 100 ml for a longer trip.</p><p>For a brand, the 50 ml is the sampler that gets a first trial, and the 100 ml is the one that gets rebought. That is why the same mould family runs both.</p><h2>Where Travel Bottles Fail in Practice</h2><p>Three failures, all testable before a container ships.</p><h3>Leaking at the Neck Thread</h3><p>A 24/415 bottle with a 24/410 cap threads on and weeps. Confirm the thread code.</p><h3>The Label Comes Off in the Bag</h3><p>Humidity plus abrasion. Synthetic label with a waterproof adhesive, or silkscreen.</p><h3>The Bottle Cracks in a Suitcase</h3><p>A 0.4 mm wall on a 100 ml survives a handbag, not a checked case. 0.5 mm is the practical floor.</p><h2>What to Send in a Brief</h2><p>Capacity, neck, closure type, and whether the pack will be sold as a set or singly. Sets need matched label positions across sizes, which is a decision made at artwork stage, not after.</p>
       <h2>Questions We Get on This</h2>
@@ -84,50 +133,6 @@
       <p style="font-size:11px;color:var(--muted);margin:12px 0 0;line-height:1.5">Written quotation, lead time and a sample plan in one reply.</p>
     </aside>
   </div>
-  
-<section class="section">
-  <div class="wrap">
-    <div style="border:1px solid var(--line);border-radius:10px;padding:22px;background:#fff">
-      <div class="kicker">30-second check</div>
-      <h2 style="font-size:22px;margin:8px 0 6px">Does Your Bottle Pass?</h2>
-      <p class="sub" style="margin:0 0 16px">Two numbers, one answer. Full checker takes six.</p>
-      <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
-        <label class="field" style="margin:0"><span>Capacity (ml)</span>
-          <input id="mcCap" type="number" value="500" min="5"></label>
-        <label class="field" style="margin:0"><span>Wall (mm)</span>
-          <input id="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
-        <label class="field" style="margin:0"><span>Closure</span>
-          <select id="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
-          <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
-        <a class="btn" id="mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
-      </div>
-      <p id="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
-    </div>
-  </div>
-</section>
-<script>
-(function(){
-  function need(cap,clo){
-    var base = (clo==='pump') ? (cap>600?0.65:0.55) : 0.45;
-    if(clo==='spray'&&cap>300) base=0.55;
-    return base;
-  }
-  function run(){
-    var cap=parseFloat(document.getElementById('mcCap').value)||0;
-    var wall=parseFloat(document.getElementById('mcWall').value)||0;
-    var clo=document.getElementById('mcClo').value;
-    var min=need(cap,clo);
-    var out=document.getElementById('mcOut');
-    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
-    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
-    document.getElementById('mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
-  }
-  ['mcCap','mcWall','mcClo'].forEach(function(id){var e=document.getElementById(id);e.addEventListener('input',run);e.addEventListener('change',run);});
-  run();
-})();
-</script>
-<style>@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
-
   <section class="section" style="margin-top:20px">
     <div class="shead"><div><div class="kicker">Related products</div><h2 style="font-size:24px">Sizes That Fit This Guide</h2></div></div>
     <div class="cards"><a class="card" href="../../products/bottles/50ml-travel-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-50-travel.webp" type="image/webp"><img src="../../assets/img/bottle-50-travel.jpg" alt="50 ml travel bottle" loading="lazy" decoding="async"></picture></div><b>50 ml Travel Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/100ml-pet-round-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-100-round.webp" type="image/webp"><img src="../../assets/img/bottle-100-round.jpg" alt="100 ml PET round bottle" loading="lazy" decoding="async"></picture></div><b>100 ml PET Round Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/30ml-pet-dropper-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-30-dropper.webp" type="image/webp"><img src="../../assets/img/bottle-30-dropper.jpg" alt="30 ml PET dropper bottle" loading="lazy" decoding="async"></picture></div><b>30 ml PET Dropper Bottle</b><span class="more">View →</span></a><a class="card" href="../../products/bottles/100ml-pet-round-bottle/"><div class="ph sq" style=""><picture><source srcset="../../assets/img/bottle-100-round.webp" type="image/webp"><img src="../../assets/img/bottle-100-round.jpg" alt="100 ml PET round bottle" loading="lazy" decoding="async"></picture></div><b>100 ml PET Round Bottle</b><span class="more">View →</span></a></div>

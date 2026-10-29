@@ -72,6 +72,55 @@
     <div class="guide-body">
       <p>60 ml is the practical travel size in Europe and the sample-plus size in the US, where it is sold as 2 oz.</p>
       <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:14px 16px;margin:22px 0 0;background:#fff"><b style="font-size:13.5px">Check it before you quote</b><p class="sub" style="margin:4px 0 0;font-size:13px">The free <a href="../../tools/spec-checker/" style="border-bottom:1px solid #111">Bottle Spec Checker</a> tests whether your neck fits the closure and whether the wall survives a pump stroke.</p></div>
+      
+<details class="mc" style="border:1px solid var(--line);border-radius:10px;background:#fff;margin:22px 0">
+  <summary style="cursor:pointer;padding:14px 18px;font-weight:600;font-size:15px;list-style:none">
+    30-second check: does your bottle pass?
+    <span style="float:right;color:var(--accent);font-weight:500">Open ▾</span></summary>
+  <div style="padding:0 18px 18px">
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px;align-items:end" class="mini-row">
+      <label class="field" style="margin:0"><span>Capacity (ml)</span>
+        <input class="mcCap" type="number" value="500" min="5"></label>
+      <label class="field" style="margin:0"><span>Wall (mm)</span>
+        <input class="mcWall" type="number" value="0.55" step="0.05" min="0.2"></label>
+      <label class="field" style="margin:0"><span>Closure</span>
+        <select class="mcClo"><option value="pump">Lotion pump</option><option value="spray">Sprayer</option>
+        <option value="flip">Flip-top</option><option value="drop">Dropper</option><option value="cap">Screw cap</option></select></label>
+      <a class="btn mcLink" href="../../tools/spec-checker/?cap=500&wall=0.55" style="white-space:nowrap">Full Check →</a>
+    </div>
+    <p class="mcOut" style="margin:14px 0 0;font-size:15px;font-weight:600">—</p>
+  </div>
+</details>
+<script>(function(){
+  var warn=false;
+  function need(cap,clo){ var b=(clo==='pump')?(cap>600?0.65:0.55):0.45; if(clo==='spray'&&cap>300)b=0.55; return b; }
+  function run(){
+    var cap=parseFloat(document.querySelector('.mcCap').value)||0;
+    var wall=parseFloat(document.querySelector('.mcWall').value)||0;
+    var clo=document.querySelector('.mcClo').value;
+    var min=need(cap,clo), out=document.querySelector('.mcOut');
+    if(wall>=min){ out.textContent='Pass — '+wall+' mm is above the '+min+' mm floor for a '+clo+' at '+cap+' ml.'; out.style.color='#1a7f45'; }
+    else { out.textContent='Fail — '+wall+' mm is below the '+min+' mm floor; the shoulder will flex and the '+clo+' will draw air.'; out.style.color='#c8102e'; }
+    document.querySelector('.mcLink').href='../../tools/spec-checker/?cap='+cap+'&wall='+wall;
+    if(window.gtag && !warn){ warn=true; gtag('event','calc_calc',{tool:'mini_spec'}); }
+  }
+  ['Cap','Wall','Clo'].forEach(function(k){
+    var e=document.querySelector('.mc'+k); e.addEventListener('input',run); e.addEventListener('change',run);
+  });
+  var d=document.querySelector('details.mc');
+  if(d){
+    d.addEventListener('toggle',function(){
+      if(d.open && window.gtag) gtag('event','calc_open',{page:location.pathname});
+      run();
+    });
+    d.querySelector('.mcLink').addEventListener('click',function(){ if(window.gtag) gtag('event','calc_full_click',{page:location.pathname}); });
+  }
+  run();
+})();</script>
+<style>details.mc summary::-webkit-details-marker{display:none}
+details.mc[open] summary{border-bottom:1px solid var(--line)}
+@media (max-width:760px){.mini-row{grid-template-columns:1fr 1fr!important}}</style>
+
       <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "60 ml Bottles: The Size Between Sample and Product", "description": "60 ml is two ounces: travel shampoo, hand sanitizer, serum refill and mouthwash. It is the size where a flip-top stops feeling like a sample.", "author": {"@id": "https://8pck.com/#joe"}, "publisher": {"@id": "https://8pck.com/#org"}, "datePublished": "2026-10-26", "dateModified": "2026-10-26", "mainEntityOfPage": "https://8pck.com/guides/60ml-bottles/", "image": "https://8pck.com/assets/img/factory-blow2.jpg", "about": {"@type": "Thing", "name": "60 ml Bottles"}}</script>
       <h2>Flip-Top or Disc-Top</h2><p>At 60 ml a flip-top is comfortable in one hand; a disc-top is cheaper but doses loosely. Sanitizer usually takes a flip-top with a valve.</p><h2>PET or HDPE</h2><p>PET for clear gel and sanitizer; HDPE where the product is opaque or the bottle has to squeeze.</p><h2>Where It Fails</h2><p>A flip-top that does not click shut, and a bottle that is too stiff to squeeze at this size.</p><h2>What to Send in a Brief</h2><p>For a 60 ml pack used for travel shampoo and sanitizer, five answers settle it: capacity, neck, closure, quantity and whether the pack travels. Those decide the wall, the liner and the carton before a sample is made.</p><h3>The Three Numbers That Matter</h3><p>Capacity, neck and wall. Everything else — colour, decoration, carton — follows them.</p><h3>What We Check Before Quoting</h3><p>That the closure exists in that neck, that the wall survives the fill, and that the carton protects the shoulder.</p><h3>What We Do Not Do</h3><p>Filling, formulation and label design. We supply the container and the closure, tested together.</p><h2>Common Mistakes at This Size</h2><p>Two failures dominate returns at this size: a closure that leaks in transit, and a wall thin enough to crack the first time it is dropped.</p><p>Both are decided at the specification stage, not at the mould.</p>
       <h2>Questions We Get on This</h2>
@@ -84,7 +133,6 @@
       <p style="font-size:11px;color:var(--muted);margin:12px 0 0;line-height:1.5">Written quotation, lead time and a sample plan in one reply.</p>
     </aside>
   </div>
-  
   <section class="section" style="margin-top:20px">
     <div class="shead"><div><div class="kicker">Related products</div><h2 style="font-size:24px">Sizes That Fit This Guide</h2></div></div>
     <div class="cards"><a class="card" href="../../guides/100ml-bottles/"><h3 class="card-h">100 ml Bottles</h3><span class="more">Read →</span></a><a class="card" href="../../guides/50ml-bottles/"><h3 class="card-h">50 ml Bottles</h3><span class="more">Read →</span></a><a class="card" href="../../guides/2-oz-jars/"><h3 class="card-h">2 Oz Jars</h3><span class="more">Read →</span></a><a class="card" href="/products/squeeze-bottles/"><h3 class="card-h">Squeeze Bottles</h3><span class="more">View →</span></a></div>

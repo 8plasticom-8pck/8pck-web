@@ -248,6 +248,8 @@ label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
       el.dispatchEvent(new Event('input')); el.dispatchEvent(new Event('change')); }
   });
   if(any){window.__prefilled=true;}
+  var _f=document.querySelector('form[action*="formspree"]');
+  if(_f){_f.addEventListener('submit',function(){ if(window.gtag) gtag('event','report_submit',{page:location.pathname}); });}
   var form=document.querySelector('form .js-summary');
   if(form){
     var fill=function(){
