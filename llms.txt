@@ -191,6 +191,12 @@
 - What is the lead time for custom plastic bottles from China? — https://8pck.com/answers/production-lead-time/ — Samples in 7 days from a stock mould; production 25–35 days after sample approval; add 15–20 days if new tooling is needed. Sea freight adds about 30–35 days to
 - How do I verify a Chinese packaging supplier? — https://8pck.com/answers/verify-chinese-supplier/ — Three checks settle it: the Unified Social Credit Code on gsxt.gov.cn, the certificate number with the issuing body, and a video call with your product in hand.
 - What documents do I need to import plastic bottles into the EU? — https://8pck.com/answers/documents-for-eu-import/ — For plastic food-contact bottles: the resin declaration of compliance, a migration test report against EU 10/2011, and a statement of compliance for the finishe
+- How much does a new bottle mould cost? — https://8pck.com/answers/bottle-tooling-cost/ — A new blow mould is about USD 800 and takes 15–20 days. An injection mould for a cap is USD 1,500–3,000, because the tool is more complex.
+- How do samples work, and what do they cost? — https://8pck.com/answers/sample-policy/ — Samples on stock moulds take 7 days. They are usually free; you pay the freight, collected on your account.
+- What are the payment terms? — https://8pck.com/answers/payment-terms/ — 30 % deposit on order, 70 % against the bill of lading. Payment goes to CXWN, the factory — 8PCK does not invoice.
+- How does shipping from Shantou work? — https://8pck.com/answers/shipping-from-china/ — EXW, FOB Shantou or CIF — one 40HQ per week. A 40HQ holds roughly 20–24 pallets, depending on carton size.
+- How do I choose the right closure? — https://8pck.com/answers/how-to-choose-closure/ — Start from the product: water-thin takes a flip-top or sprayer, lotion takes a pump, oil takes a dropper. The neck follows the closure, not the other way round.
+- EXW, FOB or CIF — which should I choose? — https://8pck.com/answers/incoterms-explained/ — FOB Shantou is the usual choice for a first order: the factory handles export clearance and you control the freight.
 
 ## What we do not do
 - We do not fill, formulate, design labels or run a filling line.
@@ -307,11 +313,17 @@
 
 ## Full page index
 - https://8pck.com/about.html — About — one factory, one contact | 8PCK
+- https://8pck.com/answers/bottle-tooling-cost/ — How much does a new bottle mould cost? | 8PCK
 - https://8pck.com/answers/documents-for-eu-import/ — What documents do I need to import plastic bottles into the EU?
+- https://8pck.com/answers/how-to-choose-closure/ — How do I choose the right closure? | 8PCK
+- https://8pck.com/answers/incoterms-explained/ — EXW, FOB or CIF — which should I choose? | 8PCK
 - https://8pck.com/answers/ — Answers — MOQ, price and lead time for custom bottles | 8PCK
 - https://8pck.com/answers/minimum-order-quantity/ — What is the MOQ for custom plastic bottles? | 8PCK
+- https://8pck.com/answers/payment-terms/ — What are the payment terms? | 8PCK
 - https://8pck.com/answers/plastic-bottle-cost/ — How much does a custom plastic bottle cost? | 8PCK
 - https://8pck.com/answers/production-lead-time/ — What is the lead time for custom plastic bottles from China? | 8PCK
+- https://8pck.com/answers/sample-policy/ — How do samples work, and what do they cost? | 8PCK
+- https://8pck.com/answers/shipping-from-china/ — How does shipping from Shantou work? | 8PCK
 - https://8pck.com/answers/verify-chinese-supplier/ — How do I verify a Chinese packaging supplier? | 8PCK
 - https://8pck.com/compare/20-410-vs-24-410/ — 20/410 vs 24/410: The Travel Neck and the Default Neck | 8PCK
 - https://8pck.com/compare/24-410-vs-28-410/ — 24/410 vs 28/410 Neck Finish — What Fits What | 8PCK

@@ -5,10 +5,25 @@ Title: About — one factory, one contact | 8PCK
 Description: Founded in 2011 in Haojiang District, Shantou. 7,142 m², 120 staff, 20 lines.
 Sections: Founded in 2011 in Haojiang; Joe Joo; Fifteen Years, in Five Lines; Come and See It
 
+## https://8pck.com/answers/bottle-tooling-cost/
+Title: How much does a new bottle mould cost? | 8PCK
+Description: A new blow mould is about USD 800 and takes 15–20 days. An injection mould for a cap is USD 1,500–3,000, because the tool is more complex.
+Sections: The Number, and What It Covers; When the Mould Is Not Needed; Frequently Asked; Related
+
 ## https://8pck.com/answers/documents-for-eu-import/
 Title: What documents do I need to import plastic bottles into the EU?
 Description: For plastic food-contact bottles: the resin declaration of compliance, a migration test report against EU 10/2011, and a statement of compliance for the fi
 Sections: The Three Documents; What the Migration Test Actually Measures; What Is Often Missing; Where the Importer Sits; Frequently Asked; Related
+
+## https://8pck.com/answers/how-to-choose-closure/
+Title: How do I choose the right closure? | 8PCK
+Description: Start from the product: water-thin takes a flip-top or sprayer, lotion takes a pump, oil takes a dropper. The neck follows the closure, not the other way r
+Sections: The Order of Decisions; The Compatibility Trap; Frequently Asked; Related
+
+## https://8pck.com/answers/incoterms-explained/
+Title: EXW, FOB or CIF — which should I choose? | 8PCK
+Description: FOB Shantou is the usual choice for a first order: the factory handles export clearance and you control the freight.
+Sections: What Each One Means in Practice; Why FOB Usually Wins; Frequently Asked; Related
 
 ## https://8pck.com/answers/
 Title: Answers — MOQ, price and lead time for custom bottles | 8PCK
@@ -19,6 +34,11 @@ Title: What is the MOQ for custom plastic bottles? | 8PCK
 Description: 1,000 pcs per colour on an existing mould. A new bottle mould costs about USD 800 and takes 15–20 days; spray coating and metallising start at 3,000 pcs; s
 Sections: How the Number Is Calculated; The Number by Product Type; What Happens Below the MOQ; Tooling, if the Shape Is New; Why the MOQ Is per Colour; Frequently Asked; Related
 
+## https://8pck.com/answers/payment-terms/
+Title: What are the payment terms? | 8PCK
+Description: 30 % deposit on order, 70 % against the bill of lading. Payment goes to CXWN, the factory — 8PCK does not invoice.
+Sections: The Standard Split; Who Invoices; Frequently Asked; Related
+
 ## https://8pck.com/answers/plastic-bottle-cost/
 Title: How much does a custom plastic bottle cost? | 8PCK
 Description: At 10,000 pcs, a 500 ml PET bottle at 28 g with a lotion pump typically lands around USD 0.15–0.35 per unit FOB Shantou. The pump can be 40–60 % of that; r
@@ -28,6 +48,16 @@ Sections: Where the Money Goes; The Four Things That Set the Price; Why the Pump
 Title: What is the lead time for custom plastic bottles from China? | 8PCK
 Description: Samples in 7 days from a stock mould; production 25–35 days after sample approval; add 15–20 days if new tooling is needed. Sea freight adds about 30–35 da
 Sections: What Runs in Parallel; The Timeline, Step by Step; What Actually Delays an Order; Shipping After Production; How to Plan a Launch Date; Frequently Asked; Related
+
+## https://8pck.com/answers/sample-policy/
+Title: How do samples work, and what do they cost? | 8PCK
+Description: Samples on stock moulds take 7 days. They are usually free; you pay the freight, collected on your account.
+Sections: What You Get; What It Costs; Before You Approve; Frequently Asked; Related
+
+## https://8pck.com/answers/shipping-from-china/
+Title: How does shipping from Shantou work? | 8PCK
+Description: EXW, FOB Shantou or CIF — one 40HQ per week. A 40HQ holds roughly 20–24 pallets, depending on carton size.
+Sections: The Three Terms; Container Maths; Frequently Asked; Related
 
 ## https://8pck.com/answers/verify-chinese-supplier/
 Title: How do I verify a Chinese packaging supplier? | 8PCK
