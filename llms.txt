@@ -697,5 +697,6 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/tools/moq-tooling/ — MOQ and Tooling Calculator | 8PCK
 - https://8pck.com/tools/report/ — Specification report — 8PCK
 - https://8pck.com/tools/spec-checker/ — Bottle Spec Checker — neck, capacity and wall | 8PCK
+- https://8pck.com/tools/spec-checker-v2/ — Bottle Spec Checker v2 (preview) | 8PCK
 - https://8pck.com/verify.html — Verify 8PCK — legal entity and certificates | 8PCK
 

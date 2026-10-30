@@ -88,7 +88,8 @@ b,strong{font-weight:600}
 .ph{position:relative;background:var(--ph);border:1px solid var(--line);display:flex;align-items:center;justify-content:center;
   overflow:hidden}
 .ph.sq{height:auto!important;aspect-ratio:1/1}
-.ph img{width:100%;height:100%;object-fit:cover;display:block}
+.ph picture{display:block;width:100%;height:100%}
+.ph img{width:100%;height:100%;object-fit:contain;display:block;background:#fff}
 .ph.contain img{object-fit:contain;background:#fff}
 .ph.doc{border-color:var(--line);background:#fff}
 .ph.doc img{object-fit:contain;background:#fff}
@@ -132,7 +133,7 @@ b,strong{font-weight:600}
 .t td, .t th{padding:13px 10px}
 /* 产品图统一画框 */
 .pdp .gal .ph{background:var(--sand);border:1px solid var(--line);border-radius:6px}
-.pdp .gal .ph img{object-fit:cover;width:100%;height:100%}
+.pdp .gal .ph img{object-fit:contain;width:100%;height:100%;background:#fff}
 /* 分区留白收紧但一致 */
 .section{padding:64px 0}
 .section.tight{padding:44px 0}
@@ -152,7 +153,7 @@ body{background:linear-gradient(180deg,#fbf9f5 0,#ffffff 520px)}
 /* 统一产品图画框：同比例 + 浅底 + 内留白 */
 .cards .card .ph,.pdp .gal .ph{aspect-ratio:1/1;height:auto!important;background:var(--sand2)}
 .cards .card .ph picture,.pdp .gal .ph picture{display:block;width:100%;height:100%}
-.cards .card .ph img,.pdp .gal .ph img{width:100%;height:100%;object-fit:cover;display:block}
+.cards .card .ph img,.pdp .gal .ph img{width:100%;height:100%;object-fit:contain;display:block;background:#fff}
 .cards .card:hover .ph img{transform:scale(1.03)}
 .cards .card{background:var(--card);border:1px solid var(--line);border-radius:8px;overflow:hidden;
   transition:transform .22s ease,box-shadow .22s ease,border-color .22s ease}
@@ -391,7 +392,7 @@ table.t td.num{font-family:var(--mono);font-size:12.5px;font-variant-numeric:tab
 
 .hero-split{display:grid;grid-template-columns:1.02fr .98fr;gap:56px;align-items:center}
 .hero-split .shot{position:relative;overflow:hidden;border:1px solid var(--line);aspect-ratio:4/3}
-.hero-split .shot img{width:100%;height:100%;object-fit:cover;display:block}
+.hero-split .shot img{width:100%;height:100%;object-fit:contain;display:block;background:#fff}
 .hero-split .shot .cap{position:absolute;left:14px;bottom:14px;background:rgba(255,255,255,.94);
   font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;padding:7px 10px}
 
@@ -404,7 +405,7 @@ table.t td.num{font-family:var(--mono);font-size:12.5px;font-variant-numeric:tab
 .sku-card{border:1px solid var(--line);background:#fff;display:flex;flex-direction:column;transition:border-color .18s,transform .18s}
 .sku-card:hover{border-color:var(--accent);transform:translateY(-2px)}
 .sku-card .pic{aspect-ratio:1/1;overflow:hidden;background:var(--ph);border-bottom:1px solid var(--line2)}
-.sku-card .pic img{width:100%;height:100%;object-fit:cover}
+.sku-card .pic img{width:100%;height:100%;object-fit:contain;background:#fff}
 .sku-card .body{padding:14px 16px 16px}
 .sku-card .code{font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;color:var(--faint);text-transform:uppercase}
 .sku-card b{display:block;font-size:14px;margin:5px 0 8px;letter-spacing:-.01em}

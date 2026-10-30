@@ -1879,6 +1879,11 @@ Title: Bottle Spec Checker — neck, capacity and wall | 8PCK
 Description: Free checker: does your neck fit the closure, is the wall thick enough for a pump, and what MOQ applies. Written report in 24 hours.
 Sections: Rather Talk to the Person Who Quotes?; Get the Written Report; What the Checker Tests; About This Tool
 
+## https://8pck.com/tools/spec-checker-v2/
+Title: Bottle Spec Checker v2 (preview) | 8PCK
+Description: Preview of the redesigned spec checker: product photos, live verdict and a report download.
+Sections: Rather Talk to the Person Who Quotes?; Bottles That Came Off the Same Moulds; The Formula, the Assumptions, and Where It Stops; What the Checker Tests; Questions About This Tool
+
 ## https://8pck.com/verify.html
 Title: Verify 8PCK — legal entity and certificates | 8PCK
 Description: How to verify 8PCK independently: legal name, Unified Social Credit Code, ISO and RoHS certificate numbers, factory address and payment terms.
