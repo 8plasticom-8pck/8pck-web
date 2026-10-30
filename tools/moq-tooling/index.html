@@ -32,7 +32,7 @@
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://8pck.com/"}, {"@type": "ListItem", "position": 2, "name": "Tools", "item": "https://8pck.com/tools/"}, {"@type": "ListItem", "position": 3, "name": "Moq Tooling", "item": "https://8pck.com/tools/moq-tooling/"}]}</script>
 
 </head>
-<body>
+<body class="c-style">
 
 <div class="topbar">
   <div class="wrap">
@@ -78,6 +78,53 @@
 .report{border:1px solid var(--line);border-radius:10px;padding:24px;background:#fff;margin-top:26px}
 .report h2{margin-top:0}
 
+body.c-style{background:#f6f2ea}
+body.c-style .wrap{max-width:1080px}
+body.c-style h1,body.c-style h2{font-family:Georgia,"Times New Roman",serif;font-weight:400;letter-spacing:-.01em}
+body.c-style .kicker{color:#8a8378;letter-spacing:.28em}
+body.c-style .lede{color:#5c574d;font-style:italic}
+body.c-style .crumb{border-bottom:1px solid #ded7ca;color:#8a8378}
+body.c-style .crumb a{color:#5c574d}
+body.c-style .tool{border:0;background:transparent;gap:56px;margin-top:34px}
+body.c-style .panel{border:0;border-top:1px solid #d9d2c5;border-radius:0;background:transparent;padding:22px 0 0}
+body.c-style .panel label{font-size:10.5px;letter-spacing:.2em;text-transform:uppercase;color:#8a8378;margin:22px 0 8px}
+body.c-style .panel input,body.c-style .panel select{width:100%;border:0;border-bottom:1px solid #d9d2c5;border-radius:0;
+  background:transparent;padding:9px 0;font-size:17px;font-family:Georgia,serif;color:#1d1b18}
+body.c-style .panel input:focus,body.c-style .panel select:focus{outline:0;border-bottom-color:#6b6a4f}
+body.c-style .result{background:#efe9de;border:0;border-radius:0;padding:30px 28px;color:#1d1b18}
+body.c-style .result .sub,body.c-style .result .lbl{font-size:9.5px;letter-spacing:.3em;text-transform:uppercase;color:#8a8378}
+body.c-style .result .big{font-family:Georgia,serif;font-weight:400;font-size:32px;line-height:1.2;color:#1d1b18;letter-spacing:0}
+body.c-style .result .big.ok,body.c-style .result .big.warn,body.c-style .result .big.bad{color:#1d1b18}
+body.c-style .result ul li{border-top:1px solid #ded7ca;padding:14px 0}
+body.c-style .result ul li b{font-size:9.5px;letter-spacing:.24em;text-transform:uppercase;color:#8a8378;display:block;margin-bottom:4px}
+body.c-style .result ul li span{font-size:14.5px;color:#3a3730}
+body.c-style .btn.small,body.c-style header .btn,body.c-style .site-header .btn{background:var(--accent)!important;color:#fff!important;text-transform:none;letter-spacing:0;font-size:13px;padding:9px 16px}
+body.c-style .wrap .btn{border-radius:0;background:#1d1b18;color:#f6f2ea;font-size:11px;letter-spacing:.2em;text-transform:uppercase;padding:14px 22px}
+body.c-style .wrap .btn.ghost{background:transparent;color:#1d1b18;border:1px solid #1d1b18}
+body.c-style .btnrow{gap:10px}
+body.c-style .section>div[style*="border-left:3px solid var(--accent)"]{background:transparent!important;border:1px solid #ded7ca!important;border-left:2px solid #6b6a4f!important;border-radius:0!important}
+body.c-style form[action*="formspree"]{background:transparent!important;border:1px solid #ded7ca!important;border-radius:0!important}
+body.c-style form[action*="formspree"] input{background:transparent;border:0;border-bottom:1px solid #d9d2c5;border-radius:0;font-family:Georgia,serif}
+body.c-style .band{background:#1d1b18;border-radius:0;color:#f6f2ea}
+body.c-style .band .btn{background:#f6f2ea;color:#1d1b18}
+body.c-style .card{border:1px solid #ded7ca;border-radius:0;background:transparent}
+body.c-style .tool-figure{border:1px solid #ded7ca;border-radius:0;background:#efe9de}
+body.c-style .tool-figure-cap{background:transparent;border-top:1px solid #ded7ca;color:#8a8378}
+body.c-style .tool-problem{border:0;border-left:2px solid #6b6a4f;border-radius:0;background:transparent;padding:6px 0 6px 18px}
+body.c-style .howto .diagram{border:1px solid #ded7ca;border-radius:0;background:#efe9de}
+body.c-style .section{border-top:1px solid #ded7ca}
+body.c-style details.faq summary{border-top:1px solid #ded7ca}
+body.c-style .v2-card{background:#efe9de;color:#1d1b18;border-radius:0}
+body.c-style .v2-card .big{font-family:Georgia,serif;font-weight:400;color:#1d1b18}
+body.c-style .v2-list li{border-top:1px solid #ded7ca}
+body.c-style .v2-list b{color:#8a8378}
+body.c-style .v2-list span{color:#1d1b18}
+body.c-style .v2-cta .p{background:#1d1b18;color:#f6f2ea;border-radius:0}
+body.c-style .v2-cta .s{background:transparent;color:#1d1b18;border:1px solid #1d1b18;border-radius:0}
+
+body.c-style .btn.small{background:#c8102e!important;color:#fff!important;text-transform:none!important;
+  letter-spacing:0!important;font-size:13px!important;padding:10px 18px!important;white-space:nowrap!important;border-radius:2px!important;border:0!important}
+
 .tool-hero{position:relative;margin:26px 0 6px;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:#f4f8fc}
 .tool-hero-cap{margin:0;padding:10px 14px;font-size:12px;color:#4a6b85;border-top:1px solid #dce8f3;background:#fff}
 .tool-hero svg{display:block}
@@ -86,7 +133,7 @@ label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
 .jn-modal{position:fixed;inset:0;z-index:200;display:none;align-items:center;justify-content:center;background:rgba(10,10,10,.55);backdrop-filter:blur(3px)}
 .jn-modal.on{display:flex}
 .jn-card{width:min(520px,92vw);background:#fff;border-radius:14px;padding:26px;position:relative;box-shadow:0 24px 60px rgba(0,0,0,.28)}
-.jn-card img{width:64px;height:64px;border-radius:50%;object-fit:cover;float:left;margin:0 16px 8px 0}
+.jn-mark{float:left;margin:0 18px 8px 0;font-weight:700;letter-spacing:.3em;font-size:15px;line-height:1;color:#111;border:1px solid #111;padding:16px 14px 16px 18px;border-radius:6px}
 .jn-card h3{margin:0 0 4px;font-size:20px;letter-spacing:-.01em}
 .jn-card p{margin:0 0 14px;font-size:14px;line-height:1.55;color:#444}
 .jn-card .btnrow{display:flex;gap:10px;flex-wrap:wrap;clear:both;margin-top:6px}
@@ -126,7 +173,7 @@ label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
   
 <div class="tool-figure" aria-hidden="true">
   <svg viewBox="0 0 760 150" preserveAspectRatio="xMidYMid meet" role="img">
-    <rect width="760" height="150" fill="#f7f4ee"/>
+    
     <!-- 左：瓶子尺寸图 -->
     <g stroke="#2f5d86" stroke-width="1.3" fill="none">
       <path d="M118 122h44M140 122V84M128 84h24M140 84V62M132 62h16"/>
@@ -229,7 +276,7 @@ label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
     </div>
     <figure class="diagram">
       <svg viewBox="0 0 380 300" role="img" aria-label="Dimension diagram">
-        <rect width="380" height="260" fill="#f7f4ee"/>
+        
         <g stroke="#2f5d86" stroke-width="1.3" fill="none">
           <path d="M150 210h60M180 210V120M164 120h32M180 120V84M170 84h20"/>
           <path d="M156 210c0-26 6-38 18-44V120m12 46c12 6 18 18 18 44" stroke-width="1.8"/>
@@ -326,13 +373,13 @@ label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
 <div class="jn-modal" id="jnModal" role="dialog" aria-modal="true" aria-labelledby="jnTitle">
   <div class="jn-card">
     <button class="jn-x" id="jnClose" aria-label="Close">×</button>
-    <img src="../../assets/img/joe-160.jpg" alt="Joe Joo, 8PCK">
+    <div class="jn-mark">8PCK</div>
     <h3 id="jnTitle">Didn't Solve It?</h3>
-    <p>I'm Joe — the person who answers the quotes. Tell me what you are trying to pack and I'll tell you what fits,
-       what it costs and how long it takes. No forms if you'd rather just message.</p>
+    <p>Tell us what you are trying to pack and we will tell you what fits, what it costs and how long it takes.
+       No forms if you would rather just message.</p>
     <div class="btnrow">
-      <a class="btn" href="https://wa.me/8613363879944">WhatsApp +86 133 6387 9944</a>
-      <a class="btn ghost" href="mailto:joe@8pck.com">Email Joe</a>
+      <a class="btn" href="https://wa.me/8613363879944">WhatsApp Us</a>
+      <a class="btn ghost" href="mailto:joe@8pck.com">Email Us</a>
       <a class="btn ghost" href="../../contact.html?product=moq-tooling">Get a Quote in 24H →</a>
     </div>
   </div>
@@ -342,13 +389,15 @@ label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
   var modal=document.getElementById('jnModal');
   if(!modal) return;
   if(sessionStorage.getItem('jnSeen')) return;
-  var t=setTimeout(function(){modal.classList.add('on');},35000);
-  function close(){modal.classList.remove('on');sessionStorage.setItem('jnSeen','1');clearTimeout(t);}
+  var FIRST=150000, AGAIN=240000, t=null;
+  function arm(ms){ clearTimeout(t); t=setTimeout(function(){ modal.classList.add('on'); }, ms); }
+  function close(){ modal.classList.remove('on'); sessionStorage.setItem('jnSeen','1'); clearTimeout(t); }
   document.getElementById('jnClose').addEventListener('click',close);
-  modal.addEventListener('click',function(e){if(e.target===modal)close();});
-  ['click','keydown','scroll','touchstart'].forEach(function(ev){
-    window.addEventListener(ev,function(){clearTimeout(t);t=setTimeout(function(){modal.classList.add('on');},60000);},{passive:true});
+  modal.addEventListener('click',function(e){ if(e.target===modal) close(); });
+  ['click','keydown','scroll','touchstart','mousemove'].forEach(function(ev){
+    window.addEventListener(ev,function(){ if(!modal.classList.contains('on')) arm(AGAIN); },{passive:true});
   });
+  arm(FIRST);
 })();
 </script>
 
