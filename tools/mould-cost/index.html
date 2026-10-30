@@ -1,0 +1,485 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<title>Custom Mould Cost Estimator | 8PCK</title>
+<meta name="description" content="Enter how many parts the product has, the largest part size, cavities and finish; the estimator returns a tooling band and the effect on unit cost.">
+<link rel="canonical" href="https://8pck.com/tools/mould-cost/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Custom Mould Cost Estimator | 8PCK">
+<meta property="og:description" content="Enter how many parts the product has, the largest part size, cavities and finish; the estimator returns a tooling band and the effect on unit cost.">
+<meta property="og:url" content="https://8pck.com/tools/mould-cost/">
+<meta name="theme-color" content="#111111">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-911LRC5D6P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent', 'default', {'analytics_storage': 'denied', 'ad_storage': 'denied'});
+  try {
+    if (localStorage.getItem('ga_consent') === 'yes') {
+      gtag('consent', 'update', {'analytics_storage': 'granted'});
+    }
+  } catch (e) {}
+  gtag('js', new Date());
+  gtag('config', 'G-911LRC5D6P');
+</script>
+<link rel="stylesheet" href="../../assets/css/style.css?v=cf4e1728">
+<link rel="alternate" type="application/rss+xml" title="8PCK Trends" href="https://8pck.com/feed.xml">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://8pck.com/#org", "name": "Shantou Chuangxin Weinuo Plastic Packaging Products Co., Ltd.", "alternateName": ["8PCK", "CXWN", "汕头市创新维诺塑料包装制品有限公司"], "url": "https://8pck.com", "email": "joe@8pck.com", "telephone": "+86 133 6387 9944", "foundingDate": "2011", "identifier": {"@type": "PropertyValue", "name": "Unified Social Credit Code", "value": "91440512576471585D"}, "description": "8PCK is the export desk of Shantou Chuangxin Weinuo Plastic Packaging Products Co., Ltd. (CXWN). Quotations, contracts and invoices are issued by CXWN; payment goes to CXWN.", "address": {"@type": "PostalAddress", "streetAddress": "B03-05 Plot, Tatou, Brownstone Street, Haojiang District, Shantou, Guangdong, China", "addressLocality": "Shantou", "addressRegion": "Guangdong", "addressCountry": "CN"}}, {"@type": "WebSite", "@id": "https://8pck.com/#website", "url": "https://8pck.com", "name": "8PCK", "publisher": {"@id": "https://8pck.com/#org"}}, {"@type": "Person", "@id": "https://8pck.com/#joe", "name": "Joe Joo", "jobTitle": "Founder, 8PCK", "url": "https://8pck.com/about.html", "worksFor": {"@id": "https://8pck.com/#org"}, "knowsAbout": ["plastic packaging", "bottle manufacturing", "mould making", "PET and HDPE bottles", "packaging inspection"]}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://8pck.com/"}, {"@type": "ListItem", "position": 2, "name": "Tools", "item": "https://8pck.com/tools/"}, {"@type": "ListItem", "position": 3, "name": "Mould Cost", "item": "https://8pck.com/tools/mould-cost/"}]}</script>
+
+</head>
+<body class="p-tools c-style">
+
+<div class="topbar">
+  <div class="wrap">
+    <span class="lbl">Shantou · China</span>
+    <span>+86 133 6387 9944</span>
+    <span class="end">
+      <span class="lbl">ISO 9001 · EU 10/2011 · RoHS</span>
+      <a href="mailto:joe@8pck.com">joe@8pck.com</a>
+    </span>
+  </div>
+</div>
+<header class="site-header">
+  <div class="wrap hd">
+    <a href="../../index.html" class="logo">8PCK</a>
+    <nav class="nav"><a href="../../answers/" class="">Answers</a><a href="../../products/" class="">Products</a><a href="../../custom.html" class="">Custom</a><a href="../../factory.html" class="">Factory</a><a href="../../quality.html" class="">Quality</a><a href="../../about.html" class="">About</a><a href="../../resources.html" class="">Resources</a><a href="../../tools/" class="on">Tools</a><a href="../../guides/" class="">Guides</a><a href="../../news/" class="">Trends</a></nav>
+    <div class="right">
+      <span class="lang">EN</span>
+      <a href="../../contact.html" class="btn small">Request a Quote</a>
+      <button class="burger" aria-label="Menu">Menu</button>
+    </div>
+  </div>
+</header>
+<main>
+
+<style>
+.tool{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:start;margin:28px 0 10px}
+@media (max-width:900px){.tool{grid-template-columns:1fr;gap:24px}}
+.tool .panel{border:1px solid var(--line);border-radius:10px;background:#fff;padding:22px}
+.tool label{display:block;margin-bottom:14px}
+.tool label span{display:block;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--faint);margin-bottom:6px}
+.tool select,.tool input{width:100%;padding:11px 12px;border:1px solid var(--line);border-radius:6px;font:inherit;background:#fff}
+.tool button{width:100%;padding:13px;border:0;border-radius:8px;background:var(--accent);color:#fff;font:inherit;font-weight:600;cursor:pointer}
+.tool button:hover{filter:brightness(.94)}
+.result{border:1px solid var(--line);border-radius:10px;background:#141210;color:#fff;padding:22px;min-height:260px}
+.result h3{color:#fff;font-size:15px;letter-spacing:.02em;margin:0 0 14px}
+/* 报告样式（界面里像一份文档） */
+.result .big{font-size:44px;font-weight:600;letter-spacing:-.03em;line-height:1}
+.result .sub{color:rgba(255,255,255,.62);font-size:12px;letter-spacing:.06em;text-transform:uppercase}
+.result ul{list-style:none;padding:0;margin:16px 0 0}
+.result li{padding:9px 0;border-top:1px solid rgba(255,255,255,.12);font-size:13.5px;display:flex;gap:10px}
+.result li b{min-width:92px;color:rgba(255,255,255,.55);font-weight:500;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;padding-top:2px}
+.ok{color:#7ddc9b}.warn{color:#ffb648}.bad{color:#ff7a6b}
+.report{border:1px solid var(--line);border-radius:10px;padding:24px;background:#fff;margin-top:26px}
+.report h2{margin-top:0}
+
+body.c-style{background:#f6f2ea}
+body.c-style .wrap{max-width:1080px}
+body.c-style h1,body.c-style h2{font-family:Georgia,"Times New Roman",serif;font-weight:400;letter-spacing:-.01em}
+body.c-style .kicker{color:#8a8378;letter-spacing:.28em}
+body.c-style .lede{color:#5c574d;font-style:italic}
+body.c-style .crumb{border-bottom:1px solid #ded7ca;color:#8a8378}
+body.c-style .crumb a{color:#5c574d}
+body.c-style .tool{border:0;background:transparent;gap:56px;margin-top:34px}
+body.c-style .panel{border:0;border-top:1px solid #d9d2c5;border-radius:0;background:transparent;padding:22px 0 0}
+body.c-style .panel label{font-size:10.5px;letter-spacing:.2em;text-transform:uppercase;color:#8a8378;margin:22px 0 8px}
+body.c-style .panel input,body.c-style .panel select{width:100%;border:0;border-bottom:1px solid #d9d2c5;border-radius:0;
+  background:transparent;padding:9px 0;font-size:17px;font-family:Georgia,serif;color:#1d1b18}
+body.c-style .panel input:focus,body.c-style .panel select:focus{outline:0;border-bottom-color:#6b6a4f}
+body.c-style .result{background:#efe9de;border:0;border-radius:0;padding:30px 28px;color:#1d1b18}
+body.c-style .result .sub,body.c-style .result .lbl{font-size:9.5px;letter-spacing:.3em;text-transform:uppercase;color:#8a8378}
+body.c-style .result .big{font-family:Georgia,serif;font-weight:400;font-size:32px;line-height:1.2;color:#1d1b18;letter-spacing:0}
+body.c-style .result .big.ok,body.c-style .result .big.warn,body.c-style .result .big.bad{color:#1d1b18}
+body.c-style .result ul li{border-top:1px solid #ded7ca;padding:14px 0}
+body.c-style .result ul li b{font-size:9.5px;letter-spacing:.24em;text-transform:uppercase;color:#8a8378;display:block;margin-bottom:4px}
+body.c-style .result ul li span{font-size:14.5px;color:#3a3730}
+body.c-style .btn.small,body.c-style header .btn,body.c-style .site-header .btn{background:var(--accent)!important;color:#fff!important;text-transform:none;letter-spacing:0;font-size:13px;padding:9px 16px}
+body.c-style .wrap .btn{border-radius:0;background:#1d1b18;color:#f6f2ea;font-size:11px;letter-spacing:.2em;text-transform:uppercase;padding:14px 22px}
+body.c-style .wrap .btn.ghost{background:transparent;color:#1d1b18;border:1px solid #1d1b18}
+body.c-style .btnrow{gap:10px}
+body.c-style .section>div[style*="border-left:3px solid var(--accent)"]{background:transparent!important;border:1px solid #ded7ca!important;border-left:2px solid #6b6a4f!important;border-radius:0!important}
+body.c-style form[action*="formspree"]{background:transparent!important;border:1px solid #ded7ca!important;border-radius:0!important}
+body.c-style form[action*="formspree"] input{background:transparent;border:0;border-bottom:1px solid #d9d2c5;border-radius:0;font-family:Georgia,serif}
+body.c-style .band{background:#1d1b18;border-radius:0;color:#f6f2ea}
+body.c-style .band .btn{background:#f6f2ea;color:#1d1b18}
+body.c-style .card{border:1px solid #ded7ca;border-radius:0;background:transparent}
+body.c-style .tool-figure{border:1px solid #ded7ca;border-radius:0;background:#efe9de}
+body.c-style .tool-figure-cap{background:transparent;border-top:1px solid #ded7ca;color:#8a8378}
+body.c-style .tool-problem{border:0;border-left:2px solid #6b6a4f;border-radius:0;background:transparent;padding:6px 0 6px 18px}
+body.c-style .howto .diagram{border:1px solid #ded7ca;border-radius:0;background:#efe9de}
+body.c-style .section{border-top:1px solid #ded7ca}
+body.c-style details.faq summary{border-top:1px solid #ded7ca}
+body.c-style .v2-card{background:#efe9de;color:#1d1b18;border-radius:0}
+body.c-style .v2-card .big{font-family:Georgia,serif;font-weight:400;color:#1d1b18}
+body.c-style .v2-list li{border-top:1px solid #ded7ca}
+body.c-style .v2-list b{color:#8a8378}
+body.c-style .v2-list span{color:#1d1b18}
+body.c-style .v2-cta .p{background:#1d1b18;color:#f6f2ea;border-radius:0}
+body.c-style .v2-cta .s{background:transparent;color:#1d1b18;border:1px solid #1d1b18;border-radius:0}
+
+body.c-style .btn.small{background:#c8102e!important;color:#fff!important;text-transform:none!important;
+  letter-spacing:0!important;font-size:13px!important;padding:10px 18px!important;white-space:nowrap!important;border-radius:2px!important;border:0!important}
+
+.tool-hero{position:relative;margin:26px 0 6px;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:#f4f8fc}
+.tool-hero-cap{margin:0;padding:10px 14px;font-size:12px;color:#4a6b85;border-top:1px solid #dce8f3;background:#fff}
+.tool-hero svg{display:block}
+label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
+/* 闲置弹窗 */
+.jn-modal{position:fixed;inset:0;z-index:200;display:none;align-items:center;justify-content:center;background:rgba(10,10,10,.55);backdrop-filter:blur(3px)}
+.jn-modal.on{display:flex}
+.jn-card{width:min(520px,92vw);background:#fff;border-radius:14px;padding:26px;position:relative;box-shadow:0 24px 60px rgba(0,0,0,.28)}
+.jn-mark{float:left;margin:0 18px 8px 0;font-weight:700;letter-spacing:.3em;font-size:15px;line-height:1;color:#111;border:1px solid #111;padding:16px 14px 16px 18px;border-radius:6px}
+.jn-card h3{margin:0 0 4px;font-size:20px;letter-spacing:-.01em}
+.jn-card p{margin:0 0 14px;font-size:14px;line-height:1.55;color:#444}
+.jn-card .btnrow{display:flex;gap:10px;flex-wrap:wrap;clear:both;margin-top:6px}
+.jn-x{position:absolute;top:10px;right:12px;border:0;background:none;font-size:22px;line-height:1;color:#999;cursor:pointer}
+
+.tool-figure{position:relative;margin:22px 0 0;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:#f7f4ee}
+.tool-figure svg{display:block;max-height:170px}
+.tool-figure-cap{margin:0;padding:8px 14px;font-size:11.5px;color:#6b6b6b;border-top:1px solid #e8e2d8;background:#fff}
+.tool-problem{margin:18px 0 0;padding:14px 16px;border-left:3px solid var(--accent);background:#fff;border:1px solid var(--line);border-radius:8px}
+.tool-problem b{display:block;font-size:15px;margin-bottom:4px}
+.tool-problem p{margin:0;font-size:13.5px;line-height:1.6;color:#444}
+.howto{display:grid;grid-template-columns:1.15fr .85fr;gap:34px;align-items:start;margin-top:8px}
+@media (max-width:900px){.howto{grid-template-columns:1fr;gap:18px}}
+.howto h2{margin-top:0}
+.howto .std{font-size:12.5px;color:#555;line-height:1.7}
+.howto ol{margin:10px 0 0;padding-left:18px;font-size:14px;line-height:1.7;color:#333}
+.howto ol li{margin-bottom:6px}
+.diagram{position:relative;border:1px solid var(--line);border-radius:10px;background:#f7f4ee;overflow:hidden}
+.diagram svg{display:block;width:100%;height:auto}
+.diagram figcaption{font-size:11.5px;color:#6b6b6b;padding:8px 12px;border-top:1px solid #e8e2d8;background:#fff}
+</style>
+<div class="wrap">
+  <div class="crumb"><a href="../../index.html">Home</a> / <a href="../">Tools</a> / Custom Mould Cost Estimator</div>
+  <section style="padding:28px 0 0">
+    <div class="kicker">Free tool · no signup to use</div>
+    <h1 style="font-size:clamp(28px,3.6vw,44px);max-width:24ch">Custom Mould Cost Estimator: Parts, Cavities and the Unscrewing Penalty</h1>
+    <p class="lede" style="margin-top:12px">Enter how many parts the product has, the largest part size, cavities and finish; the estimator returns a tooling band and the effect on unit cost.</p>
+    <p class="sub" style="font-size:12.5px;margin-top:12px;color:var(--faint)">Designed by <a href="../../about.html#joe" style="border-bottom:1px solid #111">Joe Joo</a> · 8PCK, Shantou</p>
+    
+<div class="tool-problem">
+  <b>You have a drawing with several parts. You need to know what the tooling will cost before you commit.</b>
+  <p>Part count, not size, drives a mould budget: every part is a separate mould, trial and tolerance stack.</p>
+</div>
+
+  </section>
+
+  
+<div class="tool-figure" aria-hidden="true">
+  <svg viewBox="0 0 760 150" preserveAspectRatio="xMidYMid meet" role="img">
+    
+    <!-- 左：瓶子尺寸图 -->
+    <g stroke="#2f5d86" stroke-width="1.3" fill="none">
+      <path d="M118 122h44M140 122V84M128 84h24M140 84V62M132 62h16"/>
+      <path d="M124 122c0-16 4-24 12-28V84m8 14c8 4 12 12 12 28" stroke-width="1.7"/>
+      <path d="M104 62v60M99 62h10M99 122h10" stroke-width="0.9"/>
+      <path d="M118 136h44M118 132v8M162 132v8" stroke-width="0.9"/>
+    </g>
+    <text x="86" y="96" font-family="ui-monospace,monospace" font-size="9" fill="#2f5d86">H</text>
+    <text x="128" y="147" font-family="ui-monospace,monospace" font-size="9" fill="#2f5d86">O 65</text>
+    <text x="166" y="96" font-family="ui-monospace,monospace" font-size="9" fill="#2f5d86">t</text>
+    <text x="92" y="40" font-family="ui-monospace,monospace" font-size="9" fill="#8a8a8a">DRAWING</text>
+    <path d="M188 96h56" stroke="#c8102e" stroke-width="1.5" stroke-dasharray="5 4"/>
+    <path d="M244 96l-7-4v8z" fill="#c8102e"/>
+    <!-- 中：公式 -->
+    <g stroke="#2f5d86" stroke-width="1.3" fill="none">
+      <rect x="258" y="66" width="96" height="60" rx="6"/>
+      <path d="M272 80h68M272 92h68M272 104h38"/>
+      <path d="M272 112h18" stroke="#c8102e"/>
+    </g>
+    <text x="258" y="40" font-family="ui-monospace,monospace" font-size="9" fill="#8a8a8a">FORMULA</text>
+    <path d="M366 96h56" stroke="#c8102e" stroke-width="1.5" stroke-dasharray="5 4"/>
+    <path d="M422 96l-7-4v8z" fill="#c8102e"/>
+    <!-- 右：结论 -->
+    <g stroke="#1a7f45" stroke-width="2" fill="none">
+      <path d="M438 96l12 16 24-30"/>
+    </g>
+    <text x="432" y="40" font-family="ui-monospace,monospace" font-size="9" fill="#8a8a8a">VERDICT</text>
+  </svg>
+  <p class="tool-figure-cap">Dimensions in, specification out — the checker reads the drawing, not the catalogue.</p>
+</div>
+
+
+  <div class="tool">
+    <div class="panel">
+      <label><span>Number of parts</span>
+        <select id="parts"><option value="1">1 part</option><option value="2">2 parts</option>
+        <option value="3" selected>3 parts</option><option value="4">4 parts</option><option value="5">5 parts</option></select></label>
+      <label><span><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="2" y="8" width="20" height="8" rx="1"/><path d="M6 8v3M10 8v2M14 8v3M18 8v2"/></svg> Largest part size</span>
+        <select id="size">
+          <option value="0">Small — under 50 ml, under 60 mm</option>
+          <option value="1" selected>Medium — 50–250 ml, 60–80 mm</option>
+          <option value="2">Large — over 250 ml or over 80 mm, thick wall</option>
+        </select></label>
+      <label><span>Cavities</span>
+        <select id="cav"><option value="1" selected>1 cavity (pilot run)</option>
+        <option value="2">2 cavities</option><option value="4">4 cavities</option></select></label>
+      <label><span>Metal finish on a part</span>
+        <select id="plate"><option value="0">None</option><option value="1">Spray coat</option>
+        <option value="2" selected>Vacuum metallising (gold, chrome)</option><option value="3">Electroplating</option></select></label>
+      <label><span>Unscrewing thread (lid screws off a core)</span>
+        <select id="unscr"><option value="0">No</option><option value="1">Yes, one part</option></select></label></div>
+    <div class="result" id="result">
+      <div class="sub">Tooling, indicative</div>
+      <div class="big" id="tool">—</div>
+      <ul id="rows"></ul>
+      <div style="margin-top:18px"><button class="btn" id="reportBtn" style="width:100%;justify-content:center">Download the Report (PDF) →</button></div>
+    </div>
+  </div>
+
+  <section class="section" style="padding-top:26px">
+    <form action="https://formspree.io/f/xvkzlyvd" method="POST" style="border:1px solid var(--line);border-radius:10px;padding:20px;background:#fff">
+      <input type="hidden" name="_subject" value="Tool report request — 8pck.com">
+      <input type="hidden" name="_next" value="https://8pck.com/thanks.html">
+      <input type="hidden" name="product" value="tool-report:mould-cost">
+      <input type="hidden" name="tool" value="Custom Mould Cost Estimator: Parts, Cavities and the Unscrewing Penalty">
+      <input type="hidden" name="spec_summary" class="js-summary" value="">
+      <input type="text" name="_gotcha" style="display:none" tabindex="-1">
+      <b style="display:block;font-size:15px;margin-bottom:4px">Email me this report</b>
+      <p class="sub" style="font-size:12.5px;margin:0 0 14px">We send the same numbers as a one-page PDF, with a price in 24 hours. No catalogue.</p>
+      <div class="row2" style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px">
+        <label class="field" style="margin:0"><span>Name *</span><input type="text" name="name" required></label>
+        <label class="field" style="margin:0"><span>Email *</span><input type="email" name="email" required></label>
+        <label class="field" style="margin:0"><span>Company</span><input type="text" name="company"></label>
+        <button class="btn" type="submit" style="height:44px">Send Report →</button>
+      </div>
+      <p class="sub" style="font-size:11.5px;margin:10px 0 0;color:var(--faint)">One reply from the person who quotes. Reply "stop" and we won't follow up.</p>
+    </form>
+  </section>
+
+  <section class="section" style="padding-top:30px">
+    <div style="border:1px solid var(--line);border-left:3px solid var(--accent);padding:22px;border-radius:8px;background:#fff">
+      <h2 style="font-size:20px;margin:0 0 8px">Want a Person to Check It?</h2>
+      <p class="sub" style="margin:0 0 14px">Send the numbers and we reply with a written quotation, lead time and a sample plan — usually within a few hours, Mon–Sat.</p>
+      <div class="btnrow">
+        <a class="btn" href="../../contact.html?product=mould-cost">Get a Quote in 24H →</a>
+        <a class="btn ghost" href="https://wa.me/8613363879944">WhatsApp +86 133 6387 9944</a>
+      </div>
+    </div>
+  </section>
+
+  
+<section class="section" style="padding-top:34px">
+  <div class="howto">
+    <div>
+      <div class="kicker">How it is calculated</div>
+      <h2>The Formula, the Assumptions, and Where It Stops</h2>
+      <ol><li>Base band per part: small USD 1,800–3,500 · medium 3,000–6,000 · large 4,500–9,000.</li><li>Multiply by part count, then by the cavity multiplier (1x / 1.6x / 2.6x).</li><li>Add a plating jig allowance where a metal finish is specified.</li><li>Add 30–45 % where a thread must be unscrewed rather than stripped.</li></ol>
+      <p class="std" style="margin-top:14px"><b>Assumptions.</b> One cavity per part unless stated; standard steel and polishing; no hot runner.</p>
+      <p class="std"><b>Standards we work to.</b> ISO 9001:2015 (quality system, cert PCC85724Q01277R1S) ·
+        EU 10/2011 (plastic food-contact, migration report E2032) · RoHS (PE B-R01612E2033, PET B-R201133464) ·
+        ISO 4180 (packaging for transport). The calculator is a planning tool: the approved drawing and the
+        migration report decide the final specification.</p>
+      <p class="std"><b>Where it does not apply.</b> It is a budget band. A drawing review sets the real number, and a complex seal or an off-axis thread can move it further.</p>
+    </div>
+    <figure class="diagram">
+      <svg viewBox="0 0 380 300" role="img" aria-label="Dimension diagram">
+        
+        <g stroke="#2f5d86" stroke-width="1.3" fill="none">
+          <path d="M150 210h60M180 210V120M164 120h32M180 120V84M170 84h20"/>
+          <path d="M156 210c0-26 6-38 18-44V120m12 46c12 6 18 18 18 44" stroke-width="1.8"/>
+          <path d="M132 84v126M126 84h12M126 210h12"/>
+          <path d="M150 232h60M150 228v8M210 228v8"/>
+          <path d="M240 120v90M236 120h8M236 210h8"/>
+        </g>
+        <text x="104" y="150" font-family="ui-monospace,monospace" font-size="10" fill="#2f5d86">H</text>
+        <text x="170" y="245" font-family="ui-monospace,monospace" font-size="10" fill="#2f5d86">O</text>
+        <text x="248" y="168" font-family="ui-monospace,monospace" font-size="10" fill="#2f5d86">t</text>
+        <text x="120" y="276" font-family="ui-monospace,monospace" font-size="9" fill="#6b6b6b">H = height · O = diameter · t = wall</text>
+      </svg>
+      <figcaption>The three numbers the formula uses: height, diameter and wall.</figcaption>
+    </figure>
+  </div>
+</section>
+
+  <section class="section">
+    <h2>Why Part Count Dominates</h2><p>Every part is a separate mould, a separate trial, and a separate tolerance stack. Four small parts cost roughly four times one part — the size of the part matters less than how many there are.</p><h2>The Unscrewing Penalty</h2><p>If a lid has an internal thread it cannot be stripped off the core; the mould needs a rotating mechanism, which is where a 30–45 % jump comes from.</p>
+    <h2>Questions About This Tool</h2>
+    <details class="faq"><summary>What does a custom bottle mould cost?</summary><p class="sub" style="margin:8px 0 0">One cavity, one part: USD 1,800–9,000 depending on size and thread. A four-part assembly is typically USD 15,000–26,000.</p></details><details class="faq"><summary>Can I start with one cavity?</summary><p class="sub" style="margin:8px 0 0">Yes, and for under 10,000 pcs a year it is the right choice — a second cavity rarely pays back.</p></details><details class="faq"><summary>Is tooling refundable?</summary><p class="sub" style="margin:8px 0 0">No. It is a one-off cost, amortised over the first run.</p></details>
+  </section>
+</div>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Custom Mould Cost Estimator", "applicationCategory": "BusinessApplication", "operatingSystem": "Any", "url": "https://8pck.com/tools/mould-cost/", "description": "Enter how many parts the product has, the largest part size, cavities and finish; the estimator returns a tooling band and the effect on unit cost.", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "author": {"@type": "Person", "name": "Joe Joo", "url": "https://8pck.com/about.html#joe", "worksFor": {"@type": "Organization", "name": "8PCK"}}, "publisher": {"@type": "Organization", "name": "8PCK", "url": "https://8pck.com"}}</script>
+<script>
+(function(){
+  var base=[[1800,3500],[3000,6000],[4500,9000]];
+  var cavM={1:1.0,2:1.6,4:2.6};
+  var plateAdd={0:0,1:250,2:400,3:700};
+  function run(){
+    var parts=parseInt(document.getElementById('parts').value,10);
+    var size=parseInt(document.getElementById('size').value,10);
+    var cav=parseInt(document.getElementById('cav').value,10);
+    var plate=parseInt(document.getElementById('plate').value,10);
+    var unscr=parseInt(document.getElementById('unscr').value,10);
+    var b=base[size];
+    var lo=b[0]*parts*cavM[cav], hi=b[1]*parts*cavM[cav];
+    lo+=plateAdd[plate]*parts; hi+=plateAdd[plate]*parts;
+    if(unscr){ lo*=1.3; hi*=1.45; }
+    var per5=Math.round((lo+hi)/2/5000*100)/100;
+    document.getElementById('tool').textContent='USD '+Math.round(lo/500).toLocaleString()*500+'–'+Math.round(hi/500).toLocaleString()*500;
+    var rows=[
+      ['Parts', parts+' · largest size band '+['small','medium','large'][size]],
+      ['Cavities', cav+' → multiplier '+cavM[cav]],
+      ['Finish allowance', plateAdd[plate]?('+USD '+plateAdd[plate]+' per part for plating jigs'):'none'],
+      ['Unscrewing', unscr?'yes — adds 30–45 % on that part':'no'],
+      ['Per piece at 5,000', 'about USD '+per5.toFixed(2)+' of tooling per unit'],
+      ['Note', 'ranges, not a quote — the drawing decides']
+    ];
+    document.getElementById('rows').innerHTML=rows.map(function(r){
+      return '<li><b>'+r[0]+'</b><span>'+r[1]+'</span></li>';}).join('');
+  }
+  ['parts','size','cav','plate','unscr'].forEach(function(id){var e=document.getElementById(id);e.addEventListener('input',run);e.addEventListener('change',run);});
+  run();
+})();</script>
+
+<script>
+(function(){
+  var q=new URLSearchParams(location.search), any=false;
+  q.forEach(function(v,k){
+    var el=document.getElementById(k);
+    if(el && el.tagName!=='BUTTON'){ el.value=v; any=true;
+      el.dispatchEvent(new Event('input')); el.dispatchEvent(new Event('change')); }
+  });
+  if(any){window.__prefilled=true;}
+  var _f=document.querySelector('form[action*="formspree"]');
+  if(_f){_f.addEventListener('submit',function(){ if(window.gtag) gtag('event','report_submit',{page:location.pathname}); });}
+  var form=document.querySelector('form .js-summary');
+  if(form){
+    var fill=function(){
+      var rows=[];
+      document.querySelectorAll('#result li').forEach(function(li){
+        var b=li.querySelector('b'), sp=li.querySelector('span');
+        if(b&&sp){rows.push(b.textContent.trim()+': '+sp.textContent.trim());}
+      });
+      var v=document.getElementById('verdict')||document.getElementById('size')||document.getElementById('pcs')||document.getElementById('cc')||document.getElementById('g')||document.getElementById('moq')||document.getElementById('cpp');
+      form.value=(v?v.textContent.trim():'')+' | '+rows.join(' · ');
+    };
+    document.addEventListener('change',fill); document.addEventListener('input',fill); fill();
+  }
+  var rep=document.getElementById('reportBtn');
+  if(rep){rep.addEventListener('click',function(){
+    var rows=[];
+    document.querySelectorAll('#result li').forEach(function(li){
+      var b=li.querySelector('b'), sp=li.querySelector('span');
+      if(b&&sp){rows.push([b.textContent.trim(), sp.textContent.trim()]);}
+    });
+    var verdictEl=document.getElementById('verdict')||document.getElementById('size')||document.getElementById('pcs')||document.getElementById('cc')||document.getElementById('g')||document.getElementById('moq')||document.getElementById('cpp');
+    var params=new URLSearchParams({
+      tool: (document.querySelector('h1')||{textContent:'Specification report'}).textContent.trim(),
+      verdict: verdictEl?verdictEl.textContent.trim():'—',
+      rows: encodeURIComponent(JSON.stringify(rows)),
+      print: '1'
+    });
+    window.open('../../tools/report/?'+params.toString(),'_blank');
+  });}
+})();
+</script>
+
+
+<div class="jn-modal" id="jnModal" role="dialog" aria-modal="true" aria-labelledby="jnTitle">
+  <div class="jn-card">
+    <button class="jn-x" id="jnClose" aria-label="Close">×</button>
+    <div class="jn-mark">8PCK</div>
+    <h3 id="jnTitle">Didn't Solve It?</h3>
+    <p>Tell us what you are trying to pack and we will tell you what fits, what it costs and how long it takes.
+       No forms if you would rather just message.</p>
+    <div class="btnrow">
+      <a class="btn" href="https://wa.me/8613363879944">WhatsApp Us</a>
+      <a class="btn ghost" href="mailto:joe@8pck.com">Email Us</a>
+      <a class="btn ghost" href="../../contact.html?product=mould-cost">Get a Quote in 24H →</a>
+    </div>
+  </div>
+</div>
+<script>
+(function(){
+  var modal=document.getElementById('jnModal');
+  if(!modal) return;
+  if(sessionStorage.getItem('jnSeen')) return;
+  var FIRST=150000, AGAIN=240000, t=null;
+  function arm(ms){ clearTimeout(t); t=setTimeout(function(){ modal.classList.add('on'); }, ms); }
+  function close(){ modal.classList.remove('on'); sessionStorage.setItem('jnSeen','1'); clearTimeout(t); }
+  document.getElementById('jnClose').addEventListener('click',close);
+  modal.addEventListener('click',function(e){ if(e.target===modal) close(); });
+  ['click','keydown','scroll','touchstart','mousemove'].forEach(function(ev){
+    window.addEventListener(ev,function(){ if(!modal.classList.contains('on')) arm(AGAIN); },{passive:true});
+  });
+  arm(FIRST);
+})();
+</script>
+
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="fgrid">
+      <div>
+        <div class="flogo">8PCK</div>
+        <p>Shantou Chuangxin Weinuo Plastic Packaging Products Co., Ltd.</p>
+        <p style="color:#b9b9b9">汕头市创新维诺塑料包装制品有限公司</p>
+        <p>B03-05 Plot, Tatou, Brownstone Street, Haojiang District, Shantou, Guangdong, China</p>
+        <p style="margin-top:8px;color:#8a8a8a">8PCK is the export desk of Shantou Chuangxin Weinuo Plastic Packaging Products Co., Ltd. (CXWN). Quotations, contracts and invoices are issued by CXWN; payment goes to CXWN.</p>
+        <p style="margin-top:8px;font-size:13px"><a href="../../reference/" style="color:#8a8a8a;border-bottom:1px solid #ddd">Reference</a>
+        · <a href="../../glossary/" style="color:#8a8a8a;border-bottom:1px solid #ddd">Glossary</a>
+        · <a href="../../answers/" style="color:#8a8a8a;border-bottom:1px solid #ddd">Answers</a></p>
+        <p style="margin-top:12px"><a href="mailto:joe@8pck.com">joe@8pck.com</a></p>
+        <p><a href="https://wa.me/8613363879944">WhatsApp +86 133 6387 9944</a></p>
+        <p style="margin-top:12px;color:#8a8a8a">Mon–Sat, 08:30–18:00 GMT+8</p>
+      </div>
+      <div><b>Products</b><p><a href="../../products/bottles/">Bottles</a></p><p><a href="../../products/jars/">Jars</a></p><p><a href="../../products/airless/">Airless</a></p><p><a href="../../products/closures/">Bottle Caps & Closures</a></p><p><a href="../../products/bags/">Food bags</a></p><p><a href="../../products/spray-bottles/">Spray Bottles</a></p><p><a href="../../products/squeeze-bottles/">Squeeze Bottles</a></p><p><a href="../../products/pharma-bottles/">Pharma Bottles</a></p><p style="margin-top:10px"><a href="../../products/" style="color:#fff;border-bottom:1px solid #444">All 11 categories →</a></p></div>
+      <div><b>Guides</b><p><a href="../../guides/plastic-pump-bottles/">Plastic Pump Bottles</a></p><p><a href="../../guides/bottle-neck-finishes/">Bottle Neck Finishes</a></p><p><a href="../../guides/custom-bottle-moq-and-tooling/">MOQ and Tooling</a></p><p><a href="../../guides/choose-plastic-bottle-manufacturer-china/">Choosing a Manufacturer</a></p><p><a href="../../guides/shampoo-bottles/">Shampoo Bottles</a></p><p><a href="../../guides/bottle-decoration/">Bottle Decoration</a></p><p style="margin-top:10px"><a href="../../guides/" style="color:#fff;border-bottom:1px solid #444">All 117 guides →</a></p></div>
+      <div><b>Company</b>
+        <p><a href="../../factory.html">Factory</a></p>
+        <p><a href="../../quality.html">Quality</a></p>
+        <p><a href="../../custom.html">Custom</a></p>
+        <p><a href="../../about.html">About</a></p>
+        <p><a href="../../verify.html">Verify us</a></p>
+        <p><a href="../../resources.html">Resources</a></p>
+        <p><a href="../../news/">Trends</a></p>
+        <p><a href="../../contact.html">Contact</a></p>
+        <p><a href="../../faq.html">FAQ</a></p>
+      </div>
+      <div><b>Free tools</b>
+        <p><a href="../../tools/spec-checker/">Bottle spec checker</a></p>
+        <p><a href="../../tools/fill-weight/">Jar fill weight</a></p>
+        <p><a href="../../tools/dose-run-rate/">Bottle size by dose</a></p>
+        <p><a href="../../tools/dilution/">Concentrate dilution</a></p>
+        <p><a href="../../tools/moq-tooling/">MOQ &amp; tooling</a></p>
+        <p><a href="../../tools/container-loading/">Container loading</a></p>
+        <p><a href="../../tools/carton-pallet/">Cartons per pallet</a></p>
+        <p><a href="../../tools/bottle-weight/">Bottle weight</a></p>
+        <p style="margin-top:10px"><a href="../../tools/" style="color:#fff;border-bottom:1px solid #444">All tools →</a></p>
+      </div>
+    </div>
+
+    <div class="fall">
+      <b>All products — 12 stock moulds</b>
+      <div class="allgrid"><a href="../../products/bottles/500ml-pet-pump-bottle/">500 ml PET pump bottle</a><a href="../../products/bottles/250ml-pet-pump-bottle/">250 ml PET pump bottle</a><a href="../../products/bottles/300ml-pet-pump-bottle/">300 ml PET pump bottle</a><a href="../../products/bottles/750ml-shampoo-bottle/">750 ml shampoo bottle</a><a href="../../products/bottles/100ml-pet-round-bottle/">100 ml PET round bottle</a><a href="../../products/bottles/200ml-flat-bottle/">200 ml flat bottle</a><a href="../../products/bottles/50ml-travel-bottle/">50 ml travel bottle</a><a href="../../products/bottles/30ml-pet-dropper-bottle/">30 ml PET dropper bottle</a><a href="../../products/jars/250ml-pet-food-jar/">250 ml PET food jar</a><a href="../../products/jars/500ml-pet-food-jar/">500 ml PET food jar</a><a href="../../products/airless/30ml-airless-bottle/">30 ml airless bottle</a><a href="../../products/airless/50ml-airless-bottle/">50 ml airless bottle</a></div>
+    </div>
+
+    <div class="fbot">
+      <span>© 2026 8PCK. All rights reserved.</span>
+      <span>Shantou · Guangdong · China</span>
+    </div>
+  </div>
+</footer>
+<div id="ga-consent" class="consent" hidden>
+  <p>We use Google Analytics to see which pages buyers actually read. No ads, no cross-site tracking.</p>
+  <div><button id="ga-yes" class="btn small">Allow Analytics</button><button id="ga-no" class="ghost small">No thanks</button></div>
+</div>
+<div class="float">
+  <a class="q" href="../../contact.html" title="Get a quote">QUOTE</a>
+  <a class="wa" href="https://wa.me/8613363879944" title="WhatsApp">✆</a>
+</div>
+<div class="mbar">
+  <a href="https://wa.me/8613363879944">WhatsApp</a>
+  <a class="dark" href="../../contact.html">Get a Quote →</a>
+</div>
+<script src="../../assets/js/main.js?v=90308c6b" defer></script>
+</body>
+</html>

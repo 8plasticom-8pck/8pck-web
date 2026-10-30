@@ -355,6 +355,7 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/compare/spray-coat-vs-metallising/ — Spray Coat vs Metallising: Two Finishes, Two Budgets | 8PCK
 - https://8pck.com/contact.html — Contact — get a quote in 24 hours | 8PCK
 - https://8pck.com/cosmetic-packaging/ — Cosmetic Packaging — Bottles, Jars, Airless & Tubes | 8PCK
+- https://8pck.com/custom/multi-part-bottles/ — Multi-part bottles and custom moulds | 8PCK
 - https://8pck.com/custom.html — Custom development — new moulds and copies | 8PCK
 - https://8pck.com/factory.html — Factory — 7,142 m² in Shantou, China | 8PCK
 - https://8pck.com/faq.html — FAQ — MOQ, tooling, lead times and documents | 8PCK
@@ -695,6 +696,7 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/tools/fill-weight/ — Jar Fill Weight Calculator — grams to jar size | 8PCK
 - https://8pck.com/tools/ — Free packaging tools — spec checker | 8PCK
 - https://8pck.com/tools/moq-tooling/ — MOQ and Tooling Calculator | 8PCK
+- https://8pck.com/tools/mould-cost/ — Custom Mould Cost Estimator | 8PCK
 - https://8pck.com/tools/report/ — Specification report — 8PCK
 - https://8pck.com/tools/spec-checker/ — Bottle Spec Checker — neck, capacity and wall | 8PCK
 - https://8pck.com/verify.html — Verify 8PCK — legal entity and certificates | 8PCK
