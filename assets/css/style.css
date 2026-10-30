@@ -140,7 +140,7 @@ b,strong{font-weight:600}
 /* 分区留白收紧但一致 */
 .section{padding:var(--sec) 0}
 .section.tight{padding:44px 0}
-@media (max-width:760px){.wrap h2{margin-top:38px}.section{padding:44px 0}}
+@media (max-width:760px){.wrap h2{margin-top:26px}.section{padding:calc(var(--sec)*.7) 0}}
 
 /* 可读性：行宽与标题统一 */
 .wrap h2{font-size:clamp(24px,2.4vw,30px)}
@@ -518,7 +518,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible{
   .flow{grid-template-columns:1fr 1fr}
   .gal .ph.main{height:320px}
   .row2{grid-template-columns:1fr}
-  .section{padding-top:56px;padding-bottom:56px}
+  .section{padding-top:calc(var(--sec)*.8);padding-bottom:calc(var(--sec)*.8)}
   .hero{padding-top:52px;padding-bottom:44px}
   .band{flex-direction:column;align-items:flex-start}
   .mbar{display:grid;grid-template-columns:1fr 1fr;position:fixed;left:0;right:0;bottom:0;z-index:60;border-top:1px solid #111;background:#fff}
