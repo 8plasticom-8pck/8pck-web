@@ -347,25 +347,26 @@ Title: 1 oz Bottles: 30 ml, Samples and the Cost Floor | 8PCK
 Description: 1 oz is 30 ml — the sample and essential-oil size. Below this, the cap and the filling cost more than the bottle, and the price stops falling.
 Sections: The Cost Floor; Where 1 Oz Is Used; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
+## https://8pck.com/guides/100-ml-bottles/
+Title: 100 ml bottles: one size, several packs | 8PCK
+Description: The 100 ml band, the necks it is moulded with, and which closure each application actually needs.
+Sections: Common to Every Pack at This Size; 100 ml Toner Bottle; 100 ml Sunscreen Bottle; 100 ml Mouthwash Bottle; 100 ml Hand Sanitizer Bottle; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+
 ## https://8pck.com/guides/100-ml-hand-sanitizer-bottle/
-Title: 100 ml Hand Sanitizer Bottle — specs, MOQ and documents | 8PCK
-Description: 100 ml Hand Sanitizer Bottle in PET: a 20/410 neck with a flip-top. The mistake to avoid is a flip-top with no valve that drips gel.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+Title: Moved
+Description: 
 
 ## https://8pck.com/guides/100-ml-mouthwash-bottle/
-Title: 100 ml Mouthwash Bottle — specs, MOQ and documents | 8PCK
-Description: 100 ml Mouthwash Bottle in PET: a 38 mm neck with a measuring cap. The mistake to avoid is a cap without moulded dose lines.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+Title: Moved
+Description: 
 
 ## https://8pck.com/guides/100-ml-sunscreen-bottle/
-Title: 100 ml Sunscreen Bottle — specs, MOQ and documents | 8PCK
-Description: 100 ml Sunscreen Bottle in HDPE: a 20/410 neck with a flip-top. The mistake to avoid is a clear pack that lets UV degrade the formula.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+Title: Moved
+Description: 
 
 ## https://8pck.com/guides/100-ml-toner-bottle/
-Title: 100 ml Toner Bottle — specs, MOQ and documents | 8PCK
-Description: 100 ml Toner Bottle in PET: a 20/410 neck with a fine mist sprayer. The mistake to avoid is a sprayer set for water that spits on a viscous toner.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+Title: Moved
+Description: 
 
 ## https://8pck.com/guides/1000ml-bottles/
 Title: 1 L Bottles — specs, MOQ and documents | 8PCK
@@ -417,20 +418,22 @@ Title: 20/410 Neck: The Travel and Mist Size | 8PCK
 Description: 20/410 sits between the dropper neck and the standard pump neck: fine mist sprayers, travel flip-tops and 50–100 ml bottles.
 Sections: What Fits A 20/410; Why Not 24/410 at This Size; Where It Fails; How to Confirm the Neck Before Ordering; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
+## https://8pck.com/guides/200-ml-bottles/
+Title: 200 ml bottles: one size, several packs | 8PCK
+Description: The 200 ml band, the necks it is moulded with, and which closure each application actually needs.
+Sections: Common to Every Pack at This Size; 200 ml Toner Bottle; 200 ml Sunscreen Bottle; 200 ml Micellar Water Bottle; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+
 ## https://8pck.com/guides/200-ml-micellar-water-bottle/
-Title: 200 ml Micellar Water Bottle — specs, MOQ and documents | 8PCK
-Description: 200 ml Micellar Water Bottle in PET: a 24/410 neck with a disc-top. The mistake to avoid is a disc-top that splashes a water-thin liquid.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+Title: Moved
+Description: 
 
 ## https://8pck.com/guides/200-ml-sunscreen-bottle/
-Title: 200 ml Sunscreen Bottle — specs, MOQ and documents | 8PCK
-Description: 200 ml Sunscreen Bottle in HDPE: a 24/410 neck with a pump. The mistake to avoid is a pump that clogs with a mineral (zinc) formula.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+Title: Moved
+Description: 
 
 ## https://8pck.com/guides/200-ml-toner-bottle/
-Title: 200 ml Toner Bottle — specs, MOQ and documents | 8PCK
-Description: 200 ml Toner Bottle in PET: a 24/410 neck with a disc-top. The mistake to avoid is a disc-top that pours too fast for a watery toner.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+Title: Moved
+Description: 
 
 ## https://8pck.com/guides/200ml-bottles/
 Title: 200 ml Bottles — specs, MOQ and documents | 8PCK
@@ -442,15 +445,18 @@ Title: 24/410 Neck: The Default That Fits Most Pumps | 8PCK
 Description: 24/410 is the most common cosmetic neck in the world: lotion pumps, disc-tops, flip-tops and 250–500 ml bottles. Getting this one right settles most of a r
 Sections: The Closure Range Is the Reason; Wall Thickness At 24/410; Where It Fails; How to Confirm the Neck Before Ordering; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
+## https://8pck.com/guides/250-ml-bottles/
+Title: 250 ml bottles: one size, several packs | 8PCK
+Description: The 250 ml band, the necks it is moulded with, and which closure each application actually needs.
+Sections: Common to Every Pack at This Size; 250 ml Hand Soap Bottle; 250 ml Massage Oil Bottle; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+
 ## https://8pck.com/guides/250-ml-hand-soap-bottle/
-Title: 250 ml Hand Soap Bottle — specs, MOQ and documents | 8PCK
-Description: 250 ml Hand Soap Bottle in PET: a 24/410 neck with a lotion pump. The mistake to avoid is a pump that draws air at the last third because the wall is too t
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+Title: Moved
+Description: 
 
 ## https://8pck.com/guides/250-ml-massage-oil-bottle/
-Title: 250 ml Massage Oil Bottle — specs, MOQ and documents | 8PCK
-Description: 250 ml Massage Oil Bottle in HDPE: a 28/410 neck with a pump. The mistake to avoid is a pump that slips out of oily hands.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+Title: Moved
+Description: 
 
 ## https://8pck.com/guides/250ml-bottles/
 Title: 250 ml Bottles — specs, MOQ and documents | 8PCK
@@ -462,15 +468,18 @@ Title: 28/410 Neck: For 500–750 ml and Heavier Pumps | 8PCK
 Description: 28/410 is the neck for larger bottles and heavier pumps. It is also where wall thickness stops being a detail and starts being the specification.
 Sections: When 28/410 Is the Right Choice; The Wall Requirement; Where It Fails; How to Confirm the Neck Before Ordering; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
+## https://8pck.com/guides/30-ml-bottles/
+Title: 30 ml bottles: one size, several packs | 8PCK
+Description: The 30 ml band, the necks it is moulded with, and which closure each application actually needs.
+Sections: Common to Every Pack at This Size; 30 ml Serum Bottle; 30 ml Essential Oil Bottle; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+
 ## https://8pck.com/guides/30-ml-essential-oil-bottle/
-Title: 30 ml Essential Oil Bottle — specs, MOQ and documents | 8PCK
-Description: 30 ml Essential Oil Bottle in PET: a 18/410 neck with a dropper. The mistake to avoid is an amber requirement missed at the sample stage.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+Title: Moved
+Description: 
 
 ## https://8pck.com/guides/30-ml-serum-bottle/
-Title: 30 ml Serum Bottle — specs, MOQ and documents | 8PCK
-Description: 30 ml Serum Bottle in PET: a 18/410 neck with a dropper. The mistake to avoid is the pipette is too short to reach the last millilitre.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+Title: Moved
+Description: 
 
 ## https://8pck.com/guides/300-ml-conditioner-bottle/
 Title: 300 ml Conditioner Bottle — specs, MOQ and documents | 8PCK
@@ -498,34 +507,38 @@ Description: 4 oz is about 120 ml, the most common cosmetic cream jar and the st
 Sections: Why 120 ml Is the Cream Default; Candle Fills; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/50-ml-baby-oil-bottle/
-Title: 50 ml Baby Oil Bottle — specs, MOQ and documents | 8PCK
-Description: 50 ml Baby Oil Bottle in HDPE: a 20/410 neck with a flip-top. The mistake to avoid is a flip-top that opens in a changing bag.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+Title: Moved
+Description: 
+
+## https://8pck.com/guides/50-ml-bottles/
+Title: 50 ml bottles: one size, several packs | 8PCK
+Description: The 50 ml band, the necks it is moulded with, and which closure each application actually needs.
+Sections: Common to Every Pack at This Size; 50 ml Serum Bottle; 50 ml Baby Oil Bottle; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/50-ml-serum-bottle/
-Title: 50 ml Serum Bottle — specs, MOQ and documents | 8PCK
-Description: 50 ml Serum Bottle in PETG: a 18/410 neck with a dropper. The mistake to avoid is a dropper collar that does not sit flush on a thick-wall bottle.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+Title: Moved
+Description: 
 
 ## https://8pck.com/guides/500-ml-body-wash-bottle/
-Title: 500 ml Body Wash Bottle — specs, MOQ and documents | 8PCK
-Description: 500 ml Body Wash Bottle in HDPE: a 28/410 neck with a lotion pump. The mistake to avoid is a pump that doses 2 ml when the label says 5 ml per wash.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+Title: Moved
+Description: 
+
+## https://8pck.com/guides/500-ml-bottles/
+Title: 500 ml bottles: one size, several packs | 8PCK
+Description: The 500 ml band, the necks it is moulded with, and which closure each application actually needs.
+Sections: Common to Every Pack at This Size; 500 ml Shampoo Bottle; 500 ml Body Wash Bottle; 500 ml Mouthwash Bottle; 500 ml Hand Sanitizer Bottle; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/500-ml-hand-sanitizer-bottle/
-Title: 500 ml Hand Sanitizer Bottle — specs, MOQ and documents | 8PCK
-Description: 500 ml Hand Sanitizer Bottle in PET: a 24/410 neck with a pump. The mistake to avoid is a pump that cannot handle a 70 % alcohol gel.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+Title: Moved
+Description: 
 
 ## https://8pck.com/guides/500-ml-mouthwash-bottle/
-Title: 500 ml Mouthwash Bottle — specs, MOQ and documents | 8PCK
-Description: 500 ml Mouthwash Bottle in PET: a 38 mm neck with a measuring cap. The mistake to avoid is a cap that cracks when over-torqued.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+Title: Moved
+Description: 
 
 ## https://8pck.com/guides/500-ml-shampoo-bottle/
-Title: 500 ml Shampoo Bottle — specs, MOQ and documents | 8PCK
-Description: 500 ml Shampoo Bottle in PET: a 24/410 neck with a lotion pump. The mistake to avoid is a 0.45 mm shoulder that flexes under every stroke.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+Title: Moved
+Description: 
 
 ## https://8pck.com/guides/500ml-bottles/
 Title: 500 ml Bottles: The English-Speaking Market Default | 8PCK
