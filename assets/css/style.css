@@ -462,7 +462,7 @@ table.t td.num{font-family:var(--mono);font-size:12.5px;font-variant-numeric:tab
 
 /* footer */
 .site-footer{background:#0f0f0f;color:#cfcfcf;padding:72px 0 34px}
-.fgrid{display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr 1fr;gap:34px}
+.fgrid{display:grid;grid-template-columns:1.4fr .9fr .9fr .9fr .9fr .9fr;gap:26px}
 .site-footer b{display:block;font-family:var(--mono);font-size:9.5px;letter-spacing:.16em;text-transform:uppercase;color:#8a8a8a;margin-bottom:12px;font-weight:500}
 .site-footer a{color:#d4d4d4;transition:color .15s}
 .site-footer a:hover{color:#fff}
