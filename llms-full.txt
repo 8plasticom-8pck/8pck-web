@@ -1868,6 +1868,25 @@ Title: Squeeze Bottles — LDPE & HDPE, 30–500 ml | 8PCK
 Description: Squeeze Bottles: 30–500 ml soft-wall and firm-wall squeeze bottles for sauces, gels and cleansers.
 Sections: What Buyers Get Wrong; Soft Wall or Firm Wall; Necks and Dispensing; MOQ and Colour; Frequently Asked; Applications for This Range; The Guides Behind These Decisions
 
+## https://8pck.com/projects/four-part-mixing-pack/
+Title: Four-part mixing pack — case note | 8PCK
+Description: A 200 ml four-part pack: collar-carried threads, two O-rings, a left-hand joint and what the sample round caught.
+Sections: Decision 1 — the Collar Carries the Threads; Decision 2 — Two O-Rings, Not One Gasket; Decision 3 — the Lower Joint Is Left-Hand; What the Sample Round Caught
+
+## https://8pck.com/projects/
+Title: Projects — anonymised case notes | 8PCK
+Description: Three builds described by structure and numbers: a four-part mixing pack, a thick-wall serum bottle, a refill duo.
+
+## https://8pck.com/projects/refill-duo/
+Title: Refill duo — case note | 8PCK
+Description: A 500 ml refill and a 100 ml companion sharing one closure family, and the dip-tube mistake.
+Sections: One Neck, Two Bottles; The Dip Tube Is the Only Difference; What Went Wrong Once
+
+## https://8pck.com/projects/thick-wall-serum/
+Title: Thick-wall 30 ml serum bottle — case note | 8PCK
+Description: How a 30 ml PETG bottle was made to feel heavier than it is, and why the dropper was shortened.
+Sections: The Base Does the Work; The Dropper Had to Reach the Last Millilitre; Why Not Glass
+
 ## https://8pck.com/quality.html
 Title: Quality & compliance — ISO 9001, EU 10/2011, RoHS | 8PCK
 Description: Certificates, testing and rPET declarations on file. Six checks per production run.
