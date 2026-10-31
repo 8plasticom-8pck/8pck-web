@@ -874,6 +874,11 @@ Title: Pumps with a Lock: What Fits, and What Fails | 8PCK
 Description: Pumps with a Lock in 24/410, used for baby wash, travel and e-commerce. The specification question is a lock that releases in a bag and pumps the product o
 Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
+## https://8pck.com/guides/request-a-quote/
+Title: How to request a quote that comes back in one day | 8PCK
+Description: Most quotes are slow because the brief is incomplete, not because the factory is slow. These are the six fields that turn an enquiry into a price.
+Sections: The Six Fields; Why Each One Moves the Price; What Makes a Quote Slow; Stock or New Mould — Ask This First; What You Get Back; Two Things to Send With the Brief; The Five-Line Format We Use; After the Quote, the Four Steps That Matter
+
 ## https://8pck.com/guides/rpet-bottles/
 Title: rPET Bottles: What the Percentage Actually Means | 8PCK
 Description: rPET is recycled PET. The number on the label is a claim that needs a grade, a batch declaration and a colour expectation — not just a percentage.
