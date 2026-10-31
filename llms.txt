@@ -53,6 +53,10 @@
 - 50 ml airless bottle — 50 ml, Airless, PETG, On request, closures: Matched airless pump; MOQ 1,000 pcs, lead 30–40 days; for foundation, moisturiser and sun care — https://8pck.com/products/airless/50ml-airless-bottle/
 
 ## Guides
+- Sampling: What a Sample Round Costs and Proves | 8PCK — https://8pck.com/guides/sampling/ — covers: bottle sample, packaging sampling process, sample lead time, bottle prototype. A sample is not a gift and not a formality. It is the specification you will be held to for the next three years.
+- Incoming QC Checklist for Bottles and Closures | 8PCK — https://8pck.com/guides/qc-checklist/ — covers: bottle quality control, incoming inspection checklist, packaging QC, bottle inspection. What to check when a container arrives, in the order that catches the most problems for the least time.
+- Production Lead Time: Where 25–35 Days Goes | 8PCK — https://8pck.com/guides/production-lead-time/ — covers: bottle production lead time, packaging lead time, manufacturing lead time. Lead time is not one number. It is moulding, decoration, assembly, packing and the queue in front of each.
+- How to Evaluate a Bottle Supplier in One Call | 8PCK — https://8pck.com/guides/evaluate-a-supplier/ — covers: how to choose a bottle supplier, packaging supplier evaluation, bottle factory audit. Six questions that separate a factory from a trading desk, and the answers that should make you suspicious.
 - How to Request a Bottle Quote That Comes Back in One Day | 8PCK — https://8pck.com/guides/request-a-quote/ — covers: how to request a bottle quote, bottle quotation, packaging rfq, bottle price enquiry. Most quotes are slow because the brief is incomplete, not because the factory is slow. These are the six fields that turn an enqui
 - What a Custom Bottle Mould Costs, Part by Part | 8PCK — https://8pck.com/guides/custom-bottle-mould-cost/ — covers: custom bottle mould cost, plastic bottle mould price, bottle tooling cost, injection mould cost. A four-part pack is not four times a one-part pack by accident. Here is where the money goes, why a thread can add 40 %, and what 
 - Plastic Pump Bottles — https://8pck.com/guides/plastic-pump-bottles/ — covers: plastic pump bottle, lotion pump bottle, pump bottle supplier, 24/410 pump bottle, shampoo bottle 500ml. A pump bottle is three parts sold as one product — bottle, neck finish and pump. Get the neck wrong and the pump leaks; get the wa
@@ -456,6 +460,7 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/guides/drain-cleaner-bottles/ — Drain Cleaner Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/dropper-assemblies/ — Dropper Assemblies: What Fits, and What Fails | 8PCK
 - https://8pck.com/guides/dropper-bottles/ — Dropper Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/evaluate-a-supplier/ — How to evaluate a bottle supplier in one call | 8PCK
 - https://8pck.com/guides/fabric-softener-bottles/ — Fabric Softener Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/fine-mist-sprayers/ — Fine Mist Sprayers: What Fits, and What Fails | 8PCK
 - https://8pck.com/guides/flip-top-caps/ — Flip-Top Caps: What Fits, and What Fails | 8PCK
@@ -490,9 +495,12 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/guides/pharmaceutical-bottles/ — Pharmaceutical Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/plastic-bottles-with-caps/ — Plastic Bottles with Caps — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/plastic-pump-bottles/ — Plastic Pump Bottles — specs, MOQ and documents | 8PCK
+- https://8pck.com/guides/production-lead-time/ — Production Lead Time: Where 25–35 Days Goes | 8PCK
 - https://8pck.com/guides/pump-with-lock/ — Pumps with a Lock: What Fits, and What Fails | 8PCK
+- https://8pck.com/guides/qc-checklist/ — Incoming QC Checklist for Bottles and Closures | 8PCK
 - https://8pck.com/guides/request-a-quote/ — How to request a quote that comes back in one day | 8PCK
 - https://8pck.com/guides/rpet-bottles/ — rPET Bottles: What the Percentage Actually Means | 8PCK
+- https://8pck.com/guides/sampling/ — Sampling: What a Sample Round Costs and Proves | 8PCK
 - https://8pck.com/guides/sanitizer-bottles/ — Sanitizer bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/screw-caps/ — Screw Caps: What Fits, and What Fails | 8PCK
 - https://8pck.com/guides/self-tanner-bottles/ — Self-Tanner Bottles — specs, MOQ and documents | 8PCK
@@ -514,7 +522,13 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/manufacturing/injection/ — Injection moulding: tolerance and wall | 8PCK
 - https://8pck.com/manufacturing/isbm/ — Injection stretch blow: neck and body | 8PCK
 - https://8pck.com/manufacturing/tooling/ — The tool shop: what 15–40 days covers | 8PCK
+- https://8pck.com/materials/hdpe/ — HDPE bottles and jars — properties and limits | 8PCK
+- https://8pck.com/materials/ — Materials — PET, PETG, HDPE, PP, rPET | 8PCK
+- https://8pck.com/materials/pet/ — PET bottles and jars — properties and limits | 8PCK
+- https://8pck.com/materials/petg/ — PETG bottles and jars — properties and limits | 8PCK
 - https://8pck.com/materials/polyethylene-bottles/ — Polyethylene Bottles — HDPE & LDPE, 30–1,000 ml | 8PCK
+- https://8pck.com/materials/pp/ — PP bottles and jars — properties and limits | 8PCK
+- https://8pck.com/materials/rpet/ — rPET bottles and jars — properties and limits | 8PCK
 - https://8pck.com/news/aldi-50-percent-recycled-content/ — Aldi and Pact Take Household Packaging to 50% Recycled
 - https://8pck.com/news/alpla-us-bottle-plant/ — Alpla Is Building a Bottle Plant in the US | 8PCK
 - https://8pck.com/news/berlin-packaging-premi-consolidation/ — Berlin Packaging Buys Premi | 8PCK

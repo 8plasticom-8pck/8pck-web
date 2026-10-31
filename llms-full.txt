@@ -700,6 +700,11 @@ Title: Dropper Bottles — specs, MOQ and documents | 8PCK
 Description: A dropper bottle is a bottle, a collar and a pipette that have to seal at three points. The 18/410 neck is the standard for serums and oils — the rest is a
 Sections: Glass vs Plastic; Why the Collar Matters More Than the Bottle; Dose per Drop Is a Specification, Not a Guess; Where Dropper Bottles Go Wrong; Sizing a Serum Bottle; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
+## https://8pck.com/guides/evaluate-a-supplier/
+Title: How to evaluate a bottle supplier in one call | 8PCK
+Description: Six questions that separate a factory from a trading desk, and the answers that should make you suspicious.
+Sections: Ask for the Certificate Number, Not the Logo; Ask Which Process, and Why; Ask What They Will Not Do; Ask Who Signs the Drawing; Ask for One Customer Reference in Your Market; Ask What Happens if a Batch Fails; Questions We Get on This; Sizes That Fit This Guide
+
 ## https://8pck.com/guides/fabric-softener-bottles/
 Title: Fabric Softener Bottles — specs, MOQ and documents | 8PCK
 Description: Fabric Softener packs in 1–1.5 L, usually with a 38 mm neck and a measuring cap. The specification question is not the bottle — it is a measuring cap that
@@ -869,10 +874,20 @@ Title: Plastic Pump Bottles — specs, MOQ and documents | 8PCK
 Description: A pump bottle is three parts sold as one product — bottle, neck finish and pump. Get the neck wrong and the pump leaks; get the wall thickness wrong and th
 Sections: The Three Parts, and Which One Actually Fails; Sizes and Which Markets Buy Them; Wall Thickness, Weight and Where the Cost Sits; Testing Before the Container Ships; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
+## https://8pck.com/guides/production-lead-time/
+Title: Production Lead Time: Where 25–35 Days Goes | 8PCK
+Description: Lead time is not one number. It is moulding, decoration, assembly, packing and the queue in front of each.
+Sections: Moulding; Decoration; Assembly and Packing; What Makes It Slip; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+
 ## https://8pck.com/guides/pump-with-lock/
 Title: Pumps with a Lock: What Fits, and What Fails | 8PCK
 Description: Pumps with a Lock in 24/410, used for baby wash, travel and e-commerce. The specification question is a lock that releases in a bag and pumps the product o
 Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+
+## https://8pck.com/guides/qc-checklist/
+Title: Incoming QC Checklist for Bottles and Closures | 8PCK
+Description: What to check when a container arrives, in the order that catches the most problems for the least time.
+Sections: Paperwork First; Dimensional Checks; Visual and Functional; What to Do With a Failure; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/request-a-quote/
 Title: How to request a quote that comes back in one day | 8PCK
@@ -883,6 +898,11 @@ Sections: The Six Fields; Why Each One Moves the Price; What Makes a Quote Slow;
 Title: rPET Bottles: What the Percentage Actually Means | 8PCK
 Description: rPET is recycled PET. The number on the label is a claim that needs a grade, a batch declaration and a colour expectation — not just a percentage.
 Sections: The Three Documents; What Changes Visually; What to Ask; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
+
+## https://8pck.com/guides/sampling/
+Title: Sampling: What a Sample Round Costs and Proves | 8PCK
+Description: A sample is not a gift and not a formality. It is the specification you will be held to for the next three years.
+Sections: What a Sample Round Is; What It Costs; What to Check Before You Approve; The Three Failures We See; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/sanitizer-bottles/
 Title: Sanitizer bottles — specs, MOQ and documents | 8PCK
@@ -989,10 +1009,39 @@ Title: The tool shop: what 15–40 days covers | 8PCK
 Description: Design, machining, trial, correction — and what moves the number.
 Sections: The Sequence; What Changes the Number; Ownership; What to Send
 
+## https://8pck.com/materials/hdpe/
+Title: HDPE bottles and jars — properties and limits | 8PCK
+Description: HDPE: Opaque, tough, chemically resistant. The household default.
+Sections: What It Is Good At; Where It Stops; Typical Use; Next Step
+
+## https://8pck.com/materials/
+Title: Materials — PET, PETG, HDPE, PP, rPET | 8PCK
+Description: Five resins and where each one stops: clarity, chemical resistance, heat, recycled content.
+
+## https://8pck.com/materials/pet/
+Title: PET bottles and jars — properties and limits | 8PCK
+Description: PET: Clear, light, food-grade, recyclable. The default for anything the customer must see.
+Sections: What It Is Good At; Where It Stops; Typical Use; Next Step
+
+## https://8pck.com/materials/petg/
+Title: PETG bottles and jars — properties and limits | 8PCK
+Description: PETG: Thick-wall clarity with a premium feel. Heavier, slower to mould, and the resin for a luxury serum.
+Sections: What It Is Good At; Where It Stops; Typical Use; Next Step
+
 ## https://8pck.com/materials/polyethylene-bottles/
 Title: Polyethylene Bottles — HDPE & LDPE, 30–1,000 ml | 8PCK
 Description: Polyethylene bottles in HDPE and LDPE, 30–1,000 ml, for shampoo, detergent, sauces and chemicals. 1,000 pcs MOQ, samples in 7 days.
 Sections: HDPE vs LDPE; Why Polyethylene and Not PET; Recycling Note; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
+
+## https://8pck.com/materials/pp/
+Title: PP bottles and jars — properties and limits | 8PCK
+Description: PP: Broad chemical resistance and heat tolerance. The closure material.
+Sections: What It Is Good At; Where It Stops; Typical Use; Next Step
+
+## https://8pck.com/materials/rpet/
+Title: rPET bottles and jars — properties and limits | 8PCK
+Description: rPET: Recycled PET at 30 % or higher. Same processing, different paperwork.
+Sections: What It Is Good At; Where It Stops; Typical Use; Next Step
 
 ## https://8pck.com/news/aldi-50-percent-recycled-content/
 Title: Aldi and Pact Take Household Packaging to 50% Recycled
