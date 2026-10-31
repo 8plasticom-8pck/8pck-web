@@ -179,6 +179,11 @@ Title: Multi-part bottles and custom moulds | 8PCK
 Description: How a four-part bottle is made and costed: part count, threads, seals, metal finishes, tooling time and confidentiality.
 Sections: What "Multi-Part" Actually Means; The Three Things That Move a Mould Budget; What We Check Before the Tool Is Cut; Sealing, and How It Is Proven; Metal Finishes and One Honest Warning; Time and Confidentiality; What to Send for a Tooling Quote
 
+## https://8pck.com/custom/nda/
+Title: Confidentiality and NDA | 8PCK
+Description: What happens to your drawing: one-page mutual NDA, tool ownership, no reuse, deletion on request, and who sees the files.
+Sections: The One-Page NDA; Questions Buyers Ask Before Signing
+
 ## https://8pck.com/custom.html
 Title: Custom development — new moulds and copies | 8PCK
 Description: Copy an existing bottle or cut a new mould. Tooling from USD 800, 15–20 days, DFM before quotation.
