@@ -508,6 +508,12 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/guides/trigger-sprayers/ — Trigger Sprayers: What Fits, and What Fails | 8PCK
 - https://8pck.com/guides/valve-caps/ — Valve Caps: What Fits, and What Fails | 8PCK
 - https://8pck.com/ — 8PCK — Custom plastic bottles from CXWN, Shantou
+- https://8pck.com/manufacturing/decoration/ — Decoration: MOQ and failure modes | 8PCK
+- https://8pck.com/manufacturing/ebm/ — Extrusion blow: handles and wide mouths | 8PCK
+- https://8pck.com/manufacturing/ — Manufacturing — injection, ISBM, EBM, tooling, decoration | 8PCK
+- https://8pck.com/manufacturing/injection/ — Injection moulding: tolerance and wall | 8PCK
+- https://8pck.com/manufacturing/isbm/ — Injection stretch blow: neck and body | 8PCK
+- https://8pck.com/manufacturing/tooling/ — The tool shop: what 15–40 days covers | 8PCK
 - https://8pck.com/materials/polyethylene-bottles/ — Polyethylene Bottles — HDPE & LDPE, 30–1,000 ml | 8PCK
 - https://8pck.com/news/aldi-50-percent-recycled-content/ — Aldi and Pact Take Household Packaging to 50% Recycled
 - https://8pck.com/news/alpla-us-bottle-plant/ — Alpla Is Building a Bottle Plant in the US | 8PCK

@@ -959,6 +959,36 @@ Title: 8PCK — Custom plastic bottles from CXWN, Shantou
 Description: Custom PET, HDPE and PETG bottles made by CXWN in Shantou, China. MOQ 1,000 pcs, samples in 7 days, EU 10/2011 migration test and RoHS reports on file.
 Sections: Tubes, Lipstick and Straw-Fibre Bottles; What We Mould, by Application; How a Custom Order Runs, Step by Step; What Each Stage Actually Takes; Certificates You Can Check Yourself; What Shipped This Year; Who We Supply; Check the Spec Before You Ask for a Price
 
+## https://8pck.com/manufacturing/decoration/
+Title: Decoration: MOQ and failure modes | 8PCK
+Description: Silkscreen, label, spray, metallising, hot stamp — minimums and how each fails.
+Sections: The Five Options; Why Decoration Is Quoted Separately; The One That Surprises Buyers; What to Send
+
+## https://8pck.com/manufacturing/ebm/
+Title: Extrusion blow: handles and wide mouths | 8PCK
+Description: The HDPE workhorse: cheap big bodies, wider walls, and what it cannot hold.
+Sections: How It Works; What It Is Good For; The Trade-Offs; What to Send
+
+## https://8pck.com/manufacturing/
+Title: Manufacturing — injection, ISBM, EBM, tooling, decoration | 8PCK
+Description: What runs in the building: injection, injection stretch blow, extrusion blow, the tool shop and decoration.
+Sections: The Short Version
+
+## https://8pck.com/manufacturing/injection/
+Title: Injection moulding: tolerance and wall | 8PCK
+Description: Why threads, seals and multi-part collars are injection moulded, and what tolerance is realistic.
+Sections: What We Run; Tolerance, Honestly; Wall and Cycle; What to Send
+
+## https://8pck.com/manufacturing/isbm/
+Title: Injection stretch blow: neck and body | 8PCK
+Description: One-step ISBM: precise neck, strong light body, and where the shape stops.
+Sections: Why It Exists; What It Is Good For; Where It Stops; What to Send
+
+## https://8pck.com/manufacturing/tooling/
+Title: The tool shop: what 15–40 days covers | 8PCK
+Description: Design, machining, trial, correction — and what moves the number.
+Sections: The Sequence; What Changes the Number; Ownership; What to Send
+
 ## https://8pck.com/materials/polyethylene-bottles/
 Title: Polyethylene Bottles — HDPE & LDPE, 30–1,000 ml | 8PCK
 Description: Polyethylene bottles in HDPE and LDPE, 30–1,000 ml, for shampoo, detergent, sauces and chemicals. 1,000 pcs MOQ, samples in 7 days.
