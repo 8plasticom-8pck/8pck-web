@@ -11,7 +11,6 @@
   <url><loc>https://8pck.com/verify.html</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/contact.html</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/faq.html</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/thanks.html</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/news/</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/news/ppwr-in-force-what-changes-for-bottles/</loc><lastmod>2026-10-31</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/news/pfas-claims-supply-chain/</loc><lastmod>2026-10-18</lastmod><priority>0.6</priority></url>
@@ -137,11 +136,6 @@
   <url><loc>https://8pck.com/guides/300-ml-conditioner-bottle/</loc><lastmod>2026-10-20</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/guides/120-ml-hotel-shampoo-bottle/</loc><lastmod>2026-10-20</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/guides/30-ml-bottles/</loc><lastmod>2026-10-20</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/guides/50-ml-bottles/</loc><lastmod>2026-10-20</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/guides/100-ml-bottles/</loc><lastmod>2026-10-20</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/guides/200-ml-bottles/</loc><lastmod>2026-10-20</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/guides/250-ml-bottles/</loc><lastmod>2026-10-20</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/guides/500-ml-bottles/</loc><lastmod>2026-10-20</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/products/bottles/</loc><lastmod>2026-10-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://8pck.com/products/jars/</loc><lastmod>2026-10-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://8pck.com/products/airless/</loc><lastmod>2026-10-19</lastmod><priority>0.8</priority></url>
@@ -242,6 +236,9 @@
   <url><loc>https://8pck.com/formats/soft-tubes/printed-flat-soft-tube-with-screw-cap/</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/products/dropper-bottles/10-ml-pe-flat-dropper-bottle-with-tamper-evident-cap/</loc><lastmod>2026-10-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://8pck.com/formats/soft-tubes/black-soft-tube-with-screw-cap/</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/custom-mould/</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/pricing-factors/</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/who-invoices-you/</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/compare/</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/answers/</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/glossary/</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
@@ -270,7 +267,6 @@
   <url><loc>https://8pck.com/packaging-engineering/sealing/</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/packaging-engineering/formula-compatibility/</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/packaging-engineering/testing/</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/tools/report/</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/tools/spec-checker/</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/tools/fill-weight/</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/tools/dose-run-rate/</loc><lastmod>2026-10-22</lastmod><priority>0.6</priority></url>

@@ -116,5 +116,10 @@
  "products/bottles/750-ml-pet-bottle/": "products/bottles/pet-bottle-sizes/",
  "products/bottles/250ml-pet-pump-bottle/": "products/bottles/pet-pump-bottle-sizes/",
  "products/bottles/300ml-pet-pump-bottle/": "products/bottles/pet-pump-bottle-sizes/",
- "products/bottles/500ml-pet-pump-bottle/": "products/bottles/pet-pump-bottle-sizes/"
+ "products/bottles/500ml-pet-pump-bottle/": "products/bottles/pet-pump-bottle-sizes/",
+ "guides/50-ml-bottles/": "guides/50ml-bottles/",
+ "guides/100-ml-bottles/": "guides/100ml-bottles/",
+ "guides/200-ml-bottles/": "guides/200ml-bottles/",
+ "guides/250-ml-bottles/": "guides/250ml-bottles/",
+ "guides/500-ml-bottles/": "guides/500ml-bottles/"
 }
