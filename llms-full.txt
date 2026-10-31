@@ -1948,7 +1948,7 @@ Description: Neck finish chart, RFQ checklist, stock mould specs, certificates a
 ## https://8pck.com/resources.html
 Title: Resources — catalogue, certificates, drawings | 8PCK
 Description: Product catalogue, certificate pack, specification sheets and packing data, sent by email.
-Sections: Documents That Need a Name on Them
+Sections: Documents That Need a Name on Them; Materials, Manufacturing, Engineering
 
 ## https://8pck.com/tools/bottle-weight/
 Title: Plastic Bottle Weight Calculator (grams) | 8PCK
