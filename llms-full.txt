@@ -647,6 +647,11 @@ Title: MOQ and Tooling — specs, MOQ and documents | 8PCK
 Description: Two numbers decide whether a custom bottle project is viable: the minimum order quantity and the tooling cost. Both are smaller than most buyers expect, pr
 Sections: When You Do Not Need a Mould; When a New Mould Is Worth It; The Real Cost of a Small First Order; The Three Things That Actually Drive the MOQ; Tooling: What You Own and What You Don't; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
 
+## https://8pck.com/guides/custom-bottle-mould-cost/
+Title: What a custom bottle mould costs, part by part | 8PCK
+Description: A four-part pack is not four times a one-part pack by accident. Here is where the money goes, why a thread can add 40 %, and what the number looks like bef
+Sections: Part Count Beats Part Size; The Band, by Part Size; The Unscrewing Penalty; Finish, Seal and the Hidden Allowances; What a Four-Part Assembly Looks Like in Numbers; Why Two Factories Quote 3× Apart; Where the Days Go After T1; What We Need Before the Number Is Firm
+
 ## https://8pck.com/guides/cuticle-oil-bottles/
 Title: Cuticle Oil Bottles — specs, MOQ and documents | 8PCK
 Description: Cuticle Oil packs in 10–30 ml, usually with a 18/410 neck and a brush or dropper. The specification question is not the bottle — it is a brush applicator t
@@ -984,7 +989,7 @@ Sections: What Changed; What It Means for Buyers; What to Ask a Supplier; What I
 ## https://8pck.com/news/
 Title: Packaging trends — what changes a purchase order | 8PCK
 Description: A daily note on packaging regulation, materials and supply chain news, read from a buyer's side.
-Sections: PFAS Claims Are Moving Down the Supply Chain. What Should Bottle Buyers Ask For?; Big Beauty Brands Are Buying Stock Packaging. Here Is What That Means for Smaller Ones; Berlin Packaging Buys Premi: Consolidation Is Reaching the Mid-Market; “Low MOQ” Is Now a Marketing Claim. Here Is What It Actually Costs; California EPR Fees Are Landing on Packaging Weight. What It Changes in a Bottle Spec; Enzymatic Recycling of PE and PP Lacks Evidence. What That Means for a Packaging Claim; Mono-Material Packaging Is Beauty's Next Shift. What It Changes in a Bottle Spec; The EU Is Consulting on Bio-Based Plastics. What It Means for a Bottle Claim
+Sections: PPWR Is Already in Force. What Changes for a Bottle Buyer This Year?; PFAS Claims Are Moving Down the Supply Chain. What Should Bottle Buyers Ask For?; Big Beauty Brands Are Buying Stock Packaging. Here Is What That Means for Smaller Ones; Berlin Packaging Buys Premi: Consolidation Is Reaching the Mid-Market; “Low MOQ” Is Now a Marketing Claim. Here Is What It Actually Costs; California EPR Fees Are Landing on Packaging Weight. What It Changes in a Bottle Spec; Enzymatic Recycling of PE and PP Lacks Evidence. What That Means for a Packaging Claim; Mono-Material Packaging Is Beauty's Next Shift. What It Changes in a Bottle Spec
 
 ## https://8pck.com/news/low-moq-expectations/
 Title: “Low MOQ” Is Now a Marketing Claim | 8PCK
@@ -1009,6 +1014,11 @@ Sections: What Changed; What It Means for Buyers; What to Ask a Supplier; What I
 ## https://8pck.com/news/ppwr-bio-based-targets/
 Title: The EU Is Weighing Bio-Based Targets Under PPWR | 8PCK
 Description: Packaging Insights reports the Commission weighing bio-based plastic targets as part of the PPWR review. For a bottle buyer, the question is which claim the
+Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
+
+## https://8pck.com/news/ppwr-in-force-what-changes-for-bottles/
+Title: PPWR Is Already In Force | 8PCK
+Description: Regulation (EU) 2025/40 has applied since 12 August 2026. The deadlines that matter for cosmetic packaging are not the ones in the news — they are the design
 Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
 
 ## https://8pck.com/news/stock-packaging-beauty-brands/
