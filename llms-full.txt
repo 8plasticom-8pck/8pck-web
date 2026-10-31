@@ -1044,6 +1044,31 @@ Title: Big Beauty Brands Are Buying Stock Packaging | 8PCK
 Description: Cosmetics Business reports that major beauty names are moving to stock packs to cut lead times. For smaller brands, the same shelves are now a competitive
 Sections: What Changed; What It Means for Buyers; What to Ask a Supplier; What It Changes in a Bottle Spec
 
+## https://8pck.com/packaging-engineering/formula-compatibility/
+Title: Formula compatibility: pH, solvent, resin | 8PCK
+Description: Which resin and which finish survive an acid peel, an alcohol and an active — and the tests that prove it.
+Sections: The Three Questions We Ask First; Material by Formula; The Plated Part Is the One That Fails; Compatibility Testing, in Order of Cost; What We Need to Answer Properly
+
+## https://8pck.com/packaging-engineering/
+Title: Packaging engineering — design, sealing, compatibility, testing
+Description: How a custom pack is engineered: wall and tolerance, seal grooves, formula compatibility, and the tests that catch a leak.
+Sections: Why This Section Exists
+
+## https://8pck.com/packaging-engineering/part-design/
+Title: Part design: wall, draft, gate and tolerance | 8PCK
+Description: Wall thickness, draft, gate position and the tolerance stack on a multi-part pack.
+Sections: Wall Thickness Is a Compromise, Not a Target; Draft Is Not Optional on a Visible Part; Gate Position, on a Clear Part; The Tolerance Stack: Where Four Parts Go Wrong; What to Send Us
+
+## https://8pck.com/packaging-engineering/sealing/
+Title: Sealing: O-ring grooves, gaskets and the leak test | 8PCK
+Description: How a plastic joint is sealed: O-ring grooves, flat gaskets, material choice, the vacuum test and left-hand threads.
+Sections: Three Ways to Seal a Plastic Joint; The Groove Is the Design; Material Follows Chemistry; The Test, Written Down; Left-Hand Thread, and Why It Matters to a Seal
+
+## https://8pck.com/packaging-engineering/testing/
+Title: Packaging testing: leak, drop, torque, migration | 8PCK
+Description: What we check on the line, at assembly and in transit — and what belongs to the brand's lab.
+Sections: On the Moulding Line; On the Assembly; Transit and Drop; What Is Not Our Test; The Sample Round
+
 ## https://8pck.com/products/airless/30ml-airless-bottle/
 Title: Moved
 Description: 

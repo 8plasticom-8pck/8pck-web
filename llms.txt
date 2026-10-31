@@ -524,6 +524,11 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/news/ppwr-bio-based-targets/ — The EU Is Weighing Bio-Based Targets Under PPWR | 8PCK
 - https://8pck.com/news/ppwr-in-force-what-changes-for-bottles/ — PPWR Is Already In Force | 8PCK
 - https://8pck.com/news/stock-packaging-beauty-brands/ — Big Beauty Brands Are Buying Stock Packaging | 8PCK
+- https://8pck.com/packaging-engineering/formula-compatibility/ — Formula compatibility: pH, solvent, resin | 8PCK
+- https://8pck.com/packaging-engineering/ — Packaging engineering — design, sealing, compatibility, testing
+- https://8pck.com/packaging-engineering/part-design/ — Part design: wall, draft, gate and tolerance | 8PCK
+- https://8pck.com/packaging-engineering/sealing/ — Sealing: O-ring grooves, gaskets and the leak test | 8PCK
+- https://8pck.com/packaging-engineering/testing/ — Packaging testing: leak, drop, torque, migration | 8PCK
 - https://8pck.com/products/airless/30ml-airless-bottle/ — Moved
 - https://8pck.com/products/airless/50ml-airless-bottle/ — Moved
 - https://8pck.com/products/airless/airless-bottle-sizes/ — Airless Bottles — 2 sizes | 8PCK
