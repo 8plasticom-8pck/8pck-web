@@ -91,7 +91,7 @@ Sections: Why Viscosity Decides; Air and Oxidation; The Short Answer; Compatibil
 
 ## https://8pck.com/compare/flip-top-vs-disc-top/
 Title: Flip-top vs Disc-top: One Hand, or Two? | 8PCK
-Description: Both are cheap controlled-flow closures; the difference is the hinge, the spigot and whether the product can be opened with one hand.
+Description: Both are low-cost controlled-flow closures; the difference is the hinge, the spigot and whether the product can be opened with one hand.
 Sections: The Spigot Is the Specification; Where Disc-Tops Fail; The Short Answer; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
 ## https://8pck.com/compare/frosted-vs-clear/
@@ -131,7 +131,7 @@ Sections: The Test That Settles It; Where Each Fails; Compatibility, Packing and
 
 ## https://8pck.com/compare/pet-vs-rpet/
 Title: PET vs rPET: What the Recycled Content Actually Changes | 8PCK
-Description: Virgin PET is water-clear and cheap; rPET carries a recycled claim and a colour shift. The choice is usually a claim decision, not a performance one.
+Description: Virgin PET is water-clear and low-cost; rPET carries a recycled claim and a colour shift. The choice is usually a claim decision, not a performance one.
 Sections: The Three Documents Behind a Recycled Claim; Where rPET Shows; The Short Answer; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
 ## https://8pck.com/compare/pump-vs-flip-top/
@@ -151,7 +151,7 @@ Sections: Where Square Fails; Where Round Loses; Compatibility, Packing and Tole
 
 ## https://8pck.com/compare/silkscreen-vs-label/
 Title: Silkscreen vs Label: Durability, MOQ and the Wet Bathroom | 8PCK
-Description: Silkscreen is printed into the surface and survives water; a label is flexible and cheap at low volume but lifts at the edge.
+Description: Silkscreen is printed into the surface and survives water; a label is flexible and low-cost at low volume but lifts at the edge.
 Sections: Where Labels Fail; Where Silkscreen Costs; The Short Answer; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
 ## https://8pck.com/compare/single-vs-double-wall-jars/
@@ -165,8 +165,8 @@ Description: A spray coat changes the surface; metallising changes the material'
 Sections: What Each Is For; The Claim Cost; The Short Answer; Compatibility, Packing and Tolerance; Decoration Options and What They Cost in MOQ; Sampling and Approval; How We Quote and Ship; What We Do Not Do
 
 ## https://8pck.com/contact.html
-Title: Contact — get a quote in 24 hours | 8PCK
-Description: Request a quote for custom plastic bottles. Three fields, reply within 24 hours.
+Title: Contact — get a quote within one business day | 8PCK
+Description: Request a quote for custom plastic bottles. Three fields, reply within one business day.
 Sections: Four Questions We Get Every Week
 
 ## https://8pck.com/cosmetic-packaging/
@@ -186,8 +186,8 @@ Sections: The One-Page NDA; Questions Buyers Ask Before Signing
 
 ## https://8pck.com/custom.html
 Title: Custom development — new moulds and copies | 8PCK
-Description: Copy an existing bottle or cut a new mould. Tooling from USD 800, 15–20 days, DFM before quotation.
-Sections: Five Stages, Fixed Durations; What a New Mould Actually Costs
+Description: Copy an existing bottle or cut a new mould. Tooling from USD 850, 15–20 days, DFM before quotation.
+Sections: Five Stages, Fixed Durations; What a New Mould Actually Costs; Before You Commission a Mould
 
 ## https://8pck.com/factory.html
 Title: Factory — 7,142 m² in Shantou, China | 8PCK
@@ -345,27 +345,27 @@ Description: Neck finish, MOQ, preform, airless, mass balance and 19 more packag
 ## https://8pck.com/guides/1-oz-bottles/
 Title: 1 oz Bottles: 30 ml, Samples and the Cost Floor | 8PCK
 Description: 1 oz is 30 ml — the sample and essential-oil size. Below this, the cap and the filling cost more than the bottle, and the price stops falling.
-Sections: The Cost Floor; Where 1 Oz Is Used; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: The Cost Floor; Where 1 Oz Is Used; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/100-ml-hand-sanitizer-bottle/
 Title: 100 ml Hand Sanitizer Bottle — specs, MOQ and documents | 8PCK
 Description: 100 ml Hand Sanitizer Bottle in PET: a 20/410 neck with a flip-top. The mistake to avoid is a flip-top with no valve that drips gel.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/100-ml-mouthwash-bottle/
 Title: 100 ml Mouthwash Bottle — specs, MOQ and documents | 8PCK
 Description: 100 ml Mouthwash Bottle in PET: a 38 mm neck with a measuring cap. The mistake to avoid is a cap without moulded dose lines.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/100-ml-sunscreen-bottle/
 Title: 100 ml Sunscreen Bottle — specs, MOQ and documents | 8PCK
 Description: 100 ml Sunscreen Bottle in HDPE: a 20/410 neck with a flip-top. The mistake to avoid is a clear pack that lets UV degrade the formula.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/100-ml-toner-bottle/
 Title: 100 ml Toner Bottle — specs, MOQ and documents | 8PCK
 Description: 100 ml Toner Bottle in PET: a 20/410 neck with a fine mist sprayer. The mistake to avoid is a sprayer set for water that spits on a viscous toner.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/1000ml-bottles/
 Title: 1 L Bottles — specs, MOQ and documents | 8PCK
@@ -380,57 +380,57 @@ Sections: The 100 ml Advantage; Neck and Closure at 100 ml; What to Watch; Where
 ## https://8pck.com/guides/12-oz-bottles/
 Title: 12 oz Bottles: 355 ml, the Drink and Sauce Size | 8PCK
 Description: 12 oz (355 ml) is the can equivalent and a common sauce and drink bottle size in the US. It sits between 300 and 375 ml, which is why metric markets rarely
-Sections: Where 12 Oz Comes From; Metric Mismatch; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Where 12 Oz Comes From; Metric Mismatch; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/120-ml-hotel-shampoo-bottle/
 Title: 120 ml Hotel Shampoo Bottle — specs, MOQ and documents | 8PCK
 Description: 120 ml Hotel Shampoo Bottle in PET: a 24/410 neck with a flip-top. The mistake to avoid is a 0.4 mm wall that collapses in a suitcase.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/120ml-bottles/
 Title: 120 ml Bottles: 4 oz, and the Shampoo Travel Size | 8PCK
 Description: 120 ml is four ounces — the largest size most travel sets allow and the default hotel shampoo bottle.
-Sections: The Hotel and Travel Default; Closure at 120 ml; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: The Hotel and Travel Default; Closure at 120 ml; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/15ml-bottles/
 Title: 15 ml Bottles: Sample, Serum and Travel | 8PCK
 Description: 15 ml is the sample and travel size: serum, oil, hand sanitizer and hotel amenities. The closure decides whether it survives a bag.
-Sections: What Fits 15 ml; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits 15 ml; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/16-oz-jars/
 Title: 16 oz Jars (480 ml): Bulk Cream, Scrub and Gel | 8PCK
 Description: 16 oz is about 480 ml — the bulk size for scrub, gel, hair mask and candle. It is the jar where the wall and the base decide whether it survives shipping.
-Sections: Wide Mouth and Base; Material Choice; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Wide Mouth and Base; Material Choice; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/18-410-neck/
 Title: 18/410 Neck: The Dropper and Sample Standard | 8PCK
 Description: 18/410 is the smallest standard neck in cosmetics: droppers, sample serums and small applicators. It is also the one most often mismatched with 18/415.
-Sections: What Fits An 18/410; 18/410 Vs 18/415; Where It Fails; How to Confirm the Neck Before Ordering; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits An 18/410; 18/410 Vs 18/415; Where It Fails; How to Confirm the Neck Before Ordering; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/2-oz-jars/
 Title: 2 oz Jars (60 ml): The Sample and Balm Size | 8PCK
 Description: 2 oz is about 60 ml — the balm, salve and sample size. It is the jar where the lid liner matters more than the body.
-Sections: Lid and Liner Decide the Seal; Wall and Rim; Where It Is Used; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Lid and Liner Decide the Seal; Wall and Rim; Where It Is Used; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/20-410-neck/
 Title: 20/410 Neck: The Travel and Mist Size | 8PCK
 Description: 20/410 sits between the dropper neck and the standard pump neck: fine mist sprayers, travel flip-tops and 50–100 ml bottles.
-Sections: What Fits A 20/410; Why Not 24/410 at This Size; Where It Fails; How to Confirm the Neck Before Ordering; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits A 20/410; Why Not 24/410 at This Size; Where It Fails; How to Confirm the Neck Before Ordering; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/200-ml-micellar-water-bottle/
 Title: 200 ml Micellar Water Bottle — specs, MOQ and documents | 8PCK
 Description: 200 ml Micellar Water Bottle in PET: a 24/410 neck with a disc-top. The mistake to avoid is a disc-top that splashes a water-thin liquid.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/200-ml-sunscreen-bottle/
 Title: 200 ml Sunscreen Bottle — specs, MOQ and documents | 8PCK
 Description: 200 ml Sunscreen Bottle in HDPE: a 24/410 neck with a pump. The mistake to avoid is a pump that clogs with a mineral (zinc) formula.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/200-ml-toner-bottle/
 Title: 200 ml Toner Bottle — specs, MOQ and documents | 8PCK
 Description: 200 ml Toner Bottle in PET: a 24/410 neck with a disc-top. The mistake to avoid is a disc-top that pours too fast for a watery toner.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/200ml-bottles/
 Title: 200 ml Bottles — specs, MOQ and documents | 8PCK
@@ -440,17 +440,17 @@ Sections: Why Flat Wins on Shelf; What Fits the 200 ml Neck; Production Notes; W
 ## https://8pck.com/guides/24-410-neck/
 Title: 24/410 Neck: The Default That Fits Most Pumps | 8PCK
 Description: 24/410 is the most common cosmetic neck in the world: lotion pumps, disc-tops, flip-tops and 250–500 ml bottles. Getting this one right settles most of a r
-Sections: The Closure Range Is the Reason; Wall Thickness At 24/410; Where It Fails; How to Confirm the Neck Before Ordering; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: The Closure Range Is the Reason; Wall Thickness At 24/410; Where It Fails; How to Confirm the Neck Before Ordering; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/250-ml-hand-soap-bottle/
 Title: 250 ml Hand Soap Bottle — specs, MOQ and documents | 8PCK
 Description: 250 ml Hand Soap Bottle in PET: a 24/410 neck with a lotion pump. The mistake to avoid is a pump that draws air at the last third because the wall is too t
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/250-ml-massage-oil-bottle/
 Title: 250 ml Massage Oil Bottle — specs, MOQ and documents | 8PCK
 Description: 250 ml Massage Oil Bottle in HDPE: a 28/410 neck with a pump. The mistake to avoid is a pump that slips out of oily hands.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/250ml-bottles/
 Title: 250 ml Bottles — specs, MOQ and documents | 8PCK
@@ -460,22 +460,22 @@ Sections: Pump or Disc-Top at 250 ml; Why 250 ml Wins in Germany and the Nordics
 ## https://8pck.com/guides/28-410-neck/
 Title: 28/410 Neck: For 500–750 ml and Heavier Pumps | 8PCK
 Description: 28/410 is the neck for larger bottles and heavier pumps. It is also where wall thickness stops being a detail and starts being the specification.
-Sections: When 28/410 Is the Right Choice; The Wall Requirement; Where It Fails; How to Confirm the Neck Before Ordering; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: When 28/410 Is the Right Choice; The Wall Requirement; Where It Fails; How to Confirm the Neck Before Ordering; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/30-ml-essential-oil-bottle/
 Title: 30 ml Essential Oil Bottle — specs, MOQ and documents | 8PCK
 Description: 30 ml Essential Oil Bottle in PET: a 18/410 neck with a dropper. The mistake to avoid is an amber requirement missed at the sample stage.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/30-ml-serum-bottle/
 Title: 30 ml Serum Bottle — specs, MOQ and documents | 8PCK
 Description: 30 ml Serum Bottle in PET: a 18/410 neck with a dropper. The mistake to avoid is the pipette is too short to reach the last millilitre.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/300-ml-conditioner-bottle/
 Title: 300 ml Conditioner Bottle — specs, MOQ and documents | 8PCK
 Description: 300 ml Conditioner Bottle in HDPE: a 24/410 neck with a disc-top. The mistake to avoid is a disc-top that clogs with a thick conditioner.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/300ml-bottles/
 Title: 300 ml Bottles: The Size Where Body Lotion Lives | 8PCK
@@ -485,47 +485,47 @@ Sections: The Stroke Decides the Feel; Wall Thickness at 300 ml; Where It Fails;
 ## https://8pck.com/guides/375-ml-bottles/
 Title: 375 ml Bottles — specs, MOQ and documents | 8PCK
 Description: 375 ml is the half-size of the standard 750 ml wine bottle and, in cosmetics, a size that sits between a 300 and a 500 ml without matching either price poi
-Sections: Where 375 ml Is Used; The Economy of an Odd Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Where 375 ml Is Used; The Economy of an Odd Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/4-oz-bottles/
 Title: 4 oz Bottles: 120 ml, and the Size That Fits a Peg | 8PCK
 Description: 4 oz (about 120 ml) is a retail peg size: sauces, lotions, craft oils and sample sets. The unit economics change because the closure costs more than the bo
-Sections: Why 4 Oz Survived Metrication; Cost per Unit; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why 4 Oz Survived Metrication; Cost per Unit; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/4-oz-jars/
 Title: 4 oz Jars (120 ml): The Cream and Candle Size | 8PCK
 Description: 4 oz is about 120 ml, the most common cosmetic cream jar and the standard small candle. Straight sides, wide mouth, and a liner that has to survive oil.
-Sections: Why 120 ml Is the Cream Default; Candle Fills; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why 120 ml Is the Cream Default; Candle Fills; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/50-ml-baby-oil-bottle/
 Title: 50 ml Baby Oil Bottle — specs, MOQ and documents | 8PCK
 Description: 50 ml Baby Oil Bottle in HDPE: a 20/410 neck with a flip-top. The mistake to avoid is a flip-top that opens in a changing bag.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/50-ml-serum-bottle/
 Title: 50 ml Serum Bottle — specs, MOQ and documents | 8PCK
 Description: 50 ml Serum Bottle in PETG: a 18/410 neck with a dropper. The mistake to avoid is a dropper collar that does not sit flush on a thick-wall bottle.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/500-ml-body-wash-bottle/
 Title: 500 ml Body Wash Bottle — specs, MOQ and documents | 8PCK
 Description: 500 ml Body Wash Bottle in HDPE: a 28/410 neck with a lotion pump. The mistake to avoid is a pump that doses 2 ml when the label says 5 ml per wash.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/500-ml-hand-sanitizer-bottle/
 Title: 500 ml Hand Sanitizer Bottle — specs, MOQ and documents | 8PCK
 Description: 500 ml Hand Sanitizer Bottle in PET: a 24/410 neck with a pump. The mistake to avoid is a pump that cannot handle a 70 % alcohol gel.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/500-ml-mouthwash-bottle/
 Title: 500 ml Mouthwash Bottle — specs, MOQ and documents | 8PCK
 Description: 500 ml Mouthwash Bottle in PET: a 38 mm neck with a measuring cap. The mistake to avoid is a cap that cracks when over-torqued.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/500-ml-shampoo-bottle/
 Title: 500 ml Shampoo Bottle — specs, MOQ and documents | 8PCK
 Description: 500 ml Shampoo Bottle in PET: a 24/410 neck with a lotion pump. The mistake to avoid is a 0.45 mm shoulder that flexes under every stroke.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/500ml-bottles/
 Title: 500 ml Bottles: The English-Speaking Market Default | 8PCK
@@ -534,18 +534,18 @@ Sections: 500 ml Is a Price Point, Not a Volume; Wall Thickness and Pump Draw; W
 
 ## https://8pck.com/guides/50ml-bottles/
 Title: 50 ml Bottles: The Sample Size That Decides Reorders | 8PCK
-Description: 50 ml is the smallest size most brands sell, and the one with the highest cost per ml. The bottle is cheap; the closure, the filling and the carton are not
+Description: 50 ml is the smallest size most brands sell, and the one with the highest cost per ml. The bottle is low-cost; the closure, the filling and the carton are
 Sections: What Fits on a 50 ml Bottle; Why the Closure Decides the Reorder; Cost per Unit at 50 ml; Where This Size Fails; What to Send in a Brief; 50 ml in PET, HDPE and Clear: Which One You Are Actually Buying; Questions We Get on This; Sizes That Fit This Guide
 
 ## https://8pck.com/guides/60ml-bottles/
 Title: 60 ml Bottles: The Size Between Sample and Product | 8PCK
 Description: 60 ml is two ounces: travel shampoo, hand sanitizer, serum refill and mouthwash. It is the size where a flip-top stops feeling like a sample.
-Sections: Flip-Top or Disc-Top; PET or HDPE; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Flip-Top or Disc-Top; PET or HDPE; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/750-ml-shampoo-bottle/
 Title: 750 ml Shampoo Bottle — specs, MOQ and documents | 8PCK
 Description: 750 ml Shampoo Bottle in HDPE: a 28/410 neck with a heavy lotion pump. The mistake to avoid is a 24/410 neck that looks undersized and doses too slowly.
-Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why This Combination; Wall, Weight and Shipping; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/750ml-bottles/
 Title: 750 ml Bottles — specs, MOQ and documents | 8PCK
@@ -555,7 +555,7 @@ Sections: 28/410 Is Not Optional; The Wall Has to Hold; Export Economics; Where 
 ## https://8pck.com/guides/8-oz-jars/
 Title: 8 oz Jars (240 ml): Body Cream, Scrub and Candle | 8PCK
 Description: 8 oz is about 240 ml: body cream, scrub, hair mask and the mid-size candle. It is the size where the jar starts to need a wider neck for filling.
-Sections: Wide Neck, Thick Product; Weight and Shipping; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Wide Neck, Thick Product; Weight and Shipping; Where It Fails; What to Send in a Brief; Common Mistakes at This Size; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/airless-bottles/
 Title: Airless Bottles — specs, MOQ and documents | 8PCK
@@ -565,32 +565,32 @@ Sections: How an Airless Pack Actually Works; When Airless Is Worth It; Airless 
 ## https://8pck.com/guides/apothecary-jars/
 Title: Apothecary Jars — specs, MOQ and documents | 8PCK
 Description: An apothecary jar is a wide-mouth, straight-sided jar: candles, balms, bath salts and dry goods. The shape is deliberate — it stacks and it scoops.
-Sections: Why the Shape Matters; Lid and Liner; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why the Shape Matters; Lid and Liner; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/baby-care-bottles/
 Title: Baby care bottles — specs, MOQ and documents | 8PCK
 Description: Baby care is the one personal-care category where the closure is a safety feature, not a convenience. Wide necks, pump locks and a soft-touch surface all c
-Sections: The Lock Is the Feature; Wide Neck and Soft Touch; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: The Lock Is the Feature; Wide Neck and Soft Touch; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/baby-oil-bottles/
 Title: Baby Oil Bottles — specs, MOQ and documents | 8PCK
 Description: Baby Oil packs in 200–300 ml, usually with a 24/410 neck and a flip-top. The specification question is not the bottle — it is a flip-top that opens in a ch
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/beard-oil-bottles/
 Title: Beard Oil Bottles — specs, MOQ and documents | 8PCK
 Description: Beard Oil packs in 30–60 ml, usually with a 18/410 neck and a dropper. The specification question is not the bottle — it is a dropper that does not reach t
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/black-bottles/
 Title: Black Bottles: Premium Look, Recycling Problem | 8PCK
 Description: Black is the most requested premium colour in cosmetics and the worst colour for recycling: carbon black is invisible to near-infrared sorting.
-Sections: Why Black Is a Problem; What to Do if the Brand Wants Black; Matte or Gloss; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why Black Is a Problem; What to Do if the Brand Wants Black; Matte or Gloss; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/bleach-bottles/
 Title: Bleach Bottles — specs, MOQ and documents | 8PCK
 Description: Bleach packs in 750 ml–1 L, usually with a 38 mm neck and a child-resistant cap. The specification question is not the bottle — it is a cap that degrades a
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/body-wash-bottles/
 Title: Body Wash Bottles — specs, MOQ and documents | 8PCK
@@ -605,17 +605,17 @@ Sections: Silkscreen: the Workhorse; Hot Stamp and Spray Coat: the Premium Two; 
 ## https://8pck.com/guides/bottle-neck-finishes/
 Title: Bottle Neck Finishes — specs, MOQ and documents | 8PCK
 Description: The neck finish decides which pump, cap or sprayer fits your bottle. It is also the number buyers most often leave out of a brief — and the reason a contai
-Sections: What the Two Numbers Mean; Why the Same Neck From Two Suppliers May Not Fit; Matching a Closure to a Product; Where Neck Specs Go Wrong; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Two Numbers Mean; Why the Same Neck From Two Suppliers May Not Fit; Matching a Closure to a Product; Where Neck Specs Go Wrong; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/car-shampoo-bottles/
 Title: Car Shampoo Bottles — specs, MOQ and documents | 8PCK
 Description: Car Shampoo packs in 500 ml–1 L, usually with a 28/410 neck and a flip-top or trigger. The specification question is not the bottle — it is a trigger seal
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/child-resistant-caps/
 Title: Child-Resistant Caps: What Fits, and What Fails | 8PCK
 Description: Child-Resistant Caps in 38-400, used for pharma, bleach and nicotine. The specification question is a CR cap that is either too easy for a child or too har
-Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/choose-plastic-bottle-manufacturer-china/
 Title: How to Choose a Plastic Bottle Manufacturer in China | 8PCK
@@ -625,32 +625,32 @@ Sections: 1. Is It a Factory or a Trading Company; 2. Who Owns the Mould; 3. Doe
 ## https://8pck.com/guides/clear-bottles/
 Title: Clear Bottles: When Clarity Is the Product | 8PCK
 Description: A clear bottle sells the product itself: colour, texture, fill level. It is also the format where light and oxidation do the most damage.
-Sections: When Clear Wins; When Clear Is Wrong; The rPET Colour Shift; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: When Clear Wins; When Clear Is Wrong; The rPET Colour Shift; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/condiment-bottles/
 Title: Condiment Bottles: The Orifice Is the Product | 8PCK
 Description: Ketchup, mustard, mayo and dressing all live in the same bottle with different caps. The orifice and the valve decide the user experience, not the bottle.
-Sections: Valve Versus Orifice; Squeeze or Rigid; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Valve Versus Orifice; Squeeze or Rigid; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/contact-lens-solution-bottles/
 Title: Contact Lens Solution Bottles — specs, MOQ and documents | 8PCK
 Description: Contact Lens Solution packs in 100–360 ml, usually with a 28/410 neck and a nozzle cap. The specification question is not the bottle — it is a nozzle that
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/continuous-spray-bottles/
 Title: Continuous Spray Bottles — specs, MOQ and documents | 8PCK
 Description: A continuous spray bottle holds pressure and delivers a fine, steady mist for a full second. It is the most expensive closure in the catalogue, and the rea
-Sections: How It Works; Why It Costs So Much; Where It Pays; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: How It Works; Why It Costs So Much; Where It Pays; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/cosmetic-jars/
 Title: Cosmetic Jars — specs, MOQ and documents | 8PCK
 Description: A “30 g jar” is named after the fill weight, not the volume — which is why two 30 g jars can look completely different on shelf. This page covers fill weig
-Sections: Single Wall vs Double Wall; Why the Cap Decides the Feel; Threads, Refills and the EU Refill Push; Where Cosmetic Jars Leak, and It Is Usually the Liner; Frosting, Spray Coat and What They Cost; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Single Wall vs Double Wall; Why the Cap Decides the Feel; Threads, Refills and the EU Refill Push; Where Cosmetic Jars Leak, and It Is Usually the Liner; Frosting, Spray Coat and What They Cost; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/custom-bottle-moq-and-tooling/
 Title: MOQ and Tooling — specs, MOQ and documents | 8PCK
 Description: Two numbers decide whether a custom bottle project is viable: the minimum order quantity and the tooling cost. Both are smaller than most buyers expect, pr
-Sections: When You Do Not Need a Mould; When a New Mould Is Worth It; The Real Cost of a Small First Order; The Three Things That Actually Drive the MOQ; Tooling: What You Own and What You Don't; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: When You Do Not Need a Mould; When a New Mould Is Worth It; The Real Cost of a Small First Order; The Three Things That Actually Drive the MOQ; Tooling: What You Own and What You Don't; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/custom-bottle-mould-cost/
 Title: What a custom bottle mould costs, part by part | 8PCK
@@ -660,77 +660,77 @@ Sections: Part Count Beats Part Size; The Band, by Part Size; The Unscrewing Pen
 ## https://8pck.com/guides/cuticle-oil-bottles/
 Title: Cuticle Oil Bottles — specs, MOQ and documents | 8PCK
 Description: Cuticle Oil packs in 10–30 ml, usually with a 18/410 neck and a brush or dropper. The specification question is not the bottle — it is a brush applicator t
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/disc-top-caps/
 Title: Disc-Top Caps: What Fits, and What Fails | 8PCK
 Description: Disc-Top Caps in 20/410, used for thin liquids and gels. The specification question is the hinge that snaps after a few hundred uses.
-Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/dish-soap-bottles/
 Title: Dish Soap Bottles — specs, MOQ and documents | 8PCK
 Description: Dish Soap packs in 500–750 ml, usually with a 28/410 neck and a disc-top. The specification question is not the bottle — it is a disc-top that clogs with a
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/drain-cleaner-bottles/
 Title: Drain Cleaner Bottles — specs, MOQ and documents | 8PCK
 Description: Drain Cleaner packs in 500 ml–1 L, usually with a 38 mm neck and a child-resistant cap. The specification question is not the bottle — it is a CR cap that
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/dropper-assemblies/
 Title: Dropper Assemblies: What Fits, and What Fails | 8PCK
 Description: Dropper Assemblies in 18/410, used for serum, oil and essential oil. The specification question is a pipette that is too short to reach the last millilitre
-Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/dropper-bottles/
 Title: Dropper Bottles — specs, MOQ and documents | 8PCK
 Description: A dropper bottle is a bottle, a collar and a pipette that have to seal at three points. The 18/410 neck is the standard for serums and oils — the rest is a
-Sections: Glass vs Plastic; Why the Collar Matters More Than the Bottle; Dose per Drop Is a Specification, Not a Guess; Where Dropper Bottles Go Wrong; Sizing a Serum Bottle; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Glass vs Plastic; Why the Collar Matters More Than the Bottle; Dose per Drop Is a Specification, Not a Guess; Where Dropper Bottles Go Wrong; Sizing a Serum Bottle; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/fabric-softener-bottles/
 Title: Fabric Softener Bottles — specs, MOQ and documents | 8PCK
 Description: Fabric Softener packs in 1–1.5 L, usually with a 38 mm neck and a measuring cap. The specification question is not the bottle — it is a measuring cap that
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/fine-mist-sprayers/
 Title: Fine Mist Sprayers: What Fits, and What Fails | 8PCK
 Description: Fine Mist Sprayers in 18/410, used for toner, setting spray and sanitizer. The specification question is an orifice set for water that spits on a viscous t
-Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/flip-top-caps/
 Title: Flip-Top Caps: What Fits, and What Fails | 8PCK
 Description: Flip-Top Caps in 20/410, used for shampoo, lotion and travel sizes. The specification question is a spigot that is too shallow and drips after closing.
-Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/floor-cleaner-bottles/
 Title: Floor Cleaner Bottles — specs, MOQ and documents | 8PCK
 Description: Floor Cleaner packs in 1–2 L, usually with a 38 mm neck and a screw cap or trigger. The specification question is not the bottle — it is a trigger that fai
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/foam-pumps/
 Title: Foam Pumps: What Fits, and What Fails | 8PCK
 Description: Foam Pumps in 40 mm, used for hand soap and cleanser. The specification question is a foam head that will not foam a thick gel.
-Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/food-jars/
 Title: Food Jars — specs, MOQ and documents | 8PCK
 Description: A food jar is chosen by the filling line before the shelf: how wide the mouth is decides how fast you can fill, and how you close it decides whether the cu
-Sections: Wide Mouth vs Narrow Mouth; Hot Fill and Why PET Has a Ceiling; Tamper Evidence That Actually Gets Used; Where Food Jars Fail; What Documents a Food Buyer Should Ask For; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Wide Mouth vs Narrow Mouth; Hot Fill and Why PET Has a Ceiling; Tamper Evidence That Actually Gets Used; Where Food Jars Fail; What Documents a Food Buyer Should Ask For; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/frosted-bottles/
-Title: Frosted Bottles: The Cheapest Premium Finish | 8PCK
+Title: Frosted Bottles: The lowest unit cost Premium Finish | 8PCK
 Description: Frosting is a surface treatment, not a colour: it starts at 1,000 pcs, adds no changeover, and makes a stock bottle read as glass.
-Sections: Why Frosting Is Cheap to Start; What Frosting Changes; Where It Goes Wrong; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why Frosting Is Low-Cost to Start; What Frosting Changes; Where It Goes Wrong; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/glass-cleaner-bottles/
 Title: Glass Cleaner Bottles — specs, MOQ and documents | 8PCK
 Description: Glass Cleaner packs in 500–750 ml, usually with a 28/410 neck and a trigger. The specification question is not the bottle — it is ammonia attacking a stand
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/hair-oil-bottles/
 Title: Hair Oil Bottles — specs, MOQ and documents | 8PCK
-Description: Hair Oil packs in 50–100 ml, usually with a 20/410 neck and a disc-top or pump. The specification question is not the bottle — it is oil creeping past a ch
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Description: Hair Oil packs in 50–100 ml, usually with a 20/410 neck and a disc-top or pump. The specification question is not the bottle — it is oil creeping past a lo
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/hand-soap-bottles/
 Title: Hand Soap Bottles — specs, MOQ and documents | 8PCK
@@ -740,17 +740,17 @@ Sections: Lotion Pump vs Foaming Pump; 250 ml Is a Repeat Purchase, Not a Premiu
 ## https://8pck.com/guides/hot-sauce-bottles/
 Title: Hot Sauce Bottles — specs, MOQ and documents | 8PCK
 Description: Hot sauce is thick, acidic and often filled warm. The bottle is a wide-neck PET or HDPE with a small-orifice cap — and the fill temperature decides the mat
-Sections: Wide Neck, Small Orifice; Fill Temperature; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Wide Neck, Small Orifice; Fill Temperature; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/hotel-amenity-bottles/
 Title: Hotel amenity bottles — specs, MOQ and documents | 8PCK
 Description: Hotel amenities are bought by the thousand, refilled by housekeeping, and judged by whether they leak in a trolley. The bottle is commodity; the closure an
-Sections: The Closure Decides the Complaint Rate; Refillable Versus Single Use; 30 Or 50 ml; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: The Closure Decides the Complaint Rate; Refillable Versus Single Use; 30 Or 50 ml; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/household-cleaner-bottles/
 Title: Household cleaner bottles — specs, MOQ and documents | 8PCK
 Description: A cleaner bottle is a chemical container before it is a brand object. The resin, the gasket and the vent decide whether it survives the product — and the t
-Sections: Resin Follows the Chemistry; Two Failures That Come Back; Refill and Concentrate Formats; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Resin Follows the Chemistry; Two Failures That Come Back; Refill and Concentrate Formats; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/
 Title: Guides — bottle sizes, neck finishes, MOQ and tooling | 8PCK
@@ -759,12 +759,12 @@ Description: Practical guides for buyers: pump bottles, neck finishes, MOQ and t
 ## https://8pck.com/guides/induction-seals/
 Title: Induction Seals: What Fits, and What Fails | 8PCK
 Description: Induction Seals in any, used for creams, pharma and food. The specification question is a seal that does not bond because the rim land is not flat.
-Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/juice-bottles/
 Title: Juice Bottles — specs, MOQ and documents | 8PCK
 Description: Juice is sold on colour and clarity, which means PET. It is also the category where hot fill quietly deforms standard bottles.
-Sections: Cold Fill Versus Hot Fill; Necks and Closures; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Cold Fill Versus Hot Fill; Necks and Closures; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/lotion-bottles/
 Title: Lotion Bottles — specs, MOQ and documents | 8PCK
@@ -774,62 +774,62 @@ Sections: Dose per Stroke Is a Product Decision; Why 300 ml Feels Premium and 50
 ## https://8pck.com/guides/lotion-pumps/
 Title: Lotion Pumps: What Fits, and What Fails | 8PCK
 Description: Lotion Pumps in 24/410, used for hand soap, lotion and body wash. The specification question is a pump whose gasket swells with the formula and stops primi
-Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/makeup-remover-bottles/
 Title: Make-up Remover Bottles — specs, MOQ and documents | 8PCK
 Description: Make-up Remover packs in 150–400 ml, usually with a 24/410 neck and a disc-top. The specification question is not the bottle — it is a closure that cannot
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/massage-oil-bottles/
 Title: Massage Oil Bottles — specs, MOQ and documents | 8PCK
 Description: Massage Oil packs in 250–500 ml, usually with a 28/410 neck and a pump. The specification question is not the bottle — it is a pump that slips when the han
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/measuring-caps/
 Title: Measuring Caps: What Fits, and What Fails | 8PCK
 Description: Measuring Caps in 38 mm, used for mouthwash, detergent and softener. The specification question is moulded lines that do not match the dose printed on the
-Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/metallised-bottles/
 Title: Metallised Bottles — specs, MOQ and documents | 8PCK
 Description: Metallising gives a mirror finish by vacuum-depositing aluminium. It starts at 3,000 pcs, adds a week, and changes the recycling story.
-Sections: Why the Minimum Is 3,000; Recycling; Where It Goes Wrong; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why the Minimum Is 3,000; Recycling; Where It Goes Wrong; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/micellar-water-bottles/
 Title: Micellar Water Bottles: Micellar water is 98 % water | 8PCK
 Description: Micellar Water packs in 200–500 ml, usually with a 24/410 neck and a disc-top. The specification question is not the bottle — it is a disc-top that drips b
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/mini-spray-bottles/
 Title: Mini Spray Bottles — specs, MOQ and documents | 8PCK
-Description: Mini spray bottles are travel and sample formats under 50 ml. The bottle is cheap; filling them without a special nozzle is the real cost.
-Sections: Filling Is the Hidden Cost; Closure Choice; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Description: Mini spray bottles are travel and sample formats under 50 ml. The bottle is low-cost; filling them without a special nozzle is the real cost.
+Sections: Filling Is the Hidden Cost; Closure Choice; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/mist-spray-bottles/
 Title: Mist Spray Bottles: The Orifice Decides the Mist | 8PCK
 Description: A mist bottle is a bottle plus a sprayer, and the sprayer's orifice decides whether the product comes out as a fine mist or a wet sputter.
-Sections: Orifice and Output; Testing With the Real Liquid; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Orifice and Output; Testing With the Real Liquid; Where It Fails; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/mouthwash-bottles/
 Title: Mouthwash Bottles — specs, MOQ and documents | 8PCK
 Description: Mouthwash packs in 250–500 ml, usually with a 38 mm neck and a measuring cap. The specification question is not the bottle — it is a measuring cap that doe
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/nail-polish-remover-bottles/
 Title: Nail Polish Remover Bottles — specs, MOQ and documents | 8PCK
 Description: Nail Polish Remover packs in 100–200 ml, usually with a 24/410 neck and a screw cap. The specification question is not the bottle — it is acetone attacking
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/oven-cleaner-bottles/
 Title: Oven Cleaner Bottles — specs, MOQ and documents | 8PCK
 Description: Oven Cleaner packs in 400–500 ml, usually with a 28/410 neck and a trigger or foam cap. The specification question is not the bottle — it is a caustic form
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/perfume-bottle-wholesale/
 Title: Perfume Bottle Wholesale — specs, MOQ and documents | 8PCK
 Description: Buying perfume bottles wholesale usually means crimp-neck glass or plastic atomizers at 1,000–5,000 pcs. The decision that matters is the neck: crimp canno
-Sections: Crimp Versus Screw; Plastic Versus Glass; What Wholesale Changes; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Crimp Versus Screw; Plastic Versus Glass; What Wholesale Changes; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/pet-bottles/
 Title: PET Bottles — specs, MOQ and documents | 8PCK
@@ -839,32 +839,32 @@ Sections: PET vs HDPE vs PETG; What “rPET” Means on a Purchase Order; Food C
 ## https://8pck.com/guides/pet-care-bottles/
 Title: Pet care bottles — specs, MOQ and documents | 8PCK
 Description: Pet shampoo, conditioner and supplements are bought by people who love the animal and do not read the dosage twice. That makes the closure a dosing device
-Sections: Dosing Is the Design Problem; What the Animal Does to the Bottle; Regulatory Caution; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Dosing Is the Design Problem; What the Animal Does to the Bottle; Regulatory Caution; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/pharmaceutical-bottles/
 Title: Pharmaceutical Bottles — specs, MOQ and documents | 8PCK
 Description: A pharmaceutical bottle is HDPE with a child-resistant closure and a documented specification. We supply the container; the licence holder qualifies the pr
-Sections: What We Supply and What We Do Not; Child-Resistant Closures; Batch Consistency; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What We Supply and What We Do Not; Child-Resistant Closures; Batch Consistency; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/plastic-bottles-with-caps/
 Title: Plastic Bottles with Caps — specs, MOQ and documents | 8PCK
 Description: A bottle with a cap sounds like one product. In practice they are two moulds, two MOQs and sometimes two suppliers — which is why the price looks split.
-Sections: Why They Are Two Products; What 'Supplied Fitted' Means; When to Buy Separately; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Why They Are Two Products; What 'Supplied Fitted' Means; When to Buy Separately; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/plastic-pump-bottles/
 Title: Plastic Pump Bottles — specs, MOQ and documents | 8PCK
 Description: A pump bottle is three parts sold as one product — bottle, neck finish and pump. Get the neck wrong and the pump leaks; get the wall thickness wrong and th
-Sections: The Three Parts, and Which One Actually Fails; Sizes and Which Markets Buy Them; Wall Thickness, Weight and Where the Cost Sits; Testing Before the Container Ships; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: The Three Parts, and Which One Actually Fails; Sizes and Which Markets Buy Them; Wall Thickness, Weight and Where the Cost Sits; Testing Before the Container Ships; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/pump-with-lock/
 Title: Pumps with a Lock: What Fits, and What Fails | 8PCK
 Description: Pumps with a Lock in 24/410, used for baby wash, travel and e-commerce. The specification question is a lock that releases in a bag and pumps the product o
-Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/rpet-bottles/
 Title: rPET Bottles: What the Percentage Actually Means | 8PCK
 Description: rPET is recycled PET. The number on the label is a claim that needs a grade, a batch declaration and a colour expectation — not just a percentage.
-Sections: The Three Documents; What Changes Visually; What to Ask; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: The Three Documents; What Changes Visually; What to Ask; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/sanitizer-bottles/
 Title: Sanitizer bottles — specs, MOQ and documents | 8PCK
@@ -874,12 +874,12 @@ Sections: Gel Uses a Pump; Liquid Uses a Sprayer; Alcohol Content Decides the Ma
 ## https://8pck.com/guides/screw-caps/
 Title: Screw Caps: What Fits, and What Fails | 8PCK
 Description: Screw Caps in 24/410, used for general closure, refill and industrial. The specification question is a cap that backs off in transit because the liner is t
-Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/self-tanner-bottles/
 Title: Self-Tanner Bottles — specs, MOQ and documents | 8PCK
 Description: Self-Tanner packs in 150–250 ml, usually with a 24/410 neck and a pump. The specification question is not the bottle — it is a pump that doses too much for
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/serum-bottles/
 Title: Serum Bottles: 30 ml, Dropper or Airless | 8PCK
@@ -894,22 +894,22 @@ Sections: 500 ml Is the Volume, the Neck Is the Decision; PET or HDPE; What the 
 ## https://8pck.com/guides/soft-touch-bottles/
 Title: Soft-touch Bottles — specs, MOQ and documents | 8PCK
 Description: Soft-touch is a spray coat with a rubberised feel. It reads premium, improves grip with wet hands, and starts at 3,000 pcs.
-Sections: Where Soft-Touch Earns Its Cost; The Trade-Offs; Specifying It; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Where Soft-Touch Earns Its Cost; The Trade-Offs; Specifying It; How to Specify It; What It Does to the Claim; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/spray-bottles-for-cleaning/
 Title: Cleaning Spray Bottles — specs, MOQ and documents | 8PCK
 Description: A cleaning spray bottle is a chemical container. The resin follows the formula, and the trigger's gasket fails before the bottle does.
-Sections: Resin Follows the Chemistry; Trigger Specification; Venting; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: Resin Follows the Chemistry; Trigger Specification; Venting; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/sprayers-for-perfume/
 Title: Perfume Sprayers: What Fits, and What Fails | 8PCK
 Description: Perfume Sprayers in crimp, used for fragrance. The specification question is a crimp that leaks because the bottle neck is out of tolerance.
-Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/sunscreen-bottles/
 Title: Sunscreen Bottles — specs, MOQ and documents | 8PCK
 Description: Sunscreen packs in 100–200 ml, usually with a 24/410 neck and a flip-top or pump. The specification question is not the bottle — it is a clear pack that le
-Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What the Formula Does to the Pack; Sizing and Filling; What to Send in a Brief; Where This Pack Fails in the Field; Sizing This Category; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/toner-bottles/
 Title: Toner bottles — specs, MOQ and documents | 8PCK
@@ -919,22 +919,22 @@ Sections: Why Flat Beats Round on Shelf; Closures for a Water-Thin Liquid; PET o
 ## https://8pck.com/guides/travel-bottles/
 Title: Travel bottles — specs, MOQ and documents | 8PCK
 Description: Travel sizes are decided by a rule, not by design: 100 ml per container in hand luggage. That makes 50 ml and 100 ml the only two sizes worth moulding — an
-Sections: The Three Closures That Survive a Flight; Why 50 ml Sells and 100 ml Is the Value Pack; Where Travel Bottles Fail in Practice; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: The Three Closures That Survive a Flight; Why 50 ml Sells and 100 ml Is the Value Pack; Where Travel Bottles Fail in Practice; What to Send in a Brief; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/treatment-pumps/
 Title: Treatment Pumps: What Fits, and What Fails | 8PCK
 Description: Treatment Pumps in 18/410, used for serum and eye cream. The specification question is a pump that doses 0.5 ml when the label says 0.3.
-Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/trigger-sprayers/
 Title: Trigger Sprayers: What Fits, and What Fails | 8PCK
 Description: Trigger Sprayers in 28/410, used for household cleaner and garden. The specification question is a piston seal that swells in solvent and leaks at the nozz
-Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/guides/valve-caps/
 Title: Valve Caps: What Fits, and What Fails | 8PCK
 Description: Valve Caps in 38 mm, used for condiments, sauces and gels. The specification question is a silicone valve that clogs with a thick product.
-Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, in 24 Hours
+Sections: What Fits; Where It Fails; What to Send in a Brief; Ordering Closures Without Ordering the Wrong Ones; Cost and Lead Time; Questions We Get on This; Sizes That Fit This Guide; Get a Price on This, Within One Business Day
 
 ## https://8pck.com/
 Title: 8PCK — Custom plastic bottles from CXWN, Shantou
@@ -953,7 +953,7 @@ Sections: What Changed
 
 ## https://8pck.com/news/alpla-us-bottle-plant/
 Title: Alpla Is Building a Bottle Plant in the US | 8PCK
-Description: Recycling Today reports Alpla adding US bottle capacity. For a buyer importing from Asia, the question is which part of the order the local plant makes
+Description: Recycling Today reports Alpla adding US bottle capacity. For a buyer importing from Asia, the question is which part of the order the local plant makes lower
 Sections: What Changed; What It Means for Buyers; What to Ask a Supplier
 
 ## https://8pck.com/news/berlin-packaging-premi-consolidation/
@@ -1901,7 +1901,7 @@ Sections: What We Need to Quote
 
 ## https://8pck.com/tools/spec-checker/
 Title: Bottle Spec Checker — neck, capacity and wall | 8PCK
-Description: Free checker: does your neck fit the closure, is the wall thick enough for a pump, and what MOQ applies. Written report in 24 hours.
+Description: Free checker: does your neck fit the closure, is the wall thick enough for a pump, and what MOQ applies. Written report within one business day.
 Sections: Rather Talk to the Person Who Quotes?; Get the Written Report; What the Checker Tests; About This Tool
 
 ## https://8pck.com/verify.html

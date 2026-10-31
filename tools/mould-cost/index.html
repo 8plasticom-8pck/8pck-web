@@ -242,7 +242,7 @@ label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
       <input type="hidden" name="spec_summary" class="js-summary" value="">
       <input type="text" name="_gotcha" style="display:none" tabindex="-1">
       <b style="display:block;font-size:15px;margin-bottom:4px">Email me this report</b>
-      <p class="sub" style="font-size:12.5px;margin:0 0 14px">We send the same numbers as a one-page PDF, with a price in 24 hours. No catalogue.</p>
+      <p class="sub" style="font-size:12.5px;margin:0 0 14px">We send the same numbers as a one-page PDF, with a price within one business day. No catalogue.</p>
       <div class="row2" style="display:grid;grid-template-columns:1fr 1fr 1fr auto;gap:10px">
         <label class="field" style="margin:0"><span>Name *</span><input type="text" name="name" required></label>
         <label class="field" style="margin:0"><span>Email *</span><input type="email" name="email" required></label>
@@ -258,7 +258,7 @@ label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
       <h2 style="font-size:20px;margin:0 0 8px">Want a Person to Check It?</h2>
       <p class="sub" style="margin:0 0 14px">Send the numbers and we reply with a written quotation, lead time and a sample plan — usually within a few hours, Mon–Sat.</p>
       <div class="btnrow">
-        <a class="btn" href="../../contact.html?product=mould-cost">Get a Quote in 24H →</a>
+        <a class="btn" href="../../contact.html?product=mould-cost">Get a Quote in One Business Day →</a>
         <a class="btn ghost" href="https://wa.me/8613363879944">WhatsApp +86 133 6387 9944</a>
       </div>
     </div>
@@ -270,7 +270,7 @@ label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
     <div>
       <div class="kicker">How it is calculated</div>
       <h2>The Formula, the Assumptions, and Where It Stops</h2>
-      <ol><li>Base band per part: small USD 1,800–3,500 · medium 3,000–6,000 · large 4,500–9,000.</li><li>Multiply by part count, then by the cavity multiplier (1x / 1.6x / 2.6x).</li><li>Add a plating jig allowance where a metal finish is specified.</li><li>Add 30–45 % where a thread must be unscrewed rather than stripped.</li></ol>
+      <ol><li>Base band per part: small USD 1,900–3,700 · medium 3,200–6,400 · large 4,700–9,500.</li><li>Multiply by part count, then by the cavity multiplier (1x / 1.6x / 2.6x).</li><li>Add a plating jig allowance where a metal finish is specified.</li><li>Add 30–45 % where a thread must be unscrewed rather than stripped.</li></ol>
       <p class="std" style="margin-top:14px"><b>Assumptions.</b> One cavity per part unless stated; standard steel and polishing; no hot runner.</p>
       <p class="std"><b>Standards we work to.</b> ISO 9001:2015 (quality system, cert PCC85724Q01277R1S) ·
         EU 10/2011 (plastic food-contact, migration report E2032) · RoHS (PE B-R01612E2033, PET B-R201133464) ·
@@ -301,13 +301,13 @@ label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
   <section class="section">
     <h2>Why Part Count Dominates</h2><p>Every part is a separate mould, a separate trial, and a separate tolerance stack. Four small parts cost roughly four times one part — the size of the part matters less than how many there are.</p><h2>The Unscrewing Penalty</h2><p>If a lid has an internal thread it cannot be stripped off the core; the mould needs a rotating mechanism, which is where a 30–45 % jump comes from.</p>
     <h2>Questions About This Tool</h2>
-    <details class="faq"><summary>What does a custom bottle mould cost?</summary><p class="sub" style="margin:8px 0 0">One cavity, one part: USD 1,800–9,000 depending on size and thread. A four-part assembly is typically USD 15,000–26,000.</p></details><details class="faq"><summary>Can I start with one cavity?</summary><p class="sub" style="margin:8px 0 0">Yes, and for under 10,000 pcs a year it is the right choice — a second cavity rarely pays back.</p></details><details class="faq"><summary>Is tooling refundable?</summary><p class="sub" style="margin:8px 0 0">No. It is a one-off cost, amortised over the first run.</p></details>
+    <details class="faq"><summary>What does a custom bottle mould cost?</summary><p class="sub" style="margin:8px 0 0">One cavity, one part: USD 1,850–9,500 depending on size and thread. A four-part assembly is typically USD 16,000–27,500.</p></details><details class="faq"><summary>Can I start with one cavity?</summary><p class="sub" style="margin:8px 0 0">Yes, and for under 10,000 pcs a year it is the right choice — a second cavity rarely pays back.</p></details><details class="faq"><summary>Is tooling refundable?</summary><p class="sub" style="margin:8px 0 0">No. It is a one-off cost, amortised over the first run.</p></details>
   </section>
 </div>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Custom Mould Cost Estimator", "applicationCategory": "BusinessApplication", "operatingSystem": "Any", "url": "https://8pck.com/tools/mould-cost/", "description": "Enter how many parts the product has, the largest part size, cavities and finish; the estimator returns a tooling band and the effect on unit cost.", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "author": {"@type": "Person", "name": "Joe Joo", "url": "https://8pck.com/about.html#joe", "worksFor": {"@type": "Organization", "name": "8PCK"}}, "publisher": {"@type": "Organization", "name": "8PCK", "url": "https://8pck.com"}}</script>
 <script>
 (function(){
-  var base=[[1800,3500],[3000,6000],[4500,9000]];
+  var base=[[1900,3700],[3200,6400],[4700,9500]];
   var cavM={1:1.0,2:1.6,4:2.6};
   var plateAdd={0:0,1:250,2:400,3:700};
   function run(){
@@ -321,7 +321,7 @@ label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
     lo+=plateAdd[plate]*parts; hi+=plateAdd[plate]*parts;
     if(unscr){ lo*=1.3; hi*=1.45; }
     var per5=Math.round((lo+hi)/2/5000*100)/100;
-    document.getElementById('tool').textContent='USD '+Math.round(lo/500).toLocaleString()*500+'–'+Math.round(hi/500).toLocaleString()*500;
+    var r=function(v){return Math.round(v/250)*250;};document.getElementById('tool').textContent='USD '+r(lo).toLocaleString()+'–'+r(hi).toLocaleString();
     var rows=[
       ['Parts', parts+' · largest size band '+['small','medium','large'][size]],
       ['Cavities', cav+' → multiplier '+cavM[cav]],

@@ -16,7 +16,7 @@
 
 ## Capabilities
 - Factory: 7,142 m², 20 lines, 120 staff, in-house mould shop and QC lab
-- Moulds: 3,000+ existing (no tooling cost); new blow mould from USD 800, 15–20 days
+- Moulds: 3,000+ existing (no tooling cost); new blow mould from USD 850, 15–20 days
 - MOQ: 1,000 pcs per colour on existing moulds
 - Samples: 7 days on existing moulds
 - Production: 25–35 days after sample approval
@@ -35,7 +35,7 @@
 
 ## Materials
 - PET — clear, stiff, food-grade; 50–1,000 ml bottles (20/410, 24/410, 28/410)
-- HDPE — opaque, tough, cheaper per gram; shampoo, detergent, 200–1,000 ml
+- HDPE — opaque, tough, it costs less per gram; shampoo, detergent, 200–1,000 ml
 - PETG — thick-wall clarity; airless packs and premium cosmetic bottles
 
 ## Products
@@ -76,7 +76,7 @@
 - Baby care bottles — https://8pck.com/guides/baby-care-bottles/ — covers: baby bottle packaging, baby lotion bottle, 200ml baby bottle, baby wash bottle, baby care packaging supplier. Baby care is the one personal-care category where the closure is a safety feature, not a convenience. Wide necks, pump locks and a
 - Pet care bottles — https://8pck.com/guides/pet-care-bottles/ — covers: pet care packaging, pet shampoo bottle, 500ml pet bottle, pet supplement bottle, dog shampoo bottle. Pet shampoo, conditioner and supplements are bought by people who love the animal and do not read the dosage twice. That makes the
 - Household cleaner bottles — https://8pck.com/guides/household-cleaner-bottles/ — covers: household cleaner bottle, trigger spray bottle, 500ml cleaner bottle, detergent bottle, cleaning product packaging. A cleaner bottle is a chemical container before it is a brand object. The resin, the gasket and the vent decide whether it survive
-- 50 ml Bottles — https://8pck.com/guides/50ml-bottles/ — covers: 50ml bottle, small plastic bottle, 50ml bottle manufacturer, 50 ml pet bottle, travel size bottle. 50 ml is the smallest size most brands sell, and the one with the highest cost per ml. The bottle is cheap; the closure, the filli
+- 50 ml Bottles — https://8pck.com/guides/50ml-bottles/ — covers: 50ml bottle, small plastic bottle, 50ml bottle manufacturer, 50 ml pet bottle, travel size bottle. 50 ml is the smallest size most brands sell, and the one with the highest cost per ml. The bottle is low-cost; the closure, the fi
 - 100 ml Bottles — https://8pck.com/guides/100ml-bottles/ — covers: 100ml bottle, 100 ml plastic bottle, travel bottle 100ml, 100ml pet bottle, small bottle supplier. 100 ml is the largest bottle most airline regimes allow in hand luggage, and the smallest that still reads as a product rather tha
 - 200 ml Bottles — https://8pck.com/guides/200ml-bottles/ — covers: 200ml bottle, 200 ml plastic bottle, flat bottle 200ml, 200ml pet bottle, 200ml bottle supplier. 200 ml in a flat profile is now the default for toner, sanitizer and hotel amenities: more label face per shelf depth, and a size 
 - 250 ml Bottles — https://8pck.com/guides/250ml-bottles/ — covers: 250ml bottle, 250 ml plastic bottle, 250ml pet bottle, 250ml pump bottle, small bottle supplier. 250 ml is the size a brand picks when it wants a lower entry price without looking small. It is also the size where a pump starts 
@@ -104,7 +104,7 @@
 - 4 oz Bottles — https://8pck.com/guides/4-oz-bottles/ — covers: 4 oz bottle, 4oz bottles, 4 ounce bottle, 120ml bottle, 4 oz plastic bottle. 4 oz (about 120 ml) is a retail peg size: sauces, lotions, craft oils and sample sets. The unit economics change because the closu
 - 12 oz Bottles — https://8pck.com/guides/12-oz-bottles/ — covers: 12 oz bottle, 12oz bottles, 355ml bottle, 12 ounce bottle, 12 oz plastic bottle. 12 oz (355 ml) is the can equivalent and a common sauce and drink bottle size in the US. It sits between 300 and 375 ml, which is 
 - Condiment Bottles — https://8pck.com/guides/condiment-bottles/ — covers: condiment bottle, condiment bottles, squeeze condiment bottle, ketchup bottle, sauce dispenser bottle. Ketchup, mustard, mayo and dressing all live in the same bottle with different caps. The orifice and the valve decide the user exp
-- Mini Spray Bottles — https://8pck.com/guides/mini-spray-bottles/ — covers: mini spray bottle, small spray bottle, 30ml spray bottle, travel spray bottle, mini mist bottle. Mini spray bottles are travel and sample formats under 50 ml. The bottle is cheap; filling them without a special nozzle is the re
+- Mini Spray Bottles — https://8pck.com/guides/mini-spray-bottles/ — covers: mini spray bottle, small spray bottle, 30ml spray bottle, travel spray bottle, mini mist bottle. Mini spray bottles are travel and sample formats under 50 ml. The bottle is low-cost; filling them without a special nozzle is the
 - Plastic Bottles with Caps — https://8pck.com/guides/plastic-bottles-with-caps/ — covers: plastic bottles with caps, bottle with cap, plastic bottle and cap, bottles with lids, bottle cap supplier. A bottle with a cap sounds like one product. In practice they are two moulds, two MOQs and sometimes two suppliers — which is why 
 - 1 oz Bottles — https://8pck.com/guides/1-oz-bottles/ — covers: 1 oz bottle, 1oz bottles, 30ml bottle, 1 ounce bottle, small sample bottle. 1 oz is 30 ml — the sample and essential-oil size. Below this, the cap and the filling cost more than the bottle, and the price st
 - Pharmaceutical Bottles — https://8pck.com/guides/pharmaceutical-bottles/ — covers: pharmaceutical bottles, pharma bottle, medicine bottle, prescription bottle, pill bottle supplier. A pharmaceutical bottle is HDPE with a child-resistant closure and a documented specification. We supply the container; the licenc
@@ -208,7 +208,7 @@
 ## Glossary
 - Neck finish: The opening spec: diameter/thread, e.g. 24/410 = 24 mm diameter, 410 thread profile.
 - MOQ: Minimum order quantity — at 8PCK 1,000 pcs per colour on existing moulds.
-- Blow mould: The tool that forms the bottle; about USD 800 and 15–20 days at CXWN, owned by the customer.
+- Blow mould: The tool that forms the bottle; about USD 850 and 15–20 days at CXWN, owned by the customer.
 - Preform: The test-tube-shaped PET piece that is stretch-blown into a bottle.
 - Airless: A pack with a piston and no dip tube; the product never meets air.
 - Sleeve: A shrink film wrapped around the bottle; makes PET harder to recycle.
@@ -243,7 +243,7 @@
 ## Master facts (operational)
 - Plant: 7,142 m², 20 lines, 120 staff, in-house mould shop and QC lab
 - Output: 12M pcs/month; one 40HQ container per week maximum
-- Moulds: 3,000+ existing; new blow mould USD 800 and 15–20 days
+- Moulds: 3,000+ existing; new blow mould USD 850 and 15–20 days
 - MOQ: 1,000 pcs per colour (existing moulds); 3,000 for spray coat, metallising or a soft tube; 10,000 for a printed pouch
 - Samples: 7 days from an existing mould; 25–30 days if new tooling is needed
 - Production: 25–35 days after sample approval
@@ -293,7 +293,7 @@
 ## How an order runs
 - 1. Brief: capacity, neck, material, quantity, market, decoration (1–2 days).
 - 2. DFM check against 3,000+ moulds and a 3D drawing if the shape is new (5 days).
-- 3. Quotation with unit price, packing data, lead time and incoterm (within 24 hours).
+- 3. Quotation with unit price, packing data, lead time and incoterm (within one business day).
 - 4. Sample from the production mould, not a showroom piece (7 days; 25 days if new tooling).
 - 5. Deposit, production 25–35 days, final inspection, shipment (EXW / FOB / CIF).
 - Seller of record: Shantou Chuangxin Weinuo Plastic Packaging Products Co., Ltd. Quotations, contracts and invoices are issued by CXWN.
@@ -355,7 +355,7 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/compare/silkscreen-vs-label/ — Silkscreen vs Label: Durability, MOQ and the Wet Bathroom | 8PCK
 - https://8pck.com/compare/single-vs-double-wall-jars/ — Single-Wall vs Double-Wall Cosmetic Jars | 8PCK
 - https://8pck.com/compare/spray-coat-vs-metallising/ — Spray Coat vs Metallising: Two Finishes, Two Budgets | 8PCK
-- https://8pck.com/contact.html — Contact — get a quote in 24 hours | 8PCK
+- https://8pck.com/contact.html — Contact — get a quote within one business day | 8PCK
 - https://8pck.com/cosmetic-packaging/ — Cosmetic Packaging — Bottles, Jars, Airless & Tubes | 8PCK
 - https://8pck.com/custom/multi-part-bottles/ — Multi-part bottles and custom moulds | 8PCK
 - https://8pck.com/custom/nda/ — Confidentiality and NDA | 8PCK
@@ -466,7 +466,7 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/guides/floor-cleaner-bottles/ — Floor Cleaner Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/foam-pumps/ — Foam Pumps: What Fits, and What Fails | 8PCK
 - https://8pck.com/guides/food-jars/ — Food Jars — specs, MOQ and documents | 8PCK
-- https://8pck.com/guides/frosted-bottles/ — Frosted Bottles: The Cheapest Premium Finish | 8PCK
+- https://8pck.com/guides/frosted-bottles/ — Frosted Bottles: The lowest unit cost Premium Finish | 8PCK
 - https://8pck.com/guides/glass-cleaner-bottles/ — Glass Cleaner Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/hair-oil-bottles/ — Hair Oil Bottles — specs, MOQ and documents | 8PCK
 - https://8pck.com/guides/hand-soap-bottles/ — Hand Soap Bottles — specs, MOQ and documents | 8PCK
