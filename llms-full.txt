@@ -8,22 +8,22 @@ Sections: Founded in 2011 in Haojiang; Joe Joo; Fifteen Years, in Five Lines; Co
 ## https://8pck.com/answers/bottle-tooling-cost/
 Title: How much does a new bottle mould cost? | 8PCK
 Description: A new blow mould is about USD 800 and takes 15–20 days. An injection mould for a cap is USD 1,500–3,000, because the tool is more complex.
-Sections: The Number, and What It Covers; When the Mould Is Not Needed; Frequently Asked; Related
+Sections: The Number, and What It Covers; When the Mould Is Not Needed; Part Count Before Size; Why Two Quotes Differ; Frequently Asked; Related
 
 ## https://8pck.com/answers/documents-for-eu-import/
 Title: What documents do I need to import plastic bottles into the EU?
 Description: For plastic food-contact bottles: the resin declaration of compliance, a migration test report against EU 10/2011, and a statement of compliance for the fi
-Sections: The Three Documents; What the Migration Test Actually Measures; What Is Often Missing; Where the Importer Sits; Frequently Asked; Related
+Sections: The Three Documents; What the Migration Test Actually Measures; What Is Often Missing; Where the Importer Sits; The Two Documents That Matter; Frequently Asked; Related
 
 ## https://8pck.com/answers/how-to-choose-closure/
 Title: How do I choose the right closure? | 8PCK
 Description: Start from the product: water-thin takes a flip-top or sprayer, lotion takes a pump, oil takes a dropper. The neck follows the closure, not the other way r
-Sections: The Order of Decisions; The Compatibility Trap; Frequently Asked; Related
+Sections: The Order of Decisions; The Compatibility Trap; The Closure Follows the Neck; Dose and Feel; What Breaks First; Frequently Asked; Related
 
 ## https://8pck.com/answers/incoterms-explained/
 Title: EXW, FOB or CIF — which should I choose? | 8PCK
 Description: FOB Shantou is the usual choice for a first order: the factory handles export clearance and you control the freight.
-Sections: What Each One Means in Practice; Why FOB Usually Wins; Frequently Asked; Related
+Sections: What Each One Means in Practice; Why FOB Usually Wins; What Each Term Puts on You; Where the Risk Actually Moves; Frequently Asked; Related
 
 ## https://8pck.com/answers/
 Title: Answers — MOQ, price and lead time for custom bottles | 8PCK
@@ -32,37 +32,37 @@ Description: Direct answers to the three questions buyers ask first: minimum ord
 ## https://8pck.com/answers/minimum-order-quantity/
 Title: What is the MOQ for custom plastic bottles? | 8PCK
 Description: 1,000 pcs per colour on an existing mould. A new bottle mould costs about USD 800 and takes 15–20 days; spray coating and metallising start at 3,000 pcs; s
-Sections: How the Number Is Calculated; The Number by Product Type; What Happens Below the MOQ; Tooling, if the Shape Is New; Why the MOQ Is per Colour; Frequently Asked; Related
+Sections: How the Number Is Calculated; The Number by Product Type; What Happens Below the MOQ; Tooling, if the Shape Is New; Why the MOQ Is per Colour; Where the 1,000 Comes From; Frequently Asked; Related
 
 ## https://8pck.com/answers/payment-terms/
 Title: What are the payment terms? | 8PCK
 Description: 30 % deposit on order, 70 % against the bill of lading. Payment goes to CXWN, the factory — 8PCK does not invoice.
-Sections: The Standard Split; Who Invoices; Frequently Asked; Related
+Sections: The Standard Split; Who Invoices; Why 30/70; What the Paperwork Protects; Frequently Asked; Related
 
 ## https://8pck.com/answers/plastic-bottle-cost/
 Title: How much does a custom plastic bottle cost? | 8PCK
 Description: At 10,000 pcs, a 500 ml PET bottle at 28 g with a lotion pump typically lands around USD 0.15–0.35 per unit FOB Shantou. The pump can be 40–60 % of that; r
-Sections: Where the Money Goes; The Four Things That Set the Price; Why the Pump Matters More Than the Bottle; What Changes the Price at the MOQ Boundary; How to Get a Number You Can Compare; Frequently Asked; Related
+Sections: Where the Money Goes; The Four Things That Set the Price; Why the Pump Matters More Than the Bottle; What Changes the Price at the MOQ Boundary; How to Get a Number You Can Compare; What Actually Moves the Price; Frequently Asked; Related
 
 ## https://8pck.com/answers/production-lead-time/
 Title: What is the lead time for custom plastic bottles from China? | 8PCK
 Description: Samples in 7 days from a stock mould; production 25–35 days after sample approval; add 15–20 days if new tooling is needed. Sea freight adds about 30–35 da
-Sections: What Runs in Parallel; The Timeline, Step by Step; What Actually Delays an Order; Shipping After Production; How to Plan a Launch Date; Frequently Asked; Related
+Sections: What Runs in Parallel; The Timeline, Step by Step; What Actually Delays an Order; Shipping After Production; How to Plan a Launch Date; The Three Queues; Frequently Asked; Related
 
 ## https://8pck.com/answers/sample-policy/
 Title: How do samples work, and what do they cost? | 8PCK
 Description: Samples on stock moulds take 7 days. They are usually free; you pay the freight, collected on your account.
-Sections: What You Get; What It Costs; Before You Approve; Frequently Asked; Related
+Sections: What You Get; What It Costs; Before You Approve; What a Sample Proves; What to Write on the Approval; Frequently Asked; Related
 
 ## https://8pck.com/answers/shipping-from-china/
 Title: How does shipping from Shantou work? | 8PCK
 Description: EXW, FOB Shantou or CIF — one 40HQ per week. A 40HQ holds roughly 20–24 pallets, depending on carton size.
-Sections: The Three Terms; Container Maths; Frequently Asked; Related
+Sections: The Three Terms; Container Maths; Sea, Air or Rail; What the Carton Has to Survive; What the Buyer Actually Pays; Frequently Asked; Related
 
 ## https://8pck.com/answers/verify-chinese-supplier/
 Title: How do I verify a Chinese packaging supplier? | 8PCK
 Description: Three checks settle it: the Unified Social Credit Code on gsxt.gov.cn, the certificate number with the issuing body, and a video call with your product in
-Sections: Check 1: the Business Licence; Check 2: the Certificate Number; Check 3: the Video Call; What Each Check Rules Out; Frequently Asked; Related
+Sections: Check 1: the Business Licence; Check 2: the Certificate Number; Check 3: the Video Call; What Each Check Rules Out; Three Checks That Take an Hour; Frequently Asked; Related
 
 ## https://8pck.com/compare/20-410-vs-24-410/
 Title: 20/410 vs 24/410: The Travel Neck and the Default Neck | 8PCK
@@ -982,12 +982,12 @@ Sections: Tubes, Lipstick and Straw-Fibre Bottles; What We Mould, by Application
 ## https://8pck.com/manufacturing/decoration/
 Title: Decoration: MOQ and failure modes | 8PCK
 Description: Silkscreen, label, spray, metallising, hot stamp — minimums and how each fails.
-Sections: The Five Options; Why Decoration Is Quoted Separately; The One That Surprises Buyers; What to Send
+Sections: The Five Options; Why Decoration Is Quoted Separately; The One That Surprises Buyers; What to Send; Questions
 
 ## https://8pck.com/manufacturing/ebm/
 Title: Extrusion blow: handles and wide mouths | 8PCK
 Description: The HDPE workhorse: cheap big bodies, wider walls, and what it cannot hold.
-Sections: How It Works; What It Is Good For; The Trade-Offs; What to Send
+Sections: How It Works; What It Is Good For; The Trade-Offs; What to Send; Questions
 
 ## https://8pck.com/manufacturing/
 Title: Manufacturing — injection, ISBM, EBM, tooling, decoration | 8PCK
@@ -997,22 +997,22 @@ Sections: The Short Version
 ## https://8pck.com/manufacturing/injection/
 Title: Injection moulding: tolerance and wall | 8PCK
 Description: Why threads, seals and multi-part collars are injection moulded, and what tolerance is realistic.
-Sections: What We Run; Tolerance, Honestly; Wall and Cycle; What to Send
+Sections: What We Run; Tolerance, Honestly; Wall and Cycle; What to Send; Questions
 
 ## https://8pck.com/manufacturing/isbm/
 Title: Injection stretch blow: neck and body | 8PCK
 Description: One-step ISBM: precise neck, strong light body, and where the shape stops.
-Sections: Why It Exists; What It Is Good For; Where It Stops; What to Send
+Sections: Why It Exists; What It Is Good For; Where It Stops; What to Send; Questions
 
 ## https://8pck.com/manufacturing/tooling/
 Title: The tool shop: what 15–40 days covers | 8PCK
 Description: Design, machining, trial, correction — and what moves the number.
-Sections: The Sequence; What Changes the Number; Ownership; What to Send
+Sections: The Sequence; What Changes the Number; Ownership; What to Send; Questions
 
 ## https://8pck.com/materials/hdpe/
 Title: HDPE bottles and jars — properties and limits | 8PCK
 Description: HDPE: Opaque, tough, chemically resistant. The household default.
-Sections: What It Is Good At; Where It Stops; Typical Use; Next Step
+Sections: What It Is Good At; Where It Stops; Typical Use; Next Step; Questions
 
 ## https://8pck.com/materials/
 Title: Materials — PET, PETG, HDPE, PP, rPET | 8PCK
@@ -1021,12 +1021,12 @@ Description: Five resins and where each one stops: clarity, chemical resistance,
 ## https://8pck.com/materials/pet/
 Title: PET bottles and jars — properties and limits | 8PCK
 Description: PET: Clear, light, food-grade, recyclable. The default for anything the customer must see.
-Sections: What It Is Good At; Where It Stops; Typical Use; Next Step
+Sections: What It Is Good At; Where It Stops; Typical Use; Next Step; Questions
 
 ## https://8pck.com/materials/petg/
 Title: PETG bottles and jars — properties and limits | 8PCK
 Description: PETG: Thick-wall clarity with a premium feel. Heavier, slower to mould, and the resin for a luxury serum.
-Sections: What It Is Good At; Where It Stops; Typical Use; Next Step
+Sections: What It Is Good At; Where It Stops; Typical Use; Next Step; Questions
 
 ## https://8pck.com/materials/polyethylene-bottles/
 Title: Polyethylene Bottles — HDPE & LDPE, 30–1,000 ml | 8PCK
@@ -1036,12 +1036,12 @@ Sections: HDPE vs LDPE; Why Polyethylene and Not PET; Recycling Note; Compatibil
 ## https://8pck.com/materials/pp/
 Title: PP bottles and jars — properties and limits | 8PCK
 Description: PP: Broad chemical resistance and heat tolerance. The closure material.
-Sections: What It Is Good At; Where It Stops; Typical Use; Next Step
+Sections: What It Is Good At; Where It Stops; Typical Use; Next Step; Questions
 
 ## https://8pck.com/materials/rpet/
 Title: rPET bottles and jars — properties and limits | 8PCK
 Description: rPET: Recycled PET at 30 % or higher. Same processing, different paperwork.
-Sections: What It Is Good At; Where It Stops; Typical Use; Next Step
+Sections: What It Is Good At; Where It Stops; Typical Use; Next Step; Questions
 
 ## https://8pck.com/news/aldi-50-percent-recycled-content/
 Title: Aldi and Pact Take Household Packaging to 50% Recycled
@@ -1131,7 +1131,7 @@ Sections: What Changed; What It Means for Buyers; What to Ask a Supplier; What I
 ## https://8pck.com/packaging-engineering/formula-compatibility/
 Title: Formula compatibility: pH, solvent, resin | 8PCK
 Description: Which resin and which finish survive an acid peel, an alcohol and an active — and the tests that prove it.
-Sections: The Three Questions We Ask First; Material by Formula; The Plated Part Is the One That Fails; Compatibility Testing, in Order of Cost; What We Need to Answer Properly
+Sections: The Three Questions We Ask First; Material by Formula; The Plated Part Is the One That Fails; Compatibility Testing, in Order of Cost; What We Need to Answer Properly; Questions
 
 ## https://8pck.com/packaging-engineering/
 Title: Packaging engineering — design, sealing, compatibility, testing
@@ -1141,17 +1141,17 @@ Sections: Why This Section Exists
 ## https://8pck.com/packaging-engineering/part-design/
 Title: Part design: wall, draft, gate and tolerance | 8PCK
 Description: Wall thickness, draft, gate position and the tolerance stack on a multi-part pack.
-Sections: Wall Thickness Is a Compromise, Not a Target; Draft Is Not Optional on a Visible Part; Gate Position, on a Clear Part; The Tolerance Stack: Where Four Parts Go Wrong; What to Send Us
+Sections: Wall Thickness Is a Compromise, Not a Target; Draft Is Not Optional on a Visible Part; Gate Position, on a Clear Part; The Tolerance Stack: Where Four Parts Go Wrong; What to Send Us; Questions
 
 ## https://8pck.com/packaging-engineering/sealing/
 Title: Sealing: O-ring grooves, gaskets and the leak test | 8PCK
 Description: How a plastic joint is sealed: O-ring grooves, flat gaskets, material choice, the vacuum test and left-hand threads.
-Sections: Three Ways to Seal a Plastic Joint; The Groove Is the Design; Material Follows Chemistry; The Test, Written Down; Left-Hand Thread, and Why It Matters to a Seal
+Sections: Three Ways to Seal a Plastic Joint; The Groove Is the Design; Material Follows Chemistry; The Test, Written Down; Left-Hand Thread, and Why It Matters to a Seal; Questions
 
 ## https://8pck.com/packaging-engineering/testing/
 Title: Packaging testing: leak, drop, torque, migration | 8PCK
 Description: What we check on the line, at assembly and in transit — and what belongs to the brand's lab.
-Sections: On the Moulding Line; On the Assembly; Transit and Drop; What Is Not Our Test; The Sample Round
+Sections: On the Moulding Line; On the Assembly; Transit and Drop; What Is Not Our Test; The Sample Round; Questions
 
 ## https://8pck.com/products/airless/30ml-airless-bottle/
 Title: Moved
@@ -1920,7 +1920,7 @@ Sections: What Buyers Get Wrong; Soft Wall or Firm Wall; Necks and Dispensing; M
 ## https://8pck.com/projects/four-part-mixing-pack/
 Title: Four-part mixing pack — case note | 8PCK
 Description: A 200 ml four-part pack: collar-carried threads, two O-rings, a left-hand joint and what the sample round caught.
-Sections: Decision 1 — the Collar Carries the Threads; Decision 2 — Two O-Rings, Not One Gasket; Decision 3 — the Lower Joint Is Left-Hand; What the Sample Round Caught
+Sections: Decision 1 — the Collar Carries the Threads; Decision 2 — Two O-Rings, Not One Gasket; Decision 3 — the Lower Joint Is Left-Hand; What the Sample Round Caught; Questions
 
 ## https://8pck.com/projects/
 Title: Projects — anonymised case notes | 8PCK
@@ -1929,12 +1929,12 @@ Description: Three builds described by structure and numbers: a four-part mixing
 ## https://8pck.com/projects/refill-duo/
 Title: Refill duo — case note | 8PCK
 Description: A 500 ml refill and a 100 ml companion sharing one closure family, and the dip-tube mistake.
-Sections: One Neck, Two Bottles; The Dip Tube Is the Only Difference; What Went Wrong Once
+Sections: One Neck, Two Bottles; The Dip Tube Is the Only Difference; What Went Wrong Once; Questions
 
 ## https://8pck.com/projects/thick-wall-serum/
 Title: Thick-wall 30 ml serum bottle — case note | 8PCK
 Description: How a 30 ml PETG bottle was made to feel heavier than it is, and why the dropper was shortened.
-Sections: The Base Does the Work; The Dropper Had to Reach the Last Millilitre; Why Not Glass
+Sections: The Base Does the Work; The Dropper Had to Reach the Last Millilitre; Why Not Glass; Questions
 
 ## https://8pck.com/quality.html
 Title: Quality & compliance — ISO 9001, EU 10/2011, RoHS | 8PCK
