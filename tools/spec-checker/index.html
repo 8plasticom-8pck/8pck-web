@@ -33,7 +33,7 @@
   gtag('js', new Date());
   gtag('config', 'G-911LRC5D6P');
 </script>
-<link rel="stylesheet" href="../../assets/css/style.css?v=e2ebf01c">
+<link rel="stylesheet" href="../../assets/css/style.css?v=6b668654">
 <link rel="alternate" type="application/rss+xml" title="8PCK Trends" href="https://8pck.com/feed.xml">
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://8pck.com/#org", "name": "Shantou Chuangxin Weinuo Plastic Packaging Products Co., Ltd.", "alternateName": ["8PCK", "CXWN", "汕头市创新维诺塑料包装制品有限公司"], "url": "https://8pck.com", "email": "joe@8pck.com", "telephone": "+86 133 6387 9944", "foundingDate": "2011", "identifier": {"@type": "PropertyValue", "name": "Unified Social Credit Code", "value": "91440512576471585D"}, "description": "8PCK is the export desk of Shantou Chuangxin Weinuo Plastic Packaging Products Co., Ltd. (CXWN). Quotations, contracts and invoices are issued by CXWN; payment goes to CXWN.", "address": {"@type": "PostalAddress", "streetAddress": "B03-05 Plot, Tatou, Brownstone Street, Haojiang District, Shantou, Guangdong, China", "addressLocality": "Shantou", "addressRegion": "Guangdong", "addressCountry": "CN"}}, {"@type": "WebSite", "@id": "https://8pck.com/#website", "url": "https://8pck.com", "name": "8PCK", "publisher": {"@id": "https://8pck.com/#org"}}, {"@type": "Person", "@id": "https://8pck.com/#joe", "name": "Joe Joo", "jobTitle": "Founder, 8PCK", "url": "https://8pck.com/about.html", "worksFor": {"@id": "https://8pck.com/#org"}, "knowsAbout": ["plastic packaging", "bottle manufacturing", "mould making", "PET and HDPE bottles", "packaging inspection"]}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://8pck.com/"}, {"@type": "ListItem", "position": 2, "name": "Tools", "item": "https://8pck.com/tools/"}, {"@type": "ListItem", "position": 3, "name": "Spec Checker", "item": "https://8pck.com/tools/spec-checker/"}]}</script>
@@ -131,6 +131,20 @@ body.c-style .v2-cta .s{background:transparent;color:#1d1b18;border:1px solid #1
 
 body.c-style .btn.small{background:#c8102e!important;color:#fff!important;text-transform:none!important;
   letter-spacing:0!important;font-size:13px!important;padding:10px 18px!important;white-space:nowrap!important;border-radius:2px!important;border:0!important}
+
+.tool-hero{position:relative;margin:26px 0 6px;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:#f4f8fc}
+.tool-hero-cap{margin:0;padding:10px 14px;font-size:12px;color:#4a6b85;border-top:1px solid #dce8f3;background:#fff}
+.tool-hero svg{display:block}
+label span svg{vertical-align:-2px;margin-right:6px;opacity:.75}
+/* 闲置弹窗 */
+.jn-modal{position:fixed;inset:0;z-index:200;display:none;align-items:center;justify-content:center;background:rgba(10,10,10,.55);backdrop-filter:blur(3px)}
+.jn-modal.on{display:flex}
+.jn-card{width:min(520px,92vw);background:#fff;border-radius:14px;padding:26px;position:relative;box-shadow:0 24px 60px rgba(0,0,0,.28)}
+.jn-mark{float:left;margin:0 18px 8px 0;font-weight:700;letter-spacing:.3em;font-size:15px;line-height:1;color:#111;border:1px solid #111;padding:16px 14px 16px 18px;border-radius:6px}
+.jn-card h3{margin:0 0 4px;font-size:20px;letter-spacing:-.01em}
+.jn-card p{margin:0 0 14px;font-size:14px;line-height:1.55;color:#444}
+.jn-card .btnrow{display:flex;gap:10px;flex-wrap:wrap;clear:both;margin-top:6px}
+.jn-x{position:absolute;top:10px;right:12px;border:0;background:none;font-size:22px;line-height:1;color:#999;cursor:pointer}
 </style>
 <div class="wrap">
   <div class="crumb"><a href="../../index.html">Home</a> / <a href="../../tools/">Tools</a> / Spec checker</div>
@@ -223,9 +237,11 @@ body.c-style .btn.small{background:#c8102e!important;color:#fff!important;text-t
 </section>
 
 <section class="section">
-  <div class="kicker">Related tools</div>
-  <h2>Also Worth a Minute</h2>
-  <div class="cards q3" style="margin-top:14px"><a class="card" href="../moq-tooling/"><h3 class="card-h">MOQ and Tooling</h3><span class="more">Open →</span></a><a class="card" href="../bottle-weight/"><h3 class="card-h">Bottle Weight</h3><span class="more">Open →</span></a><a class="card" href="../mould-cost/"><h3 class="card-h">Mould Cost</h3><span class="more">Open →</span></a></div>
+  <div class="wrap">
+    <div class="kicker">Related tools</div>
+    <h2 style="font-size:24px">Also Worth a Minute</h2>
+    <div class="cards q3" style="margin-top:14px"><a class="card" href="../moq-tooling/"><h3 class="card-h">MOQ and Tooling</h3><span class="more">Open →</span></a><a class="card" href="../bottle-weight/"><h3 class="card-h">Bottle Weight</h3><span class="more">Open →</span></a><a class="card" href="../mould-cost/"><h3 class="card-h">Mould Cost</h3><span class="more">Open →</span></a></div>
+  </div>
 </section>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Bottle Spec Checker", "applicationCategory": "BusinessApplication", "operatingSystem": "Any", "url": "https://8pck.com/tools/spec-checker/", "description": "Check a plastic bottle specification: neck and closure fit, capacity per neck, wall thickness for a pump stroke, MOQ and lead time.", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "publisher": {"@type": "Organization", "name": "8PCK", "url": "https://8pck.com"}}</script>
 <script>
@@ -351,7 +367,6 @@ body.c-style .btn.small{background:#c8102e!important;color:#fff!important;text-t
         <p><a href="../../verify.html">Verify us</a></p>
         <p><a href="../../resources.html">Resources</a></p>
         <p><a href="../../answers/">Answers</a></p>
-        <p><a href="../../news/">Trends</a></p>
         <p><a href="../../news/">Trends</a></p>
         <p><a href="../../contact.html">Contact</a></p>
         <p><a href="../../faq.html">FAQ</a></p>
