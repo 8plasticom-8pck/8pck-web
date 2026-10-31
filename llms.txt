@@ -524,53 +524,57 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/news/ppwr-bio-based-targets/ — The EU Is Weighing Bio-Based Targets Under PPWR | 8PCK
 - https://8pck.com/news/ppwr-in-force-what-changes-for-bottles/ — PPWR Is Already In Force | 8PCK
 - https://8pck.com/news/stock-packaging-beauty-brands/ — Big Beauty Brands Are Buying Stock Packaging | 8PCK
-- https://8pck.com/products/airless/30ml-airless-bottle/ — 30 ml airless bottle — 30 ml, Airless | 8PCK
-- https://8pck.com/products/airless/50ml-airless-bottle/ — 50 ml airless bottle — 50 ml, Airless | 8PCK
+- https://8pck.com/products/airless/30ml-airless-bottle/ — Moved
+- https://8pck.com/products/airless/50ml-airless-bottle/ — Moved
+- https://8pck.com/products/airless/airless-bottle-sizes/ — Airless Bottles — 2 sizes | 8PCK
 - https://8pck.com/products/airless/ — Airless — 30–50 ml | 8PCK
 - https://8pck.com/products/bags/ — Food bags — Stand-up · flat · 3-side | 8PCK
-- https://8pck.com/products/bottles/100-ml-hdpe-bottle/ — 100 ml HDPE Bottle — opaque, tough and chemically resistant | 8PCK
-- https://8pck.com/products/bottles/100-ml-pet-bottle/ — 100 ml PET Bottle — clear, light and food-grade | 8PCK
-- https://8pck.com/products/bottles/1000-ml-hdpe-bottle/ — 1 L HDPE Bottle — opaque, tough and chemically resistant | 8PCK
-- https://8pck.com/products/bottles/1000-ml-pet-bottle/ — 1 L PET Bottle — clear, light and food-grade | 8PCK
+- https://8pck.com/products/bottles/100-ml-hdpe-bottle/ — Moved
+- https://8pck.com/products/bottles/100-ml-pet-bottle/ — Moved
+- https://8pck.com/products/bottles/1000-ml-hdpe-bottle/ — Moved
+- https://8pck.com/products/bottles/1000-ml-pet-bottle/ — Moved
 - https://8pck.com/products/bottles/100ml-pet-round-bottle/ — 100 ml PET round bottle — 100 ml, 20/410 | 8PCK
-- https://8pck.com/products/bottles/120-ml-hdpe-bottle/ — 120 ml HDPE Bottle — opaque, tough and chemically resistant | 8PCK
-- https://8pck.com/products/bottles/120-ml-pet-bottle/ — 120 ml PET Bottle — clear, light and food-grade | 8PCK
-- https://8pck.com/products/bottles/15-ml-hdpe-bottle/ — 15 ml HDPE Bottle — opaque, tough and chemically resistant | 8PCK
-- https://8pck.com/products/bottles/15-ml-pet-bottle/ — 15 ml PET Bottle — clear, light and food-grade | 8PCK
-- https://8pck.com/products/bottles/150-ml-hdpe-bottle/ — 150 ml HDPE Bottle — opaque, tough and chemically resistant | 8PCK
-- https://8pck.com/products/bottles/150-ml-pet-bottle/ — 150 ml PET Bottle — clear, light and food-grade | 8PCK
-- https://8pck.com/products/bottles/200-ml-hdpe-bottle/ — 200 ml HDPE Bottle — opaque, tough and chemically resistant | 8PCK
-- https://8pck.com/products/bottles/200-ml-pet-bottle/ — 200 ml PET Bottle — clear, light and food-grade | 8PCK
+- https://8pck.com/products/bottles/120-ml-hdpe-bottle/ — Moved
+- https://8pck.com/products/bottles/120-ml-pet-bottle/ — Moved
+- https://8pck.com/products/bottles/15-ml-hdpe-bottle/ — Moved
+- https://8pck.com/products/bottles/15-ml-pet-bottle/ — Moved
+- https://8pck.com/products/bottles/150-ml-hdpe-bottle/ — Moved
+- https://8pck.com/products/bottles/150-ml-pet-bottle/ — Moved
+- https://8pck.com/products/bottles/200-ml-hdpe-bottle/ — Moved
+- https://8pck.com/products/bottles/200-ml-pet-bottle/ — Moved
 - https://8pck.com/products/bottles/200ml-flat-bottle/ — 200 ml flat bottle — 200 ml, 24/410 | 8PCK
-- https://8pck.com/products/bottles/250-ml-hdpe-bottle/ — 250 ml HDPE Bottle — opaque, tough and chemically resistant | 8PCK
-- https://8pck.com/products/bottles/250-ml-pet-bottle/ — 250 ml PET Bottle — clear, light and food-grade | 8PCK
-- https://8pck.com/products/bottles/250ml-pet-pump-bottle/ — 250 ml PET pump bottle — 250 ml, 24/410 | 8PCK
-- https://8pck.com/products/bottles/30-ml-hdpe-bottle/ — 30 ml HDPE Bottle — opaque, tough and chemically resistant | 8PCK
-- https://8pck.com/products/bottles/30-ml-pet-bottle/ — 30 ml PET Bottle — clear, light and food-grade | 8PCK
-- https://8pck.com/products/bottles/300-ml-hdpe-bottle/ — 300 ml HDPE Bottle — opaque, tough and chemically resistant | 8PCK
-- https://8pck.com/products/bottles/300-ml-pet-bottle/ — 300 ml PET Bottle — clear, light and food-grade | 8PCK
-- https://8pck.com/products/bottles/300ml-pet-pump-bottle/ — 300 ml PET pump bottle — 300 ml, 24/410 | 8PCK
+- https://8pck.com/products/bottles/250-ml-hdpe-bottle/ — Moved
+- https://8pck.com/products/bottles/250-ml-pet-bottle/ — Moved
+- https://8pck.com/products/bottles/250ml-pet-pump-bottle/ — Moved
+- https://8pck.com/products/bottles/30-ml-hdpe-bottle/ — Moved
+- https://8pck.com/products/bottles/30-ml-pet-bottle/ — Moved
+- https://8pck.com/products/bottles/300-ml-hdpe-bottle/ — Moved
+- https://8pck.com/products/bottles/300-ml-pet-bottle/ — Moved
+- https://8pck.com/products/bottles/300ml-pet-pump-bottle/ — Moved
 - https://8pck.com/products/bottles/30ml-pet-dropper-bottle/ — 30 ml PET dropper bottle — 30 ml, 18/410 | 8PCK
-- https://8pck.com/products/bottles/375-ml-hdpe-bottle/ — 375 ml HDPE Bottle — opaque, tough and chemically resistant | 8PCK
-- https://8pck.com/products/bottles/375-ml-pet-bottle/ — 375 ml PET Bottle — clear, light and food-grade | 8PCK
-- https://8pck.com/products/bottles/50-ml-hdpe-bottle/ — 50 ml HDPE Bottle — opaque, tough and chemically resistant | 8PCK
-- https://8pck.com/products/bottles/50-ml-pet-bottle/ — 50 ml PET Bottle — clear, light and food-grade | 8PCK
-- https://8pck.com/products/bottles/500-ml-hdpe-bottle/ — 500 ml HDPE Bottle — opaque, tough and chemically resistant | 8PCK
-- https://8pck.com/products/bottles/500-ml-pet-bottle/ — 500 ml PET Bottle — clear, light and food-grade | 8PCK
-- https://8pck.com/products/bottles/500ml-pet-pump-bottle/ — 500 ml PET pump bottle — 500 ml, 24/410 | 8PCK
+- https://8pck.com/products/bottles/375-ml-hdpe-bottle/ — Moved
+- https://8pck.com/products/bottles/375-ml-pet-bottle/ — Moved
+- https://8pck.com/products/bottles/50-ml-hdpe-bottle/ — Moved
+- https://8pck.com/products/bottles/50-ml-pet-bottle/ — Moved
+- https://8pck.com/products/bottles/500-ml-hdpe-bottle/ — Moved
+- https://8pck.com/products/bottles/500-ml-pet-bottle/ — Moved
+- https://8pck.com/products/bottles/500ml-pet-pump-bottle/ — Moved
 - https://8pck.com/products/bottles/50ml-travel-bottle/ — 50 ml travel bottle — 50 ml, 20/410 | 8PCK
-- https://8pck.com/products/bottles/60-ml-hdpe-bottle/ — 60 ml HDPE Bottle — opaque, tough and chemically resistant | 8PCK
-- https://8pck.com/products/bottles/60-ml-pet-bottle/ — 60 ml PET Bottle — clear, light and food-grade | 8PCK
-- https://8pck.com/products/bottles/750-ml-hdpe-bottle/ — 750 ml HDPE Bottle — opaque, tough and chemically resistant | 8PCK
-- https://8pck.com/products/bottles/750-ml-pet-bottle/ — 750 ml PET Bottle — clear, light and food-grade | 8PCK
+- https://8pck.com/products/bottles/60-ml-hdpe-bottle/ — Moved
+- https://8pck.com/products/bottles/60-ml-pet-bottle/ — Moved
+- https://8pck.com/products/bottles/750-ml-hdpe-bottle/ — Moved
+- https://8pck.com/products/bottles/750-ml-pet-bottle/ — Moved
 - https://8pck.com/products/bottles/750ml-shampoo-bottle/ — 750 ml shampoo bottle — 750 ml, 28/410 | 8PCK
+- https://8pck.com/products/bottles/hdpe-bottle-sizes/ — Hdpe Bottles — 14 sizes | 8PCK
 - https://8pck.com/products/bottles/hdpe-flat-shoulder-bottle-with-applicator-cap/ — HDPE Flat-Shoulder Bottle with Applicator Cap — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/bottles/hdpe-special-shape-bottle/ — HDPE Special-Shape Bottle — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/bottles/ — Bottles — PET · HDPE · PETG | 8PCK
 - https://8pck.com/products/bottles/ldpe-round-shoulder-bottle-with-screw-cap/ — LDPE Round-Shoulder Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
+- https://8pck.com/products/bottles/pet-bottle-sizes/ — Pet Bottles — 14 sizes | 8PCK
 - https://8pck.com/products/bottles/pet-hair-lotion-bottle-50/ — 50 ml PET Hair Lotion Bottle, Flip Top — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/bottles/pet-pump-bottle-120/ — 120 ml PET Pump Bottle — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/bottles/pet-pump-bottle-500/ — 500 ml PET Pump Bottle — 1,000 pcs MOQ | 8PCK
+- https://8pck.com/products/bottles/pet-pump-bottle-sizes/ — Pet Pump Bottles — 3 sizes | 8PCK
 - https://8pck.com/products/bottles/pet-pump-bottles-100-150/ — PET Pump Bottles, 100 / 120 / 150 ml — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/bottles/pet-round-bottle-100-disc-top/ — 100 ml PET Round Bottle with Disc Top — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/bottles/pet-round-bottle-500-disc-top/ — 500 ml PET Round Bottle with Disc Top — 1,000 pcs MOQ | 8PCK
@@ -580,87 +584,93 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/products/bottles/white-pump-bottle/ — White Plastic Bottle with Pump — HDPE, 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/closures/ — Bottle Caps & Closures — Pumps, Caps, Sprayers | 8PCK
 - https://8pck.com/products/dropper-bottles/10-ml/ — 10 ml Dropper Oil Bottle — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/10-ml-pe-dropper-bottle-with-needle-cap/ — 10 ml PE Dropper Bottle with Needle Cap — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/10-ml-pe-dropper-bottle-with-tamper-evident-cap/ — 10 ml PE Dropper Bottle with Tamper-Evident Cap — 1,000 pcs MOQ
+- https://8pck.com/products/dropper-bottles/10-ml-pe-dropper-bottle-with-needle-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/10-ml-pe-dropper-bottle-with-tamper-evident-cap/ — Moved
 - https://8pck.com/products/dropper-bottles/10-ml-pe-flat-dropper-bottle-with-tamper-evident-cap/ — 10 ml PE Flat Dropper Bottle with Tamper-Evident Cap — 1,000 pcs MOQ
-- https://8pck.com/products/dropper-bottles/10-ml-pe-pen-shaped-dropper-bottle-with-child-resistant-wi/ — 10 ml PE Pen-Shaped Dropper Bottle with Child-Resistant with
-- https://8pck.com/products/dropper-bottles/10-ml-pe-pen-shaped-dropper-bottle-with-screw-cap/ — 10 ml PE Pen-Shaped Dropper Bottle with Screw Cap — 1,000 pcs MOQ
-- https://8pck.com/products/dropper-bottles/10-ml-pe-round-dropper-bottle-with-child-resistant-with-ta/ — 10 ml PE Round Dropper Bottle with Child-Resistant with
-- https://8pck.com/products/dropper-bottles/10-ml-pe-round-dropper-bottle-with-screw-cap/ — 10 ml PE Round Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/10-ml-pet-dropper-bottle-with-child-resistant-tamper-evi/ — 10 ml PET Dropper Bottle with Child-Resistant Tamper-Evident Cap
-- https://8pck.com/products/dropper-bottles/10-ml-pet-dropper-bottle-with-screw-cap/ — 10 ml PET Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/10-ml-pet-dropper-bottle-with-tamper-evident-cap/ — 10 ml PET Dropper Bottle with Tamper-Evident Cap — 1,000 pcs MOQ
-- https://8pck.com/products/dropper-bottles/10-ml-round/ — 10 ml Round Dropper Bottle — 10 ml, 1,000 pcs MOQ | 8PCK
+- https://8pck.com/products/dropper-bottles/10-ml-pe-pen-shaped-dropper-bottle-with-child-resistant-wi/ — Moved
+- https://8pck.com/products/dropper-bottles/10-ml-pe-pen-shaped-dropper-bottle-with-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/10-ml-pe-round-dropper-bottle-with-child-resistant-with-ta/ — Moved
+- https://8pck.com/products/dropper-bottles/10-ml-pe-round-dropper-bottle-with-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/10-ml-pet-dropper-bottle-with-child-resistant-tamper-evi/ — Moved
+- https://8pck.com/products/dropper-bottles/10-ml-pet-dropper-bottle-with-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/10-ml-pet-dropper-bottle-with-tamper-evident-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/10-ml-round/ — Moved
 - https://8pck.com/products/dropper-bottles/100-ml/ — 100 ml Translucent Dropper Oil Bottle — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/100-ml-pe-dropper-bottle/ — 100 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/100-ml-pe-dropper-bottle-with-child-resistant-screw-cap/ — 100 ml PE Dropper Bottle with Child-Resistant Screw Cap — 1,000 pcs
-- https://8pck.com/products/dropper-bottles/100-ml-pe-dropper-bottle-with-screw-cap/ — 100 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/100-ml-pe-round-dropper-bottle-with-child-resistant-with-t/ — 100 ml PE Round Dropper Bottle with Child-Resistant with
-- https://8pck.com/products/dropper-bottles/100-ml-round/ — 100 ml Round Dropper Bottle — 100 ml, 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/120-ml-pe-dropper-bottle-with-screw-cap/ — 120 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/15-ml-pe-dropper-bottle/ — 15 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/15-ml-pe-dropper-bottle-with-child-resistant-screw-cap/ — 15 ml PE Dropper Bottle with Child-Resistant Screw Cap — 1,000 pcs
-- https://8pck.com/products/dropper-bottles/15-ml-pe-dropper-bottle-with-screw-cap/ — 15 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/15-ml-pe-dropper-bottle-with-tamper-evident-cap/ — 15 ml PE Dropper Bottle with Tamper-Evident Cap — 1,000 pcs MOQ
-- https://8pck.com/products/dropper-bottles/15-ml-pe-pen-shaped-dropper-bottle-with-screw-cap/ — 15 ml PE Pen-Shaped Dropper Bottle with Screw Cap — 1,000 pcs MOQ
+- https://8pck.com/products/dropper-bottles/100-ml-pe-dropper-bottle/ — Moved
+- https://8pck.com/products/dropper-bottles/100-ml-pe-dropper-bottle-with-child-resistant-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/100-ml-pe-dropper-bottle-with-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/100-ml-pe-round-dropper-bottle-with-child-resistant-with-t/ — Moved
+- https://8pck.com/products/dropper-bottles/100-ml-round/ — Moved
+- https://8pck.com/products/dropper-bottles/120-ml-pe-dropper-bottle-with-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/15-ml-pe-dropper-bottle/ — Moved
+- https://8pck.com/products/dropper-bottles/15-ml-pe-dropper-bottle-with-child-resistant-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/15-ml-pe-dropper-bottle-with-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/15-ml-pe-dropper-bottle-with-tamper-evident-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/15-ml-pe-pen-shaped-dropper-bottle-with-screw-cap/ — Moved
 - https://8pck.com/products/dropper-bottles/15-ml-petg-dropper-bottle-with-screw-cap/ — 15 ml PETG Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/18-ml-pe-dropper-bottle/ — 18 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/18-ml-pe-dropper-bottle-with-screw-cap/ — 18 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/180-ml-pe-round-dropper-bottle-with-tamper-evident-cap/ — 180 ml PE Round Dropper Bottle with Tamper-Evident Cap — 1,000 pcs
+- https://8pck.com/products/dropper-bottles/18-ml-pe-dropper-bottle/ — Moved
+- https://8pck.com/products/dropper-bottles/18-ml-pe-dropper-bottle-with-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/180-ml-pe-round-dropper-bottle-with-tamper-evident-cap/ — Moved
 - https://8pck.com/products/dropper-bottles/2-5-ml/ — 2.5 ml Dropper Oil Bottle — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/2-5-ml-pe-dropper-bottle/ — 2.5 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/2-5-ml-pe-dropper-bottle-with-child-resistant-screw-cap/ — 2.5 ml PE Dropper Bottle with Child-Resistant Screw Cap — 1,000 pcs
-- https://8pck.com/products/dropper-bottles/2-5-ml-pe-dropper-bottle-with-screw-cap/ — 2.5 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
+- https://8pck.com/products/dropper-bottles/2-5-ml-pe-dropper-bottle/ — Moved
+- https://8pck.com/products/dropper-bottles/2-5-ml-pe-dropper-bottle-sizes/ — 2 5 Ml Pe Dropper Bottles — 3 sizes | 8PCK
+- https://8pck.com/products/dropper-bottles/2-5-ml-pe-dropper-bottle-with-child-resistant-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/2-5-ml-pe-dropper-bottle-with-screw-cap/ — Moved
 - https://8pck.com/products/dropper-bottles/2-5-ml-pe-round-dropper-bottle-with-child-resistant-cap/ — 2.5 ml PE Round Dropper Bottle with Child-Resistant Cap — 1,000 pcs
 - https://8pck.com/products/dropper-bottles/2-5-ml-round/ — 2.5 ml Round Dropper Bottle — 2.5 ml, 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/20-ml-pe-dropper-bottle/ — 20 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/20-ml-pe-pen-shaped-dropper-bottle-with-screw-cap/ — 20 ml PE Pen-Shaped Dropper Bottle with Screw Cap — 1,000 pcs MOQ
-- https://8pck.com/products/dropper-bottles/20-ml-pe-round-dropper-bottle-with-screw-cap/ — 20 ml PE Round Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/25-ml-pe-dropper-bottle-with-tamper-evident-cap/ — 25 ml PE Dropper Bottle with Tamper-Evident Cap — 1,000 pcs MOQ
-- https://8pck.com/products/dropper-bottles/3-ml-pe-dropper-bottle/ — 3 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/3-ml-pe-dropper-bottle-with-screw-cap/ — 3 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/30-ml-pe-dropper-bottle/ — 30 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/30-ml-pe-dropper-bottle-with-child-resistant-screw-cap/ — 30 ml PE Dropper Bottle with Child-Resistant Screw Cap — 1,000 pcs
-- https://8pck.com/products/dropper-bottles/30-ml-pe-pen-shaped-dropper-bottle-with-child-resistant-/ — 30 ml PE Pen-Shaped Dropper Bottle with Child-Resistant
-- https://8pck.com/products/dropper-bottles/30-ml-pe-pen-shaped-dropper-bottle-with-screw-cap/ — 30 ml PE Pen-Shaped Dropper Bottle with Screw Cap — 1,000 pcs MOQ
-- https://8pck.com/products/dropper-bottles/30-ml-pe-pen-shaped-dropper-bottle-with-tamper-evident-cap/ — 30 ml PE Pen-Shaped Dropper Bottle with Tamper-Evident Cap — 1,000
-- https://8pck.com/products/dropper-bottles/30-ml-pe-round-dropper-bottle-with-tamper-evident-cap/ — 30 ml PE Round Dropper Bottle with Tamper-Evident Cap — 1,000 pcs
+- https://8pck.com/products/dropper-bottles/20-ml-pe-dropper-bottle/ — Moved
+- https://8pck.com/products/dropper-bottles/20-ml-pe-pen-shaped-dropper-bottle-with-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/20-ml-pe-round-dropper-bottle-with-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/25-ml-pe-dropper-bottle-with-tamper-evident-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/3-ml-pe-dropper-bottle/ — Moved
+- https://8pck.com/products/dropper-bottles/3-ml-pe-dropper-bottle-with-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/30-ml-pe-dropper-bottle/ — Moved
+- https://8pck.com/products/dropper-bottles/30-ml-pe-dropper-bottle-with-child-resistant-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/30-ml-pe-pen-shaped-dropper-bottle-with-child-resistant-/ — Moved
+- https://8pck.com/products/dropper-bottles/30-ml-pe-pen-shaped-dropper-bottle-with-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/30-ml-pe-pen-shaped-dropper-bottle-with-tamper-evident-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/30-ml-pe-round-dropper-bottle-with-tamper-evident-cap/ — Moved
 - https://8pck.com/products/dropper-bottles/30-ml-pen/ — 30 ml Pen-Shaped Dropper Bottle — 30 ml, 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/30-ml-pet-dropper-bottle-with-child-resistant-tamper-evi/ — 30 ml PET Dropper Bottle with Child-Resistant Tamper-Evident Cap
-- https://8pck.com/products/dropper-bottles/30-ml-pet-dropper-bottle-with-screw-cap/ — 30 ml PET Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/30-ml-pet-dropper-bottle-with-tamper-evident-cap/ — 30 ml PET Dropper Bottle with Tamper-Evident Cap — 1,000 pcs MOQ
+- https://8pck.com/products/dropper-bottles/30-ml-pet-dropper-bottle-with-child-resistant-tamper-evi/ — Moved
+- https://8pck.com/products/dropper-bottles/30-ml-pet-dropper-bottle-with-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/30-ml-pet-dropper-bottle-with-tamper-evident-cap/ — Moved
 - https://8pck.com/products/dropper-bottles/5-ml/ — 5 ml Dropper Bottles — Plastic, 18/410, 1,000 pcs | 8PCK
-- https://8pck.com/products/dropper-bottles/5-ml-pe-dropper-bottle-with-child-resistant-screw-cap/ — 5 ml PE Dropper Bottle with Child-Resistant Screw Cap — 1,000 pcs
-- https://8pck.com/products/dropper-bottles/5-ml-pe-dropper-bottle-with-needle-cap/ — 5 ml PE Dropper Bottle with Needle Cap — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/5-ml-pe-dropper-bottle-with-screw-cap/ — 5 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/5-ml-pe-round-dropper-bottle-with-child-resistant-with-tam/ — 5 ml PE Round Dropper Bottle with Child-Resistant with
-- https://8pck.com/products/dropper-bottles/5-ml-pe-round-dropper-bottle-with-tamper-evident-cap/ — 5 ml PE Round Dropper Bottle with Tamper-Evident Cap — 1,000 pcs MOQ
-- https://8pck.com/products/dropper-bottles/5-ml-pet-dropper-bottle-with-child-resistant-screw-cap/ — 5 ml PET Dropper Bottle with Child-Resistant Screw Cap — 1,000 pcs
-- https://8pck.com/products/dropper-bottles/5-ml-pet-dropper-bottle-with-child-resistant-tamper-evid/ — 5 ml PET Dropper Bottle with Child-Resistant Tamper-Evident Cap
-- https://8pck.com/products/dropper-bottles/5-ml-pet-dropper-bottle-with-screw-cap/ — 5 ml PET Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/5-ml-pet-dropper-bottle-with-tamper-evident-cap/ — 5 ml PET Dropper Bottle with Tamper-Evident Cap — 1,000 pcs MOQ
-- https://8pck.com/products/dropper-bottles/50-ml-pe-dropper-bottle/ — 50 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/50-ml-pe-pen-shaped-dropper-bottle-with-screw-cap/ — 50 ml PE Pen-Shaped Dropper Bottle with Screw Cap — 1,000 pcs MOQ
-- https://8pck.com/products/dropper-bottles/50-ml-pe-round-dropper-bottle-with-child-resistant-with-ta/ — 50 ml PE Round Dropper Bottle with Child-Resistant with
-- https://8pck.com/products/dropper-bottles/50-ml-pet-dropper-bottle-with-child-resistant-tamper-evi/ — 50 ml PET Dropper Bottle with Child-Resistant Tamper-Evident Cap
-- https://8pck.com/products/dropper-bottles/60-ml-pe-dropper-bottle/ — 60 ml PE Dropper Bottle — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/60-ml-pe-dropper-bottle-with-screw-cap/ — 60 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/60-ml-pe-pen-shaped-dropper-bottle-with-child-resistant-/ — 60 ml PE Pen-Shaped Dropper Bottle with Child-Resistant
-- https://8pck.com/products/dropper-bottles/60-ml-pe-pen-shaped-dropper-bottle-with-child-resistant-wi/ — 60 ml PE Pen-Shaped Dropper Bottle with Child-Resistant with
-- https://8pck.com/products/dropper-bottles/60-ml-pe-pen-shaped-dropper-bottle-with-tamper-evident-cap/ — 60 ml PE Pen-Shaped Dropper Bottle with Tamper-Evident Cap — 1,000
-- https://8pck.com/products/dropper-bottles/8-ml-pe-dropper-bottle-with-child-resistant-screw-cap/ — 8 ml PE Dropper Bottle with Child-Resistant Screw Cap — 1,000 pcs
-- https://8pck.com/products/dropper-bottles/8-ml-pe-dropper-bottle-with-needle-cap/ — 8 ml PE Dropper Bottle with Needle Cap — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/dropper-bottles/8-ml-pe-dropper-bottle-with-screw-cap/ — 8 ml PE Dropper Bottle with Screw Cap — 1,000 pcs MOQ | 8PCK
+- https://8pck.com/products/dropper-bottles/5-ml-pe-dropper-bottle-with-child-resistant-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/5-ml-pe-dropper-bottle-with-needle-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/5-ml-pe-dropper-bottle-with-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/5-ml-pe-round-dropper-bottle-with-child-resistant-with-tam/ — Moved
+- https://8pck.com/products/dropper-bottles/5-ml-pe-round-dropper-bottle-with-tamper-evident-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/5-ml-pet-dropper-bottle-with-child-resistant-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/5-ml-pet-dropper-bottle-with-child-resistant-tamper-evid/ — Moved
+- https://8pck.com/products/dropper-bottles/5-ml-pet-dropper-bottle-with-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/5-ml-pet-dropper-bottle-with-tamper-evident-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/50-ml-pe-dropper-bottle/ — Moved
+- https://8pck.com/products/dropper-bottles/50-ml-pe-pen-shaped-dropper-bottle-with-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/50-ml-pe-round-dropper-bottle-with-child-resistant-with-ta/ — Moved
+- https://8pck.com/products/dropper-bottles/50-ml-pet-dropper-bottle-with-child-resistant-tamper-evi/ — Moved
+- https://8pck.com/products/dropper-bottles/60-ml-pe-dropper-bottle/ — Moved
+- https://8pck.com/products/dropper-bottles/60-ml-pe-dropper-bottle-with-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/60-ml-pe-pen-shaped-dropper-bottle-with-child-resistant-/ — Moved
+- https://8pck.com/products/dropper-bottles/60-ml-pe-pen-shaped-dropper-bottle-with-child-resistant-wi/ — Moved
+- https://8pck.com/products/dropper-bottles/60-ml-pe-pen-shaped-dropper-bottle-with-tamper-evident-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/8-ml-pe-dropper-bottle-with-child-resistant-screw-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/8-ml-pe-dropper-bottle-with-needle-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/8-ml-pe-dropper-bottle-with-screw-cap/ — Moved
 - https://8pck.com/products/dropper-bottles/ — Dropper Bottles — 5–100 ml PET & Glass Pipettes | 8PCK
-- https://8pck.com/products/dropper-bottles/pe-pen-shaped-dropper-bottle-with-child-resistant-cap/ — PE Pen-Shaped Dropper Bottle with Child-Resistant Cap — 1,000 pcs
+- https://8pck.com/products/dropper-bottles/pe-dropper-bottle-sizes/ — Pe Dropper Bottles — 27 sizes | 8PCK
+- https://8pck.com/products/dropper-bottles/pe-pen-shaped-dropper-bottle-sizes/ — Pe Pen Shaped Dropper Bottles — 12 sizes | 8PCK
+- https://8pck.com/products/dropper-bottles/pe-pen-shaped-dropper-bottle-with-child-resistant-cap/ — Moved
+- https://8pck.com/products/dropper-bottles/pe-round-dropper-bottle-sizes/ — Pe Round Dropper Bottles — 9 sizes | 8PCK
 - https://8pck.com/products/dropper-bottles/pen-screw-cap/ — Pen-Shaped Dropper Bottle with Screw Cap — 10–30 ml, 1,000 pcs MOQ
+- https://8pck.com/products/dropper-bottles/pet-dropper-bottle-sizes/ — Pet Dropper Bottles — 11 sizes | 8PCK
+- https://8pck.com/products/dropper-bottles/round-sizes/ — Rounds — 2 sizes | 8PCK
 - https://8pck.com/products/food-bottles/1-l-jam-syrup/ — 1 L HDPE Long-Neck Jam and Syrup Bottle — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/food-bottles/ — Juice & Sauce Bottles — PET & HDPE | 8PCK
 - https://8pck.com/products/food-bottles/long-neck-jam/ — Long-Neck HDPE Jam Bottle — 250–500 ml, 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/ — Products — bottles, jars, airless and closures | 8PCK
-- https://8pck.com/products/jars/250ml-pet-food-jar/ — 250 ml PET food jar — 250 ml, 63 mm | 8PCK
+- https://8pck.com/products/jars/250ml-pet-food-jar/ — Moved
 - https://8pck.com/products/jars/47-mm-pet/ — PET Jar, 47 mm Neck — 30–50 ml, 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/jars/500ml-pet-food-jar/ — 500 ml PET food jar — 500 ml, 70 mm | 8PCK
+- https://8pck.com/products/jars/500ml-pet-food-jar/ — Moved
 - https://8pck.com/products/jars/56-mm-pet/ — PET Jar, 56 mm Neck — 50–100 ml, 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/jars/68-mm-pet/ — PET Jar, 68 mm Neck — 100–250 ml, 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/jars/cosmetic-double-wall/ — Double-Wall Cosmetic Jar — 15–100 ml, 1,000 pcs MOQ | 8PCK
@@ -670,8 +680,10 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/products/jars/cosmetic-jar-e/ — Cosmetic Jar E — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/jars/cosmetic-jar-f/ — Cosmetic Jar F — 1,000 pcs MOQ | 8PCK
 - https://8pck.com/products/jars/ — Jars — 250–500 ml | 8PCK
-- https://8pck.com/products/jars/pet-jar-with-screw-cap-83-mm-neck/ — PET Jar with Screw Cap (83 mm neck) — 1,000 pcs MOQ | 8PCK
-- https://8pck.com/products/jars/pet-jar-with-screw-cap-89-mm-neck/ — PET Jar with Screw Cap (89 mm neck) — 1,000 pcs MOQ | 8PCK
+- https://8pck.com/products/jars/pet-food-jar-sizes/ — Pet Food Jars — 2 sizes | 8PCK
+- https://8pck.com/products/jars/pet-jar-sizes/ — Pet Jars — 2 sizes | 8PCK
+- https://8pck.com/products/jars/pet-jar-with-screw-cap-83-mm-neck/ — Moved
+- https://8pck.com/products/jars/pet-jar-with-screw-cap-89-mm-neck/ — Moved
 - https://8pck.com/products/jars/plastic/ — Plastic Jars with Lids — PET, PETG & PP, 15–500 ml | 8PCK
 - https://8pck.com/products/jars/transparent/ — Transparent Plastic Jars — PET & PETG, 15–500 ml | 8PCK
 - https://8pck.com/products/jugs/ — Plastic Jugs — 1 Gallon, Half-Gallon & 5 L | 8PCK
