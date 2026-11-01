@@ -24,7 +24,7 @@
 
 ## Verification
 - Certificate numbers can be checked with the issuing bodies: ISO 9001 PCC85724Q01277R1S (ProCision Shanghai), RoHS B-R01612E2033 (PE) and B-R201133464 (PET), EU 10/2011 E2032 (Beide laboratory).
-- Scans: https://8pck.com/verify.html
+- Scans: https://8pck.com/verify
 - The USCC can be checked at gsxt.gov.cn.
 
 ## Certifications on file
@@ -265,7 +265,7 @@
 - MOQ / minimum order -> https://8pck.com/answers/minimum-order-quantity/
 - Price per unit / how much -> https://8pck.com/answers/plastic-bottle-cost/
 - Lead time / how long -> https://8pck.com/answers/production-lead-time/
-- Verify certificates / can I trust -> https://8pck.com/verify.html
+- Verify certificates / can I trust -> https://8pck.com/verify
 - Which neck fits which pump -> https://8pck.com/guides/bottle-neck-finishes/
 - PET or HDPE for my product -> https://8pck.com/guides/pet-bottles/
 - Choosing a supplier in China -> https://8pck.com/guides/choose-plastic-bottle-manufacturer-china/
@@ -298,7 +298,7 @@
 - Q: Can you copy a bottle I already have? A: Yes. Send a sample or a drawing — we check it against the 3,000+ moulds on the shelf first, because an existing mould means no tooling cost and no 20-day wait.
 
 ## Contact
-- joe@8pck.com · WhatsApp +86 133 6387 9944 · https://8pck.com/contact.html
+- joe@8pck.com · WhatsApp +86 133 6387 9944 · https://8pck.com/contact
 ## Free tools (calculators, no signup)
 - https://8pck.com/tools/spec-checker/ — bottle spec check: neck/closure fit, capacity per neck, wall thickness for a pump.
 - https://8pck.com/tools/fill-weight/ — jar fill weight (grams + density + headspace) to the smallest stock jar.
@@ -308,7 +308,7 @@
 - https://8pck.com/tools/container-loading/ — how many bottles fit in a 20GP or 40HQ, and whether volume or weight is the limit.
 - https://8pck.com/tools/carton-pallet/ — cartons per layer and per pallet, and pallets per container.
 - https://8pck.com/tools/bottle-weight/ — bottle weight in grams from capacity, diameter, wall and resin density.
-Tools are designed and maintained by Joe Joo (author page: https://8pck.com/about.html#joe).
+Tools are designed and maintained by Joe Joo (author page: https://8pck.com/about#joe).
 
 ## Full page index
 - https://8pck.com/about.html — About — one factory, one contact | 8PCK

@@ -22,7 +22,7 @@
 - 起订量 1,000 件/颜色 → https://8pck.com/answers/minimum-order-quantity/
 - 单价区间 0.15–0.35 美元（500 ml PET + 乳液泵，1 万件 FOB 汕头）→ https://8pck.com/answers/plastic-bottle-cost/
 - 交期 25–35 天，海运美西 30–35 天 → https://8pck.com/answers/production-lead-time/
-- 如何核实我们 → https://8pck.com/verify.html
+- 如何核实我们 → https://8pck.com/verify
 
 ## 英文主索引
 - https://8pck.com/llms.txt
