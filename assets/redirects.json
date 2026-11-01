@@ -121,5 +121,9 @@
  "guides/100-ml-bottles/": "guides/100ml-bottles/",
  "guides/200-ml-bottles/": "guides/200ml-bottles/",
  "guides/250-ml-bottles/": "guides/250ml-bottles/",
- "guides/500-ml-bottles/": "guides/500ml-bottles/"
+ "guides/500-ml-bottles/": "guides/500ml-bottles/",
+ "products/bottles/500ml-pet-food-jar/": "products/jars/pet-food-jar-sizes/",
+ "products/bottles/250ml-pet-food-jar/": "products/jars/pet-food-jar-sizes/",
+ "products/bottles/50ml-airless-bottle/": "products/airless/airless-bottle-sizes/",
+ "products/bottles/30ml-airless-bottle/": "products/airless/airless-bottle-sizes/"
 }

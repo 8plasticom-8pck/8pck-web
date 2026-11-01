@@ -575,12 +575,14 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/products/bottles/200ml-flat-bottle/ — 200 ml flat bottle — 200 ml, 24/410 | 8PCK
 - https://8pck.com/products/bottles/250-ml-hdpe-bottle/ — Moved
 - https://8pck.com/products/bottles/250-ml-pet-bottle/ — Moved
+- https://8pck.com/products/bottles/250ml-pet-food-jar/ — Moved
 - https://8pck.com/products/bottles/250ml-pet-pump-bottle/ — Moved
 - https://8pck.com/products/bottles/30-ml-hdpe-bottle/ — Moved
 - https://8pck.com/products/bottles/30-ml-pet-bottle/ — Moved
 - https://8pck.com/products/bottles/300-ml-hdpe-bottle/ — Moved
 - https://8pck.com/products/bottles/300-ml-pet-bottle/ — Moved
 - https://8pck.com/products/bottles/300ml-pet-pump-bottle/ — Moved
+- https://8pck.com/products/bottles/30ml-airless-bottle/ — Moved
 - https://8pck.com/products/bottles/30ml-pet-dropper-bottle/ — 30 ml PET dropper bottle — 30 ml, 18/410 | 8PCK
 - https://8pck.com/products/bottles/375-ml-hdpe-bottle/ — Moved
 - https://8pck.com/products/bottles/375-ml-pet-bottle/ — Moved
@@ -588,7 +590,9 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/products/bottles/50-ml-pet-bottle/ — Moved
 - https://8pck.com/products/bottles/500-ml-hdpe-bottle/ — Moved
 - https://8pck.com/products/bottles/500-ml-pet-bottle/ — Moved
+- https://8pck.com/products/bottles/500ml-pet-food-jar/ — Moved
 - https://8pck.com/products/bottles/500ml-pet-pump-bottle/ — Moved
+- https://8pck.com/products/bottles/50ml-airless-bottle/ — Moved
 - https://8pck.com/products/bottles/50ml-travel-bottle/ — 50 ml travel bottle — 50 ml, 20/410 | 8PCK
 - https://8pck.com/products/bottles/60-ml-hdpe-bottle/ — Moved
 - https://8pck.com/products/bottles/60-ml-pet-bottle/ — Moved
