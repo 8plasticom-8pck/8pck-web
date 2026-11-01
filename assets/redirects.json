@@ -125,5 +125,16 @@
  "products/bottles/500ml-pet-food-jar/": "products/jars/pet-food-jar-sizes/",
  "products/bottles/250ml-pet-food-jar/": "products/jars/pet-food-jar-sizes/",
  "products/bottles/50ml-airless-bottle/": "products/airless/airless-bottle-sizes/",
- "products/bottles/30ml-airless-bottle/": "products/airless/airless-bottle-sizes/"
+ "products/bottles/30ml-airless-bottle/": "products/airless/airless-bottle-sizes/",
+ "products/dropper-bottles/5-ml/": "products/dropper-bottles/round-sizes/",
+ "products/dropper-bottles/2-5-ml/": "products/dropper-bottles/round-sizes/",
+ "products/dropper-bottles/10-ml/": "products/dropper-bottles/round-sizes/",
+ "products/dropper-bottles/100-ml/": "products/dropper-bottles/round-sizes/",
+ "products/jars/47-mm-pet/": "products/jars/pet-jar-sizes/",
+ "products/jars/56-mm-pet/": "products/jars/pet-jar-sizes/",
+ "products/jars/68-mm-pet/": "products/jars/pet-jar-sizes/",
+ "products/bottles/pet-pump-bottle-500/": "products/bottles/pet-pump-bottle-sizes/",
+ "products/bottles/pet-pump-bottle-120/": "products/bottles/pet-pump-bottle-sizes/",
+ "products/squeeze-bottles/4-ml/": "products/squeeze-bottles/",
+ "products/squeeze-bottles/8-ml/": "products/squeeze-bottles/"
 }
