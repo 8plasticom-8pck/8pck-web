@@ -355,6 +355,16 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/custom/nda/ — Confidentiality and NDA | 8PCK
 - https://8pck.com/custom-mould/ — Custom mould development — DFM, tooling, T1 | 8PCK
 - https://8pck.com/custom.html — Custom development — new moulds and copies | 8PCK
+- https://8pck.com/de/angebot/ — Preisfaktoren: Harz, Dekoration, Menge | 8PCK
+- https://8pck.com/de/formenbau/ — Formenbau: DFM, T1, Änderung, Lieferzeit | 8PCK
+- https://8pck.com/de/ — Kunststoffflaschen aus China: Lagerformen oder eigene Form
+- https://8pck.com/de/kontakt/ — Kontakt: Angebot innerhalb eines Arbeitstags | 8PCK
+- https://8pck.com/de/materialien/ — Materialien: PET, HDPE, PETG, PP, rPET | 8PCK
+- https://8pck.com/de/produkte/ — Produkte: Flaschen, Tiegel, Airless, Verschlüsse | 8PCK
+- https://8pck.com/de/ratgeber/ — Ratgeber: Halsgewinde, Wandstärke, MOQ, Lieferzeit | 8PCK
+- https://8pck.com/de/sonderanfertigung/ — Sonderanfertigung: Form, Mehrteiler, NDA | 8PCK
+- https://8pck.com/de/unternehmen/ — Über 8PCK: Exportabteilung der Fabrik CXWN | 8PCK
+- https://8pck.com/de/werkzeuge/ — Rechner: Formkosten, Flaschengewicht, Container | 8PCK
 - https://8pck.com/factory.html — Factory — 7,800+ m² in Shantou, China | 8PCK
 - https://8pck.com/faq.html — FAQ — MOQ, tooling, lead times and documents | 8PCK
 - https://8pck.com/formats/lip-gloss-tubes/ — Lip Gloss Tubes — 5–15 ml with Doe Foot Applicator | 8PCK
