@@ -356,7 +356,9 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/custom-mould/ — Custom mould development — DFM, tooling, T1 | 8PCK
 - https://8pck.com/custom.html — Custom development — new moulds and copies | 8PCK
 - https://8pck.com/de/angebot/ — Preisfaktoren: Harz, Dekoration, Menge | 8PCK
+- https://8pck.com/de/datenschutz/ — Datenschutzerklärung | 8PCK
 - https://8pck.com/de/formenbau/ — Formenbau: DFM, T1, Änderung, Lieferzeit | 8PCK
+- https://8pck.com/de/impressum/ — Impressum | 8PCK
 - https://8pck.com/de/ — Kunststoffflaschen aus China: Lagerformen oder eigene Form
 - https://8pck.com/de/kontakt/ — Kontakt: Angebot innerhalb eines Arbeitstags | 8PCK
 - https://8pck.com/de/materialien/ — Materialien: PET, HDPE, PETG, PP, rPET | 8PCK
