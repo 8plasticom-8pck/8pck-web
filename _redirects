@@ -249,6 +249,3 @@
 
 /index.html / 301
 /index.htm / 301
-
-# www → apex
-https://www.8pck.com/* https://8pck.com/:splat 301
