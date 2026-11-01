@@ -327,6 +327,7 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - https://8pck.com/answers/sample-policy/ — How do samples work, and what do they cost? | 8PCK
 - https://8pck.com/answers/shipping-from-china/ — How does shipping from Shantou work? | 8PCK
 - https://8pck.com/answers/verify-chinese-supplier/ — How do I verify a Chinese packaging supplier? | 8PCK
+- https://8pck.com/benchmarks/ — Mould cost, MOQ and lead time benchmarks 2026 | 8PCK
 - https://8pck.com/compare/20-410-vs-24-410/ — 20/410 vs 24/410: The Travel Neck and the Default Neck | 8PCK
 - https://8pck.com/compare/24-410-vs-28-410/ — 24/410 vs 28/410 Neck Finish — What Fits What | 8PCK
 - https://8pck.com/compare/28-410-vs-38mm/ — 28/410 vs 38 mm: Pump Neck or Wide Mouth | 8PCK
