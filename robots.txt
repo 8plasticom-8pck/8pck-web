@@ -72,4 +72,3 @@ User-agent: YisouSpider
 Allow: /
 
 Sitemap: https://8pck.com/sitemap.xml
-# verified
