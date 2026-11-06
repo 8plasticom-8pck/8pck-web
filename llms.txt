@@ -45,12 +45,12 @@
 - Every SKU with capacity, neck, material, weight, closures, MOQ and lead time: https://8pck.com/llms-full.txt
 
 ## Guides
-113 guides, listed by topic. Full titles in llms-full.txt.
+114 guides, listed by topic. Full titles in llms-full.txt.
 - Sizes: 50 ml Bottles (https://8pck.com/guides/50ml-bottles/); 100 ml Bottles (https://8pck.com/guides/100ml-bottles/); 200 ml Bottles (https://8pck.com/guides/200ml-bottles/); 250 ml Bottles (https://8pck.com/guides/250ml-bottles/); 300 ml Bottles (https://8pck.com/guides/300ml-bottles/); 500 ml Bottles (https://8pck.com/guides/500ml-bottles/)
 - Necks and closures: Plastic Pump Bottles (https://8pck.com/guides/plastic-pump-bottles/); Bottle Neck Finishes (https://8pck.com/guides/bottle-neck-finishes/); Dropper Bottles (https://8pck.com/guides/dropper-bottles/); 18/410 Neck Bottles (https://8pck.com/guides/18-410-neck/); 20/410 Neck Bottles (https://8pck.com/guides/20-410-neck/); 24/410 Neck Bottles (https://8pck.com/guides/24-410-neck/)
 - Materials: PET Bottles: Grades, rPET and What to Specify (https://8pck.com/guides/pet-bottles/); Pet Care Bottles: Shampoo, Flea and Supplement Packs (https://8pck.com/guides/pet-care-bottles/); rPET Bottles (https://8pck.com/guides/rpet-bottles/)
 - Choosing a supplier and tooling: How to Evaluate a Bottle Supplier in One Call | 8PCK (https://8pck.com/guides/evaluate-a-supplier/); How to Request a Bottle Quote That Comes Back in One Day | 8PCK (https://8pck.com/guides/request-a-quote/); What a Custom Bottle Mould Costs, Part by Part | 8PCK (https://8pck.com/guides/custom-bottle-mould-cost/); MOQ and Tooling (https://8pck.com/guides/custom-bottle-moq-and-tooling/); Choosing a Manufacturer (https://8pck.com/guides/choose-plastic-bottle-manufacturer-china/); Tooling Lead Time: What Actually Takes 30–40 Days (https://8pck.com/guides/bottle-tooling-lead-time/)
-- All 113 guides: https://8pck.com/guides/
+- All 114 guides: https://8pck.com/guides/
 
 ## Categories
 - Bottles — 50–1,000 ml, 18–38 mm necks. Eight stock moulds, ready for decoration. — https://8pck.com/products/bottles/
@@ -194,7 +194,7 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 ## Site structure
 
 - **Products** — 177 pages → https://8pck.com/products/
-- **Guides** — 136 pages → https://8pck.com/guides/
+- **Guides** — 137 pages → https://8pck.com/guides/
 - **Calculators** — 11 pages → https://8pck.com/tools/
 - **Comparisons** — 21 pages → https://8pck.com/compare/
 - **Answers** — 12 pages → https://8pck.com/answers/
