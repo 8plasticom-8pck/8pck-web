@@ -1,0 +1,168 @@
+
+(function(){
+  var b=document.querySelector('.burger'),n=document.querySelector('.nav');
+  if(b){b.addEventListener('click',function(){n.classList.toggle('open');});}
+  try{
+    // 来源追踪：?utm_source=chatgpt.com 之类，存下来并塞进表单
+    var sp = new URLSearchParams(location.search);
+    var src = sp.get('utm_source'), med = sp.get('utm_medium'), camp = sp.get('utm_campaign');
+    if (src) {
+      localStorage.setItem('utm_source', src);
+      localStorage.setItem('utm_medium', med || '');
+      localStorage.setItem('utm_campaign', camp || '');
+    }
+    if (!localStorage.getItem('landing_page')) {
+      localStorage.setItem('landing_page', location.pathname);
+    }
+    if (!localStorage.getItem('ref_host') && document.referrer) {
+      try { localStorage.setItem('ref_host', new URL(document.referrer).host); } catch (e) {}
+    }
+    document.querySelectorAll('form').forEach(function (f) {
+      [['utm_source','utm_source'],['utm_medium','utm_medium'],['utm_campaign','utm_campaign'],
+       ['referrer_host','ref_host'],['landing_page','landing_page']].forEach(function (pair) {
+        var v = localStorage.getItem(pair[1]);
+        if (!v) return;
+        var i = document.createElement('input');
+        i.type = 'hidden'; i.name = pair[0]; i.value = v;
+        f.appendChild(i);
+      });
+    });
+  } catch (e) {}
+
+  try{
+    var q=new URLSearchParams(location.search).get('product');
+    if(q){
+      var f=document.querySelector('input[name=product]');
+      if(f){f.value=q;}
+      var t=document.querySelector('textarea[name=message]');
+      if(t && !t.value){t.value='Product: '+q.replace(/-/g,' ')+'\nQuantity: ';}
+    }
+  }catch(e){}
+  var groups={};
+  document.querySelectorAll('.filters').forEach(function(g){
+    g.addEventListener('click',function(e){
+      var c=e.target.closest('.chip'); if(!c) return;
+      g.querySelectorAll('.chip[data-group="'+c.dataset.group+'"]').forEach(function(x){x.classList.toggle('on',x===c);});
+      var active={};
+      document.querySelectorAll('.filters .chip.on').forEach(function(x){active[x.dataset.group]=x.dataset.val;});
+      document.querySelectorAll('[data-card]').forEach(function(card){
+        var ok=true;
+        for(var k in active){ if(active[k]!=='all' && card.dataset[k]!==active[k]) ok=false; }
+        card.style.display=ok?'':'none';
+      });
+    });
+  });
+})();
+
+/* --- GA consent banner --- */
+(function () {
+  var el = document.getElementById('ga-consent');
+  if (!el) return;
+  var choice = null;
+  try { choice = localStorage.getItem('ga_consent'); } catch (e) {}
+  if (choice) { el.hidden = true; } else { el.hidden = false; }
+  var yes = document.getElementById('ga-yes');
+  var no = document.getElementById('ga-no');
+  if (yes) yes.addEventListener('click', function () {
+    try { localStorage.setItem('ga_consent', 'yes'); } catch (e) {}
+    if (window.gtag) { gtag('consent', 'update', { 'analytics_storage': 'granted' }); }
+    if (typeof loadClarity === 'function') loadClarity();
+    el.hidden = true;
+    window.dataLayer && window.dataLayer.push({ event: 'consent_accept' });
+  });
+  if (no) no.addEventListener('click', function () {
+    try { localStorage.setItem('ga_consent', 'no'); } catch (e) {}
+    el.hidden = true;
+  });
+})();
+
+/* --- key events: WhatsApp, quote, form --- */
+(function () {
+  function send(name, params) {
+    try { if (window.gtag) gtag('event', name, params || {}); } catch (e) {}
+  }
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a');
+    if (!a) return;
+    var href = a.getAttribute('href') || '';
+    if (href.indexOf('wa.me') > -1) send('whatsapp_click', { page: location.pathname });
+    else if (href.indexOf('contact.html') > -1) send('quote_click', { page: location.pathname });
+    else if (href.indexOf('/products/') > -1) send('product_click', { page: location.pathname });
+  }, true);
+  if (location.pathname.indexOf('thanks') > -1) {
+    send('generate_lead', { page: location.pathname });
+  }
+
+  /* --- 首访来源：写进表单隐藏字段，随询盘一起发到邮箱 --- */
+  function channelOf() {
+    var ref = document.referrer || '';
+    var qs = location.search || '';
+    var m = qs.match(/[?&]utm_source=([^&]+)/);
+    if (m) return 'utm:' + decodeURIComponent(m[1]);
+    if (!ref) return 'direct';
+    if (/google\./.test(ref)) return 'google';
+    if (/bing\./.test(ref)) return 'bing';
+    if (/chatgpt|openai|perplexity|doubao|claude|gemini|copilot/.test(ref)) return 'ai:' + (ref.split('/')[2] || 'ai');
+    if (/linkedin/.test(ref)) return 'linkedin';
+    return 'referral:' + (ref.split('/')[2] || 'other');
+  }
+  function rememberSource() {
+    try {
+      if (!localStorage.getItem('8pck_first_landing')) {
+        localStorage.setItem('8pck_first_landing', location.pathname);
+        localStorage.setItem('8pck_first_channel', channelOf());
+        localStorage.setItem('8pck_first_referrer', document.referrer || 'direct');
+      }
+    } catch (e) {}
+  }
+  function fillOrigin() {
+    var ch = '', lp = '', rf = '';
+    try {
+      ch = localStorage.getItem('8pck_first_channel') || '';
+      lp = localStorage.getItem('8pck_first_landing') || '';
+      rf = localStorage.getItem('8pck_first_referrer') || '';
+    } catch (e) {}
+    [].forEach.call(document.querySelectorAll('form'), function (f) {
+      var a = f.querySelector('input[name="origin_channel"]');
+      var b = f.querySelector('input[name="origin_landing"]');
+      var c = f.querySelector('input[name="origin_referrer"]');
+      if (a) a.value = ch;
+      if (b) b.value = lp;
+      if (c) c.value = rf;
+    });
+  }
+  rememberSource();
+  fillOrigin();
+  document.addEventListener('submit', function (e) {
+    fillOrigin();
+    var f = e.target;
+    var prod = f.querySelector('input[name="product"]');
+    send('form_submit', { product: prod ? prod.value : 'unknown', page: location.pathname });
+  }, true);
+})();
+
+
+/* 滚动淡入 */
+(function () {
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  var sel = '.section, .cards, .band, .stats';
+  var els = [].slice.call(document.querySelectorAll(sel)).slice(0, 40);
+  els.forEach(function (el) { el.classList.add('reveal'); });
+  if (!('IntersectionObserver' in window)) { els.forEach(function (el) { el.classList.add('in'); }); return; }
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
+  }, { rootMargin: '0px 0px -8% 0px', threshold: 0.06 });
+  els.forEach(function (el) { io.observe(el); });
+})();
+
+/* --- Microsoft Clarity (加载受同意控制) --- */
+function loadClarity() {
+  if (window.__clarityLoaded) return;
+  window.__clarityLoaded = true;
+  (function (c, l, a, r, i, t, y) {
+    c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments); };
+    t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+    y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+  })(window, document, "clarity", "script", "z0s12fz7o8");
+}
+try { if (localStorage.getItem('ga_consent') === 'yes') loadClarity(); } catch (e) {}
