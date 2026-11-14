@@ -104,7 +104,7 @@
 - Straw-fibre bottles — https://8pck.com/formats/straw-fibre-bottles/ — Sizes: 100, 200, 250, 300, 500 ml; Material: HDPE + 20–30 % wheat straw fibre; MOQ 1,000 pcs per colour
 
 ## Trends (short analysis, updated daily)
-18 posts on regulation and supply. Titles and dates in llms-full.txt.
+19 posts on regulation and supply. Titles and dates in llms-full.txt.
 - https://8pck.com/news/
 - PPWR Is Already In Force. What Changes for a Bottle Buyer This Year? (2026-10-31) — https://8pck.com/news/ppwr-in-force-what-changes-for-bottles/
 - PFAS Claims Are Moving Down the Supply Chain. What Should Bottle Buyers Ask For? (2026-10-18) — https://8pck.com/news/pfas-claims-supply-chain/
@@ -199,7 +199,7 @@ Tools are designed and maintained by Joe Joo (author page: https://8pck.com/abou
 - **Calculators** — 11 pages → https://8pck.com/tools/
 - **Comparisons** — 21 pages → https://8pck.com/compare/
 - **Answers** — 13 pages → https://8pck.com/answers/
-- **News** — 19 pages → https://8pck.com/news/
+- **News** — 20 pages → https://8pck.com/news/
 - **Materials** — 7 pages → https://8pck.com/materials/
 - **Manufacturing** — 6 pages → https://8pck.com/manufacturing/
 - **Engineering** — 5 pages → https://8pck.com/packaging-engineering/

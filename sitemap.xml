@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://8pck.com/</loc><lastmod>2026-11-13</lastmod><priority>1.0</priority></url>
   <url><loc>https://8pck.com/products/</loc><lastmod>2026-11-13</lastmod><priority>0.8</priority></url>
-  <url><loc>https://8pck.com/factory</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/quality</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/factory</loc><lastmod>2026-11-14</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/quality</loc><lastmod>2026-11-14</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/custom</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/about</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/resources</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/formats</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/verify</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/contact</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/faq</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/about</loc><lastmod>2026-11-14</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/resources</loc><lastmod>2026-11-14</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/formats</loc><lastmod>2026-11-14</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/verify</loc><lastmod>2026-11-14</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/contact</loc><lastmod>2026-11-14</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/faq</loc><lastmod>2026-11-14</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/news/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/news/ppwr-in-force-what-changes-for-bottles/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/news/pfas-claims-supply-chain/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
@@ -30,6 +30,7 @@
   <url><loc>https://8pck.com/news/alpla-us-bottle-plant/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/news/ppwr-live-what-changes-in-a-bottle-spec/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/news/ppwr-recyclate-rules-import-controls/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/news/certified-pcr-vs-counted-recyclate/</loc><lastmod>2026-11-14</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/guides/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/guides/sampling/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/guides/qc-checklist/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
@@ -216,18 +217,18 @@
   <url><loc>https://8pck.com/who-invoices-you/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/benchmarks/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/bottle-dimensions/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/de/</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/de/produkte/</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/de/sonderanfertigung/</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/de/formenbau/</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/de/materialien/</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/de/werkzeuge/</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/de/ratgeber/</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/de/unternehmen/</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/de/kontakt/</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/de/angebot/</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/de/impressum/</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
-  <url><loc>https://8pck.com/de/datenschutz/</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/de/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/de/produkte/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/de/sonderanfertigung/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/de/formenbau/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/de/materialien/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/de/werkzeuge/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/de/ratgeber/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/de/unternehmen/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/de/kontakt/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/de/angebot/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/de/impressum/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://8pck.com/de/datenschutz/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/compare/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/answers/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
   <url><loc>https://8pck.com/glossary/</loc><lastmod>2026-11-13</lastmod><priority>0.6</priority></url>
